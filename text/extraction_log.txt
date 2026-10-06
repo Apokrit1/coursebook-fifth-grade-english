@@ -1,0 +1,47 @@
+appendix/pupil_appendix_grammar: 9p chars=28005 mode=-layout
+appendix/pupil_appendix_irregular_verbs: 1p chars=4926 mode=-layout
+appendix/pupil_appendix_maps_back: 7p chars=4317 mode=-layout
+appendix/pupil_appendix_units: 20p chars=55805 mode=-layout
+appendix/teacher_appendix_activity_answers: 3p chars=8159 mode=reading-order (no -layout; two-column TB)
+appendix/teacher_appendix_bibliography_readers: 6p chars=12803 mode=reading-order (no -layout; two-column TB)
+appendix/teacher_appendix_final_test: 4p chars=6186 mode=reading-order (no -layout; two-column TB)
+appendix/teacher_appendix_final_test_key: 1p chars=837 mode=reading-order (no -layout; two-column TB)
+appendix/teacher_appendix_sample_lesson_plan: 7p chars=17602 mode=reading-order (no -layout; two-column TB)
+appendix/teacher_back_matter: 5p chars=1284 mode=reading-order (no -layout; two-column TB)
+appendix/workbook_appendix_differentiated: 26p chars=45936 mode=-layout
+appendix/workbook_appendix_self_assessment_keys: 6p chars=9188 mode=-layout
+appendix/workbook_back_matter: 2p chars=3328 mode=-layout
+front_matter/pupil_front_matter: 13p chars=40120 mode=-layout
+front_matter/teacher_front_matter: 5p chars=2672 mode=reading-order (no -layout; two-column TB)
+front_matter/teacher_intro_methodology: 12p chars=40548 mode=reading-order (no -layout; two-column TB)
+front_matter/workbook_front_matter: 7p chars=7006 mode=-layout
+unit01/pupil_unit01: 12p chars=34970 mode=-layout
+unit01/teacher_unit01: 8p chars=23270 mode=reading-order (no -layout; two-column TB)
+unit01/workbook_unit01: 4p chars=8857 mode=-layout
+unit02/pupil_unit02: 12p chars=39414 mode=-layout
+unit02/teacher_unit02: 9p chars=22191 mode=reading-order (no -layout; two-column TB)
+unit02/workbook_unit02: 8p chars=21185 mode=-layout
+unit03/pupil_unit03: 12p chars=30188 mode=-layout
+unit03/teacher_unit03: 14p chars=31053 mode=reading-order (no -layout; two-column TB)
+unit03/workbook_unit03: 5p chars=18062 mode=-layout
+unit04/pupil_unit04: 12p chars=34097 mode=-layout
+unit04/teacher_unit04: 9p chars=25499 mode=reading-order (no -layout; two-column TB)
+unit04/workbook_unit04: 6p chars=17613 mode=-layout
+unit05/pupil_unit05: 12p chars=37361 mode=-layout
+unit05/teacher_unit05: 10p chars=30049 mode=reading-order (no -layout; two-column TB)
+unit05/workbook_unit05: 6p chars=11915 mode=-layout
+unit06/pupil_unit06: 12p chars=36274 mode=-layout
+unit06/teacher_unit06: 12p chars=26386 mode=reading-order (no -layout; two-column TB)
+unit06/workbook_unit06: 6p chars=14248 mode=-layout
+unit07/pupil_unit07: 12p chars=35318 mode=-layout
+unit07/teacher_unit07: 9p chars=27189 mode=reading-order (no -layout; two-column TB)
+unit07/workbook_unit07: 6p chars=16392 mode=-layout
+unit08/pupil_unit08: 12p chars=35443 mode=-layout
+unit08/teacher_unit08: 11p chars=32277 mode=reading-order (no -layout; two-column TB)
+unit08/workbook_unit08: 7p chars=19238 mode=-layout
+unit09/pupil_unit09: 12p chars=30524 mode=-layout
+unit09/teacher_unit09: 12p chars=29601 mode=reading-order (no -layout; two-column TB)
+unit09/workbook_unit09: 5p chars=12660 mode=-layout
+unit10/pupil_unit10: 12p chars=36232 mode=-layout
+unit10/teacher_unit10: 9p chars=23887 mode=reading-order (no -layout; two-column TB)
+unit10/workbook_unit10: 4p chars=8451 mode=-layout

@@ -1,0 +1,274 @@
+==============================================================================
+SOURCE PDF : workbook_unit03.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit03\workbook_unit03.pdf
+GLOBAL PDF PAGES: 19-23
+PAGES IN THIS FILE: 5
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=18062, words~=922
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: pink Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading; pink footer bar with Activity Book / UNIT 3 / Lesson / page.
+==============================================================================
+==============================================================================
+[PAGE 1/5 | GLOBAL PDF p.19 | SOURCE: workbook_unit03.pdf]
+==============================================================================
+                                                                                                                                                                   3
+               A. 1. Where does Maria come from? She comes from Greece.
+                  2. Where does she live? She lives in Samos.
+                  3. What’s her job / What does she do for a living? She’s a teacher.
+                  4. Where does she work? She works at a school.
+
+               B. 1. ............................................................................. ? He comes from Great Britain.
+                    2. Where does he live? .......................................................................................................
+                    3. ............................................................................... ? He’s an actor.
+                    4. ............................................................................... ? He works
+               							                                                                                   at a theatre.
+
+               C. 1. ................................................................................? ....................................................
+                   2. ................................................................................ ? .....................................................
+                   3. ................................................................................ ? .....................................................
+                   4. ................................................................................ ? .....................................................
+
+               D. 1. ................................................................................? .....................................................
+                   2. ................................................................................ ? .....................................................
+                   3. ................................................................................ ? .....................................................
+                   4. ................................................................................ ? .....................................................
+
+
+
+               M ACTIVITY D. 					                                                                          [Differentiated Activities (*) & (**) on p. 73]
+
+               Here are some pupils’ ideas and opinions about accidents happening at school. Can you offer some
+               suggestions so that they stop happening?
+
+               1. Pupil A: Pupils often slip on the stairs.
+                   Pupil B: In my opinion, the school must put special anti-slide flooring.
+
+               2. Pupil A: There is a busy road outside the school and it is dangerous to cross it.
+                   Pupil B: .......................................................................................................................................
+                   ....................................................................................................................................................
+
+               3. Pupil A: Pupils carry too many books to school.
+                   Pupil B: .......................................................................................................................................
+                   ....................................................................................................................................................
+
+                                                                                                                            Activity Book • UNIT 3 • Lesson 1 / 19
+
+
+
+
+10_0104_agglika.indd 19                                                                                                                                                   2/2/15 10:39 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right, small tilted: theatre auditorium photo with the audience facing a red-curtain stage. No embedded text.]
+
+==============================================================================
+
+[PAGE 2/5 | GLOBAL PDF p.20 | SOURCE: workbook_unit03.pdf]
+==============================================================================
+                  3
+               M ACTIVITY E.                                                                                              [Differentiated Activity (*) on p. 73]
+
+               Write the words in the correct order to make sentences.
+               1. get up / morning / in / always / early / the / Athletes
+               .................................................................................................................................................
+               2. never / You / street / must / on / red / a / cross / light / the
+               .................................................................................................................................................
+               3. often / your / cinema / go / How / best friend / does / the / to / ?
+               .................................................................................................................................................
+               4. free / do / like / time / your / What / doing / you / in / ?
+               .................................................................................................................................................
+               5. usually / school / I / to / walk / but / rains / when / father / it / my / drives / there / me
+               .................................................................................................................................................
+
+
+
+
+                                                                                     LESSON 2
+
+
+               M ACTIVITY A.                                                                   PICADILLY
+                                                                                                                           THE BANK
+                                                                                                                                                       TRAFALGAR
+                                                                                                CIRCUS                                                  SQUARE
+               Sightseeing in London
+               Imagine you are in London
+               on a holiday. You have just
+               met Mark outside a Bank in
+               Cockskpur St. Study the                                                                      LONDON
+               following map and fill in:
+                                                                                                                                                                   © 2006 Google - Map data © 2006 teleAtlas
+
+
+
+
+                                                                        BUCKINGHAM
+                                                                          PALACE
+
+
+
+                                                                                                                                                 WESTMINSTER
+
+
+
+
+               20 / Activity Book • UNIT 3 • Lesson 2
+
+
+
+10_0104_agglika.indd 20                                                                                                                                                                    1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right, large: London street map with red labels LONDON, PICADILLY CIRCUS, THE BANK, TRAFALGAR SQUARE, BUCKINGHAM PALACE and WESTMINSTER; small Google/teleAtlas credit at the edge.]
+
+==============================================================================
+
+[PAGE 3/5 | GLOBAL PDF p.21 | SOURCE: workbook_unit03.pdf]
+==============================================================================
+                                                                                                                                                                    3
+               How ................................................................... Westminster, Mark?
+               Well,.........................................................................................................................................
+               .................................................................................................................................................
+               ......................................................................................................... You can’t miss it!
+               Ok, thanks.
+
+
+               ............................................................................. to Green Park Tube Station, please?
+               Let me see ..............................................................................................................................
+               .................................................................................................................................................
+               .................................................................................................................................................
+               .................................................................................................................................................
+               That’s fine, thank you.
+
+
+               What about Piccadilly Circus? How ......................................... there? I’d love to see the famous statue
+               of Eros.
+               Well,.........................................................................................................................................................
+               .................................................................................................................................................................
+               .................................................................................................................................................................
+               .................................................................................................................................................................
+               All right, Mark. Thanks a lot. See you later!
+
+
+               M ACTIVITY B.
+               Life in a village in India: Study the pictures and write what everyday life in an Indian village is like.
+               Some of the following phrases may help you with your description.
+
+
+
+
+                                                                                                                             Activity Book • UNIT 3 • Lesson 2 / 21
+
+
+
+
+10_0104_agglika.indd 21                                                                                                                                                            1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-left: photo of a thatched mud hut with women and stacked clay pots.]
+[IMAGE 2 | bottom-right: photo of a woman in a sari cooking over an open clay stove.]
+
+==============================================================================
+
+[PAGE 4/5 | GLOBAL PDF p.22 | SOURCE: workbook_unit03.pdf]
+==============================================================================
+                    3
+               Your paragraph may start and continue as follows:
+               Life in an Indian village is totally different from life in a city. In the morning
+               people get up ....................................... They................................... and then they ..............................................
+               ...................................... After that they ........................................................................................................................
+               ..........................................................................................................................................................................................................
+
+               Now think of the differences or similarities between life in an Indian village and your everyday life.
+               Write a few sentences about either the differences or the similarities.
+               ...............................................................................................................................................................................................................................
+               ...............................................................................................................................................................................................................................
+               ...............................................................................................................................................................................................................................
+               ...............................................................................................................................................................................................................................
+
+               LESSON 3
+               M ACTIVITY A.
+               Check the map of Europe
+               and the world map                                                                                                                                                                Od
+
+
+
+                                                                                                                                                                                        Elb
+                                                                                                                                                                                                   er
+               to spot the following
+               places (cities, rivers,                                                                                                                                                    e
+                                                                                                                                    Se
+               lakes, mountains).                                                                                                     ine
+                                                                                                                                                                                               Danu
+                                                                                                                                                                                                     be
+                                                                                                                                  Loire
+               Then fill in the
+                                                                                                                                                                                           S
+               sentences.                                                                                                                                             L
+                                                                                                                                                                                  P
+
+                                                                                                                                                            A
+
+
+
+
+                  1. Rome is a city in Italy. ...................................                                                    8. The Danube is...............................................
+                  2. Prague is .......................................................                                               9. The Loire is...................................................
+                  3. St Petersburg is.............................................                                                10. Brussels is......................................................
+                  4. The Seine is...................................................                                              11. Frankfurt is....................................................
+                  5. Vienna is........................................................                                            12. The Oder is...................................................
+                  6. Liverpool is....................................................                                             13. The Alps are..................................................
+                  7. Madrid is. ......................................................                                            14. Paris is. .........................................................
+
+               22 / Activity Book • UNIT 3 • Lesson 3
+
+
+
+10_0104_agglika.indd 22                                                                                                                                                                                                                  15/10/2020 9:33:27 πµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right, large: physical map of Europe marking the UK, Ireland, France, Spain, Germany, Poland, Italy and cities/rivers/lakes/mountains for the spot-the-place activity.]
+
+==============================================================================
+
+[PAGE 5/5 | GLOBAL PDF p.23 | SOURCE: workbook_unit03.pdf]
+==============================================================================
+                                                                                                              3
+               M ACTIVITY B.
+               Read the text about Oxford. Can you find the missing words? Choose from the ones in the box.
+
+
+
+                  public, world, enjoy,
+                  visit, collections, visitors,
+                  eat, learn
+
+
+
+
+                  Oxford is one of the great architectural centres of the (1) ...................... and
+                  every year thousands of (2) ...................... come to see its fine buildings.
+                       Most of Oxford’s fine buildings belong to the colleges which form one
+                  of the world’s leading universities. For centuries students from every
+                  corner of the world have come to (3) ...................... at Oxford.
+                       There are plenty of things for the visitor to do in Oxford. Some college
+                  buildings and most college gardens are open to the (4) .................................
+                  There is a wealth of museums, all with fascinating (5) .................. . The city
+                  includes theatres, cinemas and many opportunities to (6) .................. music
+                  and sports and places to (7) ................... and drink and (8).................... .
+
+
+                                                                                 Activity Book • UNIT 3 • Lesson 3 / 23
+
+
+
+
+10_0104_agglika.indd 23                                                                                                   1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: Oxford college garden photo with stone walls and lawn.]
+[IMAGE 2 | mid-left: Oxford brick college building street photo.]
+[IMAGE 3 | lower-right, small: group of student visitors on a guided tour among college buildings.]

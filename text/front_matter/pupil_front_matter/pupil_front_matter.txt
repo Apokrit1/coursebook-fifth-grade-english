@@ -1,0 +1,766 @@
+==============================================================================
+SOURCE PDF : pupil_front_matter.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\front_matter\pupil_front_matter.pdf
+GLOBAL PDF PAGES: 0-12
+PAGES IN THIS FILE: 13
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=40120, words~=2817
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below are generated from page renders.
+RECURRING ELEMENTS (this file): small publisher/funding logos only (Patakis book-stack logo on pp.1,6; EU/ESPA funding strips on p.5). The 13 activity-symbol icons defined on p.13 recur in Units 1-2; per-page tallies appear as [ICONS] lines.
+==============================================================================
+==============================================================================
+[PAGE 1/13 | GLOBAL PDF p.0 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                                                                                              ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ
+                                                                                                    ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+
+
+
+                                                                                         Ελευθερία-Κλειώ Κολοβού                   Άννα Κρανιώτου
+
+
+
+
+                                                    Pupil’s Book
+                                                    ΑΓΓΛΙΚΑ
+                                                                                                     Eng ΑΓΓΛthΙΚΑ
+                                                                                                        lish 5 Grade
+
+
+
+           ΩΡΗΜΕ
+                                                                    Ε΄
+Α Ν Α ΘΕ
+
+
+               ΝΗ
+
+
+
+
+       10-0233                                                         Δ        ηµ
+                       Κωδικός Βιβλίου: 0-10-0233
+                                                                                  οτι
+                                                                                            κού
+                         ISBN 978-960-06-2567-7
+
+
+                                                                                ΩΡΗΜΕ
+                                                                                                                          Pupil’s Book
+                                                     Ε΄ Δημοτικού
+
+
+
+                                                                     Α Ν Α ΘΕ
+
+
+                                                                                    ΝΗ
+                                                                            10-0233
+
+                    (01) 000000 0 10 0233 1
+
+
+                                                                                         ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | center: Book-cover art – large globe collage whose panels show photos (smiling girl with book, red London bus, woman's portrait, cheetah, boy gardening, 'Recycle' sign, gorillas with woman); a red banner across it reads 'ΑΓΓΛΙΚΑ English 5th Grade'.]
+[IMAGE 2 | bottom-center: Cartoon illustration of six smiling children of diverse looks standing in a row holding the banner poles.]
+[IMAGE 3 | bottom-left: Small round stamp seal reading 'ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ 10-0233'.]
+
+
+==============================================================================
+[PAGE 2/13 | GLOBAL PDF p.1 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+10-0103.indb 1   1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – blank page, no photos/illustrations]
+
+
+==============================================================================
+[PAGE 3/13 | GLOBAL PDF p.2 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+10-0103.indb 2   1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – blank page, no photos/illustrations]
+
+
+==============================================================================
+[PAGE 4/13 | GLOBAL PDF p.3 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                 English 5 th Grade
+
+
+                     Pupil’s Book
+
+
+
+
+10-0103.indb 3                        1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – text-only title page ('English 5th Grade / Pupil’s Book')]
+
+
+==============================================================================
+[PAGE 5/13 | GLOBAL PDF p.4 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                                                               ΣΤΟΙΧΕΙΑ ΑΡΧΙΚΗΣ ΕΚ∆ΟΣΗΣ
+                      ΣΥΓΓΡΑΦΕΙΣ                       Ελευθερία Κλειώ Κολοβού, Εκπαιδευτικός ΠΕ6
+                                                       Κρανιώτου Άννα, Εκπαιδευτικός  ΠΕ6
+
+                      ΚΡΙΤΕΣ-ΑΞΙΟΛΟΓΗΤΕΣ               Μελίνα Παπακωνσταντίνου, Μέλος ΔΕΠ
+                                                       Παρασκευή Λεοντίου-Φερεντίνου, τ.Σχολική Σύμβουλος                                                              
+                                                       Παναγιώτα Γκουντή, Εκπαιδευτικός ΠΕ6
+
+                      ΕΙΚΟΝΟΓΡΑΦΗΣΗ                    Ελισάβετ Βαβούρη,  Εικονογράφος
+
+                      ΦΙΛΟΛΟΓΙΚΗ ΕΠΙΜΕΛΕΙΑ             Χρυσάνθη Αυγέρου, Eκπαιδευτικός ΠΕ6
+
+                      ΥΠΕΥΘΥΝΟΙ
+                      ΤΟΥ ΜΑΘΗΜΑΤΟΣ
+                      ΚΑΤΑ ΤΗ ΣΥΓΓΡΑΦΗ                 Ιωσήφ Ε. Χρυσοχόος
+                                                       Πάρεδρος ε.θ. του Παιδαγωγικού Ινστιτούτου
+                                                       Πέτρος Μπερερής
+                                                       Σύμβουλος του Παιδαγωγικού Ινστιτούτου                                             
+
+                      ΥΠΕΥΘΥΝΟΣ ΥΠΟΕΡΓΟΥ               Χρυσούλα Κούτρα,  Εκπαιδευτικός ΠΕ6
+
+
+                      ΑΝΑΔΟΧΟΣ                         Σ. ΠΑΤΑΚΗΣ Α.Ε.Ε.Ε
+
+
+                      ΠΡΟΕΚΤΥΠΩΤΙΚΕΣ ΕΡΓΑΣΙΕΣ          ΒΙΒΛΙΟΣΥΝΕΡΓΑΤΙΚΗ Α.Ε.Π.Ε.Ε.
+
+                      Στη συγγραφή συνεργάστηκαν και οι Francis Baker και Παρασκευή Μουστακίδου
+
+
+
+
+                         Γ΄ Κ.Π.Σ. / ΕΠΕΑΕΚ ΙΙ / Ενέργεια 2.2.1 / Κατηγορία Πράξεων 2.2.1.α: «Αναμόρφωση των προγραμμάτων σπουδών και
+                         συγγραφή νέων εκπαιδευτικών πακέτων»
+                         				
+                                                          ΠΑΙΔΑΓΩΓΙΚΟ  ΙΝΣΤΙΤΟΥΤΟ
+                                                          Δημήτριος Γ. Βλάχος
+                                                          Ομότιμος Καθηγητής του Α.Π.Θ
+                                                          Πρόεδρος του Παιδαγωγικού Ινστιτούτου
+
+                         Πράξη με τίτλο:               «Συγγραφή νέων βιβλίων και παραγωγή
+                                                       υποστηρικτικού εκπαιδευτικού υλικού με βάση
+                                                       το ΔΕΠΠΣ και τα ΑΠΣ για το Δημοτικό και το Νηπιαγωγείο»
+
+                                                       Επιστημονικός Υπεύθυνος Έργου
+                                                       Γεώργιος Τύπας
+                                                       Σύμβουλος Παιδαγωγικού Ινστιτούτου
+
+                                                       Αναπληρωτής Επιστημονικός Υπεύθυνος Έργου
+                                                       Γεώργιος Οικονόμου
+                                                       Σύμβουλος Παιδαγωγικού Ινστιτούτου                                   
+
+                         Έργο συγχρηματοδοτούμενο 75% από το Ευρωπαϊκό Κοινωνικό Ταμείο και 25% από εθνικούς πόρους.
+
+
+
+
+                                                                  ΣΤΟΙΧΕΙΑ ΕΠΑΝΕΚ∆ΟΣΗΣ
+                    Η επανέκδοση του παρόντος βιβλίου πραγματοποιήθηκε
+                    από το Ινστιτούτο Τεχνολογίας Υπολογιστών & Εκδόσεων
+                    «Διόφαντος» μέσω ψηφιακής μακέτας, η οποία δημιουργή-
+                    θηκε με χρηματοδότηση από το ΕΣΠΑ / ΕΠ «Εκπαίδευση
+                    & Διά Βίου Μάθηση» / Πράξη «ΣΤΗΡΙΖΩ».
+
+                            Οι διορθώσεις πραγματοποιήθηκαν κατόπιν έγκρισης του Δ.Σ. του Ινστιτούτου Εκπαιδευτικής Πολιτικής
+
+
+
+
+001-012 up.indd 4                                                                                                                                              29/1/2015 1:34:27 µµ
+
+--- IMAGES ON THIS PAGE ---
+[none – imprint text only]
+[ICONS: 3 small funding logos in the bottom strip (EU flag, ΕΣΠΑ programme panel, ΕΣΠΑ 2007-2013)]
+
+
+==============================================================================
+[PAGE 6/13 | GLOBAL PDF p.5 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                         ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ
+                               ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+
+
+
+                       Ελευθερία-Κλειώ Kολοβού                         Άν ν α Κ ρ α ν ι ώ τ ο υ
+
+
+
+                                   ΑΝΑΔΟΧΟΣ ΣΥΓΓΡΑΦΗΣ:
+
+
+
+                         Η συγγραφή και η επιστηµονική επιµέλεια του βιβλίου πραγµατοποιήθηκε
+                                     υπό την αιγίδα του Παιδαγωγικού Ινστιτούτου
+
+
+
+
+                                      English 5 th Grade
+
+
+                                                 Pupil’s Book
+
+
+
+
+                    ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»
+
+
+
+
+001-012 up.indd 5                                                                                 1/28/16 10:34 AM
+
+--- IMAGES ON THIS PAGE ---
+[none – text-only title page]
+[ICONS: 1 small Patakis publisher logo (book stack) top-center]
+
+
+==============================================================================
+[PAGE 7/13 | GLOBAL PDF p.6 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                 6
+
+
+
+
+10-0103.indb 6       1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – blank page with printed number '6']
+
+
+==============================================================================
+[PAGE 8/13 | GLOBAL PDF p.7 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                 Α. Εισαγωγή στο Βιβλίο του Μαθητή
+
+                      Αγαπητά μας παιδιά,
+                      Το βιβλίο αυτό ελπίζουμε να σας βοηθήσει να αγαπήσετε την Αγγλική γλώσσα, να μάθετε λέξεις και
+                 τρόπους να εκφράζεστε στην Αγγλική γλώσσα,  να μιλήσετε και να γράψετε σε παλιούς και καινούριους φίλους
+                 και να γνωρίσετε πολλούς πολιτισμούς λαών που μιλάνε την Αγγλική γλώσσα.
+                     Με το βιβλίο αυτό επιθυμούμε να σας βοηθήσουμε να ασχοληθείτε με πολλά θέματα που σας
+                 απασχολούν στην καθημερινή σας ζωή αλλά και με θέματα που απασχολούν όλη την ανθρωπότητα, όπως η
+                 υποβάθμιση του φυσικού περιβάλλοντος και τα προβλήματα των σημερινών κοινωνιών. Μέσα στις σελίδες
+                 των 2 βιβλίων (PUPIL’S BOOK & WORKBOOK) θα βρείτε ιστορίες, τραγούδια, παιγνίδια και πληροφορίες
+                 αλλά και πολλές ιδέες για να δουλέψετε ομαδικά σε projects και να χρησιμοποιήσετε τις γνώσεις σας από
+                 άλλα μαθήματα του σχολικού σας προγράμματος, όπως Ιστορία, Γεωγραφία, Μαθηματικά, Μουσική,
+                 Γυμναστική, κλπ.
+                     Το βιβλίο έχει 10 κεφάλαια (units) και το κάθε κεφάλαιο αποτελείται από 3 μαθήματα (lessons).
+                 Κάθε κεφάλαιο έχει το δικό του χρώμα και αυτό φαίνεται σε όλες τις σελίδες του κεφαλαίου πάνω –
+                 πάνω.  Σε κάθε κεφάλαιο παρουσιάζεται ένα θέμα που ελπίζουμε να σας ενδιαφέρει και ο τρόπος με τον
+                 οποίον μπορείτε να ασχοληθείτε με αυτό το θέμα, διαβάζοντας, γράφοντας, μιλώντας και ακούγοντας
+                 στην Αγγλική γλώσσα. Στο τέλος κάθε κεφαλαίου υπάρχει ένα Self Assessment Test  που σε βοηθάει να
+                 σιγουρευτείς για όσα έχεις μάθει ή για όσα πρέπει να ξαναδιαβάσεις, να ρωτήσεις και να διευκρινίσεις ή να
+                 ξανακουβεντιάσεις με τον καθηγητή ή την καθηγήτρια σου.
+                       Οι πρωταγωνιστές του βιβλίου είναι τρία παιδιά της ηλικίας σας: ο Κώστας από την Ελλάδα, η Nadine από
+                 τη Γαλλία και ο Mark από την Αγγλία, που συνομιλούν μέσω των ηλεκτρονικών υπολογιστών τους και τελικά
+                 συναντιούνται στις διακοπές τους. Νομίζουμε ότι και οι τρεις θα είναι μια πολύ καλή παρέα για όλη τη σχολική
+                 χρονιά. Στο τέλος του βιβλίου υπάρχουν παραρτήματα με γραμματική, χάρτες, κατάλογο ανώμαλων ρημάτων
+                 και βέβαια ένα ξεχωριστό παράρτημα με ασκήσεις και δραστηριότητες για κάθε κεφάλαιο ξεχωριστά, που ο
+                 κάθε ένας/ η καθεμία από εσάς θα αποφασίζει με ποιον τρόπο θα τις δουλέψει (differenciated activities, με ένα
+                 * οι πιο εύκολες, με δύο ** οι πιο δύσκολες). Εκείνο που πρέπει να θυμάστε ως μαθητές είναι να προσπαθήσετε
+                 να γνωρίσετε τον τρόπο με τον οποίο ο κάθε ένας από σας μαθαίνει καλύτερα- γιατί δεν μαθαίνουμε όλοι με τον
+                 ίδιο τρόπο ούτε με τον ίδιο ρυθμό- δηλαδή να ανακαλύπτετε στρατηγικές μάθησης για να είστε αποτελεσματικοί
+                 και να εργάζεστε εποικοδομητικά σε ομάδες, βοηθώντας ο ένας τον άλλο και μαθαίνοντας ο ένας από τον άλλο,
+                 γιατί όλοι μαζί, ενώνοντας τις δυνάμεις σας, μπορεί να έχετε καλύτερα  και ομορφότερα αποτελέσματα.
+                     Σας ευχόμαστε να έχετε μία καλή και ευχάριστη σχολική χρονιά!
+                     Οι συγγραφείς
+
+
+
+
+                             It’s your choice!
+                             • Find the way you learn best
+                             • Share your ideas with others
+                             • Check your self-assessment tests
+                             • Spend sometime reading books listening to songs,
+                               writing e-mails and talking to your friends.
+                             • Don’t be afraid to use English
+                             • Don’t be afraid to make mistakes
+
+
+
+
+10-0103.indb 7                                                                                                                   1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right: Colour photo in profile of a thoughtful girl resting her chin on her hand, with a light-blue thought-cloud graphic extending to bottom-left that contains the 'It’s your choice!' bullet list.]
+
+
+==============================================================================
+[PAGE 9/13 | GLOBAL PDF p.8 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                                                                                                                                                LANGUAGE
+                  UNIT              LESSON                                                  SKILLS
+                                                                                                                                              Functions
+                  UNIT 1          LESSON 1 • pp. 13-17             READING: scanning for specific information – an e-mail                  Expressing likes, dislikes and
+                                                                   LISTENING: looking for specific information to fill in table            preferences
+                                  Do you like computers?
+                                                                   SPEAKING: asking about preferences and interests – forming clubs
+                                                                   WRITING: an e-mail to a friend abroad
+                  INTERNET
+                   FRIENDS        LESSON 2 • pp. 18-21
+                                  Inrenet friends
+                                                                   READING: looking for general meaning – a children’s newspaper article
+                                                                   LISTENING: looking for specific information – a dialogue
+                                                                                                                                           Talking about school life
+
+
+                   AROUND                                          SPEAKING: about nationalities and flags
+                                                                   WRITING: a list of questions about school habits
+                   EUROPE
+                                  LESSON 3 • pp. 22-24             READING: for gist and for specific information to fill in charts –
+                   Pupil’s Book   The United Kingdom               a short text about a country
+                    pp. 13-24     Self assessment
+
+
+                  UNIT 2
+                                  LESSON 1 • pp. 26-29             READING: Scanning a newspaper                                           Expressing Feelings
+                                  School life and feelings         LISTENING: For specific information about places
+
+
+                   SCHOOL
+                  LIFE AND        LESSON 2 • pp. 30-33             WRITING: Making lists from an interview
+                                  Talking about habits - Good
+                 THE WORLD        & Bad
+                 AROUND US
+                                  LESSON 3 • pp. 34-36             READING: Scanning a website about national customs
+                   Pupil’s Book   Customs around the world
+                    pp. 25-36     Self assessment
+
+
+
+                  UNIT 3
+                                  LESSON 1 • pp. 38-41             SPEAKING: playing a guessing game                                       Expressing opinions and making
+                                  The place we live in             WRITING: writing a small note following a model text                    suggestions
+                                                                   WRITING: suggestions and opinions about how to improve daily life
+                                                                   PROJECT: make a presentation on cardboard about issues related to
+                   PLACES                                          everyday problems in big cities
+
+
+                   Pupil’s Book   LESSON 2 • pp. 42-44             LISTENING: locating places on a city map –  directions                  Asking and giving directions
+                                  How can I get to...?             SPEAKING: asking and giving directions using maps of different cities   to places using maps
+                    pp. 37-48
+                                                                   WRITING: a small note giving directions
+
+                                  LESSON 3 • pp. 45-48             READING: skimming and scanning for specific information –
+                                  Talking about a city in Greece   a guidebook text
+                                                                   READING: matching activity – a guidebook text
+                                  Self assessment
+
+
+                                  LESSON 1 • pp. 50-53
+                  UNIT 4
+                                                                   LISTENING: Gist and specific information                                Instructions in the Kitchen
+                                  Getting ready                    WRITING: A postcard.
+                                  for Christmas
+                  CHRISTMAS
+                                  LESSON 2 • pp. 54-57             LISTENING: Reorganising jumbled text.                                   Describing Procedures
+                 EVERYWHERE       Kostas is in New York
+                                  for Christmas
+                   Pupil’s Book
+                    pp. 49-60     LESSON 3 • pp. 58-60             READING: Learning Christmas songs
+                                  A Christmas song                 SPEAKING: Memorizing a poem
+                                  Self assessment
+
+
+
+                  UNIT 5
+                                  LESSON 1 • pp. 62-64             LISTENING: for gist and for checking understanding – a dialogue         Expressing intentions, plans and
+                                  An ambitious class project       SPEAKING: role playing part of a dialogue and proposing ideas           arrangements, predictions and
+                                                                   WRITING: a list of intentions                                           hypotheses
+                                                                   PORTFOLIO: a friendly letter about environmental work at school
+                   READY          LESSON 2 • pp. 65-69             READING: preparing a questionnaire to raise awareness                   Expressing abilities, obligations
+
+                 FOR ACTION       Let’s do it!                     LISTENING: checking understanding – part of a dialogue
+                                                                   SPEAKING: planning a campaign about the environment
+                                                                                                                                           and advice
+
+                                                                   WRITING: preparing posters
+                   Pupil’s Book
+                    pp. 61-72     LESSON 3 • pp. 70-72             WRITING MEDIATION: making a list of problems for people who
+                                  My work can make a difference    cannot understand instructions in Greek
+                                  Self assessment
+
+
+
+
+10-0103.indb 8                                                                                                                                                                 1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – colour-banded contents table (Units 1-5 skills/functions) only]
+
+
+==============================================================================
+[PAGE 10/13 | GLOBAL PDF p.9 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                       FOCUS                                                                        CROSSCURRICULAR LEARNING
+                                                                                                                                                                       Other related
+                      Structures Vocabulary                                                      Concepts                              Projects                          subjects
+                    Like/don’t like/ enjoy/ hate +       Words related to computer parts      Communication and Systems and       Writing a text for a guide book    Greek Language, Maths,
+                    …ing/ noun                           and internet use                     the use of computers                about a country                    History, Geography,
+                    Prefer + ..ing/ noun + to + ..ing/                                                                                                               Computer Science, Art
+                    noun
+
+                    Present Simple tense –               Words related to countries and       Similarities and Differences        Collect items and products from
+                    affirmative, interrogative,          nationalities, school subjects       between nations                     various countries and display
+                    negative                             and time                                                                 them – Appendix, page 134
+
+
+
+                                                         Words related to
+                                                         geography and landforms
+
+
+
+                    Simple Present with Prepositions     Feelings                             Communication and feelings.         Creating a Menu
+                    On, In, At                                                                Culture and healthy eating habits
+
+
+
+
+                    Adverbs of Frequency                 Phrases to use in Interviews                                             Setting up an interview with a
+                                                                                                                                  Famous Person
+
+
+
+                                                                                              Development and customs, past       National Customs in
+                                                                                              and present                         Different Countries
+
+
+
+
+                    I (don’t) think/ It seems to me      Words related to places, services,   Space and healthy living            Writing a text for a guide book    Geography, Greek Language,
+                    that…,                               occupations and methods of           environments                        about a city                       Maths, History, Computer
+                    In my opinion                        transport.                                                                                                  Science, Drama, Road Safety
+                    Why don’t you..?, Let’s..,                                                                                                                       Instructions
+                    How about..?
+
+                                                         Words related to directions and      Space and directions
+                                                         location
+
+
+                                                         Words related to texts included in
+                                                         guidebooks – nouns, adjectives
+                                                         and verbs.
+
+
+
+                    Instructions in the Kitchen          Christmas items                                                                                             Christmas Traditions around
+                                                                                                                                                                     the World
+
+
+
+
+                    Describing Procedures                Adjectives to go with verbs          Culture and how people in           Making koulouria in class!         Christmas and the
+                                                         expressing Feelings                  different countries celebrate                                          Underpriviledged
+                                                                                              Christmas
+
+
+                                                                                                                                  Christmas traditions
+                                                                                                                                  in different countries.
+
+
+
+
+                    Present Progressive tense, “be       Words related to recycling, litter   Communication and taking            Preparing posters or a letter of   Environmental Studies,
+                    going to” with Future sense.         and environmental projects           action about the environment        action to sensitize people and     Geography, Greek Language,
+                                                                                                                                  authorities in your area about     Maths, History, Computer
+                                                                                                                                  environment and its protection     Science, Drama, Art
+
+                    Modal verbs – can, must,             Words related to environmental       Organisation and what needs to
+                    should/ shouldn’t                    problems around the world            be done to save Planet Earth
+
+
+
+
+                                                         Words related to environmental       Organisation and taking the
+                                                         problems and organization of         right steps to protect pristine
+                                                         campaigns                            environments in Greece
+
+
+
+
+001-012 up.indd 9                                                                                                                                                                                  29/1/2015 1:36:24 µµ
+
+--- IMAGES ON THIS PAGE ---
+[none – colour-banded contents table (Units 1-5 focus/crosscurricular) only]
+
+
+==============================================================================
+[PAGE 11/13 | GLOBAL PDF p.10 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                                                                                                                                               LANGUAGE
+                   UNIT             LESSON                                                 SKILLS
+                                                                                                                                             Functions
+                   UNIT 6
+                                   LESSON 1 • pp. 74-77            READING: scanning data from packets                                    Persuading by comparing and
+                                   Choosing a present              LISTENING: for specific information from a conversation between        contrasting
+                                                                   friends
+                                                                   WRITING: making lists from articles
+                    GOOD,                                          SPEAKING: comparing data from charts
+
+                   BETTER,         LESSON 2 • pp. 78-81            READING: skimming a website                                            Persuading through an advert
+
+                    BEST!          World records                   WRITING: creating a slogan and listing advantages of a product
+
+
+                                   LESSON 3 • pp. 82-84                                                                                   Forming questions with
+                    Pupil’s Book                                   WRITING: creating questions with multiple answers
+                                                                                                                                          possible multiple answers
+                     pp. 73-84     A knowledge quiz
+                                   Self assessment
+
+
+
+                   UNIT 7
+                                   LESSON 1 • pp. 86-89            READING: looking for specific information                              Preparing a Presentation
+                                   Famous People of the Past       WRITING: preparing a presentation
+                                                                   LISTENING: looking for specific information
+                                                                   SPEAKING: game using questions with yes/no answers
+                  GOING BACK
+                                   LESSON 2 • pp. 90-93
+                    IN TIME        Past Experiences
+                                                                   WRITING: filling in charts based on information given in a text
+                                                                   LISTENING: listening to re-order information
+                                                                                                                                          Expressing sequences of events
+
+                                                                   SPEAKING: role play, discussion and group work
+                    Pupil’s Book
+                     pp. 85-96     LESSON 3 • pp. 94-96            READING: reading with a critical approach                              Expressing opinion and the
+                                   Alexander the Great                                                                                    reasoning behind it.
+                                   Self assessment
+
+
+                                   LESSON 1 • pp. 98-101           READING: reading for prediction                                        Learning to tell stories and act
+
+                   UNIT 8          Fairy Tales                     SPEAKING: acting out a story                                           them out. Learning to express
+                                                                                                                                          own feelings through drama.
+
+                  ALL ABOUT
+                                   LESSON 2 • pp. 102-105          READING: reading an e-mail chat                                        Learning to relate your
+                   STORIES         What an experience!             WRITING: retelling a story in narrative form using an online chat      experiences and express your
+                                                                   conversation                                                           feelings about them.
+                    Pupil’s Book
+                                   LESSON 3 • pp. 106-108          READING: for specific information about foreign customs                Talking about Easter customs in
+                    pp. 97-108
+                                   A traditional story                                                                                    your country.
+                                   Self assessment
+
+
+                                   LESSON 1 • pp. 110-113          READING: for specific information
+
+                   UNIT 9
+                                                                                                                                          Being able to express oneself
+                                   She has helped                  WRITING: about one’s own achievements                                  about achievements in the past
+                                                                   SPEAKING: describing personal experience without specifying the time   which impact on the present.
+                                   save gorillas
+                                                                   the actions happened
+                   AMAZING
+                                   LESSON 2 • pp. 114-117          READING for specific information about a children’s art competition
+                  PEOPLE AND       A trip to Dubai!                SPEAKING: game, talking about one’s personal achievements
+
+                    PLACES
+                                   LESSON 3 • pp. 118-120          SPEAKING: game with headlines & “announcements”
+                   Pupil’s Book    Newspapers & headlines          WRITING: putting together a classroom newspaper
+                   pp. 109-120     Self assessment
+
+
+
+                   UNIT 10         LESSON 1 • pp. 122-125
+                                   At the airport
+                                                                   READING: reading announcement boards
+                                                                   WRITING: preparing a presentation using information given in a chart
+                                                                                                                                          Being able to welcome friends.
+                                                                                                                                          Presenting a place using data.
+
+
+                   SUMMER
+                   IS HERE!        LESSON 2 • pp. 126-129
+                                   Tourists love visiting places
+                                                                   READING: menus
+                                                                   LISTENING: for specific information about a painting
+                                                                                                                                          Being able to describe a place.
+                                                                                                                                          Expressing opinions. Making
+                                                                   SPEAKING: debating the return of the Parthenon marbles                 suggestions.
+                    Pupil’s Book
+                    pp. 121-132    LESSON 3 • pp. 130-132          WRITING: collecting information about other civilizations              Narrating stories.
+                                   Myths and legends
+                                   Self assessment
+
+
+                                                                                                              Discover Grammar
+                  APPENDIX UNITS 1-10 pp. 133-152                                                                        pp. 153-161
+
+
+
+10-0103.indb 10                                                                                                                                                              1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – colour-banded contents table (Units 6-10 skills/functions) only]
+
+
+==============================================================================
+[PAGE 12/13 | GLOBAL PDF p.11 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                     FOCUS                                                                         CROSSCURRICULAR LEARNING
+                                                                                                                                                                           Other related
+                    Structures Vocabulary                                                       Concepts                                Projects                             subjects
+                  Comparatives                         Comparatives, regular and             Similarities and Differences         Comparing towns in Greece or
+                                                       irregular                             between places.                      overseas
+
+
+
+
+                  Superlatives                         Superlatives, regular and irregular                                        Creating an advert
+
+
+
+                                                                                                                                  Creating a quiz
+
+
+
+
+                  Past Simple in the Affirmative       The Theatre and Artists               Similarities and Differences                                                Theatre, History, Art.
+                  Form - Regular Verbs                                                       between the Theatre of Ancient
+                                                                                             Greece and Elizabethan England.
+
+
+
+                  Past Simple in the Negative and      Crime and Alibis
+                  Question Forms
+
+
+
+                                                       Alexander the Great and his           Communication and Alexander the      Analysis of films made on Alexander
+                                                       military campaigns                    Great’s skills as a Leader.          the Great: a critical approach.
+                                                                                             Civilization: Alexander’s legacy.    Preparing a presentation on a famous
+                                                                                                                                  figure in history.
+
+
+                  Using the Past Continuous.           Lexis in books and stories:           Communication and Culture and        Preparing a Karagiozis shadow          Greek Language, Literature,
+                                                       to describe characters and            Shadow Puppet Theatre                puppet play, with puppets and          Drama, Music Arts & Crafts,
+                                                       appearance, weather, theatre.                                              stage.                                 Storytel-ling and Storywriting.
+
+
+
+                  Using both Simple Past and Past      Adjectives expressing feelings.                                            Write a short story.
+                  Continuous.
+
+
+
+                  Using Past tenses for Story          Easter customs around the world.      Culture and how people in            Easter customs in other countries
+                  Reading and Story Writing.                                                 different countries celebrate        and in other continents.
+                                                                                             Easter.
+
+
+
+                  Present Perfect: Affirmative Form.   Gorillas.                             Development and the                  Researching for athletes or teams      Science, History, Sports,
+                                                       Mikis Theodorakis: his life and       protection of rare species           with multiple records.                 Geography, Art.
+                                                       achievements.                         of animals.
+
+
+
+                  Present Perfect: Negative            Modern cities and their               Organisation and a famous
+                  and Question Form.   Adverbs         attractions                           national art exhibition.
+                  frequently used with Present
+                  Perfect Form.
+                                                       Basic newspaper words.                Organisation and putting together    Classroom English newspaper
+                                                                                             a classroom English newspaper.
+
+
+
+
+                  Revision of verb tenses.             Idiomatic expressions. Time           Similarities and Differences         Presenting an airport.                 Art, Geography, History.
+                                                       prepositions.                         between places.                      Presenting a place using
+                                                                                                                                  your senses.
+
+
+                  Expressions with prespositions       Vocabulary to talk about holidays,    Civilization and the return of the
+                  of place.                            places, museums, restaurants.         Parthenon marbles.
+
+
+
+                                                                                             Culture and Myths and                Talking about myths in other
+                                                                                             Legends from other countries.        civilizations.
+
+
+
+
+                                             Irregular Verbs                                                                                             Maps
+                                                       pp. 162                                                                                      pp. 163-167
+
+
+
+10-0103.indb 11                                                                                                                                                                                            1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – colour-banded contents table (Units 6-10 focus/crosscurricular, irregular verbs, maps) only]
+
+
+==============================================================================
+[PAGE 13/13 | GLOBAL PDF p.12 | SOURCE: pupil_front_matter.pdf]
+==============================================================================
+                  The Symbols of the Book
+
+
+                  8 : Lead-in Activity
+
+                      : Reading Activity
+
+
+                      : Writing Activity
+
+
+                      : Listening Activity
+
+
+                      : Speaking Activity
+
+
+                      : Role-play
+
+
+                      : Group Work
+
+
+                      : Vocabulary
+
+
+                      : Debate
+
+
+                      : Portfolio
+
+
+                      : Mediation
+
+
+                      : Game
+
+
+                      : Project
+
+
+
+
+10-0103.indb 12                              1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | center: Boxed 'The Symbols of the Book' chart listing 13 small activity icons with labels: double-arrow (Lead-in), open book (Reading), pencil (Writing), cassette/radio (Listening), speech bubble (Speaking), theatre masks (Role-play), children's faces (Group Work), 'a' card (Vocabulary), two bubbles (Debate), folders (Portfolio), circular arrows (Mediation), dice (Game), presentation board (Project).]
+

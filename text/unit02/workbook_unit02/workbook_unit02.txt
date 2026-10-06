@@ -1,0 +1,419 @@
+==============================================================================
+SOURCE PDF : workbook_unit02.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit02\workbook_unit02.pdf
+GLOBAL PDF PAGES: 11-18
+PAGES IN THIS FILE: 8
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=21185, words~=1469
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: orange Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading; orange footer bar with Activity Book / UNIT 2 / Lesson / page.
+==============================================================================
+==============================================================================
+[PAGE 1/8 | GLOBAL PDF p.11 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                                                                                                                                         2
+               SCHOOL LIFE AND THE WORLD AROUND US
+                                                               LESSON 1
+               M ACTIVITY A.
+               Tell a friend about Nadine’s daily routine and then write about it. Use the prompts given.
+
+
+
+                                               1. .................................................................................................
+
+               get up/morning                  .....................................................................................................
+
+
+
+
+                                               2...................................................................................................
+
+               have/breakfast                  .....................................................................................................
+
+
+
+                                               3.. ................................................................................................
+
+               get/dressed                     .....................................................................................................
+
+
+
+                                               4.. ................................................................................................
+
+               Go/school/bus                   . ...................................................................................................
+
+
+
+
+                                               5.. ................................................................................................
+               Afternoon/
+               do/homework                     . ...................................................................................................
+
+
+
+                                               6.. ................................................................................................
+
+               6:00/have dinner                . ...................................................................................................
+
+                                                                                                     Activity Book • UNIT 2 • Lesson 1 / 11
+
+
+
+
+10_0104_agglika.indd 11                                                                                                                                1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | left (1): woman waking/stretching in bed; caption get up/morning.]
+[IMAGE 2 | left (2): family at a breakfast table; caption have/breakfast.]
+[IMAGE 3 | left (3): legs/feet putting on shoes; caption get/dressed.]
+[IMAGE 4 | left (4): children boarding a yellow school bus; caption Go/school/bus.]
+[IMAGE 5 | left (5): girl doing homework at a desk; caption Afternoon/do/homework.]
+[IMAGE 6 | left (6): family at a dinner table; caption 6:00/have dinner.]
+
+==============================================================================
+
+[PAGE 2/8 | GLOBAL PDF p.12 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                  2
+               M ACTIVITY B. 						                                              [Differentiated Activity (**) on p. 68]
+
+
+                                                            A different school
+               Henry Glotter is a new magician. He is studying at a magician’s school. Henry is writing a letter to
+               his friend Ben, telling him about his life at school. Read Henry’s letter and do the exercises:
+
+
+               1. Complete the letter using: prepare, wakes, finish, broomstick, use, start, best, have.
+
+
+
+                   Hi, Ben,
+                   This is my life in my new school at Zabwards. Every morning Balloo, my owl,
+                   ……………….. me up at 8:00 o’clock. We …………..……… breakfast in the blue dining hall
+                   at 9:00. Lessons ………………… at 9:30 a.m. and …………. at 2:00 p.m. My favourite
+                   class is with Mr Higgins at the lab. We ………………….. magic potions and do spells.
+                   I don’t know how to ………………… my magic wand yet but I try. In the afternoon I
+                   play with my friends Rob and Hermina. They are my ………………….. friends. I like my
+                   new school a lot and I’m proud of my ………………….. .
+                   Henry.
+
+
+
+                  2. Complete Henry’s routine at Zabwards:
+
+
+                  put on/school uniform/            1. ……………………......……………………………............…..
+                  morning			……………………………………………………………………
+
+
+                  				2. …………………………………………………………………
+                  do/magic spells/wand              ………………………………………………………………….…
+
+
+                  				3. …………………………………………………………………
+                  10 a.m/study/school library           ………………………………………………………...…............
+
+
+                  				4. …………………………………………………………………
+                  feed owl/three times/day          …………………………………………………………..…….....
+
+
+               12 / Activity Book • UNIT 2 • Lesson 1
+
+
+
+10_0104_agglika.indd 12                                                                                                    1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | lower half, background: faded Magic School Bus book-cover illustration (yellow bus, jungle, frog, parrot; visible text Scholastic's The Magic School Bus) behind the write-in lines.]
+
+==============================================================================
+
+[PAGE 3/8 | GLOBAL PDF p.13 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                                                                                                                      2
+               M ACTIVITY C.
+               Complete with the correct preposition:
+
+               ................. Sunday             ................. the evening    ................. autumn
+               ................. the morning        ................. 2015           ................. September
+               ................. Weekdays           ................. night          ................. 6:00 o’clock
+               ................. Easter             ................. winter         ................. Christmas Day
+               ................. May 15th           ................. his birthday   ................. the weekend
+
+               M ACTIVITY D.
+               Two pupils, one of them new, meet in the schoolyard. Complete the dialogue:
+               Jim: …………………………………………………………………………………………………
+               Simon: Oh, hi! I’m Simon.
+               Jim: …………………………………………………………………………………………………
+               Simon: Yes, I like this school. It’s great! I hated my old school!
+               Jim: …………………………………………………………………………………………………
+               Simon: Well, in the afternoons I usually play football in my neighbourhood..
+               Jim: …………………………………………………………………………………………………
+               Simon: Mm, as I’m new I haven’t made many friends yet.
+               Jim: Don’t worry you’ll make friends quickly …………………………………………….………….
+               Simon: Oh, yes. I’d love to play football with you and your friends this afternoon.
+               Jim: Great – see you after school!
+
+
+
+
+                                                                                     Activity Book • UNIT 2 • Lesson 1 / 13
+
+
+
+
+10_0104_agglika.indd 13                                                                                                       1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-centre: colour photo of two schoolboys in blazers high-fiving in a schoolyard. No embedded text.]
+
+==============================================================================
+
+[PAGE 4/8 | GLOBAL PDF p.14 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                  2
+               				LESSON 2
+               M ACTIVITY A.                [Differentiated Activities (*) & (**) on p. 69]
+
+               Complete:
+               Hi! I’m Samantha from South Africa and I go to the fifth class
+               of Primary School. My favourite subject is …………………
+               because I learn all about different countries and ………………….. because I like learning
+               about the past. I’m not very good at ………………… as I don’t like numbers very much or
+               ………………. because our teacher makes us run fast and tells us to do a lot of difficult
+               exercises. But I love ………………….. as we often go to the lab and make experiments. One
+               day I want to visit Paris, that’s why I’m learning ……………….
+
+               M ACTIVITY B.
+               Now look at the above exercise and tell a friend at school about your school life and your favourite
+               subjects:
+               Hi! I’m ………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+               M ACTIVITY C.
+               What do they like to do on holiday? Look at the symbols and write sentences
+               (always 0 0 0 0 usually 0 0 0 often 0 0 sometimes 0 never ;)
+
+
+               		                Swim 		                Visit           Play 		               Play		       Buy
+               		                underwater             museums         on the sand           football		   souvenirs
+
+                 Jane		              0			                  0 0 0 0		         0 0		            ;		          000
+                 Peter		             0 0 0		               0		               ;		              0 0 0 0		    00
+                 Lin & Tim           0 0			                ;		               0 0 0		          0		          000
+                 Bob & Fiona         ;			                  0 0 0		           0 0		            0		          0000
+
+
+               14 / Activity Book • UNIT 2 • Lesson 2
+
+
+
+10_0104_agglika.indd 14                                                                                                2/2/15 11:40 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: colour photo of a smiling girl in a pink top at green school lockers. No embedded text.]
+
+==============================================================================
+
+[PAGE 5/8 | GLOBAL PDF p.15 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                                                                                                                                                                      2
+               When on holiday….
+               1. JANE. Jane sometimes swims underwater. She always ........................................................
+               .............................................................................................................................................................
+               .............................................................................................................................................................
+               2. PETER. ...............................................................................................................................................
+               ...................................................................................................................................................................
+               ....................................................................................................................................................................
+               3. LIN & TIM. ......................................................................................................................................
+               ...................................................................................................................................................................
+               ...................................................................................................................................................................
+               4. BOB & FIONA. ................................................................................................................................
+               ....................................................................................................................................................................
+               ...................................................................................................................................................................
+
+
+               M ACTIVITY D.
+               Complete the table. Use: sometimes, rarely, often, always, never, usually, seldom ……..) and the
+               phrases below:
+
+
+                           Gregory is a boy with			                                                     Jennifer is a girl
+                           some good habits. 			                                                        with some bad habits.
+
+                            He always …					                                                            She rarely …
+
+
+
+
+               (brush teeth/ tell the truth/ clean bedroom/ help in the house/ stare at people/ talk to strangers/
+               have a shower/ walk on the pavement/ say ‘please’ and ‘thank you’/ read books/ play computer
+               games/ watch TV/ eat fruit and vegetables/ watch out for cars before crossing the street.)
+
+
+                                                                                                                               Activity Book • UNIT 2 • Lesson 2 / 15
+
+
+
+
+10_0104_agglika.indd 15                                                                                                                                                               1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | lower half: illustration of an open spiral notebook; left page reads Gregory is a boy with some good habits / He always ..., right page reads Jennifer is a girl with some bad habits / She rarely ....]
+
+==============================================================================
+
+[PAGE 6/8 | GLOBAL PDF p.16 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                   2
+               M ACTIVITY E.
+               Have you got any good or bad habits? What are they? Write about them:
+               I have got some good habits. I .....................................................................................................................
+               ...............................................................................................................................................................................................
+               ...............................................................................................................................................................................................
+               ...............................................................................................................................................................................................
+               ...............................................................................................................................................................................................
+               But I’ve also got some bad habits. I ................................................................................................................
+               ................................................................................................................................................................................................
+               ................................................................................................................................................................................................
+               ................................................................................................................................................................................................
+               ................................................................................................................................................................................................
+
+
+               M ACTIVITY F. 						 [Differentiated Activity (**) on p. 70]
+               Look at the train schedule and complete:
+               Mark is at the train station in Athens and he is asking the information office to help him out – the
+               girl behind the counter speaks English well. Write the correct answers.
+
+                                                                         Train Schedule from Athens
+                  TO			                                    TIME						PRICE		                                                                                                     DURATION
+                  Halkida		                                10:25, 11:30, 12:40, 14:00, 15:20,
+                  			16:35, 17:35, 19:00				5,50 €                                                                                                                               1:30 hrs
+                  Livadia		                                8:25, 13:20, 14:25, 15:50, 17:10		                                                      6,80 €		                      2 hrs
+                  Litohoro		8:25, 14:25, 23:55				15,20 €                                                                                                                        6 hrs
+                  Thessaloniki		                           8:00, 8:25, 10:10, 13:05, 14:25,
+                  			17:05, 23:15, 23:55				20,10 €                                                                                                                              7 hrs
+
+               1. What time does the first train to Halkida leave?
+                     It leaves at 10:25
+               2. How much does it cost to go to Thessaloniki?
+               ...................................................................................................................................
+
+
+
+
+               16 / Activity Book • UNIT 2 • Lesson 2
+
+
+
+10_0104_agglika.indd 16                                                                                                                                                                                           2/2/15 10:37 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right, small: photo of a young girl eating beside a cake.]
+[IMAGE 2 | bottom: train-schedule table headed Train Schedule from Athens plus a small line-drawn train doodle above a black track border strip running full width.]
+
+==============================================================================
+
+[PAGE 7/8 | GLOBAL PDF p.17 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                                                                                                                 2
+               3. How many trains are there for Livadia every day?
+               ………………………………………………………………………………….
+               4. How long does it take to go to Litochoro?
+               …………………………………………………………………………………
+               5. How much does it cost to go to Halkida?
+               ………………………………………………………………………………….
+
+
+               M ACTIVITY G.
+               Mark is now at the ticket office. Complete the dialogue:
+               - Excuse me, sir. When is the next train to Thessaloniki?
+               - It’s at ……………………………………………………………
+               - And how much is the ticket?
+               - ………………………………………………………………….
+               - How long does it take to go there?
+               - …………………………………………………………………..
+               - Ok. I’d like two tickets to Thessaloniki, please.
+               - Well, that’s ……………………… .
+               - Here you are.
+               - Here’s your change but hurry, the train is leaving in 5 minutes.
+               - Thank you very much. Bye bye.
+               - Goodbye. Have a good trip.
+
+
+
+
+                                                                                    Activity Book • UNIT 2 • Lesson 2 / 17
+
+
+
+
+10_0104_agglika.indd 17                                                                                                      1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right: photo of wall signs reading STATION MASTER / TICKET OFFICE / BOOKING OFFICE with small TICKET OFFICE stickers.]
+[IMAGE 2 | bottom: photo of a white/purple Siemens OSE train at a platform, with a black track border strip below.]
+
+==============================================================================
+
+[PAGE 8/8 | GLOBAL PDF p.18 | SOURCE: workbook_unit02.pdf]
+==============================================================================
+                  3
+               PLACES
+                                                                                 LESSON 1
+               M ACTIVITY A. 						                                                                                 [Differentiated Activity (*) on p. 71]
+
+               Fill in the missing words
+               1. A ................................... is a place where we can buy eggs, sugar, milk, etc.
+               2. We go to the cinema to ...............................................
+               3. If I want to send a letter or a postcard, I must go to the ................................
+               4. Children or teenagers go to a sports centre to ...........................................
+               5. I need a book to take it to my friend as a birthday present; I must go to the .........................
+               ...............
+               6. Weddings usually take place in a ........................................
+               7. A ......................................... is a place where we can buy toys.
+               8. If we need money, we go to a ......................................
+
+
+               M ACTIVITY B.
+               Wordmaze. Draw lines through the the words that refer to occupations. Start at the “Begin” arrow and
+               stop at the the“Finish”. You can go left, right, up or down but not diagonally.
+
+                   BEGIN vet                     butcher                       motorbike                     taxi                     lake
+
+                   bus                           farmer                        singer                        sports centre            cook FINISH
+
+                   bank                          supermarket                   doctor                        vegetables               lorry driver
+
+                   foot                          read                          mechanic                      journalist               nurse
+
+
+
+               M ACTIVITY C.
+               Study the chart and write questions or answers following the example.
+                   NAME                   NATIONALITY                    HOME TOWN                   OCCUPATION                PLACE OF WORK
+                   Maria Karra            Greek		                        Samos		                     teacher		                 school
+                   Jack Bean              British		                      Cambridge                   actor		                   theatre
+
+
+               Your father..............................................................................................
+               Your aunt ...............................................................................................
+
+               18 / Activity Book • UNIT 3 • Lesson 1
+
+
+
+10_0104_agglika.indd 18                                                                                                                                      1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | lower half, background: faded black London taxi watermark with LONDON lettering across the table; small black-taxi icon with LONDON label at mid-right. Page content is Unit 3 PLACES Activities A-C.]

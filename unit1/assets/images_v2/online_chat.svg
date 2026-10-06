@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a202c"/>
+      <stop offset="100%" stop-color="#2d3748"/>
+    </linearGradient>
+    <filter id="shadow2">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bgGrad2)"/>
+
+  <!-- Header bar -->
+  <rect x="30" y="20" width="740" height="50" rx="10" fill="#2b6cb0" filter="url(#shadow2)"/>
+  <circle cx="60" cy="45" r="10" fill="#ecc94b"/>
+  <text x="85" y="52" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">European Video Chat: Kostas (GR) • Nadine (FR) • Mark (UK)</text>
+  <rect x="680" y="32" width="70" height="26" rx="13" fill="#48bb78"/>
+  <text x="715" y="49" font-family="sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">LIVE 🟢</text>
+
+  <!-- Panel 1: Kostas in Athens -->
+  <g transform="translate(40, 90)">
+    <rect width="220" height="280" rx="12" fill="#2c5282" stroke="#4299e1" stroke-width="3" filter="url(#shadow2)"/>
+    <rect x="0" y="235" width="220" height="45" rx="10" fill="#1a365d"/>
+    <circle cx="110" cy="110" r="55" fill="#fbd38d"/>
+    <!-- Kostas Hair & Face -->
+    <path d="M65 95 Q110 50 155 95 Q130 65 110 65 Q90 65 65 95 Z" fill="#744210"/>
+    <circle cx="95" cy="110" r="5" fill="#2d3748"/>
+    <circle cx="125" cy="110" r="5" fill="#2d3748"/>
+    <path d="M100 130 Q110 142 120 130" stroke="#c53030" stroke-width="3" fill="none"/>
+    <!-- Striped shirt -->
+    <path d="M55 200 Q110 170 165 200 L170 235 L50 235 Z" fill="#3182ce"/>
+    <text x="110" y="255" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Kostas, 11 (Athens 🇬🇷)</text>
+    <text x="110" y="272" font-family="sans-serif" font-size="11" fill="#bee3f8" text-anchor="middle">5th Grade Primary School</text>
+  </g>
+
+  <!-- Panel 2: Nadine in Marseilles -->
+  <g transform="translate(290, 90)">
+    <rect width="220" height="280" rx="12" fill="#702459" stroke="#b83280" stroke-width="3" filter="url(#shadow2)"/>
+    <rect x="0" y="235" width="220" height="45" rx="10" fill="#521b41"/>
+    <circle cx="110" cy="110" r="55" fill="#feebc8"/>
+    <!-- Nadine Blonde Hair -->
+    <path d="M55 120 Q50 60 110 60 Q170 60 165 120 Q160 160 145 180 Q130 90 110 90 Q90 90 75 180 Z" fill="#d69e2e"/>
+    <circle cx="95" cy="110" r="5" fill="#2d3748"/>
+    <circle cx="125" cy="110" r="5" fill="#2d3748"/>
+    <path d="M100 130 Q110 142 120 130" stroke="#c53030" stroke-width="3" fill="none"/>
+    <!-- Red dress -->
+    <path d="M55 200 Q110 170 165 200 L170 235 L50 235 Z" fill="#e53e3e"/>
+    <text x="110" y="255" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Nadine, 12 (Marseilles 🇫🇷)</text>
+    <text x="110" y="272" font-family="sans-serif" font-size="11" fill="#fed7e2" text-anchor="middle">2nd Year of Collège</text>
+  </g>
+
+  <!-- Panel 3: Mark in London -->
+  <g transform="translate(540, 90)">
+    <rect width="220" height="280" rx="12" fill="#234e52" stroke="#319795" stroke-width="3" filter="url(#shadow2)"/>
+    <rect x="0" y="235" width="220" height="45" rx="10" fill="#1d4044"/>
+    <circle cx="110" cy="110" r="55" fill="#fbd38d"/>
+    <!-- Mark Orange Hair & Headphones -->
+    <path d="M60 95 Q110 50 160 95 Q135 60 110 60 Q85 60 60 95 Z" fill="#dd6b20"/>
+    <circle cx="95" cy="110" r="5" fill="#2d3748"/>
+    <circle cx="125" cy="110" r="5" fill="#2d3748"/>
+    <path d="M100 130 Q110 142 120 130" stroke="#c53030" stroke-width="3" fill="none"/>
+    <!-- Headphones -->
+    <path d="M50 110 A 60 60 0 0 1 170 110" stroke="#2d3748" stroke-width="8" fill="none"/>
+    <rect x="42" y="95" width="18" height="30" rx="6" fill="#e53e3e"/>
+    <rect x="160" y="95" width="18" height="30" rx="6" fill="#e53e3e"/>
+    <!-- Green shirt -->
+    <path d="M55 200 Q110 170 165 200 L170 235 L50 235 Z" fill="#38a169"/>
+    <text x="110" y="255" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Mark, 12 (London 🇬🇧)</text>
+    <text x="110" y="272" font-family="sans-serif" font-size="11" fill="#b2f5ea" text-anchor="middle">West Wimbledon Primary</text>
+  </g>
+
+  <!-- Bottom Chat Transcript Banner -->
+  <rect x="40" y="390" width="720" height="85" rx="10" fill="#2d3748" stroke="#4a5568" stroke-width="2"/>
+  <text x="60" y="415" font-family="sans-serif" font-size="13" fill="#63b3ed" font-weight="bold">Kostas: "The only thing I like about school is spending time on computers!"</text>
+  <text x="60" y="438" font-family="sans-serif" font-size="13" fill="#f687b3" font-weight="bold">Nadine: "Actually, I like going to school and I love studying."</text>
+  <text x="60" y="461" font-family="sans-serif" font-size="13" fill="#4fd1c5" font-weight="bold">Mark: "I don't mind studying, but I hate tests and homework!"</text>
+</svg>

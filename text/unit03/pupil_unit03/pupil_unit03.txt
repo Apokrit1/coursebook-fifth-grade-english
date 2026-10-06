@@ -1,0 +1,737 @@
+==============================================================================
+SOURCE PDF : pupil_unit03.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit03\pupil_unit03.pdf
+GLOBAL PDF PAGES: 37-48
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=30188, words~=2801
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+RECURRING ELEMENTS (described once here; per-page blocks give counts only): pink 'Unit 3' header bar; red circular activity-letter badges; red tick checkmarks in the 'In this unit' box (p.1); small activity-type icons: listening cassette/boombox, writing pencil, game die, reading open-book, role-play theatre masks, PROJECT presentation-easel, 'GRAMMAR FOCUS' magnifying glass, 'Learning strategies' red/white dartboard; pale-yellow instruction bubbles; pink footer bar with book page number.
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.37 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                                                                                 3
+
+
+                  In this unit:    0 We read about two important towns in northern 		
+                  		                 Greece
+                  0 We write about the place we live in
+                  0 We listen to someone giving directions to a visitor in Athens
+                  0 We speak about other cities around the world
+
+
+
+                              Places and sounds. Listen and guess?
+
+                                                                         Home
+
+                                         School
+
+
+
+                                                         Mountains
+
+
+                  Gym
+
+
+
+
+                                    Beach
+
+
+
+
+                                                           Work
+
+
+
+10-0103.indb 37                                                                         1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: red ticks x4; no activity icons. (See file header for one-time description.)
+[IMAGE 1 | top-left: Cartoon classroom labelled 'School' in red: smiling red-haired teacher at a desk in front of a blackboard with 'a b c' and a stick figure; rows of raised pupils' hands at the bottom. Blank white answer circle overlaps its top-left corner.]
+[IMAGE 2 | top-right: Cartoon living room labelled 'Home' in red: yellow walls, open white door, orange sofa with green cushions, framed picture, small pink slippers on green rug. Blank white answer circle at its top-left.]
+[IMAGE 3 | middle-left: Cartoon gym labelled 'Gym' in red: smiling man in vest lifting a barbell overhead on a bench, barbells and red mat by mirrored wall. Blank white answer circle at its top-left.]
+[IMAGE 4 | centre: Cartoon mountain landscape labelled 'Mountains' in red: brown snowy peaks above green slopes and dark pine trees. Blank white answer circle at its top-left; overlaps the Home and Work cards.]
+[IMAGE 5 | bottom-left: Cartoon beach labelled 'Beach' in red: two girls in swimsuits and sun hats/umbrellas on yellow sand by blue sea, with a red-white parasol. Blank white answer circle at its top-left.]
+[IMAGE 6 | bottom-right: Cartoon office labelled 'Work' in red: woman typing and man on phone at wooden desks with computers, bookshelf behind. Blank white answer circle at its top-left.]
+
+==============================================================================
+[PAGE 2/12 | GLOBAL PDF p.38 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                      Lesson 1                 THE PLACE WE LIVE IN
+                  A LEAD-IN8
+                                                                                                         Which is better?
+              • Do you live in a city, a town or a village?                                           The city or the village?
+              Do you like living there? Why?
+
+
+
+                        Do you enjoy living
+                       in the countryside?
+                                                                How do you get
+                            Yes, because my owner lets           to the park?
+                                 me go everywhere!
+                                                                         I hop into the back of a car and
+                                                                            my owner drives me there.
+
+
+
+
+                  B      READING & WRITING
+                  Our 3 Net friends (Mark, Kostas and Nadine) are getting to know each other better. You are
+                  interested in learning how they live and in comparing your life with theirs. Read what they say about
+                  the places they live in and about where their parents work. Keep some notes and discuss things
+                  with your classmates. Write your notes in the boxes below.
+
+
+
+                      Mark: Hello there! As you both know, I live in London, a very big city.. My father is a shop owner and
+                      he always goes to work on foot. His bookstore is in our neighbourhood. Lucky fellow......
+
+                      Kostas: I live in Athens and our flat is in Nea Ionia, a suburb of Athens. My mum, who is a bank
+                      clerk in the city centre, usually drives to work and it takes her over an hour to get there. She
+                      doesn’t use public transport. I don’t think it’s a good idea she drives to work. And she has huge
+                      problems in finding a parking place every day!
+
+                      Nadine: Well, my family and I live in the centre of Marseilles, which is a big city in the south of
+                      France. My parents work in a factory outside the city and they go to work by bus. Many of their
+                      colleagues drive to work but it seems to me my parents are doing the right thing. It’s better to take
+                      the bus - the traffic is so heavy!
+
+
+
+
+              38 / Pupil’s Book • UNIT 3 - • Lesson 1
+
+
+
+10-0103.indb 38                                                                                                                  1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: reading book x1, writing pencil x1 (section B). (See file header for one-time description.)
+[IMAGE 1 | top-right: Photo of a busy pedestrianised city street with shops and a bus; pink speech bubble reads 'Which is better? The city or the village?'. Narrow vertical profile photo of a girl holding her cheek attached at the right edge.]
+[IMAGE 2 | middle-right: Small photo of an old stone village house with tiled roof and wooden balcony; illustrates 'the village/countryside'.]
+[IMAGE 3 | middle-left: Cartoon of four dogs (brown, orange, grey, white) with two speech bubbles: orange pair reads 'Do you enjoy living in the countryside? Yes, because my owner lets me go everywhere!'; blue pair reads 'How do you get to the park? I hop into the back of a car and my owner drives me there.']
+
+==============================================================================
+[PAGE 3/12 | GLOBAL PDF p.39 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                  Name                          Occupation/job               Place of work                  Method of transport
+
+                  Mark’s father
+
+                                                Factory worker
+
+                                                                             Athens (city centre)
+
+
+                  C       WRITING
+                  Now write a letter about the place you live in and about your parents.
+
+                      a. Where do your parents work? (in an office, in a bank, in a shop, on a farm, etc)
+                      b. How do your parents go to work? (on foot, by car, by bus, by motorbike).
+              With your partner:
+                  • Listen to each other’s corrections and suggestions.
+                  • Look at the texts in the previous page and use them as models.
+                  • Finally, write your answer in your notebook.
+
+
+
+                  D       LISTENING
+              Mark is on holiday in Greece with his parents and is visiting Kostas in Athens. Ioanna, Kostas’s friend is
+              with them. They are going to spend the day on Mt. Parnitha and are getting ready with some last-minute
+              preparations.
+                  Listen to the text and draw lines to link the children to the places where they need to go before
+                  they leave for Parnitha.
+
+
+
+
+                                                       Mark
+
+
+
+
+                             newsstand
+                                                                                     home                        bakery
+                                                       Kostas
+
+
+
+
+                                                      Ioanna
+
+                             supermarket                                                          cake shop
+
+
+                                                                                                Pupil’s Book • UNIT 3 - • Lesson 1 / 39
+
+
+
+
+10-0103.indb 39                                                                                                                           1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: writing pencil x1 (C), listening cassette x1 (D). (See file header for one-time description.)
+[IMAGE 1 | middle-right: Colour photo of a red and black motocross/dirt bike in side view; illustrates 'by motorbike' transport vocabulary.]
+[IMAGE 2 | bottom-left: Photo labelled 'newsstand': street kiosk covered in posters with a red Coca-Cola fridge outside.]
+[IMAGE 3 | bottom-centre-left: Cartoon head of Mark: smiling blond boy in blue-white striped shirt; links to places in the matching task.]
+[IMAGE 4 | bottom-centre: Cartoon head of Kostas: smiling brown-haired boy in blue-white striped shirt.]
+[IMAGE 5 | bottom-centre-right: Cartoon head of Ioanna: smiling girl with brown ponytail in pink top.]
+[IMAGE 6 | bottom-middle: Photo labelled 'home': white apartment block with balconies, yellow circle marking one balcony.]
+[IMAGE 7 | bottom-right: Photo labelled 'bakery': close-up of loaves and buns.]
+[IMAGE 8 | bottom-row-left-2: Photo labelled 'supermarket': shoppers with baskets in a stocked aisle.]
+[IMAGE 9 | bottom-row-right-2: Photo labelled 'cake shop': interior with glass display cases of cakes.]
+
+==============================================================================
+[PAGE 4/12 | GLOBAL PDF p.40 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                      3
+                     E    GAME
+                     Play with your partner. With small pieces of paper, make 5 role-play cards
+                     each. On each card write:
+
+               • 1. a place you visit
+               • 2. why you go there
+               • 3. how you get there
+
+                     Ask your partner to choose one of your cards. You hold your card without your partner seeing it
+                     and get your partner to ask you questions with yes/no answers to find the answers. Keep a score
+                     to see how many questions each of you needs to arrive at the answers for all the cards. Then
+                     exchange roles. The one with the least questions wins.
+
+
+                                       You go to the supermarket.               No, I don’t./ Yes, I do.
+
+
+
+                                         You go every Saturday.                 No, I don’t./ Yes, I do.
+
+
+
+                                           You go shopping                      No, I don’t./ Yes, I do.
+                                           with your mother.
+
+
+
+
+                                           Expressing opinions - Making suggestions
+                      Study the sentences to see how we can express opinion or make suggestions.
+                      I think that driving to work costs a lot of money.
+                      I don’t think that driving to work is a good idea. It is tiring!
+                      It seems to me that walking to school is a very healthy habit.
+                      In my opinion, going to work by bus is cheap and convenient.
+
+                      Why don’t you use public transport instead?
+                      How about walking to school rather than taking the bus?
+                      Let’s all go to the city centre in the metro tomorrow!
+
+
+
+
+                     F    WRITING: DO YOU LIKE THE PLACE YOU LIVE IN?
+
+                     WWF (World Wildlife Fund) have an international campaign about how we can make our lives better.
+                     They want children’s ideas, opinions and suggestions on problems in big cities. Discuss with your
+                     partner; write some possible answers to the problems mentioned in the following leaflet. Exchange
+                     ideas with other pairs in your class and see what they think. Use the expressions in the “Grammar
+                     Focus” table above to help you.
+
+
+               40 / Pupil’s Book • UNIT 3 - • Lesson 1
+
+
+
+037-048 up.indd 40                                                                                                       22/9/2022 3:33:00 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: game die x1 (E), writing pencil x1 (F), Grammar Focus magnifier x1. (See file header for one-time description.)
+[IMAGE 1 | top-right: Photo of a tall white Ferris wheel (observation wheel) against blue sky with buildings and grass below.]
+[IMAGE 2 | middle: Cartoon dialogue scene: dark-haired girl (left) with three yellow speech ovals ('You go to the supermarket.', 'You go every Saturday.', 'You go shopping with your mother.') and blond boy (right) with three blue ovals ('No, I don't./ Yes, I do.' each).]
+
+==============================================================================
+[PAGE 5/12 | GLOBAL PDF p.41 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                                                                                                                          3
+                                               Give us your opinions and ideas
+                                                 about the following issues:
+
+
+
+                                          going to work by bus
+
+                                               taking care of trees that are planted                               Germany
+
+                                              in front of your house or block of flats
+
+
+
+
+                                                   crossing a street
+                                                   without looking                                               Greece
+                     Canada
+
+
+                                                              helping elderly people
+                                                              in your neighbourhood
+                                                                  with their shopping
+
+
+
+                                                        riding your bike along a busy street
+                                                        or avenue.
+                                 China
+
+
+
+
+                     PROJECT
+
+
+
+                     Choose any of the issues mentioned above or any other problem you find important. Make a
+                     poster for your class, using drawings, magazine pictures, photos, real objects, stickers, badges,
+                     etc. Illustrate the problem for your classmates and add your suggestions about possible
+                     solutions. Use various sources such as relevant leaflets, WWF website (www.wwf.org) or the
+                     Greenpeace website (www.greenpeace.org).
+
+
+
+
+                                                                                         Pupil’s Book • UNIT 3 - • Lesson 1 / 41
+
+
+
+
+037-048 up.indd 41                                                                                                            26/11/2024 2:28:04 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: project easel icon x1. (See file header for one-time description.)
+[IMAGE 1 | upper part (green WWF poster): Green information poster with yellow title 'Give us your opinions and ideas about the following issues:', WWF panda logo top-left, white paw-print trail decoration. Six captioned photos: (1) top-left red London double-decker bus route 11 'going to work by bus'; (2) middle-right woman and boy watering a garden, tagged 'Germany', 'taking care of trees...'; (3) middle-left child running in front of a yellow school bus with stop sign, tagged 'Canada', 'crossing a street without looking'; (4) bottom-right old woman with stick helped by a girl on stone steps, tagged 'Greece', 'helping elderly people...'; (5) bottom-left crowd cycling across a crossing, tagged 'China', 'riding your bike along a busy street or avenue'.]
+
+==============================================================================
+[PAGE 6/12 | GLOBAL PDF p.42 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                         Lesson 2               “HOW CAN I GET TO ..............?”
+                     A LEAD-IN 8
+               What do you usually do when you don’t know the way to a place or building in your neighbourhood?
+
+
+
+
+                     B    GAME: “SIM0N SAYS...”
+               Your teacher will choose one person to be the game leader.
+               Everyone stand up. The instructions are as follows:
+               Go straight: take one step in front
+               Go back: take one step backwards
+               Turn left: turn your body left
+               Turn right: turn your body right
+               The leader should always say: “Simon says” and then the instruction. Whenever he/she does NOT say
+               “Simon says”, no one must move. Whoever moves is out of the game and and sits down. The last person
+               left in the game is the winner.
+
+
+
+                     C    LISTENING
+                                                      Ν
+                                                                                                                     ΔΗΜΟΤΙΚΟ
+                                                                                                                      ΣΤΑΔΙΟ
+               Mark is staying                W               E
+               with Kostas at his
+               flat in Nea Ionia,                     S                                                    ΚΕΝΤΡΟ
+               Athens. At the                                              7o & 20ό ΔΗΜΟΤΙΚΟ              ΝΕΟΤΗΤΟΣ
+               moment, Kostas                                                   ΣΧΟΛΕΙΟ
+
+               and Mark are in
+               Μαditou Street,                    Ν. ΙΩΝΙΑ
+               outside Kostas’ house.
+               Mark wants to go to
+               the Youth Center to                                                              ΕΙΣΟΔΙΑ
+               play chess and meet                                                             ΠΑΝΑΓΙΑΣ
+                                                                                               ΘΕΟΤΟΚΟΥ
+               other Greek children.
+               Study the map. Now
+               listen to their dialogue
+                                                              ΑΣΤΥΝΟΜΙΚΟ
+               and with a pencil                                ΤΜΗΜΑ
+               draw the route
+               which Mark takes                    KOSTAS’S
+                                                    HOUSE
+               to go from Kostas’ house
+               to the Youth centre.          © 2006 Google - Map data © 2006 teleAtlas
+
+
+
+               42 / Pupil’s Book • UNIT 3 - • Lesson 2
+
+
+
+037-048 up.indd 42                                                                                                         29/1/2015 1:44:32 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: game die x1 (B), listening cassette x1 (C). (See file header for one-time description.)
+[IMAGE 1 | middle-right: Cartoon of six standing children (girl leader in pink dress facing five children holding hands); illustrates the 'Simon says' game lineup.]
+[IMAGE 2 | bottom: Street map of Nea Ionia, Athens (Google/teleAtlas 2006) with compass rose, Greek street names and red English labels: '7o & 20o DIMOTIKO SCHOLEIO', 'KENTRO NEOTITOS', 'EISODIA PANAGIAS THEOTOKOU', 'ASTYNOMIKO TMIMA', "KOSTAS'S HOUSE" in Maditou Street; red route arrow across the bottom. Cartoon head of a brown-haired boy overlaps the bottom-right corner of the map.]
+
+==============================================================================
+[PAGE 7/12 | GLOBAL PDF p.43 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                  D   ROLE-PLAY
+              1. Imagine you live in Nea Ionia. You are outside the Youth Centre. One pupil gives directions from the
+                  Youth Center to Maditou street. Role-play the conversation.
+
+              2. Imagine you live in Nea Ionia and you are outside the Εισόδια Παναγίας Θεοτόκου church. A passer-by asks
+                  you the way to the local stadium. Role-play the conversation with the passer-by. Use the map in Activity C.
+
+
+
+                  E   LISTENING
+              Pierre, Nadine’s cousin, finds himself at the Acropolis and he is asking a passer by for advice on a good
+              traditional restaurant, the nearest metro station and a place where he can buy a flokati carpet for his family.
+              Listen to the passer-by’s recommendations and directions and pinpoint the 3 places on the map.
+
+
+
+
+                                                                                                    CAT
+                                                                                                        HEDRA
+                                                                                                             L
+
+
+
+
+                                                                                      ΑΚΡΟΠΟΛΗ
+
+
+
+                                                                                 AEROPAG
+                                                                                         ITOU ST.
+
+
+
+
+                                          © 2006 Google - Map data © 2006 teleAtlas
+
+
+
+
+                                                                                                        Pupil’s Book • UNIT 3 - • Lesson 2 / 43
+
+
+
+
+10-0103.indb 43                                                                                                                                   1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: role-play masks x1 (D), listening cassette x1 (E). (See file header for one-time description.)
+[IMAGE 1 | middle: Street map of central Athens around the Acropolis (Google/teleAtlas 2006) with Greek street names and red labels 'AKROPOLI', 'AEROPAGITOU ST.', 'CATHEDRAL'; red dot on the Acropolis with a red arrow pointing left to a cartoon blond boy (Pierre).]
+[IMAGE 2 | bottom-left: Photo of the Parthenon on the Acropolis against blue sky.]
+[IMAGE 3 | bottom-centre: Photo of a white neoclassical columned temple building with tall cypress trees and visitors in front.]
+[IMAGE 4 | bottom-right: Photo of the Tower of the Winds (octagonal marble tower) with the Acropolis behind.]
+
+==============================================================================
+[PAGE 8/12 | GLOBAL PDF p.44 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                      3
+                      Study the examples to see how we can give directions in English.
+                      Do you know any relevant expressions in your own language?
+
+                      1. How can I get to the Museum, please?                      4. Take the ﬁrst/second/third turning on your
+                                                                                      left/right
+                      2. Go along this street
+                         Walk along Maditou Street                                 5. The Youth Centre is on your right/left
+                         Go straight ahead                                            The library is at the end of this street
+
+                      3. Turn left/right into Nigdis Street
+
+
+
+
+                     F    GAME: BE A TOURIST
+                     Go to Appendix page 136, Activity A. Work in pairs and ask
+                     for and give directions: in the Map, to get to Buckingham Palace
+                     from Trafalgar Square. The expressions in the Grammar Focus
+                     may help you.
+
+
+                                                      Learning strategies
+
+                                            WORKING IN GROUPS SUCCESSFULLY
+                                             I try to learn from others
+                                             I work alone and then help others
+                                             I like to search from information                                                      The London Eye
+
+
+
+                     G    WRITING
+               Imagine that Nadine is staying with you for a couple of days in your city, town or village. During her stay,
+               she wants to visit various places in your area (e.g. museum, post ofﬁce, bank, supermarket, sports centre,
+               cinema, café, bridge, lake, church, mountain, etc).
+
+                     Write a short note to Nadine giving her directions to get to two different places you feel she may
+                     be interested in, as you have to go to school and you can’t be her “tour guide”.
+
+                     Also draw a map to help Nadine.                       Nadine,
+                                                                                                                                          ........................
+                                                                           To get to the ....................................
+                                                                                                                                        .......................
+                     Exchange notes with your partner and                  ............................................................
+                                                                                                                                        .......................
+                     correct each other’s work.                            ............................................................
+                                                                                                                                         ...........................
+                                                                            Now to get to the ........................
+                                                                                                                                         .......................
+                                                                            ............................................................
+                                                                                                                                         .......................
+                                                                            ............................................................
+                                                                            See you after school!
+
+
+               44 / Pupil’s Book • UNIT 3 - • Lesson 2
+
+
+
+037-048 up.indd 44                                                                                                                                                     22/9/2022 3:33:43 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: game die x1 (F), writing pencil x1 (G), Grammar Focus magnifier x1, dartboard x1. (See file header for one-time description.)
+[IMAGE 1 | middle-right: Photo of the London Eye observation wheel against blue sky with buildings and trees below; small caption 'The London Eye' at bottom-right.]
+[IMAGE 2 | bottom-left: Dark-green 'THE BRITISH MUSEUM' logo box beside a photo of a turquoise mosaic skull mask (Aztec-style) with snake ornaments.]
+[IMAGE 3 | bottom-right: Yellow handwriting-style note card to Nadine with dotted blanks: 'To get to the ...', 'Now to get to the ...', 'See you after school!'.]
+
+==============================================================================
+[PAGE 9/12 | GLOBAL PDF p.45 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                  Lesson 3          TALKING ABOUT A TOWN IN GREECE
+
+                  A LEAD-IN 8
+              Greece is not only Athens!
+                                                              s to ria                                Ioann
+              There are many beautiful
+              places all over the country.                 Ka                                                     ina
+              Look at the photos from
+              travel office brochures. Are
+              these towns in the north or
+              south of Greece?
+              Can you tell us some other
+              towns in Greece and if they
+              are in the north, south, east
+              or west of the country.
+
+
+
+
+                  B READING
+
+                  Now read about one of the towns. Which town is this text about?
+
+              The Location: “This town is situated in the north-west of Greece. It is a busy town where -120,000 people live.
+              The town is built next to a lake called Pamvotida. In the middle of the lake there is a small island. It is the only
+              island in a lake in Greece where people live.
+              The Surroundings: Around the town and its lake there are high mountains. That is why it is quite cold and wet
+              during winter. Τhere is snow on the mountains for over four months of the year.
+              The Town Old and New: The town is over 15 centuries old and it has a beautiful old castle overlooking the
+              lake. The view from its top is fantastic. There are many old houses inside the castle and life there is peaceful
+              and quiet. There are also modern neighbourhoods, with blocks of flats, shops, cars and busy streets.”
+
+                  The text above is divided into three paragraphs. Read it again and match the topics with the
+                  paragraphs. You will understand the way we organize our text about a place.
+
+              1. The old and the new parts of the town			                   a. paragraph 1
+              2. Where the town is built				                                b. paragraph 2
+              3. The environment surrounding the town		                     c. paragraph 3
+
+
+              What information in the text helped you do the matching activity?
+
+
+                                                                                            Pupil’s Book • UNIT 3 - • Lesson 3 / 45
+
+
+
+
+10-0103.indb 45                                                                                                                       1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: reading book x1 (B). (See file header for one-time description.)
+[IMAGE 1 | top-centre: Tilted travel-brochure photo labelled 'Kastoria' in white: lakeside town with red roofs around a lake and hills.]
+[IMAGE 2 | top-right: Tilted travel-brochure photo labelled 'Ioannina' in blue: lake, green fields and hills with town behind. (In extraction the overlaid labels surface as fragments 'Ka...s to ria' and 'Ioann...ina'.)]
+
+==============================================================================
+[PAGE 10/12 | GLOBAL PDF p.46 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                     C    VOCABULARY
+                     Find words in the text that you can write under the following categories. Then you will know the
+                     type of words we need in order to write about the place we live in. You will need them for the
+                     Project.
+
+
+                 Nouns                                   Adjectives                      Verbs
+
+                 lake,                                   busy,
+
+
+
+
+                                                CROSS CURRICULAR PROJECT
+
+                     • In small groups collect similar information about another Greek city or a city or town in
+                     another part of Europe or the world. • The pictures below give you some suggestions. • You can
+                     use encyclopedias, websites, travel guides or any other source you may think of. • Present the
+                     information in class using pictures and other interesting material.
+
+
+                     Sydney                                                                                      Moscow
+
+
+
+
+                     Thessaloniki                                                                              New York
+
+
+               M For more practice, go to Appendix, page 137, Activity A.
+
+               46 / Pupil’s Book • UNIT 3 - • Lesson 3
+
+
+
+037-048 up.indd 46                                                                                                        29/1/2015 1:52:35 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: ABC vocabulary icon x1 (C). (See file header for one-time description.)
+[IMAGE 1 | bottom-left: Photo captioned 'Sydney': Sydney Opera House and harbour skyline across blue water.]
+[IMAGE 2 | bottom-middle-left: Photo captioned 'Moscow': St Basil's Cathedral onion domes and Red Square. (Rendered top-right of the 2x2 grid.)]
+[IMAGE 3 | bottom-middle-right: Photo captioned 'Thessaloniki': White Tower, seafront road with cars and buildings. (Rendered bottom-left of the grid.)]
+[IMAGE 4 | bottom-right: Photo captioned 'New York': aerial view of Manhattan skyscrapers at the waterfront. (Rendered bottom-right of the grid.) Four photos share a yellow scalloped border.]
+
+==============================================================================
+[PAGE 11/12 | GLOBAL PDF p.47 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+                                              Name:..................................................... Class:..............................
+                                              Date:....................................................... Score:............./ 100
+
+
+              A. Spot the mistakes and rewrite the sentences
+              1. Takes the first turning on the right.
+              ........................................................................................................................................………….
+              2. My dad doesn’t think going to work by car is cheaper.
+              ........................................................................................................................................………….
+              3. In my opinions, walking is too slow.
+              ........................................................................................................................................................
+
+              4. How abouts taking the bus?
+              ........................................................................................................................................................
+
+                                                                                                                                                            Points: ....... / 20
+
+              B. Provide the missing questions or answers
+              1. How do you usually go to school? ……………………………………………
+              2. ……………………………………………………………? Mark’s father is a grocer.
+              3. ……………………………………………………………… ? Well, go down this street and you can see the bank on your
+              right.
+              4. What do you think I should buy for my dad’s birthday? …………………......……………..
+              5. How long does it take Kostas’ mother to get to work? ……………………………………..
+
+                                                                                                                                                            Points: ....... / 20
+
+              C. Ways of going to school. Look at the images. Write your opinions. Why is it a good or a bad idea to use
+              these ways to go to school?
+
+              		1. I think that ________________                                                                               3. In my opinion ________________
+              		 ____________________________		                                                                                ______________________________
+              		 ____________________________		                                                                                ______________________________
+
+              		2. It seems to me _____________ 		                                                                             4. I don’t think _________________
+              		 ____________________________		                                                                                ______________________________
+              		 ____________________________		                                                                                ______________________________
+
+
+                                                                                                                                                            Points: ....... / 20
+
+                                                                                                                    Pupil’s Book • UNIT 3 - • Self - Assessment Test / 47
+
+
+
+
+10-0103.indb 47                                                                                                                                                                    1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: no activity icons (test pages). (See file header for one-time description.)
+[IMAGE 1 | top: Light-blue 'SELF-ASSESSMENT TEST' header banner (Name/Class/Date/Score blanks) with two small cartoons of a blond boy writing at a desk: framed portrait at left, unframed at right.]
+[IMAGE 2 | lower-middle-left: Small cartoon 1 (Section C): child in green field riding a bicycle; write-on lines beside it.]
+[IMAGE 3 | lower-middle-right: Small cartoon 3: side view of a bus/train window with a passenger visible; write-on lines beside it.]
+[IMAGE 4 | bottom-left: Small cartoon 2: two smiling people in a red car; write-on lines beside it.]
+[IMAGE 5 | bottom-middle: Small cartoon 4: boy with backpack walking outdoors; write-on lines beside it.]
+
+==============================================================================
+[PAGE 12/12 | GLOBAL PDF p.48 | SOURCE: pupil_unit03.pdf]
+==============================================================================
+              D. Re-arrange the bubbles to make a dialogue between you and your friend who wants to come to your
+              party on Saturday. Write numbers in the circles.
+
+                      It’s a small house on your right. Just                        Well, go down Ermou street and then
+                             ring the bell on the gate.                               take the first turning on the left.
+
+
+
+
+                                                                       And then?
+                                                                                                    How do I get to your house?
+                     Thanks a lot. See you there!
+
+
+
+                                                                                                            Points: ....... / 20
+
+              E. VOCABULARY. Find the words in the snake and
+              write them in the spaces provided below.
+              Put them under the right category.
+
+
+
+
+                  Places                                Means of transport                      Geographical words
+
+
+
+
+                                                                                                            Points: ....... / 20
+
+                                                               Tick what’s true for you:
+
+
+                           Now I can: (tick what’s true for you)                           Learning strategies in English
+                                                                               WORKING IN GROUPS SUCCESSFULLY...
+                  c Talk about places where I live
+                                                                              c I work well with others
+                  c Express my opinion to make our lives better
+                                                                              c I do the same amount of work as the others
+                  c Ask and give simple directions in town
+                                                                              c When other pupils correct my mistakes
+                  c Write a letter giving directions how to go                  I don’t get angry
+                    somewhere in Athens
+                  c Write a text about a city / town/ village                 c I try to learn from others
+                  c Read the names of streets on a town map                   c I work alone and then help others
+                  c Read a text about a city / town/ village                  c I like to search for information
+                  c Listen to directions and follow them
+                    on a city map
+
+
+
+              48 / Pupil’s Book • UNIT 3 - • Self - Assessment Test
+
+
+
+10-0103.indb 48                                                                                                                    1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: dartboards x2 in bottom boxes. (See file header for one-time description.)
+[IMAGE 1 | top: Row of five yellow dialogue speech bubbles with blank numbering circles underneath (exercise D): 'How do I get to your house?', 'Well, go down Ermou street...', 'And then?', "It's a small house on your right...", 'Thanks a lot. See you there!'.]
+[IMAGE 2 | middle: Light-green word-snake illustration: wavy snake body filled with concatenated lowercase words (restaurant, sports-centre, metro, mountain, bakery, bus, library, lake, shoe-shop, bookshop, car, tram, river, supermarket, train, hill, boat, village, motorbike, island...) for the vocabulary sorting task; with Places / Means of transport / Geographical words table below.]

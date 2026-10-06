@@ -1,0 +1,318 @@
+==============================================================================
+SOURCE PDF : workbook_unit05.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit05\workbook_unit05.pdf
+GLOBAL PDF PAGES: 30-35
+PAGES IN THIS FILE: 6
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=11915, words~=1142
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: teal Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading; teal footer bar with Activity Book / UNIT 5 / Lesson / page.
+==============================================================================
+==============================================================================
+[PAGE 1/6 | GLOBAL PDF p.30 | SOURCE: workbook_unit05.pdf]
+==============================================================================
+                  5
+               READY FOR ACTION
+
+                                                               LESSON 1
+               M ACTIVITY A.					                                          [Differentiated Activities (*) & (**) on p. 75]
+
+               Vocabulary. Use the words in the box to fill in the paragraph which summarizes the dialogue you
+               have listened to Pupil’s Book, Listening, p. 62.
+
+
+                          environmental		recycle                hand		hold		persuade
+                          save                      organize    terrific      let                results
+
+
+               Kostas’ teacher suggested that his class should …………………… a project on
+               recycling.
+                    So Kostas and his classmates are working on an …………………….....…….
+                          project at present. They are going to …………………. out leaflets and brochures, as
+                            they want to …………………… pupils at school to ……………………….. paper,
+                            glass, aluminium and plastic. They aren’t going to ………. an exhibition at school yet,
+                            but they intent to as they want to ………………. our planet.
+               Mark finds Kostas’ idea ………………….. and he wants to try it out with his class, too. At the
+               same time, he wants Kostas to ………… him know about the ……………. of his project.
+
+               M ACTIVITY B.		                                                      [Differentiated Activity (**) on p. 76]
+
+               Vocabulary. Match the phrases.
+                                                   1. make				                a. recycling seriously
+                                                   2. together				            b. things for recycling
+                                                   3. hold				                c. leaflets
+                                                   4. collect				             d. a decision
+                                                   5. produce				             e. know as soon as possible
+                                                   6. worried				             f. a project
+                                                   7. give out				            g. tons of rubbish
+                                                   8. take 				               h. about environmental problems
+                                                   9. let someone			          i. an exhibition
+
+
+               30 / Activity Book • UNIT 5 • Lesson 1
+
+
+
+10_0104_agglika.indd 30                                                                                                       1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: photo pile of recyclable packaging and newspapers.]
+[IMAGE 2 | mid-right, small: tin cans.]
+[IMAGE 3 | mid-left, small: plastic bottles and containers.]
+[IMAGE 4 | bottom-left: Green Tip of the Month Recycle poster thumbnail with a blue bin.]
+[IMAGE 5 | bottom-mid, small: glass bottles and jars.]
+
+==============================================================================
+
+[PAGE 2/6 | GLOBAL PDF p.31 | SOURCE: workbook_unit05.pdf]
+==============================================================================
+                                                                                                            10
+                                                                                                            5
+               M ACTIVITY C.                                                   [Differentiated Activity (*) on p. 76]
+
+               Grammar: Present continuous, going to, and Future: Choose.
+               1. I think more people (travel) …………………………… through space in ten years’ time.
+               2. What (you/do)…………………………… this weekend?
+               Well, I don’t know yet. You see, a friend of mine (have) ……………………….. a birthday party
+               and I’d love to go, but I (take) ……………………….. a maths test on Monday and I really must
+               study.
+               3. What (you/do)…………………….. if your friend does not invite you to his party?
+               Well, I (be)………………….. pretty sad, I guess, but I (ask)………………………. him why.
+               4. Kostas’ class (work on )……………………….....….. an environmental project at the moment.
+               They have made certain decisions.
+               From now on, all the pupils in his class (recycle)………………………..…… paper, glass,
+               aluminium and plastic. At the same time, they (visit)……………………………. the city Mayor
+               and (ask) ……………………….. to place some recycle bins around the city. Furthermore,
+               they (plant) ………………………….. some trees in the nearby forest. Do you think they
+               (succeed)………………………. in helping save Earth?
+               M ACTIVITY D.
+               Georgia is going away for the weekend with her family. Look at the pictures and find out what she
+               is going to do. Write sentences using the clues in the box.
+               e.g. She’s going to visit the environmental center of Arcturos
+
+
+                  visit / environmental center / Arcturos
+                  take / photos					
+                  get information / by volunteers
+                  see / bears
+                  adopt / bear
+                  buy / T-shirt
+
+
+
+               1. …………………………………………………………………………………………………
+
+               2. …………………………………………………………………………………………………
+
+               3. …………………………………………………………………………………………………
+
+               4. …………………………………………………………………………………………………
+
+               5. …………………………………………………………………………………………………
+
+                                                                                 Activity Book • UNIT 5 • Lesson 1 / 31
+
+
+
+
+10_0104_agglika.indd 31                                                                                                   1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right: photo of Arcturos road signs reading PERIVALLONTIKO KENTRO ARKTOUROU / ARCTUROS ENVIRONMENTAL CENTRE, KENTRO ENIMEROSIS GIA TIN ARKOUDA / BEAR INFORMATION CENTRE and KATAFYGIO ARKOUDAS NYMFAIOU / BEAR SANCTUARY.]
+[IMAGE 2 | bottom-right: cartoon brown bear.]
+
+==============================================================================
+
+[PAGE 3/6 | GLOBAL PDF p.32 | SOURCE: workbook_unit05.pdf]
+==============================================================================
+                  5
+               M ACTIVITY E.
+
+               Recycling: Think before you throw your rubbish away!!!
+               Rearrange the letters to write the correct names of the things in the picture. What are these things
+               made of? Put them in the appropriate Recycling boxes: things made of glass go into the GLASS BOX,
+               things made of plastic go into the PLASTIC BOX, things made of paper go into the PAPER BOX
+               and things made of metal go into the METAL BOX. As for vegetables and fruit, they go into the
+               COMPOST BOX, as compost feeds the ground and helps trees and plants develop.
+
+
+               mcsoic             dc			lodl			onops		
+               nca		gmanizeas		rca dloem		lsapcit agb
+
+                             PAPER BOX		                         METAL BOX		             PLASTIC BOX
+               				
+               				
+
+
+               		
+
+
+                   COMPOST BOX                  GLASS BOX
+               		
+
+
+               		
+
+
+               				
+               rwnppeaes rja               ooptatse          oatomt
+               uecttel            totleb		          nwowid
+
+
+
+
+                  (Adapted from Myles, J. (2001) Holidays and Special Days in the USA)
+
+
+
+               32 / Activity Book • UNIT 5 • Lesson 1
+
+
+
+10_0104_agglika.indd 32                                                                                               1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right: photo of three outdoor recycling bins (yellow, red, blue) with a Recycling Bins sign; labels read Drink cans, Glass and Plastic Bottles, Paper.]
+[IMAGE 2 | bottom strip, background: faded photo of rusty metal cans and lids.]
+
+==============================================================================
+
+[PAGE 4/6 | GLOBAL PDF p.33 | SOURCE: workbook_unit05.pdf]
+==============================================================================
+                                                                                                                  5
+                                                          LESSON 2
+               M ACTIVITY A.
+                                         RECYCLING – Yes, there is a lot we can do!
+               Of course we can help save our environment. Why don’t you try and sort out the activities below in two
+               columns? Decide which are the things you can do at home and write them under the first column. Then
+               decide which ones you can do at school and write them under the second column. There are some which
+               can be done both at home and at school. Write them in both columns. Make any necessary changes.
+               Then draw a picture that can show one or more of these problems. Compare what you did with those
+               of your classmates.
+
+
+               		              AT SCHOOL				                            AT HOME
+
+                      		      We can				                                 We can
+
+
+
+
+                           - try to persuade/ classmates/teachers
+                           - try to persuade /parents/family
+                           - avoid using plastic forks/knives/plates, etc.
+                           - collect used paper/newspapers/magazines/recycling
+                           - put recycling bins/out/classrooms/teachers’ room/playground.
+                           - plant a tree/take care of it.
+                           - bring/ food from home/ re-usable boxes.
+                           - use re-chargeable batteries.
+                           - use notebooks/made/recycled paper.
+
+
+
+
+                                                                                     Activity Book • UNIT 5 • Lesson 2 / 33
+
+
+
+
+10_0104_agglika.indd 33                                                                                                       1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | centre: open spiral-notebook illustration with AT SCHOOL / We can and AT HOME / We can columns.]
+[IMAGE 2 | bottom-left: empty red picture frame.]
+[IMAGE 3 | bottom-right: empty gold picture frame.]
+
+==============================================================================
+
+[PAGE 5/6 | GLOBAL PDF p.34 | SOURCE: workbook_unit05.pdf]
+==============================================================================
+                    5
+               M ACTIVITY B.
+                                           Protect the environment. Save energy!
+               How much energy can you save? Have you ever thought how much energy we spend at home
+               every year? Here is some information that Greenpeace presents about how much energy we
+               waste every year because we leave our appliances at the stand-by mode. Read the facts in the
+               table below and try to find out how much money you could save every year, taking into account
+               that the average cost is 0.086€/kWh (2005)
+
+               €€
+                          ELECTRIC APPLIANCES                 KWH / YEAR		                       COST €/YEAR
+                          ON STAND-BY MODE
+                          TV					                                193				                             16,60 €
+                          Video					                             263				
+                          DVD					                               131				
+                          CD Player				                          61				
+                          PC Screen				                          88				
+                          Printer					                           70				
+                          Scanner				                            53				
+                          Microwave				                          105				
+                          Washing machine			                     61				
+                          TOTAL
+
+
+                                                        Sourse: https://www.greenpeace.org/greece)
+
+
+
+
+               34 / Activity Book • UNIT 5 • Lesson 2
+
+
+
+10_0104_agglika.indd 34                                                                                        1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-left: Greek DEI energy poster (MIN KANEIS KATI MEGALO KANE KATI APLO) with a family photo.]
+[IMAGE 2 | bottom-mid: cartoon blue TV.]
+[IMAGE 3 | bottom-centre: cartoon pink washing machine.]
+[IMAGE 4 | bottom-right: cartoon green microwave.]
+
+==============================================================================
+
+[PAGE 6/6 | GLOBAL PDF p.35 | SOURCE: workbook_unit05.pdf]
+==============================================================================
+                                                                                                                   5
+                                                            LESSON 3
+               M ACTIVITY A.
+               Choose an issue and send your e-card including your slogan to a friend. Try to make him/her aware of the
+               problem. Draw or stick a photo that shows the problem.
+
+                                 Take action now and send an e−postcard!
+                                Send the e-card below to let your friends and family know about
+                                Passport and how they can get involved and make a difference.
+
+
+
+                          Fill out the back of your postcard
+                          and click “send NOW” to deliver your message.
+
+                                                               <Your ﬁrst name:>
+                                                               <Your last name:>
+                                                               <Your e-mail address:>
+
+
+
+
+                  Draw or stick
+                   your photo
+                      here!
+
+
+
+
+                                                                                      Activity Book • UNIT 5 • Lesson 3 / 35
+
+
+
+
+10_0234_agglika.indd 35                                                                                                  28/9/2022 9:51:56 πµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left, small: orange passport/e-card icon beside the Take action now heading.]
+[IMAGE 2 | centre: e-postcard form mockup with name/email fields and a WWF panda stamp.]
+[IMAGE 3 | bottom: empty wooden picture frame with a red arrow reading Draw or stick your photo here!.]

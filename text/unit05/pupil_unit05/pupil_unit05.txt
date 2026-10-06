@@ -1,0 +1,764 @@
+==============================================================================
+SOURCE PDF : pupil_unit05.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit05\pupil_unit05.pdf
+GLOBAL PDF PAGES: 61-72
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=37361, words~=3391
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+RECURRING ELEMENTS (described once here; per-page blocks give counts only): blue 'Unit 5' header bar; red circular activity-letter badges; small activity-type icons: listening cassette, writing pencil, reading open-book, speaking bubble, game die, portfolio folder, group-faces, 'GRAMMAR FOCUS' magnifying glass, 'Learning strategies' dartboard; pale-yellow instruction bubbles; blue footer bar with book page number.
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.61 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                                                                                    5
+
+
+                  In this unit:   0 We read about ways of loving our planet
+                  			 0 We write about ways we can protect
+                  		                the environment in our neighbourhood
+                  0 We listen to ways we can reduce waste
+                  0 We speak about what not to do when we are in a place like 		
+                     Zagorochoria
+
+
+
+                      Listen to the problems and match with solutions.
+
+
+
+                                         I’m going
+                                   to recycle paper and
+                                    glass from now on.
+
+
+
+
+                          We must all do
+                        everything we can
+                         to help save our
+                              planet.
+
+
+
+
+                                                  If we all do our best,
+                                                 our planet will survive.
+
+
+
+
+10-0103.indb 61                                                                         1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: no activity icons (unit title page). (See file header for one-time description.)
+[IMAGE 1 | centre collage (six photos): Six green-bordered photos on a recycling-arrow/star background: blue recycling bin overflowing with paper (left); yellow plastic-bottle bank with Greek/English text (top-right); outdoor recycling kiosk labelled 'SHMEIO ANAKYKLOSIS' (centre); small wooden 'Recycle!' box with hand symbol (middle-right); green 'Ellada, to spiti mas' environment sign (bottom-left); white event tent with the same slogan and water-drop logo (bottom-right).]
+[IMAGE 2 | centre/right cartoons: Two cartoon faces: brown-haired boy (Kostas) centre and blond girl bottom-left, with three green thought/speech bubbles: 'I'm going to recycle paper and glass from now on.', 'We must all do everything we can to help save our planet.', 'If we all do our best, our planet will survive.'.]
+
+==============================================================================
+[PAGE 2/12 | GLOBAL PDF p.62 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                  10
+                   Lesson 1               AN AMBITIOUS CLASS PROJECT
+
+                  A LEAD-IN 8
+              What does this sign tell you? Where can you find it?
+              You can check your ideas in the following website: www.greenpeace.gr
+
+
+                  B    LISTENING
+                  1. Mark is back at home. Listen to the conversation that Mark and Kostas are having today. What
+                      are they talking about?
+                  2. Listen again and see which of these sentences are true (T) and which are false (F).
+
+                                                                                                        T            F
+              1. Kostas is busy today because he’s studying.                                            c            c
+              2. Their teacher asked them to think about ways they can save
+                 the environment.                                                                       c            c
+              3. They’re going to organize a project on recycling.                                      c            c
+              4. They’re handing out leaflets and brochures about recycling
+                 tomorrow evening.                                                                      c            c
+              5. Mark is thinking about trying it out with his classmates.                              c            c
+
+
+
+                  C    ACTING OUT ACTIVITY
+
+                  Your teacher has told you that one way of saving our environment is by not producing so much
+                  rubbish. Imagine you and your partner are Mark and Kostas. Which of the following actions could you
+                  take? The teacher will provide you with a model or alternatively you can create one of your own.
+
+                                                     Ways to produce less rubbish
+              • Re-use books and notebooks • Re-use plastic bags for shopping at the supermarket
+              • Use re-chargeable batteries • Buy water or refreshments in glass bottles which
+              can be recycled. • Check if the package of the things you buy is environmentally
+              friendly – i.e. can be recycled.
+              • ………………………………………………….....................………………………..
+              • ……………………………………………………………………….....................…..
+
+
+                  Enrich your conversation by using expressions like:
+                  One thing I could do is .............
+                  Another thing is .............
+
+
+              62 / Pupil’s Book • UNIT 10
+                                       5-•- •Lesson
+                                              Lesson11
+
+
+
+
+10-0103.indb 62                                                                                                          1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: listening cassette x1 (B), masks x1 + pencil x1 (C). (See file header for one-time description.)
+[IMAGE 1 | top-right: Illustration of planet Earth wrapped in three large 3D recycling arrows (green, yellow, red).]
+[IMAGE 2 | bottom-right: Photo: black rubbish bag full of paper packaging and four small colourful plastic cups (yellow, green, red, blue) on a table; illustrates disposable vs reusable items.]
+
+==============================================================================
+[PAGE 3/12 | GLOBAL PDF p.63 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                                                                                                                           10
+                                                                                                                            5
+                     D     ADVICE FOR THE HOME
+
+                     • Now write down clearly as many of the recommendations you came up with in Activity C.
+                     • Take them home and discuss with your family.
+                     • By the end of the school year report back into class on how many of these you and your family
+                     were able to do.
+
+               M If you want to ﬁnd out more about recycling, check the websites included in the Appendix, page 140.
+
+
+
+                      Study the following examples to see how we can talk about
+                      A) PLANS AND INTENTIONS
+                      Kostas is going to try to persuade his friends and neighbours to take recycling seriously.
+                      What are you going to do to help save our planet?
+                      I’m going to collect paper, glass, aluminium and plastic for recycling.
+                      B) ARRANGEMENTS
+                      We’re handing out leaﬂets and brochures tomorrow.
+                      I’m meeting my schoolmates later on today. We’re going to the sports centre to play handball.
+                      C) PREDICTIONS AND HYPOTHESES IN ENGLISH
+                      I think I’ll try out your idea with my family.
+                      I believe things will be much better in the future.
+                      If my plan works out, we’ll manage to do something about our future on this planet.
+
+
+
+               M You can also study DISCOVER GRAMMAR pp. 155-157.
+
+                     E     LISTENING
+
+                     Listen to what a British child is saying to the local reporter
+                     about a campaign his school is organizing. As you listen, try to
+                     take notes. In the spaces below write A. for intentions, B. for
+                     plans, and C. their predictions. Discuss with your classmates
+                     and decide if you could also do the same at your school.
+
+
+                     1. ....... collect money for class trip.
+
+                     2. ....... put bins to collect used paper
+
+                     3. ....... bring old newspapers and magazines
+
+                     4. ....... manage to get the money needed.
+
+
+
+                                                                                             Pupil’s
+                                                                                              Pupil’sBook
+                                                                                                      Book••UNIT  5 - • Lesson 1 / 63
+                                                                                                             UNIT10
+
+
+
+
+061-072 up.indd 63                                                                                                                22/9/2022 3:38:05 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: writing pencil x1 (D), listening cassette x1 (E), Grammar Focus magnifier x1. (See file header for one-time description.)
+[IMAGE 1 | bottom-right: Photo of a blue recycling bin with a yellow-green Greek sticker ('... anakyklosi syskeuasion') showing packaging sorting pictograms (bottles, cartons, tins).]
+
+==============================================================================
+[PAGE 4/12 | GLOBAL PDF p.64 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                  10
+                  F QUIZ: “WHAT A WASTE!”
+
+                  Work with your partner and find how much energy will be saved if you decide to apply your plan at
+                  school. Try to make the calculations. Here are the facts you need to take into consideration:
+
+
+                   For the production of 1 tonne (1.000 kg) of paper we spend :
+                   1) 4.000 kg of wood		        2) 40.000 litres of water       3) 7.000 kWatts of energy
+                   Can you work out how many trees, how much water and how much energy we waste in Greece if we
+                   think of the 700,000 tonnes of paper we send to the landfills each year?
+                   700,000 tonnes of paper = 1) ………………………….. kg of wood
+                   				                         2) …………………………... litres of water
+                   				                         3) …………………………... kWatt of energy
+
+
+
+
+                  G PORTFOLIO
+
+                  • Use all the ideas mentioned in the activities above to write a letter to an English-speaking friend
+                     of yours letting him or her know about the environmental work you are doing in your school.
+                  • Include all information you think is necessary as well as pictures, photos and drawings.
+                  • Let your partner check what you have written.
+                  • If in difficulty you can ask your teacher for help.
+                  • Then re-write it following any comments made. Your letter may start and continue as follows:
+
+
+
+
+                   Hello, there!
+                   How are you? Are you doing anything special at school this month?
+                   Well, I must tell you I’m very proud of my school and myself because we’re carrying out a
+                   recycling campaign. Let me tell you now a few things about it.
+                   We’re.....................................................................................................................................................
+                   We’re also going to ......................................................................................................................
+                   ................................................................................................................................................................
+                   Finally, I think that we’ll .....................................................................................................
+                   ................................................................................................................................................................
+                   How about that? How do you like our work? Would you like to try
+                   it with your class? Let me know as soon as possible.
+                   Write back
+                   ...................................................
+
+
+
+
+              64 / Pupil’s Book • UNIT 10
+                                       5-•- •Lesson
+                                              Lesson11
+
+
+
+
+10-0103.indb 64                                                                                                                                                                       1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: game die x1 (F), portfolio folder x1 (G). (See file header for one-time description.)
+[IMAGE 1 | middle-right: Circular green badge/logo photo with yellow Greek text 'Vohithao ki ego stin anakyklosi!' (I help recycling too!).]
+
+==============================================================================
+[PAGE 5/12 | GLOBAL PDF p.65 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                                                                                                                           10
+                                                                                                                            5
+                     Lesson 2                LET’S DO IT!!!
+
+                     A LEAD-IN 8
+               Do you remember Kostas’ class environmental project?
+               Besides giving information about recycling to their fellow pupils, Kostas’ class decided to do a survey about
+               pupils’ environmental attitude. Think of questions to ask your classmates.
+
+
+
+                     B   READING
+               These are some of the questions included in the pupils’ questionnaire. Read them carefully and answer
+               them to find out if you love planet Earth.
+
+
+                                                         DO YOU LOVE OUR PLANET?
+                                              Let’s find out together. Remember to be honest!
+                      1. Do you turn off the light when you leave your bedroom?
+                          a. Yes, always                      b. Sometimes                  c. No, I don’t.
+                      2. How do you usually go to school?
+                          a. By car                           b. On foot                    c. By bus
+                      3. What do you usually do with your rubbish from a picnic?
+                          a. I leave it there                 b. I put it in a rubbish bin  c. I take it home
+                      4. Do you use both sides of a piece of paper when you write?
+                          a. Sometimes                        b. Never                      c. I usually do
+                      5. Do you ever use recycled paper?
+                          a. What’s that?                     b. Usually                    c. Sometimes
+                      6. What do you usually do if there is rubbish on the beach?
+                          a. I take it and put it             b. I leave it on the beach    c. I throw it in the sea
+                          in the litter bin
+                      7. Do you buy plastic cups, knives or forks?
+                          a. Yes, I do. I hate washing up     b. Sometimes                  c. No, never
+                      8. Do you watch environmental programmes on TV?
+                          a. No, never                        b. Very seldom                c. Yes, always
+                      9. Do you leave the water running when you brush your teeth?
+                          a. Yes, I do.                       b. Sometimes.                 c. No, never.
+                     10. Do you take part in planting expeditions with your school or city?
+                          a. Yes, sometimes.                  b. No, never.                 c. Yes, I usually do it
+                     			                                                                    twice a year.
+
+                                      (Adapted from Myles, J. (2001) Holidays and Special Days in the USA)
+
+
+                                                                                             Pupil’s
+                                                                                              Pupil’sBook
+                                                                                                      Book••UNIT               1 / 65
+                                                                                                                  5 - • Lesson 2
+                                                                                                             UNIT10
+
+
+
+
+061-072 up.indd 65                                                                                                               26/11/2024 11:21:54 πµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: reading book x1 (B); questionnaire box itself is text. (See file header for one-time description.)
+[IMAGE 1 | centre: Light-blue cloud-patterned 'DO YOU LOVE OUR PLANET?' questionnaire box (10 numbered multiple-choice questions about lights, transport, rubbish, paper, water, TV habits); decorative box, all wording captured in extraction so described here once as a graphic element.]
+
+==============================================================================
+[PAGE 6/12 | GLOBAL PDF p.66 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                  10
+              Check the answers in the Answer key to see whether your attitude to nature is positive or not.
+
+                  Answer key
+                  Question 1.       a. 3 points       b. 2 points      c. 1 point
+                  Question 2.       a. 1 point        b. 3 points      c. 2 points
+                  Question 3.       a. 1 point        b. 2 points      c. 3 points
+                  Question 4.       a. 2 points       b. 1 point       c. 3 points
+                  Question 5.       a. 3 points       b. 1 point       c. 2 points
+                  Question 6.       a. 3 points       b. 1 point       c. 2 points
+                  Question 7.       a. 1 point        b. 2 points      c. 3 points
+                  Question 8.       a. 1 point        b. 2 points      c. 3 points
+                  Question 9.       a. 1 point        b. 2 points      c. 3 points
+                  Question 10.      a. 2 points       b. 1 point       c. 3 points
+
+
+
+
+                    24-30 points: Congratulations!!! You are a friend of the Earth after all. Keep up the good work and try
+                    to encourage other people to follow your example.
+                    17-23 points: You take care of our planet, but not as much as you should. Why not try harder? Our
+                    planet needs your help!
+                    10-16 points: Well, I’m afraid your attitude to Earth is not friendly. You must try hard to protect nature.
+                    After all, you belong to nature. Have you ever thought of that?
+
+
+
+
+                   C      SPEAKING & WRITING
+
+                   In small groups decide how you can organize a small project to inform pupils in other schools
+                   around the world about environmental problems in our town/city/country. You must think of 2 or 3
+                   activities that you can prepare with your partner and make a list. By the end of the school year
+                   report back into class on how many of these you and your family were able to do.
+
+
+
+              Stages:
+              • Choose your team
+              • Decide on the issues and write them down clearly
+              • Decide on what information you need to gain a better understanding of the problems
+              • Decide where you will find this information
+              • Elicit possible and achievable(!) solutions to the problems
+              • Choose solutions
+              • Think of who will outline and present the solutions
+              • Decide on who will prepare the presentation
+              • Decide on what realia you will need for the presentation
+               (photos, newspaper cutouts, poster, leaflet, short video, drawings)
+
+              66 / Pupil’s Book • UNIT 10
+                                       5-•- •Lesson
+                                              Lesson21
+
+
+
+
+10-0103.indb 66                                                                                                                   1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: speaking bubble x1 + pencil x1 (C). (See file header for one-time description.)
+[IMAGE 1 | top-right: Photo of a desktop globe covered in green grass with dark-green recycling arrows on it, on a black stand.]
+[IMAGE 2 | bottom-right: Cartoon of a stressed man driving a red car, engulfed in grey exhaust-smoke clouds; illustrates air-pollution/traffic vocabulary.]
+
+==============================================================================
+[PAGE 7/12 | GLOBAL PDF p.67 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                                                                                                                          10
+                                                                                                                           5
+                      Project title:
+
+                      Monday     We are
+
+
+                      Tuesday
+
+
+                      Wednesday
+
+
+                      Thursday
+
+
+                      Friday
+
+
+                      Saturday
+
+
+                      Sunday
+
+
+
+
+               M See Appendix, page 140, Activity A for an alternative speaking task.
+
+
+                     D      LISTENING
+
+                     Kostas and his father are talking to people who are taking part in a CLEAN UP GREECE summit
+                     meeting for the environment organized in Athens. Listen to some tips that one of the participants
+                     offers to Kostas. He believes that people should follow them when they go shopping so they can
+                     reduce waste. Put a tick 0 next to the pictures which are positive advice or a cross ; next to
+                     negative action.
+
+
+
+
+                                                         b. .......               c. .......
+                                                                                                             Kostas
+
+                               a. .......
+                                                                                                             f. .......
+
+
+                                            e. .......
+
+               d. .......
+
+               Create a slogan and put it up on the classroom wall.
+
+                                                                                       Pupil’s
+                                                                                        Pupil’sBook
+                                                                                                Book••UNIT               1 / 67
+                                                                                                            5 - • Lesson 2
+                                                                                                       UNIT10
+
+
+
+
+061-072 up.indd 67                                                                                                         26/11/2024 11:20:59 πµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: pencil graphic x1 (project title), listening cassette x1 (D). (See file header for one-time description.)
+[IMAGE 1 | top: Notebook-style project diary template (Project title, Monday-Sunday lines) decorated with a yellow pencil (top-left) and a small green traffic-light cartoon with yellow starburst (top-right).]
+[IMAGE 2 | bottom (seven small pictures a-f): Listening-task pictures: (a) woman with string shopping bag (Greek caption); (b) black plastic rubbish bag; (c) open empty cardboard box; Kostas cartoon head (brown hair, striped shirt); (d) orange circular recycle-arrows symbol; (e) orange litter-bin pictogram (figure dropping litter); B&W protest photo with WWF banner 'ANATHEORISTE TI STASI SAS GIA TO PERIVALLON'; (f) colour greengrocer's stall with tomatoes, peppers, cabbages. Write-on ticks/crosses lines ('a. ...' etc.) beneath.]
+
+==============================================================================
+[PAGE 8/12 | GLOBAL PDF p.68 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                 10
+                  5
+                     Study the following sentences to see how we can talk about
+                     a) abilities
+                     I can speak English.
+                     Dogs and rhinos can swim but elephants or cats can’t.
+                     We can plant trees to make our neighbourhood prettier.
+                     b) obligations
+                     People must obey the laws of their country.
+                     We must do everything we can to help the Earth survive.
+                     c) how we can give advice in English.
+                     You should write on both sides of a piece of paper so as not to waste any paper.
+                     What do you think I should do?
+                     I think you should study harder to get better marks at school.
+                     You shouldn’t be so rude to your granny, Clarice! She’s an elderly person and deserves your
+                     respect!
+
+
+
+
+                     E   PAIR OR GROUP WORK
+
+                 • Work in pairs or groups and prepare posters using ideas from this unit or your own ideas about
+                   environmental protection.
+
+                 • Discuss with your fellow pupil or pupils and decide what to include in your posters and why.
+                   You may use the expressions in the Grammar Focus to decide upon action that is absolutely
+                   necessary (obligation) or action that is worth taking (advice).
+
+                 • You could also talk about environmental problems shown in the pictures below.
+
+                 • You could also use your ideas from Activity C.
+
+
+
+
+               68 / Pupil’s Book • UNIT 10
+                                        5-•- •Lesson
+                                               Lesson21
+
+
+
+
+061-072 up.indd 68                                                                                                  22/9/2022 3:37:27 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: Grammar Focus magnifier x1, group-faces icon x1 (E). (See file header for one-time description.)
+[IMAGE 1 | bottom (six cartoons): Six small boxed cartoons with dotted caption lines: green frog/lizard among scattered litter; grey dog holding a wooden 'SAVE THE TREES' placard; crying blue Earth face with grey smoke clouds; smiling brown bear; small red car towing a trailer piled with grey rubbish sacks; smiling couple holding hands on a zebra crossing.]
+
+==============================================================================
+[PAGE 9/12 | GLOBAL PDF p.69 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                                                                                                                             10
+                                                                                                                              5
+                     F    READING & WRITING                                                           Learning strategies
+
+                         DIFFERENT COUNTRIES                                                TO BE BETTER AT READING
+                                                                                            c I try to guess what it’s about
+
+                         DIFFERENT PROBLEMS                                                 c I read the text once to get an idea
+                                                                                            c I don’t worry about unknown words
+
+                         ONE SOLUTION
+                         ….ACT NOW!
+
+
+               text adapted from: https://www.wwfmmi.org/?8022/Forest-fires-inthe-Mediterranean-aburning-issue
+
+
+
+                                                   Mediterranean Forests
+                     The Mediterranean is one of the most important regions in the world for its forests. These forests are
+                     situated in an area between the European, African and Asian continents and are very important for their
+                     biodiversity features – plants and animals.
+                     But the Mediterranean forests are under threat. One of the most serious
+                     threats is fires. This has caused serious problems in the area during the
+                     last few decades. Other general threats to the Mediterranean forests are:
+                     • Climate change
+                     • Droughts and floodings
+                     • Extensive building development
+                     • Atmospheric pollution
+
+
+
+
+               Task: Read the text, look at the photos and then make a chart listing country in the Mediterranean area and
+               problem and (where possible) solutions. Discuss with your partner.
+
+
+                                                                                                     Lebanon
+                                                                                                     Violence and war
+                                           Italy
+                                                                                                     destroys the natural
+                                           People cause fires                                        environment
+
+
+
+
+                                           Greece                                                    Turkey
+                                           Building development                                      Too much lumbering
+                                           threatens forests                                         reduces forests
+
+
+                                                                                           Pupil’s
+                                                                                            Pupil’sBook
+                                                                                                    Book••UNIT               1 / 69
+                                                                                                                5 - • Lesson 2
+                                                                                                           UNIT10
+
+
+
+
+061-072 up.indd 69                                                                                                                  26/11/2024 2:26:48 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: book x1 + pencil x1 (F), dartboard x1. (See file header for one-time description.)
+[IMAGE 1 | top-centre: Small title vignette: cartoon cluster of green trees beside the heading 'DIFFERENT COUNTRIES DIFFERENT PROBLEMS ONE SOLUTION ....ACT NOW!'.]
+[IMAGE 2 | middle: Pale-yellow 'Mediterranean Forests' information box (WWF-adapted text) with a small cartoon green tree illustration at its bottom-right.]
+[IMAGE 3 | bottom (four photos): Photo Italy (bottom-left-1): forest fire flames among trees, captioned 'Italy - People cause fires'. Photo Lebanon (top-right): city buildings under huge grey smoke/dust clouds, 'Lebanon - Violence and war destroys the natural environment'. Photo Greece (bottom-left-2): large red building complex on a wooded hillside, 'Greece - Building development threatens forests'. Photo Turkey (bottom-right): misty green forested mountain valley, 'Turkey - Too much lumbering reduces forests'.]
+
+==============================================================================
+[PAGE 10/12 | GLOBAL PDF p.70 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                  10
+                  Lesson 3 MY WORK CAN MAKE A DIFFERENCE!
+
+
+                  A    LEAD-IN 8
+
+              Have you ever visited a forest? What can a person do and what cannot do in a forest? Think and discuss
+              with your partners.
+
+
+                  B SPEAKING & WRITING
+
+                  You want to send this photo to your friend in Australia who is going to visit Zagorochoria next
+                  summer. Tell him what the problems are and what he should do when he is there. Make a list like the
+                  one in the Activity F, page 69.
+
+
+
+
+                                       PROBLEMS                                             ADVICE
+
+
+
+
+              M For extra WWF guidelines on Zagorochoria, see Appendix p.141. Transfer these guidelines, which are
+              in Greek, into English and fill in the boxes above.
+
+
+
+                                               CROSS CURRICULAR PROJECT
+
+
+                  Work in small groups and imagine you are an English-speaking person who has moved to a new area
+                  and finds that some things must change. Look at the following issues. Choose one issue and prepare
+                  a project. Use the ideas from this unit and write to the Mayor of your town/city.
+                  Issues: 1. Place recycle bins in public places			             3. Organize a planting expedition
+                           2. Place battery-disposal bins in public places		     4. Any other ideas you may think of
+                  Prepare a poster encouraging people to take the situation seriously. Make sure they become aware
+                  of the problem and its solutions.
+                  Finally, you can visit any of the websites mentioned in the Appendix and get information about
+                  environmental issues, learn about other places that face problems and what’s more do the quizzes,
+                  fun activities, paint pictures and sing songs. Have fun!
+
+              M For a fun Recycling Board Game, go to Appendix, page 142-143.
+
+              70 / Pupil’s Book • UNIT 10
+                                       5-•- •Lesson
+                                              Lesson31
+
+
+
+
+10-0103.indb 70                                                                                                         1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: speaking bubble x1 + pencil x1 (B). (See file header for one-time description.)
+[IMAGE 1 | middle (two photos): Photo left: green Greek/English National Park sign 'ETHNIKOS DRYMOS VIKOU-AOOU / NATIONAL PARK VIKOS-AOOS, Central Park of the Park'. Photo right: weathered Greek-only forest notice nailed to a tree ('DASARXEIO KONITSAS ...'). PROBLEMS/ADVICE table below for the Zagorochoria writing task.]
+
+==============================================================================
+[PAGE 11/12 | GLOBAL PDF p.71 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                                                                                                                                                         10
+
+                                            Name:..................................................... Class:..............................
+                                            Date:....................................................... Score:............./ 100
+
+
+                  A. Use the words in the box to fill in the following sentences.
+
+                                                     glass, reduce, litter, chargeable, reuse, print, disposal,
+                                                                            recycle, friendly, pollution
+
+                  1. We can do many things to save the environment from the rubbish.
+                    The first thing is .................., which means “try not to use something as much as you used to”
+                  2. The second of the three “Rs” is ..........................., which ,again means “ use it again”
+                  3. And, finally, the third “R” is ........................ , which means “take it to special bins so that it is
+                     made into new material again”
+                  4. The things we can recycle are paper, ................., aluminium and plastic.
+                  5. Those who recycle take part in recycling projects are environmentally ................ people.
+                  6. The other word for rubbish is ...........................
+                  7. We can save trees if we .................. on both sides of our paper on the printer.
+                  8. When we use the school bus we reduce traffic and air .............
+                  9. You can take your batteries to battery- ...................... bins,
+                  10. or else , you can use re-...................... batteries.
+
+                                                                                                                                              Points: ....... / 30
+
+
+                  B. Spot the mistakes and rewrite the sentences in the space provided.
+
+                  1. What you will do tomorrow afternoon, Jack?
+                  ...................................................................................................
+                  2. I’ll meet John and we go to the sports centre.
+                  ...................................................................................................
+                  3. We must to do everything we can to help save our planet.
+                  ...................................................................................................
+                  4. Ok Mum. I promise I’m going to call you the moment we get to Korinthos.
+                  ...................................................................................................
+                  5. If his plan work out, he’s going to get the first prize.
+                  ...................................................................................................
+
+
+                                                                                                                                              Points: ....... / 30
+
+                                                                                                          Pupil’s BookPupil’s
+                                                                                                                      • UNITBook
+                                                                                                                              5 - ••Self
+                                                                                                                                     UNIT- Assessment
+                                                                                                                                            10 - • Lesson 1 / 71
+                                                                                                                                                       Test
+
+
+
+
+10-0103.indb 71                                                                                                                                                      1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: no activity icons (test page); header cartoons counted below. (See file header for one-time description.)
+[IMAGE 1 | top: Light-blue 'SELF-ASSESSMENT TEST' header banner (Name/Class/Date/Score) with two small cartoons of a blond boy writing at a desk (framed left, unframed right).]
+[IMAGE 2 | middle: Grey vocabulary box listing the word bank: glass, reduce, litter, chargeable, reuse, print, disposal, recycle, friendly, pollution.]
+
+==============================================================================
+[PAGE 12/12 | GLOBAL PDF p.72 | SOURCE: pupil_unit05.pdf]
+==============================================================================
+                  10
+              C. Match the sentences.
+              a. I’m afraid I can’t answer the phone right now.                                       i. I think it’s fabulous.
+              b. We’re working on an environmental project.                                           ii. Would you like to come?
+              c. I think I’ll try out this idea myself.                                               iii. No, but we’re going to plant some trees up the hill.
+              d. Ann‘s having a barbecue tomorrow.                                                    iv. I’m having a shower.
+              e. Are you going to hold an exhibition at school?                                       v. You’re doing your best to save Earth.
+              f. I’m very proud of you.                                                               vi. What’s that?
+              g. How do you like my new room?                                                         vii. Yes, all the time.
+              h. Do you ever dispose of batteries?                                                    viii. Cars produce waste gases that can harm us.
+              i. Driving to work is not a very good idea, Dad.                                        ix. I’ll let you know about the results as soon as possible.
+              j. Jack has made certain decisions.
+                                                                                                      x. For starters, he’s going to recycle paper.
+                                                                                                                                                                   Points: ....... / 20
+
+              D. Write a letter to the City Council.
+
+              Tell them what they can, should and must do to protect the natural environment around the area where you
+              live. Write at least three sentences.
+              Dear Sirs,
+              ................................................................................................................................................................
+              ................................................................................................................................................................
+              ................................................................................................................................................................
+              ................................................................................................................................................................
+              Yours faithfully,
+              .......................................................
+
+                                                                                                                                                                   Points: ....... / 30
+                                                                                       Tick what’s true for you:
+
+
+                                                    Now I can:                                                                   Learning strategies in English
+                                                                                                                READING: What I do to comprehend                                a
+                  c talk about recycling, the environment and
+                                                                                                                         reading passage.
+                    take action
+                  c talk about plans, intentions and obligation                                                 c I read the title, look at the picture and try
+                                                                                                                  to guess what it’s about
+                  c make hypotheses, promises and give advice on
+                    environmental issues                                                                        c I read the text once to get the main idea
+                  c change my habits at school or at home                                                       c I look for specific bits of information
+                    regarding rubbish                                                                           c I read and try and understand every word
+                  c organize a project about recycling                                                          c I don’t worry about unknown words
+                  c answer or make a questionnaire                                                              c I try to guess the meaning from the
+                  c use the Internet to get information                                                           context
+
+
+
+              72 / Pupil’s Book • UNIT 10
+                                       5-•- •Self
+                                              Lesson
+                                                  - Assessment
+                                                       1       Test
+
+
+
+
+10-0103.indb 72                                                                                                                                                                           1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: dartboards x2 in bottom boxes; no photos. (See file header for one-time description.)
+(No content images on this page beyond the recurring icons; letter template text fully extracted.)

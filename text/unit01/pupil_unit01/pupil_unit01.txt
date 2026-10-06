@@ -1,0 +1,750 @@
+==============================================================================
+SOURCE PDF : pupil_unit01.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit01\pupil_unit01.pdf
+GLOBAL PDF PAGES: 13-24
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=34970, words~=2954
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below are generated from page renders.
+RECURRING ELEMENTS (described once here; per-page tallies as [ICONS]): red-circle section letters; double-arrow = Lead-in; open-book = Reading; pencil = Writing; radio/cassette = Listening; speech-bubble = Speaking; theatre-masks = Role-play; faces = Group Work; 'a'-card = Vocabulary; two-bubbles = Debate; folders = Portfolio; circular-arrows = Mediation; dice = Game; board = Project; magnifier badge = GRAMMAR FOCUS; dartboard badge = Learning strategies; red ticks = checklist marks; cartoon mascots = blond boy and Kostas/Mark/Nadine busts with speech bubbles.
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.13 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                                                                                1
+
+
+                     In this unit: 0 We learn about computers
+                     			           0 We learn how to write an email
+                     			           0 We talk about things we prefer,
+                     		              like or dislike at school
+
+
+
+
+                         What are Mark, Kostas and Nadine talking about?
+
+
+
+
+                                                                       Kostas
+
+
+                                     Mark
+
+
+
+
+                                                              Nadine
+
+
+
+013-024 up.indd 13                                                                  14/10/2020 4:39:02 µµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | full-page background: Physical-political map of Europe (Ireland to Moscow, Spain to Turkey) with city dots; scale note 'Scale 1:19,500,000' bottom-right.]
+[IMAGE 2 | bottom-left-center: Blue cloud callout with cartoon bust of Mark (orange hair, striped shirt) beside a blue desktop-computer sketch; arrow points to the London area.]
+[IMAGE 3 | middle-right: Green cloud callout with cartoon bust of Kostas (brown hair, striped shirt) beside a blue computer sketch; arrow points to Greece.]
+[IMAGE 4 | bottom-center: Red cloud callout with cartoon bust of Nadine (blonde, red polka-dot dress) beside a red computer sketch; arrow points to the Marseilles area.]
+[ICONS: 3 small red ticks in the 'In this unit' box]
+
+
+==============================================================================
+[PAGE 2/12 | GLOBAL PDF p.14 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                       Lesson 1             DO YOU LIKE COMPUTERS?
+
+                  A      LEAD-IN 8
+              • Have you got a computer?
+              • Do you know how to use a computer or the Internet?
+
+
+                  This is a computer store. Let’s find out together how much you know about computers. Work with
+                  your fellow classmate. Look at the picture and match the words with the various computer parts.
+                  Write the words in the space provided.
+
+
+
+
+                  screen mouse		 scanner		 printer microphone
+                  										& headphones
+                         speaker			                    keyboard      tower
+
+                                                                       400€                                100€
+
+                                                             b.                           c.
+                                 250€
+                                                                                                                        50€
+                  a.
+                                                                                                       d.
+
+                                                                                                                    250€
+
+                                                                                                      e.
+
+
+
+
+                                                                                        30€                       20€
+                                         20€                             g.                      h.
+                        f.
+
+
+
+
+              14 / Pupil’s Book • UNIT 10- •- •Lesson
+                                                Lesson11
+
+
+
+
+10-0103.indb 14                                                                                                         1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | center-bottom: Large labelled cartoon of a desktop computer setup (printer, tower, flat screen, speaker, flatbed scanner, headphones with microphone, keyboard, mouse) with red-dot pointers to blank label boxes a-h and yellow price tags (250€, 400€, 100€, 50€, 250€, 20€, 30€, 20€); coloured word ovals above list the parts (screen, mouse, scanner, printer, microphone & headphones, speaker, keyboard, tower).]
+[ICONS: 1 Lead-in double-arrow]
+
+
+==============================================================================
+[PAGE 3/12 | GLOBAL PDF p.15 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                  B SPEAKING: COMPUTERS IN OUR LIVES
+
+                  How useful are computers in our lives? Discuss the following statements in pairs. Decide whether
+                  the statements are True (0) or False (=).
+
+
+              E Computers and the Internet help us visit museums around the world.
+              E Computers can do our homework.
+              E We can write an e-mail on the computer and send it through the Net.
+              E We can talk to people from various parts of the world through the computer.
+              E In our free time we can play computer games.
+              E Computers are bad for our eyes.
+              E We can play computer games for hours.
+              Can you think of other uses for computers in our lives?
+              Do you feel lonely when you play on the computer?
+
+
+                  C         READING
+                  An e-mail from an Irish friend
+
+                  Kostas got this e-mail from his friend Connor who lives in Ireland. He writes about the e-mails and
+                  the Internet. Read it and see how many things he does with it.
+
+
+
+
+                  Dear Kostas
+                  I’m sending you this e-mail just to say hello.
+                  It’s Friday afternoon and I’m at home answering my e-mails. I always check my e-mails when I get back from
+                  school.
+                  I have many friends around Europe and in other parts of Ireland. We use the Internet to find information, to
+                  talk or play computer games, especially at the weekends. Do you do the same in Greece?
+                  Time to go now.
+                  Love from
+                  Connor
+
+
+
+
+                  List four things Connor does with e-mail and the Internet.
+
+              1. ..............................................................   2. ..............................................................
+
+              3. ..............................................................   4. ..............................................................
+
+                                                                                                                                       Pupil’s
+                                                                                                                                     Pupil’s          UNIT101 - • Lesson 1 / 15
+                                                                                                                                               Book••UNIT
+                                                                                                                                             Book
+
+
+
+
+10-0103.indb 15                                                                                                                                                                   1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: Small colour photo of a boy seen from behind working at an old CRT computer on a desk.]
+[IMAGE 2 | bottom: Screenshot-style 'New Message' e-mail window showing Connor's letter to Kostas ('Dear Kostas ... Love from Connor').]
+[ICONS: 2 small activity icons (Speaking bubble, Reading book)]
+
+
+==============================================================================
+[PAGE 4/12 | GLOBAL PDF p.16 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                   D1 PRE-WRITING: COMPUTERS ARE FUN BUT…
+
+                   FREE TIME: Computers are fun but children at your age can do many other things in their free time.
+                   Check with your partner what he/she does in his/her free time and complete the table:
+
+
+                  In your free time                                                                                                 Me                My friend
+                  a. You draw
+                  b. You do puzzles
+                  c. You watch TV
+                  d. You do sports
+                  e. You help with the housework
+                  f. You listen to music
+                  g. You play with your friends/brothers/sisters
+
+
+                   D2 LISTENING
+                   Two pupils from a school in England talk about themselves. Listen and fill in the chart to find out what
+                   they like. Compare their freetime with your class freetime to find out if you share common interests.
+
+                   Name		 Age Likes					Favourite freetime
+                   				
+
+
+
+              M If you find this exercise too difficult, go to Appendix, UNIT 1, Activity A (page 133)
+
+                   E WRITING
+                   FREE TIME: Form a small group and make a free time activities survey. How many pupils enjoy/prefer/
+                   do not like/prefer doing what?
+
+                    In our group:
+                    Τhree               pupils enjoy playing computer games.
+                    One                 pupil enjoys
+                        		              pupils enjoy
+                        		              pupils don’t like		 -ing
+                        		              pupils don’t like		            -ing
+                        		              pupils prefer		         -ing    to                                              -ing
+
+
+                    The majority of our class ...............................................................................................
+                    We don’t like .................................................................................................................
+                    We prefer ................................................ to .................................................................
+
+
+              16 / Pupil’s Book • UNIT 10- •- •Lesson
+                                                Lesson11
+
+
+
+
+10-0103.indb 16                                                                                                                                                   1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | center (faint background): Very light grey line-drawing watermark of a computer desk setup behind the free-time table.]
+[ICONS: 2 small activity icons (Listening, Writing)]
+
+
+==============================================================================
+[PAGE 5/12 | GLOBAL PDF p.17 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                                                                                                                                   1
+                                                     Likes, Dislikes and Preferences
+                     Study the following examples to remember how we express likes and dislikes
+                     and learn how we can express preferences in English.
+
+                         I like watching tennis on TV.                       I don’t really like playing chess.
+                                                                             People hate walking in a big, noisy street/in
+                         You like playing computer games.
+                                                                             big noisy streets.
+                                                                             He doesn’t usually like watching the news
+                         She enjoys listening to her MP3 player.
+                                                                             on TV.
+                         I prefer table tennis to chess.
+                         They prefer playing with my friends in the park to sitting at home watching TV.
+
+
+
+
+                     F     SPEAKING
+
+                     WE LIKE THE SAME THINGS - WE ARE GOING TO FORM A CLUB!
+                     1. Work with your partner. Find 3 pastimes which you have in common.
+                        Ask each other questions using the structures given above.
+                     2. Find another 2-3 people in your class who have the same interests.
+                     3. Get together with them and see whether you all want to form a club.
+                     4. Decide what the aim of the club is. Is it to share news, to learn from
+                        each other, to go play sports together? For example, if you have a
+                        chess club you will be interested in playing together. How regularly
+                                                                                                  The Children’s Art Village (“CAV”) is based
+                        do you want to meet? Decide who is the secretary of the club.             in California. CAV helps children using art
+                                                                                                  in orphanages throughout the world.
+                     5. Present your club on a poster and stick it on the classroom wall.
+
+
+
+
+                     G      WRITING
+                     Now answer in full Connor’s e-mail in Activity C (p. 15). Give information about
+                     your favourite free time activities. Say what you like or don’t like doing.
+
+
+
+
+                                                                                               Pupil’s
+                                                                                             Pupil’s   Book••UNIT
+                                                                                                     Book          1 - • Lesson 1 / 17
+                                                                                                              UNIT10
+
+
+
+
+013-024 up.indd 17                                                                                                                       22/9/2022 3:27:05 µµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: Colour photo of a smiling young Black girl drawing at a wooden school desk; caption reads 'The Children’s Art Village ("CAV") is based in California. CAV helps children using art in orphanages throughout the world.']
+[IMAGE 2 | bottom-right: Small cartoon of a blond boy in green drawing on a pad.]
+[ICONS: 1 'GRAMMAR FOCUS' magnifier badge top-right; 2 small activity icons (Speaking, Writing)]
+
+
+==============================================================================
+[PAGE 6/12 | GLOBAL PDF p.18 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                      1
+                      Lesson 2               INTERNET FRIENDS
+                     A LEAD-IN 8                                                                             Learning strategies
+               • These are sites where you can write to other young people.
+                                                                                             I LEARN ENGLISH BECAUSE I LIKE...
+               For example: https://www.cbeebies.com/                                       c Learning about other places & people
+                            https://www.bbc.co.uk/learningenglish/features/childrens-stories c Filling in charts
+                            htttp://www.iky.gr                                               c Listening for specific information
+               Ask your teacher to help you find some other internet addresses.
+               • Think about some things you want to tell the new friends you make on the Net.
+               • Will the English language help you in your Internet journey?
+
+
+                     B MEMORY GAME
+                     Pupils from different countries in Europe are using their computers and speaking to each other using
+                     the Net. Look at the following chart and see what is missing.
+                     Then close you books and listen. How much can you remember? Fill in the chart with the missing
+                     information. Then open your books and check your answers in the dialogue.
+
+
+                     Names of Friends       Ages Where from: Country            Their Likes and Dislikes
+
+                     Mark 		 12
+
+
+                     (you)
+
+
+
+                                                                                             Hello, there! It’s Kostas,
+               Mark:               That’s great! Three European friends!                   from Athens in Greece.
+               		                  Greek, French, and English!
+               		                  So, how old are you, Kostas?
+               Kostas:             I’m eleven. I’m a pupil in the 5th grade of Primary School.				
+               Mark:               I see. Well, I’m twelve and I’m a pupil at West 						
+               		                  Wimbledon Primary School.
+                                   How about you, Nadine?
+               Nadine:             Oh, I’m twelve and I’m a student in the second 			
+               		                  year of Collège.                                                         I’m Mark from London
+                                   That’s like your middle school.                                          in England. Hi, Kostas!
+               Mark:               Wow, that sounds difficult!					
+               Nadine:             Well, not really Mark. Actually, 					
+               		                  I like going to school and I love studying.
+               Mark: 		            Well, I don’t really mind studying, Nadine,
+               		                  but I hate tests and homework.                        Hi, you two. I’m Nadine
+                                                                                         from Marseilles.
+               		                  How about you, Kostas?
+               Kostas:             Hm, the only thing I like about school is
+               		                  spending time on our computers.
+
+
+
+               18 / Pupil’s Book • UNIT 10- •- •Lesson
+                                                 Lesson21
+
+
+
+
+013-024 up.indd 18                                                                                                              27/11/2024 9:58:50 πµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right: Cartoon bust of smiling Kostas (brown hair, blue striped shirt) with dark-blue speech bubble 'Hello, there! It’s Kostas, from Athens in Greece.']
+[IMAGE 2 | middle-right: Cartoon bust of smiling Mark (orange hair, light-blue striped shirt) with light-blue bubble 'I’m Mark from London in England. Hi, Kostas!']
+[IMAGE 3 | bottom-right: Cartoon bust of smiling Nadine (blonde, red polka-dot dress) with red bubble 'Hi, you two. I’m Nadine from Marseilles.']
+[ICONS: 1 'Learning strategies' dartboard badge top-right; 4 small memory-game activity icons (dice, radio, pencil, book)]
+
+
+==============================================================================
+[PAGE 7/12 | GLOBAL PDF p.19 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+              Mark:           That means you’re a computer expert. That’s cool!
+              Kostas:         Not really. I can hear our school bell.
+                              Can we all get together again tomorrow?
+              Nadine & Mark: Good idea! Let’s speak again tomorrow!
+              M For extra activity see Appendix Activity B (page 133).
+
+                                                                                                                 Bonjour!
+                  C      INTERNET FRIENDS FROM ALL OVER EUROPE
+              Here are some more internet friends.
+
+                  a) Fill in the nationality of each person.                                  Buon giorno!
+
+              Example: Mark is from Great Britain and he is British.
+
+              1. Pablo is from Portugal and he’s .......................................
+
+              2. Svetlana is from Russia and she’s ....................................
+
+              3. Hans is from Holland and he’s .........................................
+
+              4. Carmen is from Spain and she’s .......................................
+
+              5. Gunther is from Germany and he’s .................................
+
+              6. Maria is from Switzerland and she’s.................................
+
+              7. Armando is from Albania and he’s ..................................
+
+              8. Isabella is from Italy and she’s .........................................          Dobroye utro!
+              9. Kostas is from Greece and he’s ........................................
+
+                  b) Now use a Geography book or a map and match the countries from above which border with each
+                  other. Discuss with your partner and check your results.
+                  c) Finally, draw and colour in the flags of three of these countries. Don’t show the flags you are
+                  colouring. Give your book to your partner and see if he/she can guess the countries of your flags.
+                  Can he/she write the names both in English and in Greek?
+
+
+
+
+              Names:
+                            ___________-___________                      ___________-___________     ___________-___________
+
+              M Do you know how to say “Good Morning” in any other languages? Go to Appendix, UNIT 1, Activity C
+              (page 133).
+
+
+                                                                                                Pupil’s
+                                                                                              Pupil’s   Book••UNIT
+                                                                                                      Book     UNIT10            2 / 19
+                                                                                                                    1 - • Lesson 1
+
+
+
+
+10-0103.indb 19                                                                                                                           1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: Photo of a floodlit Gothic cathedral/church tower at dusk, with dark-blue bubble 'Bonjour!']
+[IMAGE 2 | center-right: Photo of a Venice canal with colourful buildings, poles and a gondola, with green bubble 'Buon giorno!']
+[IMAGE 3 | bottom-right: Photo of Moscow's red St Basil's tower on Red Square at dusk, with red bubble 'Dobroye utro!']
+
+
+==============================================================================
+[PAGE 8/12 | GLOBAL PDF p.20 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                     1
+                                                              Simple Present Tense
+                     Study the sentences to see how we can talk about student life in English.
+                     I go to school on weekdays.                           I don’t go to school on Sundays.
+                     You do your homework after school.                    You don’t do your homework at night.
+                     A pupil studies in the afternoon                      A pupil doesn’t study at night.
+                                                                           or in the evening.
+                     A teacher works in a school.                          A teacher doesn’t work in a café.
+                     We have classes on weekdays.                          We don’t have classes on Sundays.
+                     Schools in Greece ﬁnish in June.                      They don’t ﬁnish in March.
+                     Do you go to school by school bus?                    Yes, I do / No, I don’t.
+                     Does a teacher work on a farm?                        No, he/she doesn’t. He/she works at a school.
+
+
+                                                        Note the different endings!
+                         I watch - he watches                  you play - she plays            they study - John studies
+                         we teach - Helen teaches              I enjoy - he enjoys             we carry - she carries
+                         you go - it goes                      they stay - it stays            I ﬂy - the bird ﬂies
+
+
+
+
+                     D WRITING
+               Write 3 sentences talking about what you do in...
+                                                       a. your school programme,
+                                                       b. your afternoon activities and
+                                                       c. during your weekends.
+
+
+
+
+                                                             a. School programme             b. Afternoon activities              c. Weekends
+                                                        I do karate
+
+
+
+
+               Then make a list of activities you want to do but can’t do.
+
+
+               20 / Pupil’s Book • UNIT 10- •- •Lesson
+                                                 Lesson21
+
+
+
+
+013-024 up.indd 20                                                                                                         22/9/2022 4:12:38 µµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-left: Small cartoon of two boys playing with a red ball beside card (a).]
+[IMAGE 2 | middle-right: Small cartoon of a smiling orange-haired boy painting on a sheet beside card (b).]
+[IMAGE 3 | bottom: Three overlapping worksheet cards titled 'a. School programme', 'b. Afternoon activities' (handwritten example 'I do karate') and 'c. Weekends' with dotted writing lines.]
+[ICONS: 1 'GRAMMAR FOCUS' magnifier badge top-right; 1 Writing pencil icon]
+
+
+==============================================================================
+[PAGE 9/12 | GLOBAL PDF p.21 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                  E A DAY IN MY LIFE
+              Here is a page from a pupils’
+              newspaper of a school
+              in Dublin, Ireland. The title is:
+              “A Day In My Life”. Read and
+              compare. How different is your
+              everyday life? Discuss with
+              your classmates and teacher.
+              		
+              Points to discuss:
+              0 Times
+              0 School subjects
+              0 Activities
+
+
+
+
+              		
+
+                             Classroom in India
+
+
+
+
+                  F        WRITING
+              In your free time, you’ve made contact with an Internet friend from outside Europe,
+              for example Asia or Australia. What questions would you like to ask him/her?
+                          Name of Net friend: Vijay (from India)
+                          Example: Does Vijay have a favourite football team?
+              1) ...........................................................................................................
+              2) ...........................................................................................................
+              3) ...........................................................................................................
+
+
+
+
+                  G PORTFOLIO
+              You can use your answers for questions in ex. D (p. 20) to write about A Day in your Life. You can put it in
+              your Portfolio or in the English Newspaper of your school.
+
+                                                                                                                                 Pupil’s
+                                                                                                                               Pupil’s   Book••UNIT
+                                                                                                                                       Book     UNIT10            2 / 21
+                                                                                                                                                     1 - • Lesson 1
+
+
+
+
+10-0103.indb 21                                                                                                                                                            1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: Large handwritten pupil-newspaper collage 'A Day In My Life' (Ireland) with four child crayon drawings: 'Morning Time' boy figure, 'School Time' books, 'Afternoon Time' football, 'Evening Time / Bed time' bed and window.]
+[IMAGE 2 | middle-left: Colour photo of four Indian schoolboys in maroon uniforms reading magazines at a green desk; caption 'Classroom in India'.]
+[IMAGE 3 | bottom-right: Portrait photo of smiling Indian boy Vijay in an orange kurta.]
+[ICONS: 2 small activity icons (Writing pencil, Portfolio)]
+
+
+==============================================================================
+[PAGE 10/12 | GLOBAL PDF p.22 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                      Lesson 3                   THE UNITED KINGDOM
+                    A LEAD-IN 8
+                    Read this text quickly, without understanding every word. Where can you find a text like this?
+
+
+                  Visit the British Isles!
+                  The British Isles are situated on the west side of Europe. Geographically the British Isles
+                  are made up of two main islands, Great Britain and Ireland. Politically the two islands are
+                  made up of: • the United Kingdom, which includes Great Britain (with England, Scotland and
+                  Wales) and Northern Ireland • the Republic of Ireland, in the southern part of Ireland.
+                  The population of the United Kingdom is about 59 million. That's 6 times more than Greece.
+                  About 10-12 million people live in London, its capital. London is about twice as big as
+                  Athens. The Republic of Ireland has a population of 3.7 million. One third of its people live
+                  in its capital, Dublin. • Each country has a national flower. The national flower of England
+                  is the rose; for Wales, the daffodil; for Scotland, the thistle and for the Republic of
+                  Ireland, the shamrock.
+                  [inset photo labels: Scotland, England, Wales]
+                  includes Great Britain (with             London is about twice as big as
+
+              M Go to Appendix, page 134, for additional information on the symbols of Great Britain.
+
+                    B READING
+              Find the information in the text above and complete the table below.
+              							
+                                                    United Kingdom                Ireland                 Your prefecture*
+                    Capital city
+                    Population
+                                                                                                                          * prefecture=νομός
+
+
+                    C VOCABULARY
+                    Find words or phrases in the text that fit in the four categories of the table below.
+
+                     countries                        geography terms               size/ number                   national flowers
+
+
+
+
+                                               1. How about a leaflet from Greece?
+                     PROJECT                   2. Now go to Appendix, UNIT 1, PROJECT (page 134).
+
+
+              22 / Pupil’s Book • UNIT 10- •- •Lesson
+                                                Lesson31
+
+
+
+
+10-0103.indb 22                                                                                                                                1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-left: Small photo of a purple thistle head labelled 'Scotland'.]
+[IMAGE 2 | center: Small photo of a pink-red rose labelled 'England'.]
+[IMAGE 3 | bottom-right: Small photo of white-yellow daffodils labelled 'Wales'.]
+[IMAGE 4 | right (background): Faint scenic photo of a town/river behind the text box. The shamrock of Ireland is named in the text but has no inset photo.]
+
+
+==============================================================================
+[PAGE 11/12 | GLOBAL PDF p.23 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+                                     Name:..................................................... Class:..............................
+                                     Date:....................................................... Score:............./ 100
+
+
+              A. Read and decide: True (0) or False (=)
+              Pedro is an eleven-year-old boy from Spain. He lives in
+              Barcelona with his father and his twin sisters Maria and Granada.
+              Pedro is a pupil in the fifth class of Primary school. He loves school and he is very good at maths and languages.
+              He can solve mathematical problems very quickly and he can also speak English and French. In his free time,
+              Pedro loves riding his bike and drawing. He is also fond of surfing the Net and chatting to children from all over
+              Europe.
+                                                                                                                Pedro - Barc
+              E.g. Pedro is Spanish (0)                                                                                      elona
+
+
+              1. He lives with his family in a big city ..............
+
+              2. He’s got a brother and a sister ..............
+
+              3. He is very good at English and Italian ..............
+
+              4. His favourite hobbies are cycling
+                 and drawing ..............
+
+              5. Pedro is very good at computers ..............
+
+                                                                                                                                         Points: ....... / 20
+
+
+              B. Computers. Look at the pictures and tick the right box.
+
+
+              1. 			                        c modem               			                          3. 			                                  c keyboard
+              			c tower				                                                                                                           c mouse
+
+
+                  2. 			                    c screen            			                            4.            		                        c speakers
+                  			c printer			 			c microphone
+              										                                                                                                                 & headphones
+              5. 			                        c scanner
+              			c printer
+
+
+
+                                                                                                                                         Points: ....... / 10
+
+                                                                                                    Pupil’s Book • UNIT
+                                                                                                               Pupil’s  1 - ••Self
+                                                                                                                       Book    UNIT- Assessment     1 / 23
+                                                                                                                                                 Test
+                                                                                                                                      10 - • Lesson
+
+
+
+
+10-0103.indb 23                                                                                                                                                 1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top: Light-blue 'SELF-ASSESSMENT TEST' header banner with two small cartoons of a blond boy studying at a desk (framed, left; unframed, right).]
+[IMAGE 2 | middle-right: Small waving Spanish flag (red-yellow-red).]
+[IMAGE 3 | bottom-right: Small photo of a boy in green/orange riding a bicycle.]
+[IMAGE 4 | bottom-right: Photo postcard of Barcelona's Sagrada Familia towers captioned 'Pedro - Barcelona', overlapped by a cartoon boy bust.]
+[IMAGE 5 | bottom-left: Small product photo of a black computer tower (quiz item 1).]
+[IMAGE 6 | bottom-left: Small product photo of a flat computer screen (quiz item 2).]
+[IMAGE 7 | bottom-left: Small product photo of a printer with a colour printout (quiz item 5).]
+[IMAGE 8 | bottom-center: Small product photo of a computer mouse (quiz item 3).]
+[IMAGE 9 | bottom-center: Small product photo of a microphone-and-headphones headset with a red arrow (quiz item 4).]
+
+
+==============================================================================
+[PAGE 12/12 | GLOBAL PDF p.24 | SOURCE: pupil_unit01.pdf]
+==============================================================================
+              C. Countries and Nationalities. Fill in the spaces.
+              1. Someone who comes from Great Britain is ................. while someone who comes from ................
+              is French.
+              2. What nationality is your uncle? He is ..................... and lives in Rome.
+              3. Athens is the ................ capital, Lisbon is the ....................... capital, Berlin is the capital of ........................
+              and Amsterdam is the ......................... capital.
+              4. People in Moscow speak ..................... .
+              5. Franz lives in Switzerland. He’s ...............................
+              6. A lot of people who live and work in Greece come from Tirana in ........................... .
+                                                                                                                                     Points: ....... / 30
+
+              D. Answer the following questions. Write true answers.
+              1. What time does school start ? .......................................................................................
+              2. How do you go to school? .............................................................................................
+              3. Which school subject do you like best? .........................................................................
+              4. Do you do your homework alone? ................................................................................
+              5. What do you do in the afternoons? ..............................................................................
+                                                                                                                                     Points: ....... / 20
+
+              E. Match the sentences
+              1. Hi ! I’m Greek! Where are you from?           a. Red, white and blue.
+              2. Which do you prefer? Maths or Science?		      b. Well, I don’t really like it.
+              3. Do you like school?				                            I prefer pop music.
+              4. Nadine comes from Marseilles.			              c.  He’s  Swiss.
+              5. How about heavy metal music?			               d. I’m Dutch. I am from Holland
+              6. Sue hates going to the dentist.		             e. It’s to the west of Britain.
+              7. Do you like horse riding?			                  f. She says it’s an awful experience.
+              8. Henry doesn’t come from Germany.              g. I hate it!!
+                                                               h. She’s French.
+              9. Which are the colours of the British flag?					
+              10. Where’s Ireland?                             i. I prefer Maths.
+                                                               j. Well, I don’t mind school,
+                                                                  but I hate homework!!
+
+                                                                                                                                     Points: ....... / 20
+                                                                        Tick what’s true for you:
+
+
+                                            Now I can:                                                    Learning strategies in English
+                                                                                                  I LEARN ENGLISH BECAUSE I LIKE...
+                  c Name the various parts of the computer
+                                                                                             c Learning about other countries and people
+                  c Talk about what I like and what I don’t like
+                     to do in my free time                                                   c Filling in charts
+                  c Write and talk about my school life                                     c Listening for specific information
+                                                                                             c Scanning a text
+                                                                                             c Learning more about young people in other countries
+
+
+              24 / Pupil’s Book • UNIT 10- •- •Self
+                                                Lesson
+                                                    - Assessment
+                                                         1       Test
+
+
+
+
+10-0103.indb 24                                                                                                                                             1/7/14 1:57 PM
+
+--- IMAGES ON THIS PAGE ---
+[none – self-assessment text and two tick-box strategy panels only]
+[ICONS: 2 small dartboard badges on the bottom panels]
+

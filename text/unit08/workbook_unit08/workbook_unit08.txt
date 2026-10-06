@@ -1,0 +1,391 @@
+==============================================================================
+SOURCE PDF : workbook_unit08.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit08\workbook_unit08.pdf
+GLOBAL PDF PAGES: 48-54
+PAGES IN THIS FILE: 7
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=19238, words~=1597
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: red Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading; red footer bar with Activity Book / UNIT 8 / Lesson / page.
+==============================================================================
+==============================================================================
+[PAGE 1/7 | GLOBAL PDF p.48 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                     8
+               ALL ABOUT STORIES
+
+
+
+                                                                          LESSON 1
+               M ACTIVITY A.
+               VOCABULARY. Matching exercise: match the types of stories with their definitions
+               1. novel				                                         a. children’s story about magic people (fairies, princesses,
+                                                                        giants, etc.) or magic events.
+               2. comic				                                         b. stories of life in the future.
+                    3. detective story			                           c. a book that tells a story which someone has written.
+                    4. fairy tale				                               d. a story that describes crimes and detectives who
+                                                                        investigate these crimes.
+                    5. science fiction			                           e. a small book for children with cartoon stories.
+
+
+               1. [......], 2. [......], 3. [......], 4. [......], 5. [......]
+
+
+               M ACTIVITY B.                                                                    [Differentiated Activity (**) on p. 79]
+
+               WORDSEARCH – FAIRY TALE: We’ve hidden 10 words from the fairy tale in the grid below. Can
+               you find them? Use the pictures to help you. The words go across and down.
+               
+                                                       rain                             king
+
+
+
+
+                                                                                                                          pea
+                       servant
+
+
+
+
+                       mattress                             queen                           storm                        prince
+
+               48 / Activity Book • UNIT 8 • Lesson 1
+
+
+
+10_0104_agglika.indd 48                                                                                                                    1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top: three book covers - Roald Dahl's Matilda, Eugene Trivizas's The Last Black Cat and Enid Blyton's The Secret Seven.]
+[IMAGE 2 | lower-left: princess cartoon (wordsearch clue: rain/queen).]
+[IMAGE 3 | mid-right: baby in a pea-pod cartoon (clue: pea).]
+[IMAGE 4 | bottom-left: king with sword and mattress cartoon (clues: servant/mattress).]
+[IMAGE 5 | bottom-right: prince on horseback illustration (clues: storm/prince).]
+
+==============================================================================
+
+[PAGE 2/7 | GLOBAL PDF p.49 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                                                                                                                    8
+
+
+
+
+                          The Hans Christian Andersen Quiz
+               M ACTIVITY C.                                                       [Differentiated Activity (**) on p. 80]
+
+               How much do you know about Hans Christian Andersen? Read and tick your answers.
+               1. Where was he born?
+                          a) in England 		       b) in Germany          c) in Denmark
+               2. His parents were ....
+                          a) poor 		             b) rich 		             c) teachers
+               3. Andersen was first known as a/an .......
+                          a) poet 		             b) actor 		            c) singer
+               4. He travelled throughout ........
+                          a) the world 		        b) Europe 		           c) Denmark
+               5. In his lifetime he wrote more than ............. fairy tales.
+                          a) 150 		              b) 120 		              c) 50
+               6. His fairy tales were translated into over ............. languages.
+                          a) 150 		              b) 100 		              c) 50
+               7. H. C. Andersen was a .............. and ................ man.
+                          a) tall and handsome b) short and thin        c) skinny and tall
+               8. Which fairy tale is not his?
+                          a) The Tin Soldier     b) The Little Match Girl c) Hansel and Gretel
+               Now turn to Differentiated Activities, page 80 and check your answers.
+
+
+                                                                                       Activity Book • UNIT 8 • Lesson 1 / 49
+
+
+
+
+10_0104_agglika.indd 49                                                                                                         1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-centre: framed portrait of Hans Christian Andersen ringed by small story vignettes.]
+[IMAGE 2 | around portrait: four small fairy-tale scene cards.]
+[IMAGE 3 | mid-right, large: tin-soldier/nutcracker figure with rifle.]
+
+==============================================================================
+
+[PAGE 3/7 | GLOBAL PDF p.50 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                  8
+               M ACTIVITY D.                                                                                 [Differentiated Activity (**) on p. 81]
+
+               GRAMMAR. Do you like reading stories? Then match the following sentences and compile part of
+               a well known story. Finally, write the story title. Choose among the three provided in the box.
+
+                                                  Alice’s Adventures in Wonderland by Lewis Caroll
+                                                  Matilda by Roald Dahl
+                                                  Heidi by Johanna Spyri
+
+               Title: .....................................................................................................
+
+               1. The girl was getting a little tired ..........
+               2. She was just beginning to feel sleepy ......
+               3. There was nothing strange about that except .........
+               4. As the girl was running after him she suddenly ..........
+               5. While she was falling down the hole ...........
+               a. ....the rabbit was saying to himself “ Oh dear! I shall be too late”.
+               b. ....she was wondering what was going to happen next....
+               c. ....because she was sitting there and was having nothing to do.
+               d. ....saw him pop down a large rabbit hole.
+               e. ....when a white rabbit ran by her.
+               1. [......], 2. [......], 3. [......], 4. [......], 5. [......]
+
+
+
+
+               M ACTIVITY E.                                                                                 [Differentiated Activity (**) on p. 81]
+
+               SHADOW PUPPET THEATRE – KARAGIOZIS. You visited the “SPATHARIO” museum and you
+               saw this picture. It shows a performance of Karagiozis puppet theatre in the town square. Complete
+               the text to tell your friends what you saw.
+
+                                             “Well, the painting at the museum was very interesting. It showed how
+                                             shadow puppet performances were organized in Greece about 30 years
+                                             ago. The theatre screen was set in the middle of the square.
+                                             The puppeteer (use) was using the puppets and his son
+                                             1. (help).....................................................him. There were the musicians who
+                                             2. (play)....................................................................the music and the person
+                                             at the nearby canteen 3. (prepare)....................................................snacks
+                                             and refreshments. Some children 4. (sit) ................................................ in
+
+               50 / Activity Book • UNIT 8 • Lesson 1
+
+
+
+10_0104_agglika.indd 50                                                                                                                                 2/2/15 10:51 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left, small: fairy illustration beside the title box.]
+[IMAGE 2 | mid-right: photo of two fairy figurines with a fawn.]
+[IMAGE 3 | bottom-left: Karagiozis shadow-puppet figure.]
+
+==============================================================================
+
+[PAGE 4/7 | GLOBAL PDF p.51 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                                                                                                                                                       8
+               the front rows while others
+               5. (stand)....................................on
+               the walls and on the branches
+               of the trees. The older people,
+               both       men        and       women,           6.
+               (watch)..............................the
+               performance from the rear seats.
+               They all seemed to have a great
+               time!”
+                                            Karagiozis, Greece
+
+
+
+               M ACTIVITY F.                                                                                  [Differentiated Activity (**) on p. 81]
+
+               MEDIATION. Inspector “Erevnitakis” and the mystery of the stolen paintings.
+               a) Read the story in the Differential Activities, page 82.
+               b) complete the Inspector’s questions to the Italian artist.
+
+               – How long (you/ paint) ........................................................................... ?
+               – ..........................................................................................................................................
+               – What ( you/ have) .......................................................... afterwards?
+               – ...........................................................................................................................................
+               – What ( you/ use) ................................. to dry your hair?
+               – ...........................................................................................................................................
+               – When (the lights/ go off) ..................................................................... ?
+               – ...........................................................................................................................................
+               – (you/ see) .................................................................. the person speaking?
+               – ...............................................................................
+               – What (you/ do) ................when the thieves left?
+               – ..............................................................................
+               and c) Why did Inspector “Erevnitakis” think the artist
+               was guilty? What was the evidence?
+               ..................................................................................
+               ..................................................................................
+
+
+
+                                                                                                                    Activity Book • UNIT 8 • Lesson 1 / 51
+
+
+
+
+10_0104_agglika.indd 51                                                                                                                                        1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: colourful Karagiozis puppet-theatre crowd painting.]
+[IMAGE 2 | bottom-right: watercolour of a woman drying her hair while an intruder carries a painting through the door (Inspector Erevnitakis story).]
+
+==============================================================================
+
+[PAGE 5/7 | GLOBAL PDF p.52 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                  8
+                                                              LESSON 2
+
+               M ACTIVITY A.
+               Brave children These children received awards for their bravery and courage.
+               They all saved someone’s life.
+
+
+                 Nefeli Kritikou, 11, Athens.
+                 A. Nefeli was on holiday with her mother in Katerini. “We
+                    were climbing up Mt Olympus”, said Nefeli, “when a rock
+                    fell on my mum’s legs”. As they had left their mobiles at
+                    the hotel, Nefeli ran four kilometers and telephoned for
+                    an ambulance.
+
+
+                 Anastasia Thanou, 10, Lefkada.
+                 B. Last April, Anastasia Thanou and her family were in their
+                     country house in Lefkada for their Easter Holiday. One day
+                     while Anastasia and her brother Dimitris were fishing, Dimitris
+                     slipped and fell into the sea. Anastasia jumped into the cold
+                     water and saved her brother’s life.
+
+
+                 Konstantinos Yiotis,12, Lamia.
+                 C. Young Konstantinos was going to school on a school bus,
+                    when the bus driver had a heart attack. Konstantinos,
+                    who was sitting behind the driver, jumped onto the
+                    driver’s seat and managed to stop the bus, saving his
+                    life, the driver’s life and the lives of the rest of the
+                    children on the bus.
+
+
+               • Who said these things?
+
+               1. “The water was pretty cold, but that didn’t stop me”.          ..............................
+               2. “It was windy and very cold, but I had no choice”.             ............................
+               3. “All of a sudden, I saw him on the wheel. I was panicked as I didn’t know what to do”.
+                   .............................
+               4. “I’m really proud of her. She saved my life! You see, I was only four!”. ......................
+               5. “I don’t know what I would have done without my brave daughter”.                     ......................
+               6. “I’m really happy - and lucky, too - he was sitting behind me”. ..........................
+
+               52 / Activity Book • UNIT 8 • Lesson 2
+
+
+
+10_0104_agglika.indd 52                                                                                                          1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right, small: cartoon boy reporter holding a microphone.]
+[IMAGE 2 | right-top: Athens city/Acropolis view photo.]
+[IMAGE 3 | right-mid: Lefkada harbour boats photo.]
+[IMAGE 4 | right-bottom: Lamia city and mountains photo.]
+
+==============================================================================
+
+[PAGE 6/7 | GLOBAL PDF p.53 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                                                                                                                            8
+               M ACTIVITY B.
+               Do you remember Kostas’ mother?
+               Mrs Maria Ioannou is a bank clerk. Last week she travelled to London on a business trip. She stayed
+               there for three days. Look at her travel notes below for the last day of her trip.
+
+
+                          TRAVEL SCHEDULE – FRIDAY
+                          07:30			wake up
+                          08.00 – 09.00		          have breakfast at the hotel
+                          09:15			leave hotel
+                          10.00			                 meet General Manager at Central Bank
+                          10.00 – 12.00		          discuss economic matters
+                          12.30 – 13.30		          have lunch with British colleagues
+                          14.00                    return to hotel
+                          14.00 – 15.00		          pack up luggage
+                          15.30			                 leave hotel to go to Heathrow Airport
+                          15.30 – 16.15		          go to Airport by taxi
+
+
+               • Ask and answer what Mrs Ioannou did and what she was doing at the following times:
+                07:30		 What did she do at 7.30?
+               			She woke up.
+                08:30		 What was she doing at 8.30?
+               			      She was having breakfast at the hotel.
+                09:15		 ............................................................................
+               			............................................................................
+                10.00		 ............................................................................
+               			............................................................................
+                11.00		 ............................................................................
+               			............................................................................
+                13.00		 ............................................................................
+               			............................................................................
+                14.00		 ............................................................................
+               			............................................................................
+                14.30		 ............................................................................
+               			............................................................................
+                16.00		 ............................................................................
+               			............................................................................
+
+                                                                                               Activity Book • UNIT 8 • Lesson 2 / 53
+
+
+
+
+10_0104_agglika.indd 53                                                                                                                 1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | right: travel-schedule ticket graphic with a Big Ben / Elizabeth Tower photo on its right edge.]
+
+==============================================================================
+
+[PAGE 7/7 | GLOBAL PDF p.54 | SOURCE: workbook_unit08.pdf]
+==============================================================================
+                   8
+               M ACTIVITY C.
+               Use when, while or as soon as to fill in the following sentences.
+                1. .......................... Tim was having a bath, the bell rang.
+                2. He saw the burglar ................... he walked into the room.
+                3. ....................... he was approaching the car, he heard a strange noise.
+                4. He burst into laughter .................. he saw the clown.
+                5. Mum was dusting the furniture ......... Dad was cleaning the windows.
+                6. What were you doing .................. the lights went off?
+                7. I jumped down the fence .................. I heard the explosion.
+                8. I jumped down the fence .................. Alice was mowing the lawn.
+                9. Monique was listening to “Four Seasons” by Vivaldi ............... Pierre called on her.
+               10. ................... the teacher was explaining the new grammatical phenomenon, Marina was
+                    sending a message to her cousin. No wonder she failed the test!!!
+
+
+
+                                                                                                      LESSON 3
+
+               M ACTIVITY A.
+               A BOOK REVIEW. After reading a story you have chosen write a small
+               review. Say a) which is your favourite character and why ; b) which part
+               of the story you particularly liked and why.
+               My favourite character
+               1. I like this character because ....................................................................
+
+               ......................................................................................................................................
+               ......................................................................................................................................
+               ......................................................................................................................................
+               ......................................................................................................................................
+
+
+               My favourite part of the story
+               2. I like this part because.................................................................................
+
+               ......................................................................................................................................
+               ......................................................................................................................................
+               ......................................................................................................................................
+               ......................................................................................................................................
+
+
+               54 / Activity Book • UNIT 8 • Lesson 3
+
+
+
+10_0104_agglika.indd 54                                                                                                                                 2/2/15 10:51 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right: Jack and the Beanstalk castle-and-beanstalk illustration.]
+[IMAGE 2 | lower-right: prince-and-lady proposal scene illustration.]
+[IMAGE 3 | bottom-right: boy with an older woman and a hen with a golden egg illustration.]

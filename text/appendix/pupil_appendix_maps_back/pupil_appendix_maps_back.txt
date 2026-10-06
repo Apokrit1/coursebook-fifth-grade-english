@@ -1,0 +1,202 @@
+==============================================================================
+SOURCE PDF : pupil_appendix_maps_back.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\appendix\pupil_appendix_maps_back.pdf
+GLOBAL PDF PAGES: 163-169
+PAGES IN THIS FILE: 7
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=4317, words~=340
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS (maps-back): purple Maps/APPENDIX banner and footer bars.
+==============================================================================
+==============================================================================
+[PAGE 1/7 | GLOBAL PDF p.163 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+                                               Maps
+
+
+
+
+                      Pupil’s Book • Appendix • Maps / 163
+
+
+
+
+133-168 UP.indd 163                                    20/10/2020 1:37:37 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[MAP 1 | top: political map of Europe: colour-coded countries from Iceland/Portugal to Russia/Turkey, capitals and seas (North Atlantic, Mediterranean, North Sea); credit line at bottom-right. No scale bar shown.]
+[MAP 2 | bottom: United Kingdom and Ireland map (GraphicMaps.com): England, Scotland, Wales, Northern Ireland and Ireland; cities London/Edinburgh/Cardiff/Dublin/Belfast; Ben Nevis peak triangle; Pennines and Cambrian ranges; Prime Meridian dashed line; LOW/HILLS/MOUNTAINS green legend top-left; scale bars 130 mi / 130 km bottom-left; seas: Atlantic Ocean, North Sea, Irish Sea, Celtic Sea, English Channel, Channel Tunnel.]
+[PAGE 2/7 | GLOBAL PDF p.164 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+              APPENDIX                              Maps
+
+
+
+
+              Athens Metro Map
+
+
+
+
+              164 / Pupil’s Book • Appendix • Maps
+
+
+
+10-0103.indb 164                                            1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[MAP 1 | full-page: Athens Metro Map schematic: green line Piraeus–Kifissia, red line Agios Dimitrios–Agios Antonios, blue line Airport–Doukissis Plakentias; labelled stations (Syntagma, Omonia, Monastiraki, Larissa Station...); airport and Piraeus-ship pictograms; caption "Athens Metro Map". No scale (schematic, not to scale).]
+[PAGE 3/7 | GLOBAL PDF p.165 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+                                                         Maps
+
+
+
+
+                                       London Tube Map
+
+
+
+
+                   Pupil’s Book • Appendix • Maps / 165
+
+
+
+
+10-0103.indb 165                                                1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[MAP 1 | full-page portrait: London Tube Map (central section): coloured Underground lines and stations (Victoria, Waterloo, King’s Cross, Paddington, Liverpool Street...); Thames blue band; legends "Key to lines" (left) and "Key to symbols" (bottom-right: interchange, National Rail connection, walking distance, closed Sundays, restricted services). No scale (schematic).]
+[PAGE 4/7 | GLOBAL PDF p.166 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+              APPENDIX                              Maps
+
+
+
+
+              166 / Pupil’s Book • Appendix • Maps
+
+
+
+10-0103.indb 166                                            1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[MAP 1 | full-page: English-language world map – Americas half: North and South America with oceans (North/South Pacific, North Atlantic); countries labelled (Canada, USA, Mexico, Brazil, Argentina...); legend: orange = English official + mother tongue (USA, Canada), green = English official language, lavender = English one of official languages (Quebec etc.). No scale bar (thematic map).]
+[PAGE 5/7 | GLOBAL PDF p.167 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+                                            Maps
+
+
+
+
+                   Pupil’s Book • Appendix • Maps / 167
+
+
+
+
+10-0103.indb 167                                          1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[MAP 1 | full-page: English-language world map – Europe/Africa/Asia/Australia half: Russia, China, India, Australia (orange), New Zealand (orange), South Africa (lavender) etc.; oceans Arctic/North Pacific/Indian; same English-status colour scheme (legend on companion page). No scale bar (thematic map).]
+[PAGE 6/7 | GLOBAL PDF p.168 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+                      Βάσει του ν. 3966/2011 τα διδακτικά βιβλία του Δημοτικού,
+                      του Γυμνασίου, του Λυκείου, των ΕΠΑ.Λ. και των ΕΠΑ.Σ.
+                      τυπώνονται από το ΙΤΥΕ - ΔΙΟΦΑΝΤΟΣ και διανέμονται
+                      δωρεάν στα Δημόσια Σχολεία. Τα βιβλία μπορεί να
+                      διατίθενται προς πώληση, όταν φέρουν στη δεξιά κάτω
+                      γωνία του εμπροσθόφυλλου ένδειξη «ΔIΑΤΙΘΕΤΑΙ ΜΕ
+                      ΤΙΜΗ ΠΩΛΗΣΗΣ». Κάθε αντίτυπο που διατίθεται προς
+                      πώληση και δεν φέρει την παραπάνω ένδειξη θεωρείται
+                      κλεψίτυπο και ο παραβάτης διώκεται σύμφωνα με τις
+                      διατάξεις του άρθρου 7 του νόμου 1129 της 15/21 Μαρτίου
+                      1946 (ΦΕΚ 1946,108, Α').
+
+
+
+
+                      Απαγορεύεται η αναπαραγωγή οποιουδήποτε τμήματος
+                      αυτού του βιβλίου, που καλύπτεται από δικαιώματα
+                      (copyright), ή η χρήση του σε οποιαδήποτε μορφή, χωρίς
+                      τη γραπτή άδεια του Υπουργείου Παιδείας, Θρησκευμάτων
+                      και Αθλητισμού / IΤΥΕ - ΔΙΟΦΑΝΤΟΣ.
+
+
+
+
+133-168 UP.indd 168                                                               05/10/2023 12:19:03
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[no maps or content images – Greek legal/copyright text only.]
+[PAGE 7/7 | GLOBAL PDF p.169 | SOURCE: pupil_appendix_maps_back.pdf]
+==============================================================================
+                                                                                              ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ
+                                                                                                    ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+
+
+
+                                                                                         Ελευθερία-Κλειώ Κολοβού                   Άννα Κρανιώτου
+
+
+
+
+                                                    Pupil’s Book
+                                                    ΑΓΓΛΙΚΑ
+                                                                                                     Eng ΑΓΓΛthΙΚΑ
+                                                                                                        lish 5 Grade
+
+
+
+           ΩΡΗΜΕ
+                                                                    Ε΄
+Α Ν Α ΘΕ
+
+
+               ΝΗ
+
+
+
+
+       10-0233                                                         Δ        ηµ
+                       Κωδικός Βιβλίου: 0-10-0233
+                                                                                  οτι
+                                                                                            κού
+                         ISBN 978-960-06-2567-7
+
+
+                                                                                ΩΡΗΜΕ
+                                                                                                                          Pupil’s Book
+                                                     Ε΄ Δημοτικού
+
+
+
+                                                                     Α Ν Α ΘΕ
+
+
+                                                                                    ΝΗ
+                                                                            10-0233
+
+                    (01) 000000 0 10 0233 1
+
+
+                                                                                         ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»
+
+--- IMAGES ON THIS PAGE ---
+[no content images – beige back cover with yellow curved stripe, ITYE-Diofantos logo, barcode/ISBN 978-960-06-2567-7 and edition stamp.]

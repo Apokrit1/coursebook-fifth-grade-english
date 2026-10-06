@@ -1,0 +1,717 @@
+==============================================================================
+SOURCE PDF : pupil_unit10.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit10\pupil_unit10.pdf
+GLOBAL PDF PAGES: 121-132
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=36232, words~=2603
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS (unit10): peach UNIT header/footer bars; red circular A/B/C... section badges; small activity icons (listening-cassette, reading-book, writing-pencil, masks, portfolio, speaking-bubble); GRAMMAR FOCUS magnifier (pp.4,7); dartboard self-assessment boxes (p.12); cartoon kids Mark/Kostas/Nadine.
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.121 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                                                                                 10
+
+
+                   In this unit: 0 We read about the Parthenon marbles
+                                 0 We write about ancient civilisations
+                                 0 We listen to a museum guide speaking about
+                                  a famous painting
+                                0 We speak about Athens El. Venizelos Airport
+
+                              What is happening at Athens airport?
+
+
+                                                                                      Delayed
+
+
+
+                                                                                      Cancelled
+
+
+
+
+                                                                                      Cancelled
+
+
+
+
+                      Arrivals
+
+
+
+
+10-0103.indb 121                                                                                1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom: large cartoon of four boys with suitcases at an airport Arrivals sign on a yellow background; arrivals flight table above (text).]
+Icons/UI (not IMAGES): unit title graphics.
+[PAGE 2/12 | GLOBAL PDF p.122 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                   10
+                     Lesson 1               AT THE AIRPORT
+                    A LEAD-IN
+               TOURISM IN GREECE
+               Look at the chart. Where do most tourists to Greece come from?
+               Why do visitors enjoy coming here? Discuss.
+               Make statements e.g. The UK is rainy, so British visitors come to Greece for the sun.
+
+
+                   COUNTRIES                  VISITORS TO GREECE
+                   United Kingdom             1.479.452
+                                                                                               Tourists
+                                                                                                 love
+                   Germany (wet/cold)         1.315.081                                        Greece
+                   Italy (close)              689.376
+                                                                                     sun
+                   France (no islands)        435.103
+                   Holland (cold & windy)     382.861
+                                                Data from EOT, January - June 2005
+
+
+
+
+                    B      LISTENING
+                   Nadine comes to Greece to spend her holidays with Kostas and Mark. Kostas meets Nadine at the
+                   airport. They speak about her flight and about Greek food. Fill in the missing questions.
+
+
+                               How was your flight ?
+
+                                                                                           A bit bumpy over the Alps.
+                                                                                              My head is spinning
+           1                                                           ?                    but I’ll soon get over it.
+
+                                                                                             Moussaka, what’s that?
+           2                                                           ?                    Is that a traditional dish?
+
+
+                                                                                           I’m not crazy about aubergines.
+           3                                                           ?
+
+                                                                                              That sounds delicious.
+
+
+
+
+               122 / Pupil’s Book • UNIT 10 - • Lesson 1
+
+
+
+10-0103.indb 122                                                                                                             1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right sun diagram: yellow sun labelled "Tourists love Greece" with dotted rays for pupil notes ("sun" filled in).]
+[IMAGE 2 | bottom: airport arrivals-hall photo with a woman pointing at screens, overlaid with cartoon heads of Mark and Nadine and speech bubbles.]
+Icons/UI (not IMAGES): section badges A+B; listening icon.
+[PAGE 3/12 | GLOBAL PDF p.123 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                                                                                                                    10
+                    C VOCABULARY
+                   Kostas is not sure what some of Nadine’s expressions mean. Match them with their meaning and
+                   help him find out.
+
+              1. a bit bumpy                                                                 a. not smooth
+              2. my head is spinning                                                         b. I don’t like it very much
+              3. I’ll get over it soon                                                       c. I feel a little dizzy
+              4. traditional dish                                                            d. local food of a country
+              5. I’m not crazy about                                                         e. I’ll be fine in a minute
+
+              1..........		2..........		3..........		4..........		5..........
+
+
+
+                    D      ROLE-PLAY
+
+                   Mark’s flight is finally here. Kostas and Nadine welcome him. Read the clues and act out the dialogue
+                   between Kostas, Nadine and Mark. The previous dialogue can help you.
+
+
+                   CLUES
+                   nice weather
+                   watch film
+                   drink orange juice
+                   play video game
+                   sleep
+
+
+
+                    E      MEDIATION: SOMEONE WHO DOESN’T SPEAK GREEK
+                   You are at the Athens International Airport waiting for a friend. A Canadian tourist who cannot
+                   read Greek is asking you if Flight OA661 from Mykonos has arrived. Look at the announcement
+                   board and explain to him what has happened to the flight.
+
+                   ΑΦΙΞΗ ΑΠΟ         ΑΕΡΟΠΟΡΙΚΗ ΠΤΗΣΗ ΜΕΣΩ		               ΑΝΑΜΕΝΟΜΕΝΗ     ΠΡΟΓΡΑΜ/ΝΗ        ΠΑΡΑΤΗΡΗΣΕΙΣ
+                   		                ΕΤΑΙΡΕΙΑ					                         ΑΦΙΞΗ 		        ΑΦΙΞΗ
+
+                   ΜΙΛΑΝΟ MXP        ALITALIA		     AZ 728			              03/02/07 18:15 03/02/07 18:25 Αφίχθη
+                   ΝΤΥΣΣΕΛΝΤΟΡΦ      OΛΥΜΠΙΑΚΕΣ
+                   		                ΑΕΡΟΓΡΑΜΜΕΣ    OA 182 ΘΕΣΣΑΛΟΝΙΚΗ     03/02/07 18:10 03/02/07 18:30 Αφίχθη
+                   ΜΥΚΟΝΟΣ           OΛΥΜΠΙΑΚΕΣ
+                   		                ΑΕΡΟΓΡΑΜΜΕΣ    OA 661			              03/02/07 19:00 03/02/07 18:30 Καθυστέρηση
+                   ΝΤΥΣΣΕΛΝΤΟΡΦ      AEGEAN AIRLINES A3 541 ΘΕΣΣΑΛΟΝΙΚΗ    03/02/07 18:50 03/02/07 18:50 Αναμενόμενη
+                   ΣΑΝΤΟΡΙΝΗ         OΛΥΜΠΙΑΚΕΣ
+                   		                ΑΕΡΟΓΡΑΜΜΕΣ    OA 559			              03/02/07 19:05 03/02/07 19:05 Αναμενόμενη
+
+
+
+                                                                                     Pupil’s Book • UNIT 10 - • Lesson 1 / 123
+
+
+
+
+10-0103.indb 123                                                                                                                 1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: photomontage of a passenger jet over a world map with clocks and traveller silhouettes.]
+Icons/UI (not IMAGES): section badges C+D+E; masks role-play icon.
+[PAGE 4/12 | GLOBAL PDF p.124 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                 10
+
+                                                              Time Prepositions
+                      Do you remember how to use the verb tenses?
+
+                      Every day I go / Up to now l’ve been / Yesterday I went / Tomorrow I will go
+                      A. Present         • Do you enjoy going to the playground?
+                                         • Yes, we love going there.
+                      B. Present         • Have you been to Athens, before?
+                         Perfect         • Mmm, yes. I’ve been there twice in the past.
+                      C. Past Simple     • Did you see Jack, yesterday evening?
+                                         • No, he wasn’t there. He broke his leg, while he was going home from work.
+                      D. Future          • Of course, I will help you if you like. I’m going to meet some friends after
+                                           school, but I’ll be back at 9:00.
+
+
+
+
+                  F        READING & WRITING
+
+                 You enjoy reading a childrens’ magazine that contains a pen pal section. You have read this letter
+                 from a boy from Sweden and you decide to reply. What do you say?
+
+
+
+
+                                                        d I am 11                       Dear Olaf,
+                                     from Sweden an
+              Hello, I am Olaf                                my he-
+                     s ol d  I lo ve  he licopters. One of                             ...........................
+                                                                                                                      ...........................
+              year                                       rn in Russia                 ...........................                                    ..........................
+                                    orsky. He was bo                                                                 ...........................
+              roes is Igor Sik                               to de-                                                                                 ..........................
+                     m ov  ed   to  th e   United States                             ...........................
+                                                                                                                    ...........................
+              but                                           invented                                                                               ... .......................
+                                      n for aircraft He                             ...........................
+               velop his passio                                                    ...........................
+                                                                                                                   ...........................
+                                                                                                                                                  ..........................
+                                      n helicopter.                                                               ...........................
+               the first moder                          mpany and                 ...........................                                    ..........................
+                                      t up his own co                                                            ...........................
+               In the US. he se                                ccessful                                                                         ..........................
+                       co m  pa ny   re m  ains the most su                      ...........................
+                                                                                                                ...........................
+                this                                    ld.                     ...........................                                    ..........................
+                                      ucer in the wor                                                          ...........................
+                helicopter prod                            dio-                ...........................                                    ... .......................
+                                         d gave me a ra                                                       ...........................
+                Last year my da                          d  I fly this        ...........................                                    ..........................
+                                       el helicopter an                                                      ...........................
+                 controlled mod                                 house.                                                                      ..........................
+                          w ee  ke nd s at    a park near my                 ...........................
+                                                                                                            ...........................
+                 mos   t                                                    ...........................                                    ..........................
+                                       e helicopters?                                                      ...........................
+                 Does anyone lik                               ers!        ...........................                                    ... .......................
+                         lo ok ing  fo rw  ard to your lett                                               ...........................
+                  I am                                                    ...........................                                    ..........................
+                                                                                                         ...........................
+                  Love, Olaf                                                                                                            ...........................
+
+
+
+
+               124 / Pupil’s Book • UNIT 10 - • Lesson 1
+
+
+
+121-132 up.indd 124                                                                                                                                                               22/9/2022 3:51:01 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right (small, overlapping reply letter): colour photo of a white helicopter in flight.]
+Icons/UI (not IMAGES): GRAMMAR FOCUS magnifier; reading/writing icons.
+[PAGE 5/12 | GLOBAL PDF p.125 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                                                                                                                     10
+                                                CROSS CURRICULAR PROJECT
+
+              A. HOW TO PRESENT A PLACE
+                   Organise a presentation of the Athens International Airport. Talk about the area, the buildings,
+                   the number of passengers and flights, the airlines and the facilities. Use the information in the box
+                   below. You may find www.aia.gr useful.
+
+              Differentiated Pedagogy (**): Appendix, page 150, Activity A. Here you may find an information table about
+              the London Heaathrow Airport. More competent pupils can use both tables and present a comparison
+              between the two airports. You may find www.heathrowairport.com, the official site of Heathrow airport,
+              useful.
+
+                                                                Information
+                   1. Serves                                           Athens
+                   2. Distance from Central Athens                     30 km
+                   3. Opening date                                     March 2001
+                   4. Number of Runways                                2
+                   5. Length of Runways                                4,000 m.
+                   6. IATA Code                                        ATH
+                                                                       European Airport of theYear 2004 (ITM awards),
+                   7. Awards                                           Best Airport in Southern Europe 2005 &
+                                                                       2006 (Skytrax Awards)
+                   8. Passengers in 2006                               15 million
+                   9. Planned passenger handling                       50 million
+                                                                       Attiki Odos, Athens Metro, Proastiakos Railway,
+                   10. Served by
+                                                                       Express Buses
+
+
+              B. HOW TO ORGANISE A PRESENTATION BASED ON YOUR SENSES:
+              Imagine either one of these two places:
+              Pelion (Magnisia), Zagorochoria (Epeirus)
+              Imagine the following five ways of sensing:
+              – What can you hear?
+              – What can you see?
+              – What can you smell?
+              – What can you feel?
+              – What can you taste?
+
+              Now put your notes together and «paint» a complete picture
+              of the place». Following that you may also want to add some
+              information about the history of the place you have chosen.
+                                                                                        Zagorochoria (Epeirus)
+
+
+                                                                                      Pupil’s Book • UNIT 10 - • Lesson 1 / 125
+
+
+
+
+10-0103.indb 125                                                                                                                  1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right: colour photo of a stone arch bridge over a river gorge between cliffs; caption "Zagorochoria (Epeirus)".]
+[PAGE 6/12 | GLOBAL PDF p.126 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                   10
+                    Lesson 2               TOURISTS LOVE VISITING PLACES
+
+                   A    LEAD-IN 8
+              Have you ever visited a museum?
+              Where was it? What did you see there?
+              Was there something which impressed you?
+
+
+
+                   B     READING
+                   Read this text about the Parthenon Marbles and give your opinion below.
+
+
+                    Members of the Parliament - Early Day Motion
+                    The present Parliament congratulates Channel 4 for the quality and the success of its recent
+                    programme «Fifteen-to-one», which was especially dedicated to the Elgin Marbles. During the
+                    telephone vote after the programme, 92.5% of the total 100,000 voters were in favour of the return
+                    of the Marbles in Greece. We believe that today the whole case about their return has been forgotten.
+                    Therefore, we call upon Her Majesty’s Government to start immediately with negotiations on the
+                    matter with the Greek government.
+
+                    Signed by more than 100 members of the British Parliament (London, 19/6/1996)
+
+
+
+                   Now give your opinion
+
+
+
+
+              126 / Pupil’s Book • UNIT 10 - • Lesson 12
+
+
+
+10-0103.indb 126                                                                                                            1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-centre: photo of a museum gallery interior with visitors looking at framed paintings.]
+[IMAGE 2 | top-right: poster of the Abraham Lincoln Presidential Museum with Lincoln portrait.]
+[IMAGE 3 | bottom-left: photo of the Parthenon marble horse-head sculpture.]
+[IMAGE 4 | bottom-right: photo of the Parthenon marble relief of a centaur fighting a man.]
+Icons/UI (not IMAGES): section badges A+B.
+[PAGE 7/12 | GLOBAL PDF p.127 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                                                                                                                      10
+                  C          DEBATE: RETURNING THE PARTHENON MARBLES
+               Should the Parthenon Marbles be returned to Greece or
+               not? Now, it is your turn to discuss and decide. You can
+               start a debate between two groups of students. The ﬁrst
+               group should support the return of the marbles and the
+               second group should be against it. Choose a chairperson,
+               make some notes and start the debate.
+
+
+
+
+               M To get some ideas go to the Appendix, Activity B, page
+                      150.
+
+
+
+
+                      We can talk about the position of an object (or a person) in a picture/drawing/
+                      photo using the following phrases
+
+
+                      1. In the top left-hand corner         4. at the top               7. in the top right-hand corner
+                      2. on the left                         5. in the middle            8. on the right
+                      3. in the bottom left-hand             6. at the bottom            9. in the bottom right-hand
+                      corner                                                             corner
+
+                                                4
+                      1                                                  7
+
+                                                5
+                      2                                                  8
+
+
+
+                      3                                                 9
+
+                                                6
+
+
+
+
+                  D          LISTENING
+               The children of a school in New York are visiting the Museum
+               of Modern Art (www.moma.org). They are very interested in
+               a painting of Mark Chagall called I and the Village. While
+               the teacher is explaining the different parts of the painting,
+               circle the objects she is describing.
+
+                                                                                                                         2 / 127
+                                                                                       Pupil’s Book • UNIT 10 - • Lesson 1
+
+
+
+
+121-132 up.indd 127                                                                                                          22/9/2022 3:53:29 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: photo of the Parthenon on the Acropolis with cartoon kids Nadine, Mark and Kostas pasted in front.]
+[IMAGE 2 | middle: position-words diagram: white rectangle with numbered red dots 1-9 (top/left/middle/bottom corners).]
+[IMAGE 3 | bottom-right: Chagall painting "I and the Village": cubist faces, cow, village houses.]
+Icons/UI (not IMAGES): GRAMMAR FOCUS magnifier; debate speech-bubbles icon.
+[PAGE 8/12 | GLOBAL PDF p.128 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                 10
+                  E        ROLE-PLAY
+                 It is Friday evening and the children want to find a nice restaurant for dinner. Look at the following
+                 and decide which is the best choice for a healthy meal. Discuss together with your classmates.
+
+
+
+                                                                 THE FOOD PYRAMID
+                             The Minoan                                                           Oil
+                                                                                                        &
+                        Traditional Greek Taverna                                                       Sweets
+                       Open: Thuesday to Sunday
+                      Greek cuisine and specialities                                                       Milk, Cheese
+                        Saturday: Greek dancing                                                                  &
+                                                                                                               Meat, Eggs
+
+                                                                                                                 Fuits
+                                                                                                                     &
+                           Il Ristorante                                                                             Vegetables
+
+                          Italian cuisine,
+                                                                                                                       Bread
+               Some Greek specialities, hamburgers                                                                        &
+               Quick service, good prices, live music                                                                      Pasta
+
+                  Open: Wednesday to Sunday
+
+
+
+                          The Golden Dragon                                         Rock Burger
+                      Chinese restaurant                                       The best burgers in town
+            Excellent service, beautiful atmosphere                         Lively atmosphere, rock music,
+                    Open: seven days a week                                          cheap prices
+                                                                               Open seven days a week
+
+
+
+                      F    PORTFOLIO
+
+                 Nadine is keeping a diary. She is writing about the places she has visited in Athens and also about
+                 the places she is going to visit the two following days. Fill in the following spaces. Look at the table
+                 in the Appendix, Activity C, page 151, to help you.
+
+
+
+               128 / Pupil’s Book • UNIT 10 - • Lesson 12
+
+
+
+121-132 up.indd 128                                                                                                         29/1/2015 2:45:16 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: THE FOOD PYRAMID diagram: triangle of food-group photos (oil/sweets top; milk/cheese/meat; fruit/vegetables; bread/pasta base).]
+Note: four restaurant banners (Minoan, Il Ristorante, Golden Dragon, Rock Burger) are styled text boxes, not photos.
+Icons/UI (not IMAGES): section badges E+F; masks and portfolio icons.
+[PAGE 9/12 | GLOBAL PDF p.129 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                                                                                                                                                                                         10
+                                                                                                                                                            Date: ........../........../..........
+                    Dear Diary,
+                    I arrived in Athens on the 4th of July with my mother. Kostas was waiting for me at
+                    the airport with his father and Mark arrived some time later.
+                    Eleftherios Venizelos is the ............................................................ airport I have ever seen.
+                    On July 5th we visited ................................................................................................
+                    .....................................................................................................................................
+                    Yesterday we ...............................................................................................................
+                    .....................................................................................................................................
+                    Today we are going to ................................................................................................
+                    .....................................................................................................................................
+                    .....................................................................................................................................
+                    .....................................................................................................................................
+                    Tomorrow we are going to .......................................................................................
+                    .....................................................................................................................................
+                    .....................................................................................................................................
+                    .....................................................................................................................................
+                    .....................................................................................................................................
+                    .....................................................................................................................................
+                    There are so many places to see in Athens that it’s impossible to see them all in
+                    4 days. I feel tired already but I have lots of photos. The food is great. I love pita
+                    souvlaki and tzatziki. Write again soon.
+
+
+
+
+                   G         SPEAKING
+                   The following week the children are visiting Crete with their parents. They are lying on a beach and
+                   they are thinking of their beautiful holidays in Greece. Look at the pictures and make the dialogues in
+                   groups of three.
+
+
+
+
+                                                                                                                                                                                 2 / 129
+                                                                                                                                               Pupil’s Book • UNIT 10 - • Lesson 1
+
+
+
+
+10-0103.indb 129                                                                                                                                                                                     1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: photo of a whitewashed Greek island chapel by the sea with a gull.]
+[IMAGE 2 | lower-right: photo of a Mykonos windmill at sunset over the town.]
+[IMAGE 3 | bottom far-left cartoon: children at airport DEPARTURES with US flag.]
+[IMAGE 4 | bottom centre-left cartoon: girl at a souvenir stall with dolls and mugs.]
+[IMAGE 5 | bottom centre-right cartoon: visitors at an ancient temple with red columns.]
+[IMAGE 6 | bottom far-right cartoon: children at a souvlaki stand (sign "ZOU...").]
+Icons/UI (not IMAGES): section badge G; speaking-bubble icon.
+[PAGE 10/12 | GLOBAL PDF p.130 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                   10
+                       Lesson 3                         MYTHS AND LEGENDS
+                   A      LEAD-IN 8
+                   Travelling is a good way of getting to
+                   know the world’s myths. Do you know
+                   about any of these myths? Discuss
+                   with your partner and then with the
+                   rest of your class.
+
+
+
+
+                   B      READING
+                   Robin Hood is one of the most famous English legends for children. How
+                   did he get the name «Hood» and who were his «Merry Men»? Read the
+                   passage in the Appendix, Activity D, page 152 to find out.
+
+              Robin took his surname from ......................................................................................
+              .....................................................................................................................................
+              The Merry Men were ................................................................................................
+              .....................................................................................................................................
+
+                   C      PORTFOLIO
+
+                   Collect information and pictures about gods from other civilizations from around the world. For
+                   example: Mexico (Aztecs), Peru (Incas), Norway (Vikings). Stick the information you find on cardboard
+                   and put it up on your classroom wall. Don’t forget to show pictures.
+
+              M For extra Portfolio work, see Appendix, Activity E, page 152.
+
+
+
+              Inca god                                                                             Aztec temple
+
+
+
+
+              130 / Pupil’s Book • UNIT 10 - • Lesson 13
+
+
+
+10-0103.indb 130                                                                                                                                      1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: wide painting of Olympian gods grouped on temple steps.]
+[IMAGE 2 | middle-right: book painting of Robin Hood with a bow in a forest.]
+[IMAGE 3 | bottom-left: colourful Inca god illustration (feathered headdress); caption "Inca god".]
+[IMAGE 4 | bottom-right: photo of an Aztec stepped-pyramid temple in jungle; caption "Aztec temple".]
+Icons/UI (not IMAGES): section badges A+B+C; lead-in arrow, reading and portfolio icons.
+[PAGE 11/12 | GLOBAL PDF p.131 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                                                                                                                                                          10
+
+                                     Name:..................................................... Class:..............................
+                                     Date:....................................................... Score:............./ 100
+
+
+              A. Word categories: Where can we see the following?
+
+               Sculptures, quick service, passengers, goddess, traditional dishes, flights, food, temple, announcement,
+                                                international cuisine, frieze, baggage
+
+
+                              Airport                                   Archaeological sites                                           Restaurant
+
+
+
+
+                                                                                                                                         Points: ....... / 24
+
+
+              B. Choose the correct word or phrase:
+              1. Tony ....................... in Tokyo for five years, but he left in 2001.
+                        a. lives                   b. lived                       c. is going to live
+              2. Somebody ....................... my bicycle. Now I’ll have to walk home.
+                        a. stole                   b. steals                      c. has stolen
+              3. Tomorrow we ....................... to Bermuda.
+                        a. are flying              b. fly                         c. flew
+              4. The Titanic ....................... in 1912.
+                        a. sinks                   b. has sunk                    c. sank
+              5. She ....................... after the ice cream truck, but she couldn’t reach it.
+                                                                                                                                            HMS Vicrory
+                        a. runs                    b. ran                         c. is running
+              6. Jimmy ....................... Dubai.
+                        a. already visits          b. has already visited         c. visited
+              7. I ....................... my key yesterday, so I couldn’t get into my house.
+                        a. have lost               b. losed                       c. lost
+              8. Have you ....................... had the measles?
+                        a. ever                    b. never                       c. yet
+
+
+                                                                                                Pupil’s Book •
+                                                                                                             Pupil’s Book
+                                                                                                               UNIT 10  - ••Self
+                                                                                                                             UNIT- Assessment
+                                                                                                                                    10 - • Lesson 1 / 131
+                                                                                                                                               Test
+
+
+
+
+10-0103.indb 131                                                                                                                                                1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: painting of the HMS Victory tall ship under full sail; caption "HMS Victory".]
+Icons/UI (not IMAGES): self-assessment header cartoons of a boy writing (left and right).
+[PAGE 12/12 | GLOBAL PDF p.132 | SOURCE: pupil_unit10.pdf]
+==============================================================================
+                   10
+              9. I believe I ....................... James at the party tomorrow.
+                        a. saw b. see c. will see
+              10. I have ....................... done the washing up. The kitchen is clean.
+                        a. yet b. already                c. never
+
+                                                                                                                 Points: ....... / 40
+
+              C. Mark has been to Paris and Nadine wants to find out more.
+                  Fill in Nadine’s questions to Mark:
+              Nadine: ......................................................................................
+              Mark: Yes, I went last Easter.
+              Nadine: ......................................................................................
+              Mark: I went with my school.
+              Nadine: ......................................................................................
+              Mark: Yes, we went to the Louvre the first day we got there.
+              Nadine: ......................................................................................
+              Mark: No we didn’t see the Mona Lisa because there were too many people.
+              Nadine: ......................................................................................
+              Mark: Yes, we saw the Venus of Milo.
+              Nadine: ......................................................................................
+              Mark: Yes, I’d like to go to Paris again, next time with my family.
+
+                                                                                                                 Points: ....... / 36
+
+
+
+
+                                                                 Tick what’s true for you:
+
+
+                                        Now I can:                                            Learning strategies in English
+                                                                                     STRATEGIES TO GET INFORMATION:
+                   c Write a postcard, a diary
+                   c Welcome a friend and ask him about his trip                     c I can read a text in Greek and present its
+                                                                                       main points in English
+                   c Read a text about the past
+                                                                                     c I ask experts for information
+                   c Describe a picture
+                                                                                     c I check any information with my group
+                   c Speak about my holidays
+                                                                                     c I use encyclopaedias to get information
+                   c Use the verb tenses to narrate a story
+
+
+
+              132 / Pupil’s Book • UNIT 10 - • Lesson
+                                               Self - Assessment
+                                                        1        Test
+
+
+
+
+10-0103.indb 132                                                                                                                        1/7/14 1:59 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: photo of the Venus de Milo statue.]
+[IMAGE 2 | bottom-centre: photo of Parthenon pediment sculptures (reclining marble figures) in a museum gallery.]
+Icons/UI (not IMAGES): two dartboard self-assessment boxes (Now I can / Learning strategies).

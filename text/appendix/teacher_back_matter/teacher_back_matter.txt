@@ -1,0 +1,95 @@
+==============================================================================
+SOURCE PDF : teacher_back_matter.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\appendix\teacher_back_matter.pdf
+GLOBAL PDF PAGES: 141-145
+PAGES IN THIS FILE: 5
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: reading-order (no -layout; two-column TB) -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=1284, words~=233
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (1 /Alternate ICC profile only); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/5 | GLOBAL PDF p.141 | SOURCE: teacher_back_matter.pdf]
+==============================================================================
+10-0105_AGGLIKA DASKALOU.indd 141
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[BLANK PAGE]
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 2/5 | GLOBAL PDF p.142 | SOURCE: teacher_back_matter.pdf]
+==============================================================================
+10-0105_AGGLIKA DASKALOU.indd 142
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[BLANK PAGE]
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 3/5 | GLOBAL PDF p.143 | SOURCE: teacher_back_matter.pdf]
+==============================================================================
+10-0105_AGGLIKA DASKALOU.indd 143
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[BLANK PAGE]
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 4/5 | GLOBAL PDF p.144 | SOURCE: teacher_back_matter.pdf]
+==============================================================================
+Βάσει του ν. 3966/2011 τα διδακτικά βιβλία του Δημοτικού,
+του Γυμνασίου, του Λυκείου, των ΕΠΑ.Λ. και των ΕΠΑ.Σ.
+τυπώνονται από το ΙΤΥΕ - ΔΙΟΦΑΝΤΟΣ και διανέμονται
+δωρεάν στα Δημόσια Σχολεία. Τα βιβλία μπορεί να
+διατίθενται προς πώληση, όταν φέρουν στη δεξιά κάτω
+γωνία του εμπροσθόφυλλου ένδειξη «ΔIΑΤΙΘΕΤΑΙ ΜΕ
+ΤΙΜΗ ΠΩΛΗΣΗΣ». Κάθε αντίτυπο που διατίθεται προς
+πώληση και δεν φέρει την παραπάνω ένδειξη θεωρείται
+κλεψίτυπο και ο παραβάτης διώκεται σύμφωνα με τις
+διατάξεις του άρθρου 7 του νόμου 1129 της 15/21 Μαρτίου
+1946 (ΦΕΚ 1946,108, Α').
+
+Απαγορεύεται η αναπαραγωγή οποιουδήποτε τμήματος
+αυτού του βιβλίου, που καλύπτεται από δικαιώματα
+(copyright), ή η χρήση του σε οποιαδήποτε μορφή, χωρίς
+τη γραπτή άδεια του Υπουργείου Παιδείας, Έρευνας και
+Θρησκευμάτων / IΤΥΕ - ΔΙΟΦΑΝΤΟΣ.
+
+10-0105_AGGLIKA DASKALOU.indd 144
+
+1/28/16 9:26 AM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 5/5 | GLOBAL PDF p.145 | SOURCE: teacher_back_matter.pdf]
+==============================================================================
+ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ ΚΑΙ ΘΡΗΣΚΕΥΜΑΤΩΝ
+ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+Κρανιώτου Άννα
+
+Κωδικός Βιβλίου: 0-10-0105
+ISBN 978-960-06-2569-1
+
+(01) 000000 0 10 0105 1
+
+ΑΓΓΛΙΚΑ Ε΄ Δημοτικού
+
+Βιβλίο καθηγητή
+
+Κολοβού Ελευθερία-Κλειώ
+
+Βιβλίο καθηγητή
+ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ
+«ΔΙΟΦΑΝΤΟΣ»
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES] (back cover: orange band, publisher logo and barcode only)

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Cyber-Tech Computer Parts Picture Dictionary - Gamified, interactive vocabulary learning application with authentic audio pronunciation." />
+  <title>Cyber-Tech Computer Parts | Interactive Picture Dictionary</title>
+
+  <!-- Google Fonts: Space Grotesk, Outfit, Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Cyber Stylesheet -->
+  <link rel="stylesheet" href="assets/css/cyber_style.css" />
+</head>
+<body>
+  <!-- Animated Background Canvas & Scanline -->
+  <canvas id="cyber-canvas"></canvas>
+  <div class="cyber-grid-overlay"></div>
+  <div class="scanline"></div>
+
+  <!-- Main Container -->
+  <div class="cyber-app">
+    
+    <!-- Top HUD & Header -->
+    <header class="cyber-header">
+      <div class="brand-section">
+        <div class="brand-logo-icon" id="btn-welcome-audio" title="Click to hear Introduction">
+          ⚡
+        </div>
+        <div class="brand-info">
+          <h1>
+            <span>CYBER LAB</span>
+            <span class="pill-version">v2.0</span>
+          </h1>
+          <div class="sub-tag">
+            <span>Computer Parts Picture Dictionary</span>
+            <span>•</span>
+            <span style="color: #d8b4fe;">Photodentro EdTech</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Live Gamification Stats -->
+      <div class="hud-stats-container">
+        <div class="hud-stat-badge xp-badge" title="Total Cyber Experience">
+          <span class="stat-icon">⚡</span>
+          <span class="stat-val" id="hud-xp">0 XP</span>
+        </div>
+        <div class="hud-stat-badge rank-badge" title="Current Cyber Mastery Rank">
+          <span class="stat-icon">🎖️</span>
+          <span class="stat-val" id="hud-rank">Lvl 1 Novice Cadet</span>
+        </div>
+        <div class="hud-stat-badge streak-badge" title="Current Challenge Streak">
+          <span class="stat-icon">🔥</span>
+          <span class="stat-val" id="hud-streak">0x</span>
+        </div>
+      </div>
+
+      <!-- Quick HUD Controls -->
+      <div class="hud-controls">
+        <button class="btn-hud-icon active" id="btn-toggle-greek" title="Toggle Greek Educational Translation">
+          🇬🇷
+        </button>
+        <button class="btn-hud-icon active" id="btn-toggle-sfx" title="Toggle Sound Effects">
+          🔔
+        </button>
+        <button class="btn-hud-icon" id="btn-view-badges" title="View Earned Badges & Achievements">
+          🏆
+        </button>
+      </div>
+    </header>
+
+    <!-- Navigation / Mode Tabs -->
+    <nav class="cyber-nav" aria-label="Learning Modes">
+      <button class="mode-tab-btn active" data-mode="explorer" id="tab-explorer">
+        <span>🔍</span>
+        <span>Cyber Lab Explorer</span>
+        <span class="badge-counter">14</span>
+      </button>
+      <button class="mode-tab-btn" data-mode="listen-tap" id="tab-listen-tap">
+        <span>🎯</span>
+        <span>Listen & Tap (Audio Hunt)</span>
+      </button>
+      <button class="mode-tab-btn" data-mode="spelling" id="tab-spelling">
+        <span>🔤</span>
+        <span>Word Matrix (Spelling Bee)</span>
+      </button>
+      <button class="mode-tab-btn" data-mode="memory" id="tab-memory">
+        <span>🧠</span>
+        <span>Neural Memory Match</span>
+      </button>
+    </nav>
+
+    <!-- ================= MODE 1: EXPLORER ================= -->
+    <main class="mode-panel active" id="panel-explorer">
+      <div class="explorer-toolbar">
+        <div class="search-wrapper">
+          <span class="search-icon">🔎</span>
+          <input 
+            type="text" 
+            id="search-vocab" 
+            class="cyber-search-input" 
+            placeholder="Search computer parts (e.g. keyboard, mouse, scanner)..." 
+            autocomplete="off" 
+          />
+        </div>
+
+        <div class="filter-chips">
+          <button class="chip-btn active" data-category="all">All (14)</button>
+          <button class="chip-btn" data-category="input">Input Devices</button>
+          <button class="chip-btn" data-category="output">Output Devices</button>
+          <button class="chip-btn" data-category="core">Core Unit</button>
+          <button class="chip-btn" data-category="storage">Storage</button>
+          <button class="chip-btn" data-category="accessory">Accessories</button>
+        </div>
+      </div>
+
+      <!-- Vocabulary Grid -->
+      <div class="vocab-grid" id="vocab-cards-grid">
+        <!-- Injected via JavaScript -->
+      </div>
+    </main>
+
+    <!-- ================= MODE 2: LISTEN & TAP ================= -->
+    <section class="mode-panel" id="panel-listen-tap">
+      <div class="game-container">
+        <div class="game-header-bar">
+          <div class="game-title-group">
+            <h2><span>🎯</span> Listen & Tap Challenge</h2>
+            <p>Listen carefully to the authentic pronunciation and tap the correct computer component!</p>
+          </div>
+          <div class="game-hud-counters">
+            <div class="hud-counter-box">
+              <div class="hud-counter-label">Round</div>
+              <div class="hud-counter-value" id="hunt-round-counter">1/8</div>
+            </div>
+            <div class="hud-counter-box">
+              <div class="hud-counter-label">Score</div>
+              <div class="hud-counter-value" id="hunt-score-counter">0</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Timer Track -->
+        <div class="game-timer-track">
+          <div class="game-timer-fill" id="hunt-timer-fill"></div>
+        </div>
+
+        <!-- Audio Prompt Center -->
+        <div class="audio-prompt-station">
+          <button class="btn-big-speaker" id="btn-prompt-speaker" onclick="app.replayHuntAudio()" title="Replay Pronunciation">
+            🔊
+          </button>
+          <div class="audio-prompt-hint">Tap speaker to replay spoken audio</div>
+        </div>
+
+        <!-- 4 Options Grid -->
+        <div class="listen-tap-grid" id="hunt-options-grid">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= MODE 3: WORD MATRIX (SPELLING) ================= -->
+    <section class="mode-panel" id="panel-spelling">
+      <div class="game-container">
+        <div class="game-header-bar">
+          <div class="game-title-group">
+            <h2><span>🔤</span> Word Matrix Spelling Bee</h2>
+            <p>Listen to the component audio and assemble the cyber energy letter chips to spell the word!</p>
+          </div>
+          <div class="spelling-actions">
+            <button class="btn-cyber-outline" onclick="app.spelling.targetItem && window.cyberAudio.playVoice(app.spelling.targetItem.audio, 'spelling-replay')">
+              🔊 Hear Word
+            </button>
+            <button class="btn-cyber-outline" onclick="app.giveSpellingHint()">
+              💡 Hint
+            </button>
+            <button class="btn-cyber-outline" onclick="app.clearSpelling()">
+              🔄 Clear
+            </button>
+          </div>
+        </div>
+
+        <div class="spelling-workbench">
+          <!-- Target Preview Image -->
+          <div class="spelling-image-display">
+            <img id="spelling-img" src="assets/images/keyboard.jpg" alt="Spelling target component" />
+          </div>
+
+          <div id="spelling-greek-hint" style="font-size: 1.1rem; color: #d8b4fe; font-weight: 600;"></div>
+
+          <!-- Target Empty Letter Slots -->
+          <div class="letter-slots-container" id="spelling-slots">
+            <!-- Injected via JavaScript -->
+          </div>
+
+          <!-- Letter Chips Pool -->
+          <div class="scrambled-letters-container" id="spelling-chips">
+            <!-- Injected via JavaScript -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= MODE 4: NEURAL MEMORY MATCH ================= -->
+    <section class="mode-panel" id="panel-memory">
+      <div class="game-container">
+        <div class="game-header-bar">
+          <div class="game-title-group">
+            <h2><span>🧠</span> Neural Memory Match</h2>
+            <p>Flip and match pairs: connect each 3D holographic hardware illustration with its spoken word audio!</p>
+          </div>
+          <div class="game-hud-counters">
+            <div class="hud-counter-box">
+              <div class="hud-counter-label">Moves</div>
+              <div class="hud-counter-value" id="memory-moves">0</div>
+            </div>
+            <div class="hud-counter-box">
+              <div class="hud-counter-label">Matched</div>
+              <div class="hud-counter-value" id="memory-pairs">0/6</div>
+            </div>
+            <div class="hud-counter-box">
+              <div class="hud-counter-label">Time</div>
+              <div class="hud-counter-value" id="memory-time">00:00</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="memory-difficulty-row">
+          <div class="filter-chips">
+            <button class="chip-btn" onclick="app.startMemoryGame('easy')">Easy (4 Pairs)</button>
+            <button class="chip-btn active" onclick="app.startMemoryGame('medium')">Medium (6 Pairs)</button>
+            <button class="chip-btn" onclick="app.startMemoryGame('hard')">Hard (8 Pairs)</button>
+            <button class="chip-btn" onclick="app.startMemoryGame('all')">Matrix Master (All 14)</button>
+          </div>
+          <button class="btn-cyber-outline" onclick="app.startMemoryGame()">
+            🔄 Restart Game
+          </button>
+        </div>
+
+        <!-- Flip Cards Grid -->
+        <div class="memory-grid" id="memory-grid">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= MODALS ================= -->
+
+    <!-- Word Detail Modal -->
+    <div class="modal-overlay" id="word-modal" onclick="if(event.target === this) app.closeModal()">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3 id="modal-word-title">Hardware Details</h3>
+          <button class="btn-close-modal" onclick="app.closeModal()" title="Close">✕</button>
+        </div>
+        <div class="modal-body" id="modal-word-body">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Badges Modal -->
+    <div class="modal-overlay" id="badges-modal" onclick="if(event.target === this) app.closeModal()">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>🏆 Cyber Badges & Achievements</h3>
+          <button class="btn-close-modal" onclick="app.closeModal()" title="Close">✕</button>
+        </div>
+        <div class="modal-body">
+          <div class="badges-grid" id="badges-grid">
+            <!-- Injected via JavaScript -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toast Notifications Container -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <!-- Footer & Educational Attribution -->
+    <footer class="cyber-footer">
+      <div class="footer-credits">
+        <span>Developed for English Language Learning in Greek Schools</span>
+        <span>•</span>
+        <a href="story_content/external_files/index.html" target="_blank">Συντελεστές Έργου (Credits)</a>
+        <span>•</span>
+        <span>Photodentro / ΙΤΥΕ «ΔΙΟΦΑΝΤΟΣ»</span>
+      </div>
+      <div class="footer-links">
+        <a class="btn-footer-link" href="story_html5.html" target="_blank" title="Launch legacy Articulate Storyline player">
+          📼 Original Storyline Player
+        </a>
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/js/vocabulary_data.js"></script>
+  <script src="assets/js/audio_engine.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,231 @@
+==============================================================================
+SOURCE PDF : workbook_front_matter.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\front_matter\workbook_front_matter.pdf
+GLOBAL PDF PAGES: 0-6
+PAGES IN THIS FILE: 7
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=7006, words~=437
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: ministry/IEP letterheads, blue spine strip with yellow label, ISBN/barcode footer, publisher logos; no pencil ACTIVITY icons in this file.
+==============================================================================
+==============================================================================
+[PAGE 1/7 | GLOBAL PDF p.0 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+                                                                                                ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ
+                                                                                                      ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+
+
+
+                                                                                          Ελευθερία-Κλειώ Κολοβού                   Άννα Κρανιώτου
+
+
+
+
+                                                    Activity Book
+
+
+
+
+                                                                           Ε΄ Δηµοτικού
+                                                                                                       Eng ΑΓΓΛthΙΚΑ
+                                                                                                          lish 5 Grade
+
+
+
+           ΩΡΗΜΕ
+Α Ν Α ΘΕ
+
+
+               ΝΗ
+
+
+
+
+       10-0234                                      ΑΓΓΛΙΚΑ Ε΄ Δημοτικού
+
+                       Κωδικός Βιβλίου: 0-10-0234
+                         ISBN 978-960-06-2568-4
+                                                                                                                                                              ΩΡΗΜΕ
+
+
+
+
+                                                                                                                                                   Α Ν Α ΘΕ
+
+
+                                                                                                                                                                  ΝΗ
+                                                                                                                                                          10-0234
+                                                                                                      Activity Book
+                    (01) 000000 0 10 0234 8
+                                                                                          ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | centre, full-page: cover illustration - large globe with inset photos (smiling girl, red London bus, woman portrait, cheetah, children gardening, woman with gorillas, Recycle sign) behind a white banner reading AGGLIKA / English 5th Grade, held by six cartoon children; yellow E' Dimotikou label on the blue spine at left.]
+[IMAGE 2 | bottom-right: circular approval stamp reading 10-0234. No other embedded text.]
+
+==============================================================================
+
+[PAGE 2/7 | GLOBAL PDF p.1 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+10_0104_agglika.indd 1   1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+
+[PAGE 3/7 | GLOBAL PDF p.2 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+10_0104_agglika.indd 2   1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+
+[PAGE 4/7 | GLOBAL PDF p.3 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+                         English 5 th Grade
+
+
+                              Activity Book
+
+
+
+
+10_0104_agglika.indd 3                        1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+
+[PAGE 5/7 | GLOBAL PDF p.4 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+                                                              ΣΤΟΙΧΕΙΑ ΑΡΧΙΚΗΣ ΕΚ∆ΟΣΗΣ
+                    ΣΥΓΓΡΑΦΕΙΣ                         Ελευθερία Κλειώ Κολοβού, Εκπαιδευτικός ΠΕ6
+                                                       Κρανιώτου Άννα, Εκπαιδευτικός  ΠΕ6
+
+                    ΚΡΙΤΕΣ-ΑΞΙΟΛΟΓΗΤΕΣ                 Μελίνα Παπακωνσταντίνου, Μέλος ΔΕΠ
+                                                       Παρασκευή Λεοντίου-Φερεντίνου, τ.Σχολική Σύμβουλος                                                              
+                                                       Παναγιώτα Γκουντή, Εκπαιδευτικός ΠΕ6
+
+                    ΕΙΚΟΝΟΓΡΑΦΗΣΗ                      Ελισάβετ Βαβούρη,  Εικονογράφος
+
+                    ΦΙΛΟΛΟΓΙΚΗ ΕΠΙΜΕΛΕΙΑ               Χρυσάνθη Αυγέρου, Eκπαιδευτικός ΠΕ6
+
+                    ΥΠΕΥΘΥΝΟΙ
+                    ΤΟΥ ΜΑΘΗΜΑΤΟΣ
+                    ΚΑΤΑ ΤΗ ΣΥΓΓΡΑΦΗ                   Ιωσήφ Ε. Χρυσοχόος
+                                                       Πάρεδρος ε.θ. του Παιδαγωγικού Ινστιτούτου
+                                                       Πέτρος Μπερερής
+                                                       Σύμβουλος του Παιδαγωγικού Ινστιτούτου                                             
+
+                    ΥΠΕΥΘΥΝΟΣ ΥΠΟΕΡΓΟΥ                 Χρυσούλα Κούτρα,  Εκπαιδευτικός ΠΕ6
+
+
+                    ΑΝΑΔΟΧΟΣ                           Σ. ΠΑΤΑΚΗΣ Α.Ε.Ε.Ε
+
+
+                    ΠΡΟΕΚΤΥΠΩΤΙΚΕΣ ΕΡΓΑΣΙΕΣ            ΒΙΒΛΙΟΣΥΝΕΡΓΑΤΙΚΗ Α.Ε.Π.Ε.Ε.
+
+                    Στη συγγραφή συνεργάστηκαν και οι Francis Baker και Παρασκευή Μουστακίδου
+
+
+
+
+                         Γ΄Κ.Π.Σ. / ΕΠΕΑΕΚ ΙΙ / Ενέργεια 2.2.1 / Κατηγορία Πράξεων 2.2.1.α: «Αναμόρφωση των προγραμμάτων σπουδών και
+                         συγγραφή νέων εκπαιδευτικών πακέτων»
+                         				
+                                                         ΠΑΙΔΑΓΩΓΙΚΟ  ΙΝΣΤΙΤΟΥΤΟ
+                                                         Δημήτριος Γ. Βλάχος
+                                                         Ομότιμος Καθηγητής του Α.Π.Θ.
+                                                         Πρόεδρος του Παιδαγωγικού Ινστιτούτου
+
+                         Πράξη με τίτλο:               «Συγγραφή νέων βιβλίων και παραγωγή
+                                                       υποστηρικτικού εκπαιδευτικού υλικού με βάση
+                                                       το ΔΕΠΠΣ και τα ΑΠΣ για το Δημοτικό και το Νηπιαγωγείο»
+
+                                                       Επιστημονικός Υπεύθυνος Έργου
+                                                       Γεώργιος Τύπας
+                                                       Σύμβουλος Παιδαγωγικού Ινστιτούτου
+
+                                                       Αναπληρωτής Επιστημονικός Υπεύθυνος Έργου
+                                                       Γεώργιος Οικονόμου
+                                                       Σύμβουλος Παιδαγωγικού Ινστιτούτου                                   
+
+                         Έργο συγχρηματοδοτούμενο 75% από το Ευρωπαϊκό Κοινωνικό Ταμείο και 25% από εθνικούς πόρους.
+
+
+
+
+                                                                 ΣΤΟΙΧΕΙΑ ΕΠΑΝΕΚ∆ΟΣΗΣ
+                Η επανέκδοση του παρόντος βιβλίου πραγματοποιήθηκε
+                από το Ινστιτούτο Τεχνολογίας Υπολογιστών & Εκδόσεων
+                «Διόφαντος» μέσω ψηφιακής μακέτας, η οποία δημιουργή-
+                θηκε με χρηματοδότηση από το ΕΣΠΑ / ΕΠ «Εκπαίδευση
+                & Διά Βίου Μάθηση» / Πράξη «ΣΤΗΡΙΖΩ».
+
+                            Οι διορθώσεις πραγματοποιήθηκαν κατόπιν έγκρισης του Δ.Σ. του Ινστιτούτου Εκπαιδευτικής Πολιτικής
+
+
+
+
+10_0104_agglika.indd 4                                                                                                                                             1/26/15 12:10 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom: three small side-by-side logos - EU flag circle, ESPA/EPEAEK programme logo and ESPA 2007-2013 logo - beside the reprint funding paragraph.]
+
+==============================================================================
+
+[PAGE 6/7 | GLOBAL PDF p.5 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+                               ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ
+                                     ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+
+
+
+                            Ελευθερία-Κλειώ Kολοβού                         Άν ν α Κ ρ α ν ι ώ τ ο υ
+
+
+
+                                          ΑΝΑΔΟΧΟΣ ΣΥΓΓΡΑΦΗΣ:
+
+                              Η συγγραφή και η επιστηµονική επιµέλεια του βιβλίου πραγµατοποιήθηκε
+                                          υπό την αιγίδα του Παιδαγωγικού Ινστιτούτου
+
+
+
+
+                                           English 5 th Grade
+
+
+                                                    Activity Book
+
+
+
+
+                         ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»
+
+
+
+
+10_0234_agglika.indd 5                                                                                 3/12/2024 9:40:34 πµ
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | centre: small black Patakis publisher logo (stacked books, EKDOSEIS PATAKI) next to the ANADOHOS SYGGRAFIS line.]
+
+==============================================================================
+
+[PAGE 7/7 | GLOBAL PDF p.6 | SOURCE: workbook_front_matter.pdf]
+==============================================================================
+10_0104_agglika.indd 6   1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]

@@ -1,0 +1,751 @@
+==============================================================================
+SOURCE PDF : pupil_unit09.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit09\pupil_unit09.pdf
+GLOBAL PDF PAGES: 109-120
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=30524, words~=2858
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS (unit09): green UNIT header/footer bars; red circular A/B/C... section badges with counts per page; small activity icons (reading-book, writing-pencil, listening-cassette, speaking-bubble, portfolio, dice, project-board); GRAMMAR FOCUS magnifier (pp.3,7); Learning-strategy dartboards (pp.9,12); cartoon avatars Mark/Kostas/Nadine.
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.109 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                                                                            9
+
+
+                      In this unit:
+                          0 We read about Dian Fossey who helped save
+                             gorillas in Africa
+                      			 0 We make a school newspaper
+                      			 0 We listen to people talking about Mikis Theodorakis
+                      			 0 We speak about past memories
+
+
+                                            How amazing!!!
+
+
+
+
+                                                                   ΚΟSTAS
+                                MARK
+
+
+
+
+                                                      NADINE
+
+
+
+
+109-120 up.indd 109                                                                29/1/2015 2:36:00 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-left: colour photo of a snow-capped mountain above pine forest, labelled MARK.]
+[IMAGE 2 | middle-right: black-and-white photo of Dian Fossey seated outdoors with three mountain gorillas, labelled KOSTAS.]
+[IMAGE 3 | bottom-right: colour photo of the sail-shaped Burj Al Arab tower in Dubai at dusk, labelled NADINE.]
+[IMAGE 4 | bottom-centre (small): colour photo of the Dubai city skyline and motorway at sunset.]
+Icons/UI (not IMAGES): cartoon avatar drawings of Mark (top-left), Kostas (top-right), Nadine (centre); unit title graphics.
+[PAGE 2/12 | GLOBAL PDF p.110 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                    9
+                   Lesson 1 SHE HAS HELPED SAVE GORILLAS
+
+                   A      LEAD-IN 8
+              Have you ever seen a real gorilla?
+              What do you know about gorillas?
+              Where do they live?
+
+
+
+                   B      READING
+                   Read this interesting article that Kostas came across on the internet and after reding the article
+                   and decide whether the sentences are true (0) or false (=):
+
+
+                       Dian Fossey became famous when her photo was on the front
+                       cover of the National Geographic magazine in January 1970. She
+                       was holding 2 baby gorillas. Dian was born in San Francisco, USA.
+                       After her university studies, she went to Africa where she decided to
+                       protect the mountain gorillas on the Rwanda-Congo border.
+
+                       This is an article from an old newspaper from the 1970s. Dian Fossey
+                       tells a reporter a typical story about her work with gorillas.
+
+                       “I am looking after this baby gorilla. Poachers* have killed 10
+                       gorillas. There was the whole family group who was defending him. The poachers were only interested
+                       in the baby gorilla. They have received money to get young gorillas from the forests and sell them to
+                       zoos in Europe and America.
+                       This is how it happens: European and American zoos contact forest rangers in Africa and ask them
+                       to find baby gorillas. The park rangers then contact poachers. Poachers then kill adult gorillas to
+                       steal their babies.
+                       The poachers have looked after this baby gorilla very badly. They tied its hands and feet with metal
+                       wire. The wire has hurt its skin.It has also received very little food and no water.
+                       I have spoken to the park ranger. I don’t want this baby gorilla to leave Africa. It must go back to the
+                       forest. However, I know, because the zoo has paid the ranger, it will leave Africa and go to a zoo in
+                       America or Europe. The only thing I must do now is to make sure the baby gorilla is in good health
+                       before it leaves.
+                       If we don’t stop this traffic of baby gorillas, there won’t be any gorillas left soon.”
+                       Dian Fossey continued her work with gorillas for many years and because of her work she has saved
+                       this animal species from extinction.
+
+                                                        Adapted from “Dian Fossey’s Forgotten Gorilla Orphans” from www.ippl.org
+                                                                               (International Primate Protection League website)
+                       * Poachers = λαθροκυνηγοί
+
+
+
+
+              110 / Pupil’s Book • UNIT 10
+                                        9-•- •Lesson
+                                               Lesson11
+
+
+
+
+10-0103.indb 110                                                                                                                   1/7/14 1:58 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: colour photo of two adult gorillas with a baby gorilla on grass.]
+[IMAGE 2 | middle-right (inside article box): colour photo of Dian Fossey crouching in foliage with two gorillas.]
+Icons/UI (not IMAGES): section badges A+B; reading-book and listening icons.
+[PAGE 3/12 | GLOBAL PDF p.111 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                                                                                                                         9
+                      Decide whether the sentences are true (0) or false (=):
+
+                                                              In Dian Fossey’s story:
+                                                              1. The baby gorilla has lost all its family.               .……
+                                                              2. The poachers have treated it well.                      .……
+                                                              3. The poachers have given it a lot of food.               .……
+                                                              4. The poachers have given it a lot of water.              .……
+                                                              5. Dian wants to bring it back to good health.             .……
+
+
+
+
+                                                       The Present Perfect Tense
+
+
+                      X                                                            X
+                      Past                                                   Present
+
+
+
+                             The Present Perfect connects the past with the present.
+                             1. For news
+                             Have you heard? He has arrived.
+                             He’s won the elections!
+
+                             2. With time words
+                             Have you seen Kostas recently?
+                             Have you ever been to England?
+
+                             3. For situations “up to now”
+                             He came to Athens when he was twenty and he has lived there ever since.
+                             She has been a teacher all her life.
+
+
+                             Negatives:
+                             I have never seen the Pyramids.
+                             He hasn’t ﬁnished his homework yet so he can’t watch television.
+
+
+                             Questions:
+                             Have you ever taken a tram?
+                             Have you ever eaten Chinese food?
+
+
+
+
+                                                                                         Pupil’s
+                                                                                          Pupil’sBook
+                                                                                                  Book••UNIT  9 - • Lesson 1 / 111
+                                                                                                         UNIT10
+
+
+
+
+109-120 up.indd 111                                                                                                            22/9/2022 3:48:57 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left: black-and-white photo of Dian Fossey with two young gorillas (same shot as p.1 IMAGE 2).]
+Icons/UI (not IMAGES): GRAMMAR FOCUS magnifier top-right; true/false tick-cross marks.
+[PAGE 4/12 | GLOBAL PDF p.112 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                      9
+                 C        WRITING & SPEAKING
+                 Write about some of the things you have or haven’t done in your life upto now. Fill in the following
+                 chart.
+
+
+                  I’ve been to…                       I’ve travelled on…      I’ve eaten…
+                  Countries & Cities                  Transport               Foods from other countries
+                  Italy                               Bicycle                 Chinese food
+
+
+
+
+                 Share your results with your classmates and see what your classmates have done. This way you
+                 can learn more about your fellow pupils.
+
+
+
+
+                 D        LISTENING
+                 Mark has recently watched “Zorbas the Greek” on television in England. Mark was impressed by the
+                 music. After the film, there was a short programme giving information about Mikis Theodorakis, the
+                 composer and musician. In the listening the speaker summarises the main themes of Theodorakis’s
+                 life. Help Mark take down some notes.
+
+
+
+
+               “Zorbas the Greek”				                                  Mikis Theodorakis
+
+
+
+
+               1. His music
+
+               2. His political struggles
+
+               3. His role within Greek society
+
+               4. His commitments to humanity
+
+
+
+               112 / Pupil’s Book • UNIT 10
+                                         9-•- •Lesson
+                                                Lesson11
+
+
+
+
+109-120 up.indd 112                                                                                                     29/1/2015 2:37:17 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-left: black-and-white film still of two men dancing the sirtaki on a beach; caption "Zorbas the Greek".]
+[IMAGE 2 | bottom-right: colour photo of white-haired composer Mikis Theodorakis conducting; caption "Mikis Theodorakis".]
+Icons/UI (not IMAGES): section badges C+D; writing-pencil, speaking-bubble and listening icons.
+[PAGE 5/12 | GLOBAL PDF p.113 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                                                                                                                      9
+                   E    SPEAKING: PAST MEMORIES
+
+                   Do some research at home and report back to your class.
+                   Small things make a difference in our lives. Ask your parents and grandparents about important
+                   things they did during their lives, which they want to be remembered for.
+
+              For example, Kostas’s grandfather told him: “Throughout my life I’ve saved many dolphins from fishing
+              nets.”
+
+
+
+                   F    PORTFOLIO
+
+              The school year is nearing the end. What three things do you want to be remembered for this year? For
+              example:
+              • I have never been late to class.
+              • I have always handed in my homework on time.
+
+
+                   The three things from this year I want to be remembered for.
+
+                   1.
+                   2.
+                   3.
+
+
+                   As a class make a list of 10 things you can all be proud of which you have done during this year.
+                   Write them up on a poster and stick them up on your classroom wall.
+
+
+
+                                              CROSS CURRICULAR PROJECT
+
+              These are 3 famous people who have many sports records:
+              • Yiannis Kouros: The Greek ultra-distance runner, broke many ultra-distance running world records. One
+              record: in 1996 in a stadium, he ran 294,546 kilometres
+              in 24-hours, beating his own previous record by 8.1
+              kilometres.
+              • Michael Schumacher: He has won the Formula One
+              World Championship 7 times.
+              • Reinhold Messner: He has climbed all of the 8
+              mountains in the world above 8000 metres.
+
+                   Can you find other famous people who have
+                   many sports records like these, or any other
+                   records? Write sentences and find photos.                                                Michael
+                                                                           Everest                          Schumacher
+
+
+                                                                                     Pupil’s
+                                                                                      Pupil’sBook
+                                                                                              Book••UNIT  9 - • Lesson 1 / 113
+                                                                                                     UNIT10
+
+
+
+
+10-0103.indb 113                                                                                                                 1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-centre-right: colour photo of Mount Everest with glacier; caption "Everest".]
+[IMAGE 2 | bottom-right: colour photo of Formula One driver Michael Schumacher in red race suit on the podium (Mobil backdrop); caption "Michael Schumacher".]
+Icons/UI (not IMAGES): speaking-bubble and portfolio icons; CROSS CURRICULAR PROJECT banner.
+[PAGE 6/12 | GLOBAL PDF p.114 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                      9
+                      Lesson 2             A TRIP TO DUBAI!
+
+                 A        LEAD-IN 8
+
+                 Tick Yes / No:
+
+                                                                            Yes      No
+                 Have you ever been to Dubai?
+                 Do you know what an artificial snow centre is?
+                 Have you ever been to an artificial snow centre?
+                 Have you ever been to a skating rink?
+
+                                                                                                 Part of Dubai from the air.
+
+                 B        LISTENING
+
+                 It’s the Easter holidays in England and Ben is visiting his friend Mark at his house. Listen to the
+                 dialogue and complete the exercises that follow:
+
+                 Tick Yes / No:
+
+
+                                                                                                            Yes        No
+                 a. Mark has been to Bahrain
+                 b. He’s been to Dubai
+                 c. He’s been skiing in Dubai
+                 d. He bought many things
+                 e. He’s been to many beautiful places such as Dubai
+                 f. Ben has been alone because his parents are away for 2 days.
+
+
+                 C        VOCABULARY
+                 Use the words in the box to complete the sentences:
+                 exhibition, artificial, luggage, financial, trip
+
+
+               1. Can you help me with this ____________, sir? It’s very heavy.
+               2. I’ve just come back from a _________ to Geneva. It was great!
+               3. Something which is not real is ______________
+               4. His father has ____________ problems at the moment because
+                   he has lost his job.
+               5. There is a toy __________ at the mall. Can we visit it, Dad?
+
+
+               114 / Pupil’s Book • UNIT 10
+                                         9-•- •Lesson
+                                                Lesson21
+
+
+
+
+109-120 up.indd 114                                                                                                         29/1/2015 2:38:16 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: aerial/satellite photo of the Palm Jumeirah artificial palm-shaped island off Dubai; caption "Part of Dubai from the air.".]
+[IMAGE 2 | bottom-right: colour photo of three people riding camels on desert dunes.]
+Icons/UI (not IMAGES): section badges A+B+C; lead-in arrow and listening icons.
+[PAGE 7/12 | GLOBAL PDF p.115 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                                                                                                                          9
+
+                                          Past Simple and Present Perfect
+                      Study the following examples to see how we can talk about past experiences in
+                      English.
+
+                                                Past Simple - “Finished actions”
+                             A: Have you ever been on a picnic in a forest?
+                             B: Yes, I have. We went there last Sunday and we loved it.
+                             A: Did you do your homework yesterday?
+                             B: Yes, I did. I even studied for a test.
+                             A: Have you ever eaten Indian food?
+                             B: Yes, I have. In fact, I ate some two weeks ago.
+                             A: Have you seen Mary this week?
+                             B: No, I haven’t but I saw her last week.
+
+                                            Present Perfect - “Any time up to now”
+                             A: Have you tried sushi?
+                             B: No, I haven’t, but I’d like to.
+                             A: Can you speak French?
+                             B: No, I’ve never studied it.
+
+
+
+
+                      TIMELINE
+                      (The numbers in the timeline show when the events in the Grammar Focus happened)
+
+                                                    Present Perfect - “Any time up to now”
+
+
+
+
+                  Sun Mon Tue Wed Thu Fri Sat Sun Mon Tue Wed Thu Fri Sat Sun Mon
+
+                             Two weeks ago                                Last week                               Today
+
+
+
+                                                        Past Simple - “Finished actions”
+
+
+                                                                                          Pupil’s
+                                                                                           Pupil’sBook
+                                                                                                   Book••UNIT               1 / 115
+                                                                                                               9 - • Lesson 2
+                                                                                                          UNIT10
+
+
+
+
+109-120 up.indd 115                                                                                                             22/9/2022 3:49:40 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-half: grammar timeline diagram: red Past Simple arrow (Sun-Mon days, brackets "Two weeks ago"/"Last week", "Today" marker) with blue Present Perfect band above.]
+Icons/UI (not IMAGES): GRAMMAR FOCUS magnifier top-right.
+[PAGE 8/12 | GLOBAL PDF p.116 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                    9
+                   D     READING
+                   Read the following article and complete the chart with the true (0) or false (=) questions.
+
+              Children’s Art Competition in Ireland
+              The First Texaco Children’s Art Competition (“Caltex”) was organized over 50 years ago, in 1955.
+              In 1955 there was no television and no rock and roll music. Children played with footballs, skipping ropes
+              and other simple games. Children enjoyed using their imagination and found ways of saying what they saw
+              and felt through drawings, paintings and other simple forms of creativity. Ireland was a quiet and peaceful
+              agricultural nation, far away from the rest of Europe. The Caltex competition became famous immediately
+              and brought together the children of Ireland.
+
+              Every year schools all over Ireland receive an invitation for their pupils to send in their works of art. There are
+              several categories, depending on the children’s ages. The prizes are handed out in Dublin and all the prize
+              winners get a free trip to the capital city to attend the ceremony. Since 1955 many millions of Irish children have
+              sent in their works. Some prize winners have become famous artists. We can say over the past 50 years children
+              from every family in Ireland have sent in their works of art to the competition.
+
+
+
+
+                          Bernadette Madden,
+                         now famous Irish artist,
+                       receiving her prize in 1966.
+
+
+
+
+                   Adapted from:
+                   www.texacochildrensart.com
+
+
+
+                                                                                                              True      False
+                   1. The Caltex competition began in 1995.
+                   2. The prize-winners go to London to receive the prizes.
+
+                   3. Since the competition began many millions of children have sent in their artworks.
+
+                   4. Each year, there is only one prize.
+                   5. Some children have become famous artists.
+
+
+              116 / Pupil’s Book • UNIT 10
+                                        9-•- •Lesson
+                                               Lesson21
+
+
+
+
+10-0103.indb 116                                                                                                                    1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-left: black-and-white 1966 photo of Bernadette Madden receiving her art prize; caption below.]
+[IMAGE 2 | middle-centre: colourful child painting of figures under a tree with a sun.]
+[IMAGE 3 | middle-right: watercolour of a boy reading under a large sun.]
+[IMAGE 4 | bottom-centre: painted portrait of a girl.]
+[IMAGE 5 | bottom-right: green paper-collage of doll-like children; text "FRIENDS".]
+Icons/UI (not IMAGES): section badge D; reading-book icon.
+[PAGE 9/12 | GLOBAL PDF p.117 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                                                                                                                           9
+                   E    WRITING
+                   Your pen friend has suggested exchanging your travel experiences. Write a letter to him/her talking
+                   about them. Talk about the places you have visited in your country (or abroad) so far, when you
+                   went there and what you saw:
+
+
+
+                   Dear
+
+                   I think your idea is terrific. So let me tell you where I’ve travelled so far.
+                   I’ve been to many places. I’ve been to.
+
+
+
+                   Last year I went to
+
+
+
+                   What about you?
+                                                                                                  Learning strategies
+                   Love,
+                                                                                        WRITING
+
+                                                                                        c When I write a sentence, I always think 		
+                                                                                          about the person who will read it
+
+                                                                                        c What exactly do I want to say?
+                   F    GAME: HAVE YOU EVER?
+
+                   Each pupil gives the teacher 2 written questions they want to ask their classmates, to see who
+                   has done what. The questions must relate to good actions in your families and neighbourhood.
+
+              Examples:
+              • Have you ever helped someone who doesn’t know Greek to understand street names?
+              • Have you ever helped clean up litter on a beach?
+              • Have you ever written to your local authorities about a problem in your neighbourhood?
+              • Have you ever written to a government official outside your local authorities?
+              • Have you ever helped your brother and sisters with their homework?
+              • Have you ever helped your parents with their housework?
+
+              Add to this list. The class must try to come up with at least 15 questions. The pupil who has done the
+              most things wins. He/she will be the Model Citizen of the Class!
+
+                                                                                     Pupil’s
+                                                                                      Pupil’sBook
+                                                                                              Book••UNIT               1 / 117
+                                                                                                          9 - • Lesson 2
+                                                                                                     UNIT10
+
+
+
+
+10-0103.indb 117                                                                                                                       1/7/14 1:59 PM
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[no content images – letter template and game instructions only.]
+Icons/UI (not IMAGES): writing-pencil icon; Learning-strategies dartboard; game-dice icon.
+[PAGE 10/12 | GLOBAL PDF p.118 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                      9
+                      Lesson 3              NEWSPAPERS & HEADLINES
+
+                 A LEAD-IN: The news, headlines and “announcements” 8
+               Headlines in newspapers are often given just using the Present Simple tense. Few words make for a stronger
+               headline. For example:
+               - ITALY WIN THE WORLD CUP
+               - WAR BREAKS OUT BETWEEN AFRICAN COUNTRIES
+               - FAMOUS ACTRESS GIVES BIRTH TO BABY GIRL
+
+               On television or the radio, headlines are usually given using the Present Perfect. Because it is official
+               language, the sentences are not shortened but are in full.
+               The same headlines are as follows:
+               - “ITALY HAVE WON THE WORLD CUP”
+               - “ WAR HAS BROKEN OUT BETWEEN THE TWO AFRICAN STATES”
+               - “THE FAMOUS ACTRESS HAS GIVEN BIRTH TO A BABY GIRL”
+
+               When we want to “annouce” events in our daily lives we often use the Present Perfect:
+               “Our car has just broken down!”
+               “I’ve just cut myself”
+
+               Game: with your partners come up with 2 examples of “announcements”. These can be related to news
+                          headlines or from one’s daily lives. Make the announcements a little bit mysterious. See if the other
+                          classmates can guess the context.
+
+
+
+                      PROJECT
+
+
+                 Look at the Appendix, p. 149 and then make your own
+                 newspaper with interesting news from your school or
+                 town. Talk to people, make interviews and find out all the
+                 amazing stories they have experienced. Work in groups
+                 and collect the information before you write the articles.
+                 Make drawings or even stick pictures to make your
+                 newspaper more interesting.
+
+                 Divide the groups as follows:
+
+
+               Group 1 – News collecting group
+               Group 2 – Photos group
+               Group 3 – Article writers
+               Group 4 – Designers
+               Group 5 – Editors
+               Group 6 – Salesmen (if selling it)
+
+
+               118 / Pupil’s Book • UNIT 10
+                                         9-•- •Lesson
+                                                Lesson31
+
+
+
+
+109-120 up.indd 118                                                                                                         29/1/2015 2:38:51 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right: aged front page of "The Children’s Newspaper" (headline "THINGS THAT HAVE NOT GONE UP"), with an elephant photo; school-newspaper project example.]
+Icons/UI (not IMAGES): PROJECT label and board icon.
+[PAGE 11/12 | GLOBAL PDF p.119 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                                                                                                                                                9
+
+                                 Name:..................................................... Class:..............................
+                                 Date:....................................................... Score:............./ 100
+
+
+               A. Accomplishments. Important things that mankind has done.
+                 Read the notes and make sentences:
+
+
+                                    Step/moon, 1. invent/telephone, 2. travel/other planets,
+                       3. find/cure/many diseases, 4. fly/in planes, 5. cross/oceans, 6. build/skyscrapers,
+                        7. explore/all the continents, 8. travel/in space, 9. invent/TV, 10. build/fast cars
+
+
+                  He has stepped on the Moon.
+                1. …………………………………………………………………………………………
+                2. …………………………………………………………………………………………
+                3. …………………………………………………………………………………………
+                4. …………………………………………………………………………………………
+                5. …………………………………………………………………………………………
+                6. …………………………………………………………………………………………
+                7. …………………………………………………………………………………………
+                8. …………………………………………………………………………………………
+                9. …………………………………………………………………………………………
+               10. …………………………………………………………………………………………
+
+                                                                                                                                   Points: ....... / 40
+
+
+               B. Correct the sentences (use the present perfect in all):
+               1. He has went to Peru.
+               ………………………………………………………………………………………
+               2. They has never been to the theatre.
+               ………………………………………………………………………………………
+               3. Did you saw the new spaceship? It’s fantastic.
+               ………………………………………………………………………………………
+               4. How long did you live in Athens?
+               ………………………………………………………………………………………
+               5. They have went to the party?
+               ……………………………………………………………………………………
+
+                                                                                                                                   Points: ....... / 15
+
+                                                                                             Pupil’s BookPupil’s
+                                                                                                          • UNITBook
+                                                                                                                 9 - ••Self
+                                                                                                                        UNIT- Assessment
+                                                                                                                               10 - • Lesson 1 / 119
+                                                                                                                                          Test
+
+
+
+
+109-120 up.indd 119                                                                                                                                  29/1/2015 2:43:51 µµ
+
+==============================================================================
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: colour photo of two blue-and-yellow Formula 1 race cars on the track.]
+[IMAGE 2 | bottom-right: colour photo of a Peruvian woman in a hat with woven crafts by a reed lake.]
+Icons/UI (not IMAGES): self-assessment header cartoons of a boy writing (left and right).
+[PAGE 12/12 | GLOBAL PDF p.120 | SOURCE: pupil_unit09.pdf]
+==============================================================================
+                   9
+              C. The following are typical situations from everyday life. Look at the pictures and write what they have just
+              done or haven’t done yet:
+
+
+
+
+              1.     …………………………………………………………………………………………………..........................................................
+              2.     ………………………………………………………………………………………………...….......................................................
+              3.     ………………………………………………………………………………………………...….......................................................
+              4.     ………………………………………………………………………………………………...….......................................................
+              5.     ………………………………………………………………………………………………...….......................................................
+                                                                                                        Points: ....... / 25
+
+
+              D. Simple Past or Present Perfect? Fill in:
+              1. James is not here. He ………………………………….(go) jogging.
+              2. We …………………………….(laugh) a lot at the party last night.
+              3. ………………………you ever ……………………. (be) to Scotland?
+              4. They ………………………never ……………… (eat) sushi.
+              5. Who …………………..Joanne …………………(meet) yesterday?
+              6. I ………………………………..(not do) my homework yet.
+              7. What ………………………….you ………………… (see) at the aquarium?
+              8. My friends …………………… (spend) their holidays abroad last summer.
+              9. They ……………………….already …………………..(clean) their desks.
+              10. I ………………………….(have) snails for dinner last night.
+                                                                                                        Points: ....... / 20
+
+
+
+                                                            Tick what’s true for you:
+
+
+                                      Now I can:                                    Learning strategies in English
+                                                                             WRITING:
+                   c Say what I have done so far in my life
+                                                                             c When I write a sentence, I always think about
+                   c Tell between what has happened (no specific                the person who will read it.
+                      time) and what happened (time given)                   c What exactly do I want to say?
+                   c Write and read newspaper articles                       c I think about how to combine words.
+                                                                             c I take into account the context.
+
+
+
+              120 / Pupil’s Book • UNIT 10
+                                        9-•- •Self
+                                               Lesson
+                                                   - Assessment
+                                                        1       Test
+
+
+
+
+10-0103.indb 120                                                                                                               1/7/14 1:59 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left cartoon: man eating dinner at a set table.]
+[IMAGE 2 | top-centre-left cartoon: girl in a messy bedroom full of toys.]
+[IMAGE 3 | top-centre cartoon: couple with suitcases at a doorway.]
+[IMAGE 4 | top-centre-right cartoon: minor collision of a blue and a red car with two men.]
+[IMAGE 5 | top-right cartoon: family waiting at a BUS STOP sign.]
+Icons/UI (not IMAGES): two Learning-strategy/Now-I-can dartboards at bottom.

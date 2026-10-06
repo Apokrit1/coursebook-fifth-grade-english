@@ -1,0 +1,101 @@
+==============================================================================
+SOURCE PDF : workbook_back_matter.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\appendix\workbook_back_matter.pdf
+GLOBAL PDF PAGES: 96-97
+PAGES IN THIS FILE: 2
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=3328, words~=203
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: none beyond the cover colour scheme (peach cover, blue spine strip) and the publisher/barecode footer band.
+==============================================================================
+==============================================================================
+[PAGE 1/2 | GLOBAL PDF p.96 | SOURCE: workbook_back_matter.pdf]
+==============================================================================
+                          Βάσει του ν. 3966/2011 τα διδακτικά βιβλία του Δημοτικού,
+                          του Γυμνασίου, του Λυκείου, των ΕΠΑ.Λ. και των ΕΠΑ.Σ.
+                          τυπώνονται από το ΙΤΥΕ - ΔΙΟΦΑΝΤΟΣ και διανέμονται
+                          δωρεάν στα Δημόσια Σχολεία. Τα βιβλία μπορεί να
+                          διατίθενται προς πώληση, όταν φέρουν στη δεξιά κάτω
+                          γωνία του εμπροσθόφυλλου ένδειξη «ΔIΑΤΙΘΕΤΑΙ ΜΕ
+                          ΤΙΜΗ ΠΩΛΗΣΗΣ». Κάθε αντίτυπο που διατίθεται προς
+                          πώληση και δεν φέρει την παραπάνω ένδειξη θεωρείται
+                          κλεψίτυπο και ο παραβάτης διώκεται σύμφωνα με τις
+                          διατάξεις του άρθρου 7 του νόμου 1129 της 15/21 Μαρτίου
+                          1946 (ΦΕΚ 1946,108, Α').
+
+
+
+
+                          Απαγορεύεται η αναπαραγωγή οποιουδήποτε τμήματος
+                          αυτού του βιβλίου, που καλύπτεται από δικαιώματα
+                          (copyright), ή η χρήση του σε οποιαδήποτε μορφή, χωρίς
+                          τη γραπτή άδεια του Υπουργείου Παιδείας, Θρησκευμάτων
+                          και Αθλητισμού / IΤΥΕ - ΔΙΟΦΑΝΤΟΣ.
+
+
+
+
+10_0104_agglika.indd 96                                                               1/28/16 10:43 AM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+
+[PAGE 2/2 | GLOBAL PDF p.97 | SOURCE: workbook_back_matter.pdf]
+==============================================================================
+                                                                                                ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ
+                                                                                                      ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ
+
+
+
+
+                                                                                          Ελευθερία-Κλειώ Κολοβού                   Άννα Κρανιώτου
+
+
+
+
+                                                    Activity Book
+
+
+
+
+                                                                           Ε΄ Δηµοτικού
+                                                                                                       Eng ΑΓΓΛthΙΚΑ
+                                                                                                          lish 5 Grade
+
+
+
+           ΩΡΗΜΕ
+Α Ν Α ΘΕ
+
+
+               ΝΗ
+
+
+
+
+       10-0234                                      ΑΓΓΛΙΚΑ Ε΄ Δημοτικού
+
+                       Κωδικός Βιβλίου: 0-10-0234
+                         ISBN 978-960-06-2568-4
+                                                                                                                                                              ΩΡΗΜΕ
+
+
+
+
+                                                                                                                                                   Α Ν Α ΘΕ
+
+
+                                                                                                                                                                  ΝΗ
+                                                                                                                                                          10-0234
+                                                                                                      Activity Book
+                    (01) 000000 0 10 0234 8
+                                                                                          ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom: white publisher band with the ITYE Diophantos logo, a barcode marked (01) 000000 0 10 0234 8, ISBN 978-960-06-2568-4 and code 0-10-0234; small circular 10-0234 stamp above-left; blue spine strip at right.]

@@ -1,0 +1,511 @@
+import json
+
+unit_data = {
+  "unit_id": 1,
+  "unit_title": "Internet Friends Around Europe",
+  "cefr_level": "A1-",
+  "curriculum_standards": [
+    "DEPPS-APS: Communicating personal preferences, leisure hobbies, and digital literacy in English",
+    "CEFR A1-: Can identify computer hardware, ask/answer questions about hobbies, and exchange simple pen-pal messages"
+  ],
+  "stories": [
+    {
+      "id": "kostas_computer",
+      "title": "Kostas and his Computer in Athens",
+      "student": "Kostas",
+      "flag": "🇬🇷",
+      "summary": "Kostas explores computer hardware in Athens and receives an email from his pen-pal Connor in Ireland.",
+      "narrative": "Kostas is an eleven-year-old pupil in the 5th grade of primary school in Athens. In his free time, Kostas enjoys working on his desktop computer. His computer setup has a wide flat screen, an optical mouse, a keyboard, and a fast printer. On Friday afternoon, Kostas checks his email. He receives a friendly message from his Irish friend Connor who lives in Dublin. Connor writes that he uses the internet to search for information, talk with friends, and play computer games at the weekend. Kostas prefers sending emails to doing homework!",
+      "image": "assets/images_v2/kostas_computer.svg",
+      "audio_file": "assets/audio_v2/stories/kostas_computer.mp3",
+      "book_check": "Pupil's Book p. 14-15: authentic introductory dialogue and email exchange.",
+      "landmarks": [
+        {
+          "name": "Flat Screen",
+          "type": "Hardware",
+          "word_key": "screen",
+          "word_id": 2,
+          "desc": "A bright display screen showing Kostas's incoming email inbox."
+        },
+        {
+          "name": "Computer Mouse",
+          "type": "Hardware",
+          "word_key": "mouse",
+          "word_id": 3,
+          "desc": "A handheld mouse used to click links and launch applications."
+        },
+        {
+          "name": "Keyboard",
+          "type": "Hardware",
+          "word_key": "keyboard",
+          "word_id": 4,
+          "desc": "An ergonomic keyboard used to type emails and school projects."
+        },
+        {
+          "name": "Printer",
+          "type": "Hardware",
+          "word_key": "printer",
+          "word_id": 5,
+          "desc": "A colour desktop printer for printing school assignments on paper."
+        }
+      ],
+      "vocabulary_ids": [1, 2, 3, 4, 5, 11, 12, 17, 20, 22, 23, 34, 36, 46, 50]
+    },
+    {
+      "id": "online_chat",
+      "title": "Three European Friends Online",
+      "student": "Mark & Nadine",
+      "flag": "🇪🇺",
+      "summary": "Kostas connects with Mark in London and Nadine in Marseilles to discuss their school routines and hobbies.",
+      "narrative": "On Saturday morning, three European friends meet online to chat on the net. Mark is twelve years old and goes to West Wimbledon Primary School in London. Nadine is twelve years old and studies at a Collège in Marseilles. Kostas joins the chat from Athens. Nadine says she likes going to school and loves to study. Mark says he does not mind studying, but he hates difficult tests and long homework. Kostas laughs and says the only thing he likes about school is spending time in the computer lab. They all agree to chat online again tomorrow.",
+      "image": "assets/images_v2/online_chat.svg",
+      "audio_file": "assets/audio_v2/stories/online_chat.mp3",
+      "book_check": "Pupil's Book p. 18: authentic multi-speaker dialogue between Kostas, Mark, and Nadine.",
+      "landmarks": [
+        {
+          "name": "Online Chat",
+          "type": "Internet",
+          "word_key": "chat",
+          "word_id": 15,
+          "desc": "A live conversational chat room connecting children across Europe."
+        },
+        {
+          "name": "Headphones",
+          "type": "Hardware",
+          "word_key": "headphones",
+          "word_id": 9,
+          "desc": "Comfortable headphones with a microphone for voice communication."
+        },
+        {
+          "name": "School Homework",
+          "type": "School",
+          "word_key": "homework",
+          "word_id": 32,
+          "desc": "After-school assignments that Mark wants to complete quickly."
+        }
+      ],
+      "vocabulary_ids": [9, 14, 15, 24, 31, 32, 33, 35, 47, 49, 51]
+    },
+    {
+      "id": "european_friends",
+      "title": "Friends and Flags Across Europe",
+      "student": "European Club",
+      "flag": "🌍",
+      "summary": "Classmates share country names, nationalities, and morning greetings from all across Europe.",
+      "narrative": "Kostas and his classmates learn about friends living in different European countries. Pablo is from Portugal and he is Portuguese. Svetlana is Russian and lives in Moscow. Hans is Dutch and lives in Holland. Carmen is Spanish, Gunther is German, and Maria is Swiss. Armando lives in Albania and Isabella is Italian. Each pupil displays the colourful flag of their nation and shares a morning greeting in their language, from 'Bonjour' in French to 'Buon giorno' in Italian and 'Dobroye utro' in Russian.",
+      "image": "assets/images_v2/european_friends.svg",
+      "audio_file": "assets/audio_v2/stories/european_friends.mp3",
+      "book_check": "Pupil's Book p. 19 & Appendix p. 133: European nationalities and multilingual greetings.",
+      "landmarks": [
+        {
+          "name": "European Flag",
+          "type": "Country",
+          "word_key": "flag",
+          "word_id": 40,
+          "desc": "The flag of a European nation representing cultural friendship."
+        },
+        {
+          "name": "Country Borders",
+          "type": "Geography",
+          "word_key": "border",
+          "word_id": 43,
+          "desc": "Neighbouring borders connecting countries on the continent of Europe."
+        }
+      ],
+      "vocabulary_ids": [37, 38, 40, 43, 52, 53, 54, 55, 56]
+    },
+    {
+      "id": "british_isles",
+      "title": "Discovering the British Isles",
+      "student": "Mark",
+      "flag": "🇬🇧",
+      "summary": "Mark gives a guided presentation of the British Isles, London, and the floral symbols of each nation.",
+      "narrative": "Mark writes a presentation about the British Isles. The British Isles are situated on the west side of Europe and consist of two main islands: Great Britain and Ireland. The United Kingdom includes England, Scotland, Wales, and Northern Ireland. London is the capital city with over 10 million people. Each country has a proud national flower. The national flower of England is the red rose; for Wales, the bright daffodil; for Scotland, the purple thistle; and for Ireland, the green shamrock. Mark also describes the classic black cabs that drive through London streets.",
+      "image": "assets/images_v2/british_isles.svg",
+      "audio_file": "assets/audio_v2/stories/british_isles.mp3",
+      "book_check": "Pupil's Book p. 22 & Appendix p. 134: authentic British geography and cultural symbols.",
+      "landmarks": [
+        {
+          "name": "English Rose",
+          "type": "Symbol",
+          "word_key": "rose",
+          "word_id": 59,
+          "desc": "The red rose, historical floral emblem of England."
+        },
+        {
+          "name": "Welsh Daffodil",
+          "type": "Symbol",
+          "word_key": "daffodil",
+          "word_id": 60,
+          "desc": "The cheerful yellow daffodil, floral emblem of Wales."
+        },
+        {
+          "name": "Scottish Thistle",
+          "type": "Symbol",
+          "word_key": "thistle",
+          "word_id": 61,
+          "desc": "The prickly purple thistle, emblem of Scotland."
+        },
+        {
+          "name": "Irish Shamrock",
+          "type": "Symbol",
+          "word_key": "shamrock",
+          "word_id": 62,
+          "desc": "The green three-leaf shamrock, symbol of Ireland."
+        },
+        {
+          "name": "London Black Cab",
+          "type": "Realia",
+          "word_key": "symbol",
+          "word_id": 57,
+          "desc": "The traditional black taxicab, an iconic London symbol."
+        }
+      ],
+      "vocabulary_ids": [39, 41, 42, 44, 45, 57, 58, 59, 60, 61, 62]
+    }
+  ],
+  "grammar_lab": {
+    "title": "Grammar Lab: Expressing Preferences & Present Simple",
+    "target_structures": [
+      "Like / enjoy / hate + -ing form",
+      "Prefer + -ing to + -ing",
+      "Present Simple: routines & permanent facts"
+    ],
+    "rules": [
+      {
+        "concept": "Verbs of Preference + -ing",
+        "usage": "Use the -ing form of a verb after 'like', 'enjoy', 'love', and 'hate'.",
+        "signal_words": ["like", "enjoy", "love", "hate", "don't like"],
+        "examples": [
+          "Kostas enjoys playing computer games.",
+          "Mark hates doing difficult tests.",
+          "Nadine loves studying languages."
+        ]
+      },
+      {
+        "concept": "Prefer ... to ...",
+        "usage": "Use 'prefer' + noun/verb-ing + 'to' + noun/verb-ing to show you like one thing more than another.",
+        "signal_words": ["prefer ... to ..."],
+        "examples": [
+          "We prefer surfing the net to watching television.",
+          "I prefer reading books to doing housework."
+        ]
+      },
+      {
+        "concept": "Present Simple Tense",
+        "usage": "Use the Present Simple for habits, school routines, and general facts. Add -s or -es for he / she / it.",
+        "signal_words": ["always", "usually", "often", "on Fridays", "at the weekend"],
+        "examples": [
+          "I always check my email when I get back from school.",
+          "Nadine studies at a Collège in Marseilles.",
+          "They don't have school on Sundays."
+        ]
+      }
+    ],
+    "practice_items": [
+      {
+        "sentence": "Three pupils in our group enjoy _____ (play) computer games.",
+        "options": ["playing", "play", "to play"],
+        "answer": "playing",
+        "explanation": "After 'enjoy', we always use the verb ending in -ing: enjoy playing."
+      },
+      {
+        "sentence": "We prefer sending emails _____ doing homework.",
+        "options": ["to", "than", "from"],
+        "answer": "to",
+        "explanation": "We say 'prefer [thing A] TO [thing B]': prefer sending emails TO doing homework."
+      },
+      {
+        "sentence": "Kostas _____ (live) in Athens with his family.",
+        "options": ["lives", "live", "living"],
+        "answer": "lives",
+        "explanation": "For 3rd person singular (he/she/it), we add -s in the Present Simple: Kostas lives."
+      },
+      {
+        "sentence": "Mark and Nadine _____ (not / like) doing difficult tests.",
+        "options": ["don't like", "doesn't like", "not like"],
+        "answer": "don't like",
+        "explanation": "For plural subjects (Mark and Nadine = they), the negative form is 'don't like'."
+      },
+      {
+        "sentence": "_____ you have an optical mouse for your computer?",
+        "options": ["Do", "Does", "Are"],
+        "answer": "Do",
+        "explanation": "Questions in the Present Simple with 'you' start with 'Do': Do you have...?"
+      },
+      {
+        "sentence": "Nadine is fond of _____ (surf) the net in her free time.",
+        "options": ["surfing", "surf", "surfs"],
+        "answer": "surfing",
+        "explanation": "After the preposition 'of', we use the -ing form: fond of surfing."
+      }
+    ],
+    "authentic_listening": {
+      "title": "Online Dialogue: Mark, Nadine & Kostas",
+      "audio_file": "assets/audio_v2/grammar/dialogue_unit1.mp3",
+      "dialogue_script": [
+        { "speaker": "Mark", "text": "That’s great! Three European friends! Greek, French, and English! So, how old are you, Kostas?" },
+        { "speaker": "Kostas", "text": "I’m eleven. I’m a pupil in the 5th grade of Primary School." },
+        { "speaker": "Mark", "text": "I see. Well, I’m twelve and I’m a pupil at West Wimbledon Primary School. How about you, Nadine?" },
+        { "speaker": "Nadine", "text": "Oh, I’m twelve and I’m a student in the second year of Collège. That’s like your middle school." },
+        { "speaker": "Mark", "text": "Wow, that sounds difficult!" },
+        { "speaker": "Nadine", "text": "Well, not really Mark. Actually, I like going to school and I love studying." },
+        { "speaker": "Mark", "text": "Well, I don’t really mind studying, Nadine, but I hate tests and homework. How about you, Kostas?" },
+        { "speaker": "Kostas", "text": "Hm, the only thing I like about school is spending time on our computers." }
+      ],
+      "true_false_quiz": [
+        {
+          "statement": "Kostas is twelve years old and goes to school in London.",
+          "answer": False,
+          "explanation": "False. Kostas is eleven and goes to primary school in Athens. Mark is twelve and lives in London."
+        },
+        {
+          "statement": "Nadine loves studying and enjoys going to school.",
+          "answer": True,
+          "explanation": "True. Nadine says: 'Actually, I like going to school and I love studying.'"
+        },
+        {
+          "statement": "Mark dislikes homework and tests.",
+          "answer": True,
+          "explanation": "True. Mark says: 'I hate tests and homework.'"
+        },
+        {
+          "statement": "Kostas says his favourite thing at school is playing football.",
+          "answer": False,
+          "explanation": "False. Kostas says the only thing he likes about school is spending time on the computers."
+        }
+      ]
+    }
+  },
+  "collocations": [
+    {
+      "verb": "surf",
+      "partner": "the net",
+      "example": "I like to surf the net on Saturday afternoons.",
+      "meaning_gr": "σερφάρω στο διαδίκτυο"
+    },
+    {
+      "verb": "send",
+      "partner": "an email",
+      "example": "Please send an email to your pen-pal.",
+      "meaning_gr": "στέλνω ηλεκτρονικό μήνυμα"
+    },
+    {
+      "verb": "check",
+      "partner": "emails",
+      "example": "I always check my emails after school.",
+      "meaning_gr": "ελέγχω τα μηνύματά μου"
+    },
+    {
+      "verb": "play",
+      "partner": "computer games",
+      "example": "Three pupils enjoy playing computer games.",
+      "meaning_gr": "παίζω παιχνίδια στον υπολογιστή"
+    },
+    {
+      "verb": "do",
+      "partner": "homework",
+      "example": "Always do your homework before dinner.",
+      "meaning_gr": "κάνω τα μαθήματά μου"
+    },
+    {
+      "verb": "help with",
+      "partner": "the housework",
+      "example": "I help with the housework at the weekend.",
+      "meaning_gr": "βοηθώ στις δουλειές του σπιτιού"
+    },
+    {
+      "verb": "border",
+      "partner": "with a country",
+      "example": "Spain borders with Portugal in Europe.",
+      "meaning_gr": "συνορεύω με μια χώρα"
+    },
+    {
+      "verb": "speak into",
+      "partner": "the microphone",
+      "example": "Speak into the microphone so we can hear you.",
+      "meaning_gr": "μιλάω στο μικρόφωνο"
+    }
+  ],
+  "definition_challenge": {
+    "title": "Theme Terms: Guess the Word from its Definition",
+    "note": "Read the child-friendly clue and guess the target term from Unit 1.",
+    "group_a": [
+      {
+        "number": 1,
+        "word": "KEYBOARD",
+        "clue": "A board with keys used to write letters and numbers on a computer."
+      },
+      {
+        "number": 2,
+        "word": "PRINTER",
+        "clue": "A machine that prints words and colourful pictures on paper."
+      },
+      {
+        "number": 3,
+        "word": "HEADPHONES",
+        "clue": "Small speakers you wear over your ears to listen privately."
+      },
+      {
+        "number": 4,
+        "word": "INTERNET",
+        "clue": "A worldwide network that connects computers together."
+      }
+    ],
+    "group_b": [
+      {
+        "number": 5,
+        "word": "CAPITAL",
+        "clue": "The main city where the government of a country works."
+      },
+      {
+        "number": 6,
+        "word": "SHAMROCK",
+        "clue": "A small green plant with three leaves that represents Ireland."
+      },
+      {
+        "number": 7,
+        "word": "DAFFODIL",
+        "clue": "A bright yellow spring flower that is the national symbol of Wales."
+      },
+      {
+        "number": 8,
+        "word": "THISTLE",
+        "clue": "A prickly purple plant that is the proud national flower of Scotland."
+      }
+    ]
+  },
+  "content_true_false": [
+    {
+      "fact": "London is the capital of the United Kingdom and is home to over 10 million people.",
+      "answer": True,
+      "explanation": "True. London is the capital of the UK and its population is around 10-12 million."
+    },
+    {
+      "fact": "The national flower of England is the yellow daffodil.",
+      "answer": False,
+      "explanation": "False. The national flower of England is the red rose. The daffodil belongs to Wales."
+    },
+    {
+      "fact": "A computer scanner is used to print pictures onto paper.",
+      "answer": False,
+      "explanation": "False. A printer prints onto paper. A scanner copies pictures into the computer."
+    },
+    {
+      "fact": "Nadine lives in Marseilles, a city in the south of France.",
+      "answer": True,
+      "explanation": "True. Nadine says she is from Marseilles in the south of France."
+    },
+    {
+      "fact": "The Republic of Ireland is part of the island of Great Britain.",
+      "answer": False,
+      "explanation": "False. Great Britain is made up of England, Scotland, and Wales. Ireland is a separate island."
+    }
+  ],
+  "writing_workshop": {
+    "title": "Portfolio Writing: Pen-Pal Email to a Friend Abroad",
+    "genre": "Pen-Pal Email",
+    "default_topic": "Introducing Myself to an Online Friend",
+    "default_author": "A 5th Grade Pupil",
+    "project_label": "Pen-Pal Email",
+    "paragraphs": [
+      {
+        "number": 1,
+        "heading": "Friendly Greeting & Personal Introduction",
+        "guiding_questions": "What is your name? How old are you? Where are you from?",
+        "connectors": ["Hello", "I am", "I live in"],
+        "sample_starter": "Dear Connor, Hello from Greece! My name is Kostas and I am eleven years old."
+      },
+      {
+        "number": 2,
+        "heading": "My School & Daily Routines",
+        "guiding_questions": "Which grade are you in? What subjects do you study? When does school start?",
+        "connectors": ["At school", "Every day", "I usually"],
+        "sample_starter": "I am a pupil in the 5th grade of primary school. School starts at 8:15 in the morning."
+      },
+      {
+        "number": 3,
+        "heading": "Free Time, Hobbies & Digital Technology",
+        "guiding_questions": "What do you like doing in your free time? Do you have a computer?",
+        "connectors": ["In my free time", "I enjoy", "I prefer ... to ..."],
+        "sample_starter": "In my free time, I enjoy playing computer games and chatting with friends on the internet."
+      },
+      {
+        "number": 4,
+        "heading": "Closing & Invitation to Reply",
+        "guiding_questions": "What would you like to ask your new friend? How do you sign off?",
+        "connectors": ["Write back soon", "Best wishes", "Love from"],
+        "sample_starter": "What do you like doing at the weekend? Please write back soon! Best wishes, Kostas."
+      }
+    ]
+  },
+  "can_do": {
+    "title": "Can-Do Passport: Unit 1 Competencies",
+    "statements": [
+      {
+        "id": "computer_parts",
+        "title": "Digital Technology",
+        "statement": "I can name 8 basic computer parts in English (screen, mouse, keyboard, printer, scanner, tower, headphones, speaker).",
+        "badge": "💻"
+      },
+      {
+        "id": "preferences",
+        "title": "Likes & Preferences",
+        "statement": "I can express what I like, enjoy, hate, and prefer doing using the -ing form (e.g., I enjoy playing games).",
+        "badge": "⭐"
+      },
+      {
+        "id": "pen_pal_email",
+        "title": "Written Communication",
+        "statement": "I can write a simple email introducing myself, my age, school, and hobbies to a pen-pal abroad.",
+        "badge": "✉️"
+      },
+      {
+        "id": "geography_culture",
+        "title": "European Culture",
+        "statement": "I can identify 6 European countries, their nationalities, flags, and the floral symbols of Great Britain.",
+        "badge": "🌍"
+      }
+    ]
+  },
+  "teacher_notes": [
+    {
+      "id": "note_1",
+      "lesson": "Lesson 1 (PB p. 14)",
+      "title": "Hardware Realia & Photodentro Integration",
+      "note": "Bring classroom attention to real computer parts in the school computer lab. Connect to the Photodentro picture dictionary applet for interactive drilling."
+    },
+    {
+      "id": "note_2",
+      "lesson": "Lesson 2 (PB p. 18)",
+      "title": "Vocabulary Note: Collège vs. College",
+      "note": "Clarify that in France, 'Collège' refers to lower secondary school (ages 11-15, equivalent to the Greek gymnasium), unlike British or American post-18 tertiary colleges."
+    },
+    {
+      "id": "note_3",
+      "lesson": "Lesson 3 (PB p. 22)",
+      "title": "Geography of the British Isles",
+      "note": "Ensure pupils distinguish between Great Britain (the geographical island with England, Scotland, Wales) and the United Kingdom (the sovereign state including Northern Ireland)."
+    }
+  ],
+  "book_checks": [
+    {
+      "title": "Collège Terminology Note",
+      "note": "Your book says: 'Nadine is in the second year of Collège'. In France, Collège is lower secondary school for pupils aged 11 to 15, matching Greek Gymnasium."
+    },
+    {
+      "title": "United Kingdom vs. Great Britain",
+      "note": "Your book distinguishes Great Britain (geographical island) from the United Kingdom (political state). The UK includes Northern Ireland."
+    }
+  ]
+}
+
+# Write JSON
+with open('unit1/data/unit1_v2_data.json', 'w', encoding='utf-8') as f:
+    json.dump(unit_data, f, indent=2, ensure_ascii=False)
+
+# Write JS Twin
+with open('unit1/data/unit1_v2_data.js', 'w', encoding='utf-8') as f:
+    f.write('window.UNIT1_V2_DATA = ' + json.dumps(unit_data, indent=2, ensure_ascii=False) + ';\n')
+
+print("Successfully generated unit1/data/unit1_v2_data.json and .js")

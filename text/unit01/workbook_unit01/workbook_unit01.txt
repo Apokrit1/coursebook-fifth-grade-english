@@ -1,0 +1,213 @@
+==============================================================================
+SOURCE PDF : workbook_unit01.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit01\workbook_unit01.pdf
+GLOBAL PDF PAGES: 7-10
+PAGES IN THIS FILE: 4
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=8857, words~=840
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: blue Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading (2 on p.1, 2 on p.2, 1 on p.3, 1 on p.4); blue footer bar with Activity Book / UNIT 1 / Lesson / page.
+==============================================================================
+==============================================================================
+[PAGE 1/4 | GLOBAL PDF p.7 | SOURCE: workbook_unit01.pdf]
+==============================================================================
+                                                                                                                     1
+               INTERNET FRIENDS AROUND EUROPE
+                                                         LESSON 1
+               M ACTIVITY A.                                            [Differentiated Activities (*) & (**) on p. 64]
+
+               What do you like doing in your free time? Study the following pictures. Use the expressions in
+               Grammar Practice in your Student’s book to write sentences.
+
+
+                     a                   b                      c                                d
+
+
+
+
+                                                        e                         f
+
+
+
+
+               a.        ……………………………………………………………………………………………………
+               b.        ……………………………………………………………………………………………………
+               c.        ……………………………………………………………………………………………………
+               d.        ……………………………………………………………………………………………………
+               e.        ……………………………………………………………………………………………………
+               f.        ……………………………………………………………………………………………………
+
+
+                                                        LESSON 2
+
+               M ACTIVITY A.
+               Match
+               1. Kostas is                                         a. comes from Great Britain.
+               2. Marseilles is                                     b. computers.
+               3. Mark                                              c. from France.
+               4. Nadine is                                         d. a Greek student.
+               5. The only thing Kostas likes about school is       e. a French city.
+
+                                                                                      Activity Book • UNIT 1 • Lesson 1-2 / 7
+
+
+
+
+10_0104_agglika.indd 7                                                                                                          1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | upper-left (a): drawing of a dancing couple on yellow background.]
+[IMAGE 2 | upper-mid-left (b): painting easel with a mountain/forest picture on orange background.]
+[IMAGE 3 | upper-mid-right (c): boy reading a book on the floor on pink/green background.]
+[IMAGE 4 | upper-right (d): girl playing violin on blue background.]
+[IMAGE 5 | lower-left (e): ice-skater in red on light-blue background.]
+[IMAGE 6 | lower-mid (f): fisherman in overalls holding catch and rod on light-blue background.]
+
+==============================================================================
+
+[PAGE 2/4 | GLOBAL PDF p.8 | SOURCE: workbook_unit01.pdf]
+==============================================================================
+                    1
+               M ACTIVITY B.
+               Read the dialogue on page 18 in your pupil’s book and fill in:
+               Kostas from …….....………… is talking to …….......……………. from …......………………
+               Nadine is from …………………………. in the south of ………………Kostas is
+               ……………. years old and he is in the …………. class of Primary School. Mark is
+               …………………… and he is a student at ………………………………….. Primary School.
+               Nadine is ……………………………. and she is a ………………….. in the …….....……….
+               class of the Collège. Nadine likes ……………… while Mark hates ………………………
+               and …………....………. On the other hand, the only thing that…………………….....….
+               likes about school is the computer.
+
+
+               M ACTIVITY C.
+               Test your knowledge. Fill in the missing countries or nationalities.
+
+               1.	The Br………… Queen is in Ru……….
+                   at the moment.
+               2.        Rome is the capital of I…………........
+               3.	
+                  This Ge…………. car is really nice.
+                  Have you any idea how much Mercedes
+                  cars cost?
+               4.	Does Hans come from Au………?
+                   No, he doesn’t. He’s from Holland.
+                   He ’s D……………………….
+               5.	Tirana is the capital of Al……………
+                   and Sofia is the capital of Bu………..…
+               6.        How much do you know about Poetry and Art? Is Matisse British or Fr…............?
+                         (Ανθολόγιο, page 45)
+               7.        What about Hans Christian Andersen? Was he Swedish or Da…….?
+                         (Ανθολόγιο, page 149)
+               8.        Roald Dahl is the We…… writer of “Matilda”. (Ανθολόγιο, page 87)
+               9.        William Shakespeare, the famous playwright and poet ,was from En……..........
+                         (Θεατρική αγωγή, page 75)
+               10. Thomas Edison was an Am……….. inventor. (Ερευνώ & Ανακαλύπτω, page 69).
+                   Do you know what he invented?
+
+               8 / Activity Book • UNIT 1 • Lesson 2
+
+
+
+10_0104_agglika.indd 8                                                                                        2/2/15 10:36 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right: colour photo of a person in a yellow jacket with arms raised before a large stone fountain with statues. No embedded text.]
+
+==============================================================================
+
+[PAGE 3/4 | GLOBAL PDF p.9 | SOURCE: workbook_unit01.pdf]
+==============================================================================
+                                                                                                    10
+                                                                                                     1
+               M ACTIVITY D. 							[Differentiated Activity (*) on p. 65]
+               Use Simple Present tense
+               1. Where (you/come from)………………………………………………….. ? I (come from)
+               ………………………………… Greece.
+               2. (a crocodile/climb)……………………………………………. trees? No, of course not.
+               3. What (a doctor/do) …………………………………………………….? He/She (work)
+               ………………………………….. in a hospital and (take care)…………………………of people
+               who are ill.
+               4. How often (you/see) …………………………….. a dentist? I (visit)……………….. my
+               dentist once a year.
+               5. (people in Greece/celebrate)……………………………………………….. Christmas the
+               same way people in the U.K. do, don’t they?
+               Well, I (suppose)………………so. Christmas is an international feast, even though it’s a
+               religious celebration, so people all over the world (have)………………… fun and (enjoy)
+               …………………. themselves.
+               6. Where (a postman/work) …………………………………………………..?
+               He (work) ……………… at the Post Office and (deliver)………………. letters all over the
+               neighbourhood.
+
+
+
+
+                                                                          Activity Book • UNIT 1 • Lesson 2 / 9
+
+
+
+
+10_0104_agglika.indd 9                                                                                            1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom, full-width: colour photo of a dentist treating a young patient in a dental chair, set in a black hand-drawn frame over a multicolour star-and-heart background.]
+
+==============================================================================
+
+[PAGE 4/4 | GLOBAL PDF p.10 | SOURCE: workbook_unit01.pdf]
+==============================================================================
+                    1
+               M ACTIVITY E. 						                                                      [Differentiated Activity (*) on p. 66]
+
+               b Do you like stories about aliens and extra-terrestrial life?
+
+               b Do you believe in UFOs?
+
+               b Imagine you’ve just met Spark, a space friend and you want to know all about him.
+
+               b In the interview that follows, write the questions you ask Spark in your interview.
+
+
+
+                                                You: Oh, hello, there!.....………………………….………….….….….?
+                                                Spark: My name’s Spark.
+                                                 You: ………………....…………………………………………...…… ?
+                                                 Spark: Well, I’m seventeen months old.
+                                                  You:……………….......………………...…………………..….….….. ?
+                                                        Spark: I come from Planet Omega, which is far away from your
+                                                          planet.
+                                                            You: Oh, I see. And……....…………...……………………. ?
+                                                            Spark: I live on satellite 13.
+                                                           You: Wow, that’s strange… Anyway, what about your
+                                                            interests, Spark? ……………………………………………
+                                                            …………………………………….….….….….….….….….?
+                                                            Spark: Yes, I do. I love travelling.
+                                                        You: ……………………………....………………………………?
+
+               Spark: Well, I also like exploring new planets and meeting different beings, like you!
+               You: Yes, I’m quite different from you, aren’t I? But what about sleeping?
+               …………………………………………………………………………...……………………………?
+               Spark: No, I don’t. I hate it!
+               You: ………………………………………………...………………….....……….….….….….….….?
+               Spark: Well, I also dislike washing my clothes. I think it’s horrible!!!!
+               You: I can see what you mean, my friend. I hate washing clothes myself and that
+               makes my Mum quite angry…….............. Well, let me ask you a final question now.
+               …………………………………… ? You must like something in particular, I suppose…
+               Spark: Yes, I adore learning new languages to communicate with other beings…… That’s
+               why I’ve learned English. But I’d love to learn Greek! So, would you teach your language to
+               me, please?
+               You: That’s a fantastic idea, Spark! I’d love to!
+
+
+               10 / Activity Book • UNIT 1 • Lesson 2
+
+
+
+10_0104_agglika.indd 10                                                                                                           1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | left-mid: cartoon green alien Spark with antennae, red shirt and grey trousers giving a thumbs-up beside the interview dialogue. No embedded text.]

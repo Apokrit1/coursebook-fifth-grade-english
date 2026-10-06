@@ -1,0 +1,453 @@
+==============================================================================
+SOURCE PDF : teacher_appendix_sample_lesson_plan.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\appendix\teacher_appendix_sample_lesson_plan.pdf
+GLOBAL PDF PAGES: 128-134
+PAGES IN THIS FILE: 7
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: reading-order (no -layout; two-column TB) -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=17602, words~=2982
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (1 /Alternate ICC profile only); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/7 | GLOBAL PDF p.128 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+A. LESSON PLAN FOR E CLASS ENGLISH (REF. UNIT 5 - LESSON 2)
+Class: E (5th grade)
+Level of students: A1 - Breakthrough stage (CEF)
+Age: 10-11
+Number of students in class: 20-30
+Time available: 4 sessions-40 minutes each
+Materials to be used: a questionnaire, a listening passage, a text:
+			
+adapted from www.panda.org
+Class organization: individual, pair and group work
+Methods to be used: inductive/task-based learning
+Overall theme or topic planned: Let’s do it – Lesson 2 of Unit 5 – inviting pupils to take
+action in order to save planet Earth.
+Aims
+Teaching aims: to invite pupils to revise the vocabulary on recycling and environmental issues
+		
+: to use modals can, must, should to express ability,
+		
+obligation and give advice
+		
+: to encourage pair and group work
+		
+: to invite pupils to prepare a presentation on a specific
+		
+topic using resources and following steps
+Learning aims: to encourage pupils’ speaking skills
+		
+: to engage pupils in a problem-solving task
+		
+: to activate their background knowledge on the theme
+		
+: to sensitize pupils to environmental issues
+		
+: to help them develop critical thinking
+
+CROSS-CURRICULAR APPROACH
+The topic of environmental issues is presented, discussed and researched. The tasks are
+based on students’ active cooperation aiming at their autonomous learning and at their
+active participation in and outside the school.
+A. Lead-in 8/ Presentation of the topic:
+
+Time: 3 mins
+
+Lesson 2 of Unit 5 comes as a sequence of Lesson 1, as it is based on the same topic:
+Ready for action to reduce waste, to recycle and to save the planet. Therefore, the pupils
+have already discussed these issues and have been exposed to the relevant vocabulary.
+They have also used the Greenpeace website for more information, in order to fulfill the
+tasks. Pupils are most of the times asked to do things, to organize campaigns, to present
+their ideas to people and generally to imitate real life situations. Learning by doing i.e.
+interacting in meaningful activities is what task-based learning is based on.
+In Lesson 2 the teacher introduces the pupils to the new issues asking them:
+“Do you remember Kostas’ class environmental project?” This question serves as a very
+good reminder of what has already been discussed, of the vocabulary already used and
+helps the teacher take the pupils to the next step and present the topic which is the pupils’
+environmental attitude. Questions like
+What do you do with your rubbish?
+• Do you recycle paper at home or at school?
+• Have you ever thought that the protection of the environment is a personal matter? make
+pupils realise that people’s attitude against the environment is of paramount importance.
+Thus, one of our learning aims, that of sensitizing pupils to environmental problems, is
+fulfilled.
+128
+
+10-0105_AGGLIKA DASKALOU.indd 128
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 2/7 | GLOBAL PDF p.129 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+B. READING
+
+(Ref. METHODOLOGICAL TIPS p. 9)
+
+Time: 20 mins
+
+Pre-reading
+The teacher now explains that the pupils are going to answer ten questions related to the
+main topic and that a questionnaire is common practice for those who make a survey and
+use the results in order to change things. At that stage pupils can be encouraged to raise
+their own questions, which also remind them of what they already know and think, i.e. of
+their existing schematic knowledge. The pupils should realise that they must be sensitive
+about the issues of energy, pollution, recycling, waste etc.
+
+Whilst-reading
+The pupils are asked to read the questionnaire individually. Then, they check to see what
+kind of citizens they are. As the passage is authentic material, slightly modified for the
+pupils’ level, it encourages the readers’ engagement with it and offers a good reason for
+them to read it. If they ask for unknown words, the teacher tries to make them understand
+from the context.
+
+Post-reading
+The pupils check their answers and compare them with the results of their partners. It is
+important at that point not only to test the pupils’ reading abilities but also to teach them right
+from wrong behaviour. These questions work as a test which helps pupils see whether their
+attitude to nature is positive or not. The teacher therefore, discusses the results and praises those
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 129
+
+129
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right, inside the questionnaire box: Small cartoon illustration of a rubbish heap.]
+==============================================================================
+[PAGE 3/7 | GLOBAL PDF p.130 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+who got a high score, trying to raise pupils’ awareness about environmental issues.
+C. SPEAKING & WRITING
+
+(Ref. METHODOLOGICAL TIPS pp. 10 & 11)
+
+Time: 15 mins
+
+This task does not require any use of specific linguistic forms, it is open for pupils to
+organize and therefore not easy for the teacher to handle. The pupils should be given
+precise directions. A crucial matter here is time limit, which for young learners forms a
+difficulty they have to overcome. In order to do this, they develop the appropriate strategies
+(note taking, diagrams, use of known vocabulary etc.) so as to gain time. Of course they
+very often use their mother tongue as well, but banning mother-tongue use altogether
+might not be advisable. Weaker students often tend to stop speaking. Pupils should be
+made to realise that they use English for communication purposes and that is what they
+must try to do. Encourage them to experiment with the L2 and use the L1 only to explain
+something complex that the other pupils might not understand.
+Working in pairs or groups here helps the teacher manage classroom interaction so as
+to offer opportunities for all the pupils to use their limited language and to create a more
+effective learning environment. In group work there could be one “chairperson” who
+will lead the discussion and will ensure that each partner gets time to contribute to the
+conversation. Pair work, on the other hand, provides a more “private” setting for shier
+pupils to speak.
+
+Pre-speaking
+The teacher tells the pupils that they do not have to do the project right now. They only
+have to prepare two or three activities in order to inform pupils in other schools about the
+environmental problems in their area. They should think of what problems to talk about,
+what ways they will use to present them and what actions they are thinking of taking. The
+questions given in the SB will help the pupils organize their work and develop their critical
+thinking so as to decide which problems are the most important.
+
+Whilst-speaking
+The teacher ckecks that the pairs or groups are formed and goes around so as to help
+pupils with the L2 and encourages them to use already known vocabulary. The pupils
+develop their speaking skills in order to handle a problem-solving task. Time, as mentioned
+before, is important, so the teacher makes clear that they have only three days to prepare
+the project. This makes pupils concentrate and collaborate so as to present an outcome in
+time.
+
+Post-speaking
+It is now time for pupils to present their work in class. They must explain what the targets
+of their campaign are and what they expect to achieve. Pupils may put the targets and their
+expectations on the board. This way, they make peer discussion easier. The teacher can
+promote the conversation with questions like:
+• What is the aim of your campaign?
+• What do you expect to achieve?
+• Do you think that people will change their habits?
+• What means are you going to use to make your problems known?
+• For an alternative speaking task with a crosscurricular approach teachers may use the
+ideas, the Internet sites and the relevant books and periodicals suggested on page 135
+of the Appendix. It would be advisable to introduce pupils to the suggested material,
+although more time might be needed. The teacher should give precise directions on
+how to use the Internet, books and other school resources and set clearly that the pupils
+are expected to cooperate and make some small scale research. Cooperation between
+teachers of different subjects stimulates pupils and teachers alike. The pupils work in
+130
+
+10-0105_AGGLIKA DASKALOU.indd 130
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 4/7 | GLOBAL PDF p.131 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+groups and get ready to present the outcome of their research.
+D. LISTENING
+
+(Ref. METHODOLOGICAL TIPS p. 10)
+
+Time: 15 mins
+
+Pre-listening
+• The teacher reads the instructions and explains what a summit meeting for the environment
+is:
+- Important people from different countries around the world meet and discuss ways of
+protecting the environment. The participating countries decide whether or not they will
+sign and respect the agreement.
+• The teacher asks the pupils to guess what the passage is going to be about.
+• The teacher is also given a chance to review once more the relevant vocabulary together
+with the words of the items pictured on page 67.
+
+Words like
+to recycle
+plastic bag			
+to protest
+cloth bag			
+to reuse
+cardboard box			
+recyclable			recycle symbol
+ecological packaging
+should be mentioned and pre-taught through the pictures.
+
+Whilst-listening
+The aim of this activity is listening for specific information. The teacher plays the tape/CD
+– more than once if needed - and the pupils work individually and put a tick next to items
+mentioned and a cross next to items not mentioned in the tape.
+TAPESCRIPT
+Activist: ...but of course we can make a real difference! Even children like you can take
+action! For example, when you go shopping with your parents look for products that have less
+packaging or use ecological packaging. You can check the packaging by reading the symbols.
+Even better, you can also buy fresh, non-packaged produce. You can also ask your mum to
+bring a cloth bag or reuse an old plastic bag to carry home your groceries and other shopping.
+Why not ask for cardboard boxes at the supermarket? They can be reused for other purposes
+or recycled.
+And one more thing...when you shop, you should always look for products that can be
+recycled – or have been recycled already. Look for the recycle symbol on the label.
+Kostas: Do you really believe that we can make older people listen to us? But......( fading out)
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 131
+
+131
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGES 1-8 | middle of page, two rows: Eight small reference photographs - an anti-litter poster, a black rubbish bag, an open cardboard box, a cartoon boy labelled Kostas, a recycle symbol, a no-litter sign, a street protest banner with a Greek sign, and a pile of fresh vegetables.]
+==============================================================================
+[PAGE 5/7 | GLOBAL PDF p.132 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+Post-listening
+In pairs the pupils check their choices.
+In groups of 3 or 4 they form the main idea each picture represents and offer more
+suggestions. One pupil from each group reports to the class.
+Possible outcome:
+(picture b) Plastic bags destroy the environment. We must use paper bags.
+(picture d) Buy products with the recycle sign. We protect the Earth.
+GRAMMAR FOCUS
+
+(Ref. METHODOLOGICAL TIPS p. 12) 
+
+Time: 10 mins
+
+In the grammar focus section the teacher is asked to use the PPP model of instruction.
+
+Presentation of grammar structures and functions
+The teacher asks the pupils to look at the structures in the section and reminds them of
+any modals they had met in D’ class. The pupils are then asked, according to the inductive
+model of learning, to elicit the rules for the use of the specific modals. They are helped by
+the teacher with questions like:
+• How are the modals formed? (modal + infinitive)
+• How are they different from ordinary verbs? (they do not form all tenses)
+• What function each one has? (used to express ability, obligation, advice)
+
+Practice
+
+The teacher encourages the pupils to elicit responses using the above structures. The
+questionnaire on page 65 may prove very useful. Possible outcome:
+• What must people do with their rubbish?
+• We should use recycled paper in order to protect the trees.
+• Students should watch environmental programmes on TV.
+• We can take part in a protest against air pollution.
+
+Production
+
+The teacher writes the pupils’ responses on the board to use them later in their projects,
+in the appropriate context.
+E. PAIR OR GROUP WORK
+
+(Ref. METHODOLOGICAL TIPS p. 11)
+
+Time: 15 mins
+
+• The teacher explains to the pupils that they do not have to finish the whole task together with
+the creation of the poster on the same day. What they have to do first is to discuss on what to
+include working in pairs or in groups of 4. This task (very similar to C. Speaking) presupposes
+precise guidelines from the teacher. The teacher could also show the pupils other posters
+which might hang up on the walls and explain how to make it attractive and presentable. The
+most competent pupils, those who are good at drawing or at team coordinating might be the
+“leaders” of a group. The pupils have to decide on the ideas they are going to include and the
+tasks each pupils is going to take up. The pictures on page 68 give some ideas for possible titles:
+
+132
+
+10-0105_AGGLIKA DASKALOU.indd 132
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGES 1-6 | bottom of page, two rows of three: Six small cartoon poster vignettes - a littered landscape, a protest dog holding a placard, a crying planet Earth, a bear, a loaded truck, and a couple on stairs.]
+==============================================================================
+[PAGE 6/7 | GLOBAL PDF p.133 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+Water pollution
+Air pollution
+Road safety instruction
+
+Animals in Danger
+Rubbish
+Save the Forests
+
+• The teacher sets a time limit for the preparation of the poster and moves around offering
+any help needed. The use of the recently taught modals would be appropriate and the
+teacher should remind the pupils of that. Arrangements should be made for one more
+session so as to draw, cut, glue and do any handwriting to finish the poster.
+F. READING & WRITING
+
+(Ref. METHODOLOGICAL TIPS pp. 9 & 10)
+
+Time: 20 mins
+
+The task consists of two parts and it forms an integrated suggestion of the crosscurricular
+approach to learning. It sensitizes students in every day multicultural issues, the pupils work
+cooperatively on authentic material (adapted from the Net), the outcome is as important as the
+action they take.
+
+Pre-reading
+• The pupils are invited to read only the title of the passage, look at the picture and guess
+what the topic is going to be. They are, therefore, introduced to the idea that all the people
+of the Mediterranean share the same environmental problems. If the pupils are not very sure
+of which the countries of the Mediterranean are, the teacher uses a map to show them the
+Mediterranean sea and the countries around it. Before going on reading the passage it would
+be a good idea to revise the vocabulary related to countries, nationalities, geography, weather
+etc. Also the teacher encourages pupils to speak and discuss any environmental problems of
+the Mediterranean countries, i.e. let them talk about air pollution, climate changes, forest
+destruction etc.
+
+Whilst-reading
+• The pupils read the passage and in pairs or groups they try to guess the meaning of the
+Mediterranean Forests
+The Mediterranean is one of the most important regions in the world for its
+forests. These forests are situated in an area between the European, African and
+Asian continents and are very important for their biodiversity features – plants
+and animals.
+But the Mediterranean forests are under threat. One of the most serious
+threats is fires. This has caused serious problems in the area during
+the last few decades. Other general threats to Mediterranean forests are:
+• Climate change
+• Droughts and floodings
+• Extensive building development
+• Atmospheric pollution
+
+unknown words.
+• The words given – most of them unknown – are very important and useful in order to
+describe the problem. The pictures which follow add some more clues to the main issue.
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 133
+
+133
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | lower box, right side: Small tree illustration inside the shaded 'Mediterranean Forests' text box.]
+==============================================================================
+[PAGE 7/7 | GLOBAL PDF p.134 | SOURCE: teacher_appendix_sample_lesson_plan.pdf]
+==============================================================================
+Italy
+
+Lebanon
+
+People cause
+fires
+
+Violence and war
+destroys the natural
+environment
+
+Greece
+
+Turkey
+
+Building development
+threatens
+forests
+
+Too much lumbering
+reduces forests
+
+Post-reading and Writing
+• At that level the post-reading stage coincides with the writing stage. The pupils have read
+the passage and the picture captions and they are asked to make a list of possible solutions
+to these problems. They work in pairs and, using the L2 and the relevant vocabulary, try
+to come to solutions concerning the environmental problems the Mediterranean countries
+face. They develop their critical thinking, they practise speaking skills and vocabulary and
+at the same time they raise their awareness of the serious environmental problems.
+• The teacher encourages the pupils to make a list of the problems and the suggested
+solutions. Then, the findings are presented in class and are compared with other pupils’
+suggestions.
+
+The crosscurricular approach
+Several projects can be conducted based on group work:
+1. The pupils could use the relevant site [www.panda.org]and the school library to read
+more on the topic and collect information. Then, they could make posters to hang on
+the walls and leaflets to hand out to their fellow students.
+2. The teacher of English could collaborate with the teachers of Chemistry, Biology and
+Geography so as to offer a model lesson based on the cross-curricular approach to
+teaching. Photographs, maps and designs could be used to explain how pollution
+works, what the acid rain is and how the sea and the fish are polluted and destroyed.
+3. Exchange visits could be organized between Mediterranean schools from countries
+which belong to the European Union through a European Mobility Programme.
+BIBLIOGRAPHY
+
+Chryshochoos, J. Chryshochoos, N. and I. Thompson (2002) The methodology of the
+teaching of English as a foreign language with reference to the crosscurricular approach
+and task-based learning, Athens: The Pedagogical Institute.
+Common European Framework of Reference for Languages: Learning, Teaching, Assessment
+(2001), Cambridge:CUP
+Δενδρινού, Β. Τριανταφύλλου, Τ. Ταγλίδης, Α. Κοσοβίτσα, Κ. Κυνηγού, Ι. Λιάρου, Ε.
+Μουζεκίτη, Α. και Μ. Σεπυργιώτη (1997) Ενιαίο Εξαετές Αναλυτικό Πρόγραμμα για τη
+Διδασκαλία της Αγγλικής Γλώσσας (Δ’ Δημοτικού – Γ’ Γυμνασίου) Αθήνα: Παιδαγωγικό
+Ινστιτούτο
+134
+
+10-0105_AGGLIKA DASKALOU.indd 134
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left: Photograph of a forest fire in Italy, captioned 'People cause fires'.]
+[IMAGE 2 | top-right: Photograph of explosion smoke rising over a town in Lebanon, captioned on war destroying the environment.]
+[IMAGE 3 | middle-left: Photograph of a hillside building development in Greece, captioned as threatening forests.]
+[IMAGE 4 | middle-right: Photograph of a dense forest in Turkey, captioned on lumbering reducing forests.]

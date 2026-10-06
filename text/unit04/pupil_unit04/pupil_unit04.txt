@@ -1,0 +1,712 @@
+==============================================================================
+SOURCE PDF : pupil_unit04.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit04\pupil_unit04.pdf
+GLOBAL PDF PAGES: 49-60
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=34097, words~=2694
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+RECURRING ELEMENTS (described once here; per-page blocks give counts only): green 'Unit 4' header bar; red circular activity-letter badges; small activity-type icons: listening cassette, reading open-book, writing pencil, speaking speech-bubble, role-play masks, portfolio folder, 'GRAMMAR FOCUS' magnifying glass, 'Learning strategies' dartboard; pale-yellow instruction bubbles; Christmas bauble/pine/holly decorative motifs; light-blue SELF-ASSESSMENT header box with boy-at-desk cartoons; pale-green self-review boxes; green footer bar.
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.49 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                                                                                    4
+
+
+                  In this unit:    0 We read about the way dolphins can help children with
+                                      special needs
+                  0 We write about our holiday abroad
+                  0 We listen to children making Christmas preparations
+                  0 We sing Christmas songs
+
+
+                              Children have fun at Christmas. Why?
+
+
+
+
+10-0103.indb 49                                                                               1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: no activity icons (unit title page). (See file header for one-time description.)
+[IMAGE 1 | lower two-thirds: Large watercolour illustration: about ten rosy-cheeked children in winter clothes singing around a smiling anthropomorphic snow-covered Christmas tree wearing a red bobble hat, in a snowy forest. Yellow italic caption above reads 'Children have fun at Christmas. Why?'. Small holly-with-red-berries motif beside the 'CHRISTMAS EVERYWHERE' title at top.]
+
+==============================================================================
+[PAGE 2/12 | GLOBAL PDF p.50 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                   10
+                  Lesson 1 GETTING READY FOR CHRISTMAS
+
+
+                    A        LEAD-IN 8
+                   What do you need to make Christmas decorations? Put the correct words in the right spaces. Ask
+                   your teacher to help you. Can you guess why Nadine needs these things?
+
+                             a. glue 		            b. scissors   		        c. card 		                d. string
+
+
+
+
+                                                                                                            4.
+                        1.                          2.                     3.
+
+
+
+
+              1.			 2.			                                             3.			                     4.
+
+
+
+                    B        LISTENING
+                  Susan from England is staying with her friend Nadine in Marseilles, France.
+
+
+                   With your books closed listen to what Nadine and Susan say about what they usually do and what
+                   they are doing this year for Christmas.
+
+                   Decide whether the following statements are True (0) or False (;). Use the text to justify your
+                   choices.
+
+                   Discuss with your classmates before making a decision.
+
+              1. Jacques is helping Nadine
+                 with the Christmas decorations. _______
+              2. Nadine usually buys her decorations
+                 at the supermarket. _______
+              3. This year Nadine is buying her decorations
+                 at the stores. _______
+              4. Christmas decorations at the supermarket
+                 are expensive.   _______
+              5. Susan always makes her own decorations.              _______
+
+
+              50 / Pupil’s Book • UNIT 10
+                                       4-•- •Lesson
+                                              Lesson11
+
+
+
+
+10-0103.indb 50                                                                                                      1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: listening cassette x1 (B). (See file header for one-time description.)
+[IMAGE 1 | upper-middle (1): Photo 1: overlapping Christmas/greetings cards with tree and collage motifs.]
+[IMAGE 2 | upper-middle (2): Photo 2: ball of natural twine/string with a blue product label.]
+[IMAGE 3 | upper-middle (3): Photo 3: yellow-and-blue tube of glue (label '...xif...').]
+[IMAGE 4 | upper-middle (4): Photo 4: purple-handled scissors on white background. Numbered 1-4 with write-on lines below for glue/scissors/card/string matching.]
+[IMAGE 5 | middle-right: Photo of a red patterned Christmas bauble hanging from a string; faint large green Christmas-tree watermark fills the page background (decorative).]
+[IMAGE 6 | bottom-right: Cartoon of a smiling blond girl in a red top (head and shoulders).]
+
+==============================================================================
+[PAGE 3/12 | GLOBAL PDF p.51 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                                                                                                                       10
+                                                                                                                        4
+                     C     READING COMPREHENSION
+               Susan and Nadine both love dolphins. They are finding out more about them. Susan is reading a book
+               about dolphins. It has a lot of interesting information. She shows Nadine one of the pages.
+
+
+
+
+                                    Dolphin T                ns with Special Needs
+                                             herapy for Perso
+                      Dolphins have a special way of making people feel more positive about life. There are several
+                      organisations which help people with special needs by getting them to play with dolphins.
+
+                      People with special needs often live routine lives in hospitals or day centres where they follow set
+                      programmes. Depending on their illnesses they get up at fixed times, eat at fixed times, do physical
+                      exercise at regular times throughout the day and go to bed at the same time. They lead very regular
+                      lives.
+
+                      What are some of these people with special needs doing today? They’re in Florida and they’re playing
+                      with dolphins. A charity association has organised this day as a Christmas present for them. The
+                      children are having fun swimming with the dolphins. They are holding onto the dolphins and the
+                      dolphins are pulling the children along. They are all enjoying every moment. These are people who
+                      don’t always smile but who are smiling today.
+
+
+
+
+                     Using the information in the text above, write how a dolphin can help young people be happy.
+
+
+                Special Needs Day to Day                                 Special Needs Dolphin Programme
+
+
+
+
+                                                               GRAMMAR FOCUS
+
+
+
+
+                                                                                         Pupil’s
+                                                                                          Pupil’sBook
+                                                                                                  Book••UNIT  4 - • Lesson 1 / 51
+                                                                                                         UNIT10
+
+
+
+
+049-060 up.indd 51                                                                                                           26/11/2024 11:22:36 πµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: reading book x1 (C). (See file header for one-time description.)
+[IMAGE 1 | middle: Light-blue wavy-bordered text box titled 'Dolphin Therapy for Persons with Special Needs' with three small cartoon blue dolphins decorating the top-left, top-right and bottom-right corners.]
+[IMAGE 2 | bottom-left: Photo: smiling child splashing in the sea beside a leaping dolphin.]
+[IMAGE 3 | bottom-right: Photo: group of children and adults standing in shallow water touching two dolphins. Comparison table ('Special Needs Day to Day' / 'Special Needs Dolphin Programme') sits above the photos.]
+
+==============================================================================
+[PAGE 4/12 | GLOBAL PDF p.52 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                 10
+                  4
+                      Study the following table to see how English people talk about facts and habits vs
+                      actions happening now or “around now”.
+
+                      Nadine and Jacques usually buy their Christmas decorations at the supermarket,
+                      but this year they are making them themselves.
+
+                      We often go abroad for our Christmas holidays, but this year we are spending it with Maria’s
+                      parents.
+
+                      Nick and Mary sometimes sing carols on Christmas Eve, but this year they are helping Mum with the
+                      Christmas dinner.
+
+
+
+
+                     D WEEKENDS DURING THE YEAR AND A SPECIAL ONE IN LONDON
+                     Look at the photo album of Nadine and her family and see what she usually does at weekends. This
+                     year for Christmas she is in London for three days enjoying the Christmas atmosphere with her
+                     family. Use the pictures given to talk about Nadine and her family.
+
+                     Work in pairs: e.g. Pupil A: Nadine reads at the weekends.
+                     Pupil B: But today she is in London enjoying the Christmas lights in Trafalgar square.
+
+
+                                   Pupil A                                                    Pupil B
+                      On a typical weekend during the year                     During the Christmas period this year
+
+                                                                                                                   Trafalgar Square
+                                                                                                                            London
+
+
+
+
+                                                                          Visiting interesting         Seeing the
+                                                                                 places              Christmas lights
+                                                                                             Buying
+                                                                                                                     Carol singing
+                                                                                        presents/gifts
+
+
+
+
+                                                                          mother                          Nadine
+                         (read/book, light/ﬁre, sew, watch/TV)
+                                                                                       father                               brother
+
+
+               52 / Pupil’s Book • UNIT 10
+                                        4-•- •Lesson
+                                               Lesson11
+
+
+
+
+049-060 up.indd 52                                                                                                                    22/9/2022 3:34:57 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: speaking bubble x1 (D), Grammar Focus magnifier x1. (See file header for one-time description.)
+[IMAGE 1 | bottom-left panel (Pupil A): Pink 'On a typical weekend during the year' panel with four small paintings: girl lying on red rug reading a book (caption read/book); person curled in yellow armchair by a fireplace (light/fire); red-haired girl sewing/kitting in a chair (sew); girl reclining on yellow sofa with TV remote (watch/TV).]
+[IMAGE 2 | bottom-right panel (Pupil B): Blue 'During the Christmas period this year' panel: large night photo of Trafalgar Square, London (illuminated Christmas tree, lit fountain, statue; caption top-right) with four cartoon faces below: mother ('Visiting interesting places'), father ('Buying presents/gifts'), Nadine ('Seeing the Christmas lights'), brother ('Carol singing'), each with a coloured speech bubble.]
+
+==============================================================================
+[PAGE 5/12 | GLOBAL PDF p.53 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                                                                                                                  10
+                  E    WRITING
+                  Imagine you are on holiday. Write a postcard to your best friend from where you are staying.
+                  Use Mark’s card as a model.
+
+
+
+
+             Hi, Nadine!
+            Tunisia is beautiful and a lot of peop
+            speak French here. We are visiting a lot ofle
+            historic places. The food tastes ”different”,
+           - sometimes I don’t know what I’m eating!
+           Today we are visiting a town near the
+           Sahara. Lots of people have camels! We Nadine Boulanger
+           are enjoying every moment of our holiday. Rue de la Ga
+           Hope you like my postcard!                                re, 5
+                                                          Marseilles
+           Love,                                          France
+           Mark
+
+
+
+
+                                                                                    Pupil’s
+                                                                                     Pupil’sBook
+                                                                                             Book••UNIT  4 - • Lesson 1 / 53
+                                                                                                    UNIT10
+
+
+
+
+10-0103.indb 53                                                                                                                1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: writing pencil x1 (E). (See file header for one-time description.)
+[IMAGE 1 | upper-middle: Colour postcard photo captioned 'Sahara' in white: sand dunes with a palm tree against blue sky.]
+[IMAGE 2 | centre: Handwritten-style model postcard from Mark to 'Nadine Boulanger, Rue de la Gare 5, Marseilles, France' (message about Tunisia/Sahara/camels, signed 'Love, Mark') with a stamp photo of a camel and robed man among palms in the desert.]
+[IMAGE 3 | bottom: Blank postcard template: dotted writing lines on the left, empty stamp box and address lines on the right.]
+
+==============================================================================
+[PAGE 6/12 | GLOBAL PDF p.54 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                  10
+                  Lesson 2 KOSTAS IS IN NEW YORK FOR CHRISTMAS
+
+                  A LEAD-IN 8
+
+                  Match the pictures with the following words:
+                  a) δίπλες
+                  b) turkey
+                  c) κουραμπιέδες
+                                                                                                        2
+                                                                                  1                             3
+
+
+                  B LISTENING: MAKING PANCAKES
+              Kostas is visiting his cousins John and Mary in New York for Christmas.
+              It is Christmas Day and the children are up early before their parents.
+
+                  A) Books closed, listen to the dialogue.
+                  B) See how well you understood the order. Read the following and number the boxes 1-6.
+                  C) List the four ingredients to make pancakes. Then make them at home yourself.
+
+
+
+
+                         Number: ............              Number: ............          Number: ............
+
+
+
+
+                                                                                        Number: ............
+                       Number: ............              Number: ............
+              * Butter vs Batter: Do you know the difference? Your teacher will help.
+
+
+              54 / Pupil’s Book • UNIT 10
+                                       4-•- •Lesson
+                                              Lesson21
+
+
+
+
+10-0103.indb 54                                                                                                     1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: listening cassette x1 (B). (See file header for one-time description.)
+[IMAGE 1 | top-right: Cartoon: two smiling boys at a Christmas dinner table with three numbered dishes: (1) plate of round biscuits/cookies, (2) Christmas wreath with two candles and a red stocking, (3) roast turkey platter. Greek matching words (dip-les/turkey/kourabiedes) listed at left.]
+[IMAGE 2 | bottom (six panels): Six small cartoons of three children (dark-haired boy, curly red-haired girl, blond boy) making pancakes, each with a 'Number: ...' ordering line: with milk/flour cartons and dough balls; pouring batter onto a pancake stack as parents watch; stirring a mixing bowl; frying a pancake at the hob; walking arm-in-arm; reading a red 'Cookery Book' together.]
+
+==============================================================================
+[PAGE 7/12 | GLOBAL PDF p.55 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                                                                                                                        10
+                                                                                                                         4
+                     C     READING COMPREHENSION
+                     The children are working in the kitchen. Next to the statements describing what they are doing,
+                     write the feelings that go with them. Look at the table below. Use feel, taste, smell. If necessary
+                     ask your teacher to help you.
+
+
+
+                Statements                                               Feelings
+
+                Kostas, John and Mary
+                are reading the cookery book.
+
+                Kostas, John and Mary
+                are making pancakes
+
+                The children are eating pancakes
+
+
+
+
+                      Study the following sentences to learn how we express feelings with the verbs
+                      of senses.
+
+
+                                                                                         good, bad, hot, cold, tired, sick,
+                                                                                         great, awful,
+                                                      look(s)                            fantastic, beautiful, pretty,
+                                                                                         horrible, happy, sad, funny,
+                                                                                         wonderful.
+
+                         I
+                         You                                                             good, bad, delicious, awful,
+                         He/She/It                    taste(s)
+                                                                                         great, sweet, salty, fantastic.
+                         We
+                         You
+                         They
+                                                                                         good, bad, nice, sweet, awful,
+                                                      smell(s)
+                                                                                         great, fantastic.
+
+
+                                                                                         good, bad, hot, cold, tired,
+                                                      feel(s)                            happy, sad, great, bored,
+                                                                                         awful, soft, hard.
+
+
+
+
+                                                                                         Pupil’s
+                                                                                          Pupil’sBook
+                                                                                                  Book••UNIT               1 / 55
+                                                                                                              4 - • Lesson 2
+                                                                                                         UNIT10
+
+
+
+
+049-060 up.indd 55                                                                                                            22/9/2022 3:36:09 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: reading book x1 (C), Grammar Focus magnifier x1. (See file header for one-time description.)
+[IMAGE 1 | middle: Horizontal photo strip: pancakes with chocolate sauce and mint leaves; wooden spoons in a holder; red cooking pot with wooden spoon; four brown eggs. Sits between the Statements/Feelings table and the Grammar Focus table.]
+
+==============================================================================
+[PAGE 8/12 | GLOBAL PDF p.56 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                  10
+                  D   LISTENING
+              Kostas and his cousin John are looking at a magazine and discussing the photos of the adverts. Which
+              things does Kostas like and which does John like? Next to each photo put K or J.
+              Do the two cousins have the same tastes?
+
+
+
+
+                  E   BUY A BEAUTIFUL PRESENT
+              Kostas wants to buy some presents                            What a beautiful scarf!          It feels so soft
+              for his family and relatives back in Athens.                                                 and it’s only $20!
+              Kostas has maximum $25 for each present.
+              Role play a conversation between Kostas
+              and John about this. Use the prompts listed below
+              and then use the expressions in the
+              Grammar Focus on the previous page.
+              Prompts: mother - scarf, father - after-shave,                              John
+              cousin Nikos - model car, sister Maria - a doll
+                                                                                   Let’s get that
+              M For role-play cards, go to Appendix, page 138.                    for your mother              Kostas
+
+
+
+
+                  F   CHRISTMAS AROUND THE WORLD                                                 Holland
+
+              Christmas is different in different parts of the world. Look at the countries
+              below and read the sentences. See if you can match the country to the
+              correct information.
+              1. England       .......		4.                Russia		.......
+              2. Australia     .......		5.                Holland		.......
+              3. Spain         .......
+              a. Between 1917 and 1992 they did not celebrate Christmas as a national celebration.
+              b. Young people enjoy going surfing on Christmas day and the Christmas turkey is barbecued on the
+                 beach.
+              c. Traditionally children open presents on December 26th, called Boxing Day.
+              d. For the Dutch, Christmas gifts are given the night before St. Nickolas’s day, December 6th.
+              e. The Magi bring gifts on January 6th, the day of the Epiphany.
+
+
+              56 / Pupil’s Book • UNIT 10
+                                       4-•- •Lesson
+                                              Lesson21
+
+
+
+
+10-0103.indb 56                                                                                                                 1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: listening cassette x1 (D), role-play masks x1 (E), reading book x1 (F). (See file header for one-time description.)
+[IMAGE 1 | upper-middle (six adverts): Six small advert photos in two rows with K/J write-on lines: silver Audi car on a coastal road; pepperoni pizza; Harry Potter film poster; red VW Golf; cheeseburger; Star Wars Episode II poster.]
+[IMAGE 2 | middle-right: Cartoon of John (orange hair) and Kostas (brown hair, striped shirt) with three speech bubbles: green 'What a beautiful scarf!', orange 'It feels so soft and it's only $20!', green 'Let's get that for your mother'.]
+[IMAGE 3 | bottom-right: Small photo captioned 'Holland': Dutch canal houses and frozen canal/ice rink with skaters.]
+
+==============================================================================
+[PAGE 9/12 | GLOBAL PDF p.57 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                                                                                                                                                                    10
+                     G LISTENING
+               Making a traditional Greek Christmas recipe
+                 John’s mother wants to make “κουραμπιέδες” for everyone and she is asking Kostas to help her.
+                 Listen to the dialogue first and then fill in the blanks.
+
+
+
+
+                                                                                              e di e n  t s:......
+                                                                                          Ingr
+                                                                              o f   b u tter
+                                                                        . . .
+                                            ................ f sugar
+                                                                               o
+                                                     ...... cup ................
+                                                                                ...
+                                                       ...... egg ni l la extract
+                                      . . . . . . . . . . . . . . . ... of va lour
+                             ...... .                                         s of f                 ........
+                                                     ...... cup ds and, ...........
+                                                p        o    f       a  l mon ... sugar
+                                                                                         ..
+                         ...... a cu ag of ..............
+                                        ...... b
+
+
+                     H   LET’S MAKE KOULOURIA!
+                                                                                                                                        Procedure:
+                                                                                                                     1. Cream the butter with the sugar in an electric
+                                                                                                                         mixer, adding sugar slowly.
+                                                                                                                     2. Beat 20 minutes or unti l it is like whipped cream.
+                                                                                                                     3. Add vani lla, then eggs one at a time. Beat well
+                                                                                                                         after each addition.
+                                                                                                                     4. Take from mixer. With a wooden spoon or rubber
+                                                                                                                         spatula, fold in 4 cups of flour sifted together
+                                                                                                                         with baking powder.
+                                                                                                                     5. Knead in remaining flour, 1/2 cup at a time, unti l
+                                                                                                                        a soft non-sticky dough is achieved. If large eggs
+                                                                                                                        are used, a little more flour may be necessary.
+                                         Ingredients:
+                                                                                                                     6. Pinch off dough the size of a wa lnut and roll
+                                   250 gr of butter                                                                      penci l thin, fold in ha lf side by side and twist.
+                                 1 1/2 cups of sugar
+                               1 tablespoon of vani lla                                                              7. Brush each one with the beaten egg yolk and press
+                                        6 eggs                                                                           the sesame seeds on each piece.
+                             6 teaspoons of baking powder                                                            8. Place on the cookie tray and bake at 350 degrees
+                                    6 cups of flour                                                                      for 30 minutes or unti l golden brown. Makes 50
+                                 1 egg yolk for glaze                                                                    to 60 cookies.
+                               1/3 cup of sesame seeds                                                                                                 (Source: Karen Brewer)
+
+                                                                                                                                      Pupil’s
+                                                                                                                                       Pupil’sBook
+                                                                                                                                               Book••UNIT               1 / 57
+                                                                                                                                                           4 - • Lesson 2
+                                                                                                                                                      UNIT10
+
+
+
+
+049-060 up.indd 57                                                                                                                                                         29/1/2015 1:55:40 µµ
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: listening cassette x1 (G). (See file header for one-time description.)
+[IMAGE 1 | top-right: Decorative pine branch with a large red Christmas bauble hanging (page furniture around the recipe heading).]
+[IMAGE 2 | middle: Spiral-bound notepad illustration with handwritten 'Ingredients......' and blanked quantities ('... of butter', '... cup of sugar', '... egg ...', '... of vanilla extract', '... cups of flour', '... a cup of almonds and ...', '... bag of ... sugar') for the kourabiedes listening task; small holly sprig at its bottom-left.]
+[IMAGE 3 | middle-right: Photo of four crescent-shaped kourabiedes biscuits dusted with icing sugar on brown paper.]
+[IMAGE 4 | bottom-left: Photo of children gathered around a table pressing dough with a full tray of small koulouria biscuits in front.]
+
+==============================================================================
+[PAGE 10/12 | GLOBAL PDF p.58 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                  10
+                   Lesson 3                A CHRISTMAS SONG
+
+                  A LET’S SING A SONG!
+                            Santa Claus is coming to town
+              You’d better watch out,                    He sees you when you’re sleeping,
+              You’d better not cry,                      He knows when you’re awake,
+              You’d better not pout,                     He knows if you’ve been bad or good
+              I’m telling you why:                       So be good, for goodness’ sake!
+              Santa Claus is coming to town!
+              He’s making a list                         You’d better watch out,
+              And checking it twice,                     You’d better not cry,
+              He’s going to find out                     You’d better not pout,                     Learning strategies
+              Who’s naughty and nice:                    I’m telling you why:
+              Santa Claus is coming to town!             Santa Claus is coming to town!   TO REMEMBER WORDS & PHRASES
+                                                                                          c I pronounce them out loud
+              M For a Christmas poem, go to Appendix,                                     c I play back in my mind their sound
+                                                                                          c I write them down in a translation
+              page 139, Activity A.
+
+
+                                               CROSS CURRICULAR PROJECT
+
+              EITHER CHRISTMAS TRADITIONS: In Lesson 2 we read about five countries with different Christmas
+              traditions. Can you find more differences between countries? How do people celebrate Christmas in New
+              York, London, Athens or other European cities? Find information on the internet, encyclopedias, or in books.
+              Work in groups and present your work in class.
+
+              OR DO THEY KNOW IT’S CHRISTMAS?
+              Christmas is a time when we give each other presents, eat a lot and generally enjoy ourselves. We live in a
+              country where we can do so.
+              However there are many children, for example in Africa, who want to celebrate Christmas like we do but
+              cannot.
+              • Do you think it’s a good idea to try and help these children?
+              • Can you think of one thing you can do to help these children?
+              • Can you find websites that you, your class or your family can contact to make a difference for these
+              children?
+              In small groups put together a project:
+              Describe one practical way you can make a difference.
+
+
+                  B    PORTFOLIO
+              CHRISTMAS IMAGES. From magazines, catalogues, the Internet, collect photographs and other Images
+              which are related to Christmas and stick them on A4 sheets. Under each photo, write where you got it
+              from and say a few words about how the photo Is related to Christmas. This could be either in a positive or
+              negative way. Put these sheets in your Portfolio.
+
+
+              58 / Pupil’s Book • UNIT 10
+                                       4-•- •Lesson
+                                              Lesson31
+
+
+
+
+10-0103.indb 58                                                                                                                  1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: speaking bubble x1 (A), portfolio folder x1 (B), dartboard x1. (See file header for one-time description.)
+[IMAGE 1 | middle-right: Small illustration of Santa Claus's smiling face with red hat and white beard beside the 'Santa Claus is coming to town' lyrics; dartboard + 'Learning strategies' box overlapping below.]
+
+==============================================================================
+[PAGE 11/12 | GLOBAL PDF p.59 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                                                                                                                                                 10
+
+                                    Name:..................................................... Class:..............................
+                                    Date:....................................................... Score:............./ 100
+
+
+              A. Circle the odd one out:
+                              stars, balls, angels, cars		                       look, go, taste, smell
+                              batter, flour, milk, eggs		                        fantastic, awful, beautiful, great
+                              presents, smell, turkey, tree
+                                                                                                                                      Points: ....... / 20
+
+              Β. Kostas is writing a letter to his friend Mark. Read the letter
+                  and complete the blanks:
+                  Hi, Mark!
+                  We usually (spend) ................. Christmas in Athens but this year we (visit)......... my cousins in
+                  New York and it’s fantastic! I (have) ............... a wonderful time!
+                  I (sit) ................. by the fireplace now and I (watch) ......... the fire glowing. It’s Boxing Day and
+                  everything is quiet in the house. Mum (clean) ................. up the kitchen with my aunt and Dad
+                  (surf) .............. the net. The Christmas tree (look) ..........so beautiful with its flashing lights
+                  and decorations. There is a platter on the table with kourabiedes and they (smell) ...............
+                  great. I (feel) ............. like eating them all!
+                  Talk to you soon from Athens
+                  Love,
+                  Kostas
+
+
+                                                                                                                                      Points: ....... / 30
+
+              C. What does each person say? Write the captions.
+
+
+
+
+                                                                                                                                      Points: ....... / 20
+
+                                                                                                   Pupil’s BookPupil’s
+                                                                                                                • UNITBook
+                                                                                                                       4 - ••Self
+                                                                                                                              UNIT- Assessment
+                                                                                                                                     10 - • Lesson 1 / 59
+                                                                                                                                                Test
+
+
+
+
+10-0103.indb 59                                                                                                                                              1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: no activity icons (test page); header cartoons counted below. (See file header for one-time description.)
+[IMAGE 1 | top: Light-blue 'SELF-ASSESSMENT TEST' header banner (Name/Class/Date/Score) with two small cartoons of a blond boy writing at a desk (framed left, unframed right).]
+[IMAGE 2 | bottom (Section C, four photos): Photo 1: woman in orange top eating a burger (taste). Photo 2: blond woman smelling a white lily (smell). Photo 3: boy seen from behind looking over a wall at a mountain lake (look/see). Photo 4: girl lying on a bed stroking a Siamese cat (feel/touch). Each has a blank speech bubble above for pupils' captions.]
+
+==============================================================================
+[PAGE 12/12 | GLOBAL PDF p.60 | SOURCE: pupil_unit04.pdf]
+==============================================================================
+                  10
+              D. P
+                  at is asking Val what she does for Christmas. Complete
+                 the dialogue:
+              Pat: .............................................................................................................................................. ?
+
+              Val: At Christmas we usually go to my father’s village in Epirus.
+
+              Pat: .............................................................................................................................................. ?
+
+              Val: It’s up on a mountain.
+
+              Pat: .............................................................................................................................................. ?
+
+              Val: We stay at my grandmother’s cottage.
+
+              Pat: .............................................................................................................................................. ?
+
+              Val: Well, in the mornings we may go for a walk in the woods or help granny with the housework.
+
+              Pat: .............................................................................................................................................. ?
+
+              Val: Yes, it sometimes snows and we make a snowman in the garden.
+
+              Pat: .............................................................................................................................................. ?
+
+              Val: This Christmas it’s different. We are visiting our cousins in Italy. It’s going to be great!
+
+                                                                                                                                                         Points: ....... / 30
+
+
+
+
+                                                                                  Tick what’s true for you:
+
+
+                                                 Now I can:                                                              Learning strategies in English
+                                                                                                               TO REMEMBER WORDS & PHRASES...
+                   c Talk about Christmas habits and customs.
+                   c Talk about things that are happening now or                                               c I pronounce them out loud
+                      ‘‘around now”                                                                            c I repeat them until pronounced easily
+                   c Put instructions for a recipe in the correct                                             c I listen to a native speaker and try to
+                      order                                                                                      imitate/repeat
+                   c Use verbs which describe senses                                                           c I play back in my mind their sound
+                   c Sing a famous Christmas song                                                              c I write them down in a Greek translation
+                                                                                                               c I group the words by topic
+
+
+
+
+              60 / Pupil’s Book • UNIT 10
+                                       4-•- •Self
+                                              Lesson
+                                                  - Assessment
+                                                       1       Test
+
+
+
+
+10-0103.indb 60                                                                                                                                                                 1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+RECURRING ON THIS PAGE: dartboards x2 in bottom boxes; no listening/reading icons. (See file header for one-time description.)
+[IMAGE 1 | middle: Three large glossy Christmas bauble illustrations (light blue, pink, light blue) hanging in a row across the page; decorative page furniture around the Pat/Val dialogue.]

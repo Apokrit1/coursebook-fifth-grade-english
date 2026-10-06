@@ -1,0 +1,483 @@
+==============================================================================
+SOURCE PDF : teacher_appendix_bibliography_readers.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\appendix\teacher_appendix_bibliography_readers.pdf
+GLOBAL PDF PAGES: 135-140
+PAGES IN THIS FILE: 6
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: reading-order (no -layout; two-column TB) -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=12803, words~=2249
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (1 /Alternate ICC profile only); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/6 | GLOBAL PDF p.135 | SOURCE: teacher_appendix_bibliography_readers.pdf]
+==============================================================================
+Wallace, C. (1993) Reading, Oxford:OUP
+White, G. (1998) Listening, Oxford:OUP
+Willis, J. (1996) A Framework for Task-Based Learning, London: Longman
+
+B. ENGLISH PROVERBS
+1. Beauty is in the eye of the beholder.
+
+This means there are no one objective criteria to judge whether something is beautiful
+– it is a personal opinion.
+2. The best advice is found on the pillow.
+
+Often a good night’s sleep gives you the solution to a difficult problem.
+3. The bigger, the better.
+
+The proverb is self-explanatory: if something is bigger then it is better.
+4. A bird in the hand is worth two in the bush.
+
+It is better to have something now even if it may not be exactly what you wanted, rather
+than risk waiting for it and maybe never getting anything.
+5. Birds of a feather flock together.
+
+This means that people who are similar tend to become friends, mean both in a positive
+and negative way.
+6. Curiosity killed the cat.
+
+You need to be careful because sometimes being interested in some things may lead you
+into situations which could be dangerous.
+7. Don’t count your chickens before they hatch.
+
+Don’t be happy about something which should happen. Wait until it really happens and
+then celebrate.
+8. Don’t cross your bridges before you get to them.
+
+The message here is not to worry about situations until you get to them.
+9. The early bird catches the worm.
+
+When you have to do something you have a better chance of being successful if you start
+straight away or anyway early.
+10. Good things come in small packages.
+
+This proverb indicates that sometimes the best things come in small quantities. It is the
+opposite of The bigger the better!
+11. The grass is always greener on the other side of the fence.
+
+People are never happy with what they have. They are always dreaming of better things.
+However when they get the “better” it turns out to be the same or even worse.
+12. Home is where the heart is.
+
+It is not the house that makes home, it is your feelings about a person or a place.
+13. It’s no use crying over spilled milk.
+
+This indicates it is best not to get angry about something which has already happened but
+went wrong. Nothing can be done to change it.
+14. A kite rises against the wind.
+
+If a person overcomes a difficult situation he becomes a better person.
+15. Money doesn’t grow on trees.
+
+This means you have to work hard to make money.
+16. Necessity is the mother of invention.
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 135
+
+135
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 2/6 | GLOBAL PDF p.136 | SOURCE: teacher_appendix_bibliography_readers.pdf]
+==============================================================================
+In most cases difficult situations force you to be creative.
+17. Opposites attract.
+
+People very often are attracted by others who do not have their same qualities – i.e.
+people get together with others who complement them.
+18. An ounce of prevention is worth a pound of cure.
+
+It is much better to prevent a problem than have to face the much bigger difficulties
+later.
+19. A picture is worth a thousand words.
+
+In many cases a picture or a photo give a lot more information in an instant than words.
+20. Safety lies in the middle course.
+
+If you have a problem in many cases it is best not to take extreme action – take a middle
+course and you will solve the problem more easily.
+21. Silence is golden.
+
+In very complex situations, in many cases it is best not to express an opinion immediately
+or ever.
+22. A stitch in time saves nine.
+
+It is best to address problems immediately step by step rather than wait when they may
+get a lot bigger.
+23. There’s no place like home.
+
+One’s home is a special place which nothing can replace.
+24. Time flies.
+
+We never have time to do everything.
+25. Too many cooks spoil the broth.
+
+When you have to do something, it may be best to do it alone.
+26. You can lead a horse to water, but you can’t make it drink.
+
+It means you may get people interested in something (e.g. a project) but you can’t always
+get them to accept your plans of action.
+27. You can’t judge a book by its cover.
+
+It means the appearance of something doesn’t always reflect its true quality or value.
+28. You can’t take it with you when you die.
+
+It is not worth accumulating too many goods or making too much money, as you can’t
+do anything with them when you die. It is an invitation to spend time also on spiritual
+matters rather than only on material goods.
+
+136
+
+10-0105_AGGLIKA DASKALOU.indd 136
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 3/6 | GLOBAL PDF p.137 | SOURCE: teacher_appendix_bibliography_readers.pdf]
+==============================================================================
+C. RECOMMENDED READERS
+
+• Run for your Life by Stephen Waller
+
+PENGUIN YOUNG READERS
+
+CLASSICS
+
+• Aesop’s Fables Level 2
+• Seasons – Level 2
+• The Present – Level 2
+• The best Christmas – Level 2
+• Chicken run – Level 2
+• The Jungle Book – Level 2
+• The Wizard of Oz – Level 2
+• Aladdin and the Lamp – Level 2
+• The Golden Goose – Level 2
+• The Hundred and One Dalmatians – Level 3
+• Jack and the Beanstalk – Level 3
+• Peter Pan – Level 3
+• The Ugly Duckling – Level 3
+• Charlie and the Chocolate Factory – Level 3
+• Peter and the Wolf – Level 3
+• The Pied Piper of Hamelin – Level 4
+• A Christmas Carol – Level 4
+• The Crane’s Gift – Level 4
+• The Snow Queen – Level 4
+• Grounded – Level 4
+PENGUIN EASYSTARTS ORIGINALS
+
+• Anita’s Big Day by Elizabeth Laird
+• Dino’s Day in London by Stephen Rabley
+• Maisie and the Dolphin by Stephen Rabley
+• The Fireboy by Stephen Rabley
+• The Big Bag Mistake by John Escott
+• Flying Home by Stephen Rabley
+Marcel and the Mona Lisa by Stephen
+•
+Rabley
+
+• Alice in Wonderland – Level 2
+• The Call of the Wild – Level 2
+• The Jungle Book– Level 2
+• A Christmas Carol– Level 2
+• Gulliver’s Travels– Level 2
+• Kidnapped – Level 2
+• Black Beauty– Level 2
+• Five Famous Fairy Tales– Level 2
+• Heidi– Level 2
+PATAKIS READERS
+
+• A Tour around the Neighbourhood
+• A Trip to the Zoo
+• The Iron Trunk
+• Memories from Koblenz
+OXFORD READERS BOOKWORMS-STAGE 1
+
+The Adventures of Tom Sawyer retold by
+•
+Nick Bullard
+• The Elephant Man retold by Tim Vicary
+• A little Princess retold by Jennifer Bassett
+• The Coldest Place on Earth by Tim Vicary
+The Phantom of the Opera by Jennifer
+•
+Bassett
+• Pocahontas retold by Tim Vicary
+• Sherlock Holmes and the Duke’s Son
+FACTFILES- STAGE 1
+
+• The Adventures of Tom Sawyer – Level 1
+• Little Women – Level 1
+The Gift of the Magi and other stories
+•
+– Level 1
+
+• Animals in Danger by A. Hopkins & J. Potter
+• England by J. Escott
+• London by J. Escott
+• New York by J. Escott
+• Scotland by S. Flinders
+• Washington D.C. by J. Escott
+• California by J. Escott
+• Titanic by Tim Vicary
+• Football by S. Flinders
+
+ORIGINALS
+
+FACTFILES - STAGE 2
+
+CLASSICS
+
+• Ali and his Camera by Raymond Pizante
+• Amazon Rally by E. Amos & E. Percher
+• The Barcelona Game by Stephen Rabley
+• Brown Eyes by Paul Stewart
+• Girl Meets Boy by Derek Strange
+• David Beckham by Bernard Smith
+• Michael Jordan by Nancy Taylor
+• Pele by Rod Smith
+• Ricky Martin by Rod Smith
+• Prince William by John Escott
+
+• Ireland by Tim Vicary
+• Oxford by A. Hopkins & J. Potter
+• Pollution by R. Border
+• Rainforests by R. Akinyemi
+• The Cinema by J. Escott
+• Information Technology by P.A. Davies
+• Mission Apollo by L. Kerr
+FACTFILES - STAGE 3
+
+• Soccer by S. Flinders
+• The Olympic Games by S. Flinders
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 137
+
+137
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 4/6 | GLOBAL PDF p.138 | SOURCE: teacher_appendix_bibliography_readers.pdf]
+==============================================================================
+• Strange but True by A. Baxter
+• Recycling by R. Border
+• The USA by A. Baxter
+NEW EDITIONS READERS
+
+• Hansel and Gretel – Level 2
+• Sinbad the Sailor – Level 2
+• Snow White and the Seven Dwarfs – Level 2
+• Puss-in-Boots – Level 2
+• Pinocchio – Level 3
+• Ali Baba and the Forty Thieves – Level 3
+• The Three Spinners – Level 3
+
+138
+
+10-0105_AGGLIKA DASKALOU.indd 138
+
+EXPRESS PUBLISHING READERS
+
+• The Nightingale & the Rose – Stage 3
+• A Trip to the Rainforest – Stage 3
+• The Ghost – Stage 3
+• The Frog Princess – Stage 3
+• The Cracow Dragon – Stage 3
+• Sleeping Beauty – Stage 3
+CHRISTMAS TIME
+
+• Merry Christmas
+• The Story of Santa Claus
+• The Shoemaker & his Guest
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 5/6 | GLOBAL PDF p.139 | SOURCE: teacher_appendix_bibliography_readers.pdf]
+==============================================================================
+D. RECOMMENDED
+BIBLIOGRAPHY FOR TEACHING
+CHILDREN
+Brumfit, C., Moon, J., and Tongue, R.,
+(edts),1991. Teaching English to Children. From Practice to Principle. London,
+Collins ELT.
+Cant, A. & Superfine, W., 1997. Developing Resources for Primary, London, Richmond Publishing.
+Dunn, O., 1983. Beginning English with
+Young Children, London and Basingstoke,
+MODERN ENGLISH PUBLICATIONS
+Dunn, O., 1984. Developing English with
+Young Learners, London and Basingstoke,
+MODERN ENGLISH PUBLICATIONS.
+Griffiths, G. & Keohane, K., 2000. Personalizing Language Learning, Cambridge,
+CUP.
+Halliwell, S., 1992. Teaching English in the
+Primary Classroom, Harlow, Longman.
+Lewis, G. with Bedson, G., 1999. Games
+for Children, Oxford, OUP.
+Maley, A. & Duff, A., 1978. Drama Techniques in Language Learning, Cambridge,
+CUP.
+Moon, J., 2000. Children Learning English,
+Oxford, MACMILLAN-HEINEMANN English Language Teaching.
+Phillips, D., Burwood, S. & Dunford, H.,
+1999. Projects with Young Learners, Oxford, OUP.
+Phillips, S., 1993. Young Learners, Oxford,
+OUP.
+Phillips, S., 1999. Drama with Children,
+Oxford, Oxford University Press.
+Pollard,A. & Bourne, J.,(edts), 1994.
+Teaching and Learning in the Primary
+School, London & New York, The Open
+University.
+Reilly, V., & Ward. M. S., 1997. Very
+Young Learners, Oxford, OUP.
+Rivolucri, M., & Davis, P., 1995 . More
+Grammar Games. Cognitive, affective and
+movement activities for EFL students, Scotland, CUP.
+
+Rixon. S., 1981. How to use games in language teaching, London, Macmillan
+Press.
+Rixon. S., (editor), 1999. Young Learners
+of English: Some Research Perspectives,
+Harlow, Longman in association with the
+British Council.
+Scott, A. W., & Ytreberg, H. L., 1990.
+Teaching English to Children, Harlow, Longman.
+Slattery, M. and Willis, J., 2001. English
+for Primary Teachers. A handbook of activities & classroom language, Oxford, Oxford University Press.
+Willis, J., 1996. A Framework for Task-Based
+Learning, Harlow, Longman.
+Wingate, J.,1993. Getting Beginners
+to Talk, Hertfordshire, Prentice Hall
+International(UK) Ltd.
+Wright, A., 1995. Storytelling with Children, Oxford, OUP.
+Wright, A., 1997. Creating Stories with
+Children, Oxford, OUP.
+
+Resource Books
+
+DRAMA & SHORT PLAYS. Scholastic Collections, compiled by Alan Brown,1993,
+SCHOLASTIC.
+PRIMARY TEACHERS’ RESOURCE BOOKS
+1-2-3. Photocopiable activities for teaching English to young children. Compiled by Karen Gray, 1996- 1999. Mary
+Glasgow Magazines- SCHOLASTIC.
+IMAGINATIVE PROJECTS. A resource
+book of project work for young students. Matt Wicks. 2000, CUP.
+PRIMARY VOCABULARY BOX. Word
+games and activities for younger learners. Caroline Nixon and Michael Tomlinson, 2003, CUP.
+REALBOOKS IN THE PRIMARY CLASSROOM. Junior English Timesavers photocopiable. Sandy Mourao, 2003, Mary
+Glasgow Magazines- SCHOLASTIC.
+OXFORD BASICS & OXFORD BASICS FOR
+CHILDREN. A series of short, accessible
+books for teachers who are new to ELT
+or who are looking for creative ways of
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 139
+
+139
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+==============================================================================
+[PAGE 6/6 | GLOBAL PDF p.140 | SOURCE: teacher_appendix_bibliography_readers.pdf]
+==============================================================================
+teaching with limited resources.
+
+Further General ELT
+Bibliography, incl. websites
+Speaking
+Frank, C., Rinvolucri, M. and Berer, M.
+Challenge to Think (1982), OUP
+Klippel, F. Keep Talking (1984), CUP.
+Ur, P. Discussions that Work (1981), CUP
+
+Listening
+Underwood, M. Teaching Listening (1989),
+Longman
+
+Reading
+Grellet, F. Developing Reading Skills (1981),
+CUP
+Nutall, C. Teaching Reading Skills in a Foreign Language new edition (2005), Macmillan Education
+Wallace, C. Reading (1992), OUP
+
+Writing
+Hedge, T. Writing (1988), OUP
+White, R. and Ardt, V. Process Writing
+(1981), CUP
+
+Thornbury, S. Uncovering Grammar new
+edition (2005), Macmillan Education
+Ur, P. Grammar Practice Activities (1988),
+CUP
+
+Vocabulary
+Gairns, R. and Redman, S. Working with
+Words (1986), CUP
+McCarthy, M. Vocabulary (1995), OUP
+Morgan, J. and Rinvolucri, M. Vocabulary: Resource Book for Teachers (2005),
+Macmillan Education
+
+Dictionaries (for teachers)
+Macmillan English Dictionary for Advanced
+Learners (2002), Macmillan Education
+Longman Dictionary of Contemporary English (2003), Longman
+Useful websites
+• http://www.onestopenglish.com/
+• http://www.hltmag.co.uk/
+• http://www.developingteachers.com/
+• http://www.bbc.co.uk/worldservice/
+learningenglish/
+• http://www.etprofessional.com/
+• http://www.iatefl.org/
+
+Activities
+Davis, P. and Rinvolucri, M. Dictation:
+New Methods, New Possibilities (1988),
+CUP
+Morgan, J. and Rinvolucri, M. Once Upon
+a Time: Using Stories in the Language
+Classroom (1983), CUP
+
+Grammar
+Aitken, R. Teaching Tenses (2002), ELB
+Batstone, R. Grammar (1994), OUP
+Hall, N. and Shepheard, J. The Anti-Grammar Book (1991), Logman
+Rinvolucri, M. Grammar Games (1985),
+CUP
+Scrivener, J. Teaching Grammar (2003),
+OUP
+
+140
+
+10-0105_AGGLIKA DASKALOU.indd 140
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]

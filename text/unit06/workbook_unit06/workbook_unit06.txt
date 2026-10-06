@@ -1,0 +1,284 @@
+==============================================================================
+SOURCE PDF : workbook_unit06.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit06\workbook_unit06.pdf
+GLOBAL PDF PAGES: 36-41
+PAGES IN THIS FILE: 6
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=14248, words~=840
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: olive Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading; olive footer bar with Activity Book / UNIT 6 / Lesson / page.
+==============================================================================
+==============================================================================
+[PAGE 1/6 | GLOBAL PDF p.36 | SOURCE: workbook_unit06.pdf]
+==============================================================================
+                  6
+               GOOD, BETTER, BEST!
+
+                                                                                   LESSON 1
+               M ACTIVITY A.
+               Look at the pictures and compare Jim and Billy’s things. Write a dialogue with a friend of yours:
+               e.g. - Billy’s bike is heavier than Jim’s bike.
+                     - Yes, but Jim’s bike is faster and more beautiful than Billy’s.
+
+
+
+                       Billy                                                                            Jim
+
+
+
+
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+               -................................................................................................................................................................
+
+               36 / Activity Book • UNIT 6 • Lesson 1
+
+
+
+10_0104_agglika.indd 36                                                                                                                                                            1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | left panel: cartoon Billy with a laptop, seaplane, car, sports bag, football, bike and shoe.]
+[IMAGE 2 | right panel: cartoon Jim with a jet, shoe, desktop PC, bag, basketball, bike and toy car.]
+
+==============================================================================
+
+[PAGE 2/6 | GLOBAL PDF p.37 | SOURCE: workbook_unit06.pdf]
+==============================================================================
+                                                                                                                                                             6
+               M ACTIVITY B.					                                                                                  [Differentiated Activity (*) on p. 77]
+
+               Which of these cars do you like more and why? Write sentences comparing the two cars:
+
+
+
+
+                   Model: Smart                                               		                    Model: Porsche GT3
+                   Speed: 150km/h                                              		                   Speed: 302km/h
+                   Price: 10.000 €                                            		                    Price: 100.000 €
+                   Power: 70 bhp                                                		                  Power: 360 bhp
+
+
+               ……………………………………………………………………………………………………
+               ……………………………………………………………………………………………………
+               ……………………………………………………………………………………………………
+               ……………………………………………………………………………………………………
+               ……………………………………………………………………………………………………
+               ………………………………………………………………………………………………………
+
+
+
+               M ACTIVITY C.						                                                                                 [Differentiated Activity (**) on p. 78]
+
+               Now choose a car that you know and write a paragraph that would appear in a Car Magazine. You
+               can start like this:
+               This car does not need a presentation. It’s the................................................................................
+               ..........................................................................................................................................................
+               ..........................................................................................................................................................
+               ..........................................................................................................................................................
+               ..........................................................................................................................................................
+               ..........................................................................................................................................................
+               ..........................................................................................................................................................
+
+
+                                                                                                                        Activity Book • UNIT 6 • Lesson 1 / 37
+
+
+
+
+10_0104_agglika.indd 37                                                                                                                                                     1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | left: red Smart car photo with spec text Model: Smart, Speed: 150km/h, Price: 10.000 euros, Power: 70 bhp.]
+[IMAGE 2 | right: yellow Porsche GT3 photo with spec text Model: Porsche GT3, Speed: 302km/h, Price: 100.000 euros, Power: 360 bhp.]
+
+==============================================================================
+
+[PAGE 3/6 | GLOBAL PDF p.38 | SOURCE: workbook_unit06.pdf]
+==============================================================================
+                  6
+               M ACTIVITY D.
+               Your parents like to eat in restaurants but you prefer fast food restaurants. Make a dialogue
+               with your father/mother and decide where to go. Write about the service, the food, the price
+               etc. (You can use: fast, slow, expensive, cheap, healthy, unhealthy, tasty):
+
+
+
+
+               - Well, .........................................................., we can eat out today. Where would you like to go?
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+               - ........................................................................................................................................................
+
+
+
+
+               38 / Activity Book • UNIT 6 • Lesson 1
+
+
+
+10_0104_agglika.indd 38                                                                                                                                                     1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top: crowded restaurant/tapas-bar counter photo.]
+[IMAGE 2 | mid: outdoor restaurant terrace with set tables and a waiter.]
+[IMAGE 3 | bottom-right, small: street photo with pedestrians and a white car outside a shop.]
+
+==============================================================================
+
+[PAGE 4/6 | GLOBAL PDF p.39 | SOURCE: workbook_unit06.pdf]
+==============================================================================
+                                                                                      6
+                                          LESSON 2
+               M ACTIVITY A.
+               Complete the table:
+
+
+                          Positive      Comparative         Superlative
+
+                    1.    clean
+                    2.                  nicer
+                    3.                                      the cheapest
+                    4.    fast
+                    5.                  tidier
+                    6.                  more terrible
+                    7.                                      the hottest
+                    8.    large
+                    9.                  better
+                   10.    strong
+                   11.                  cleverer
+                   12.                                      the oldest
+                   13.    friendly
+                   14.                  more exciting
+                   15.                                      the biggest
+                   16.                  nearer
+                   17.    interesting
+                   18.                                      the youngest
+                   19.    bad
+                   20.                  more dangerous
+                   21.    short
+                   22.                                      the messiest
+
+
+
+                                                         Activity Book • UNIT 6 • Lesson 2 / 39
+
+
+
+
+10_0104_agglika.indd 39                                                                           1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+
+[PAGE 5/6 | GLOBAL PDF p.40 | SOURCE: workbook_unit06.pdf]
+==============================================================================
+                  6
+               M ACTIVITY B.
+               Your class wants to take a trip to Italy. Your teacher asks you to compare these means of transportation
+               and write which you think you should take and why. (Use the adjectives: fast, slow, expensive, cheap,
+               comfortable, dangerous, safe)
+
+
+
+
+               Pupil A: I think we should take a ....................................................................................
+                          It is ................................................................................................................
+               Pupil B: Yes, but going by ……………………………..… is ................................................
+                           ....................................................................................................................
+                           ....................................................................................................................
+                           ....................................................................................................................
+                           ....................................................................................................................
+
+               M ACTIVITY C.
+               Fill in the correct form of the words in brackets (comparative or superlative).
+                 1. My house is (big) …………….than yours.
+                 2. This flower is (beautiful) ………………than that one.
+                 3. This is the (difficult) ……………….book in the library.
+                 4. Non-smokers usually live (long) ………………..than smokers.
+                 5. Which is the (poisonous) ……………………… snake in the world?
+                 6. An apple is (healthy)………………….than a chocolate.
+                7. It is strange but sometimes a car is (expensive) …………………….than a plane.
+                8. Who is the (young) ………………… king on earth?
+                9. The weather this winter is even (cold) ………………….than last winter.
+               10. According to studies, flying is the (safe) ……………….. means of transport.
+
+
+               40 / Activity Book • UNIT 6 • Lesson 2
+
+
+
+10_0104_agglika.indd 40                                                                                                                            1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | left: Airbus A380 airliner in flight.]
+[IMAGE 2 | centre: white Eurolines coach.]
+[IMAGE 3 | right: white cruise/ferry ship on a river.]
+
+==============================================================================
+
+[PAGE 6/6 | GLOBAL PDF p.41 | SOURCE: workbook_unit06.pdf]
+==============================================================================
+                                                                                                                              6
+               M ACTIVITY D.
+               Correct the mistakes in the sentences. Some sentences are correct:
+               1. Peter is taller from Jim.
+               ........................................................................................................................
+               2. She is the most best tennis player in the world.
+               ........................................................................................................................
+               3. My bike is bigger than yours.
+               ........................................................................................................................
+               4. Our school is the oldest of in the area.
+               ........................................................................................................................
+               5. Helen is a better swimmer than you are.
+               ........................................................................................................................
+               6. He is the more intelligent than John.
+               ........................................................................................................................
+               7. I’m the most happiest man in the world.
+               ........................................................................................................................
+               8. An elephant is the bigger than a hippo.
+               ………………………………………………………………
+               9. Maths is the most difficult subject at school.
+               ………………………………………………………………
+               10. Fiona is the prettiest baby from our family.
+               …………………………………………………………………
+
+               M ACTIVITY E.
+               Put in:    in, of, than, the
+                1. Health is more important ……………… money.
+                2. Greece is one …………… the most beautiful countries ……….. the world.
+                3. Greenland is the largest island ……….. the world.
+                4. My brother is taller ………….. me.
+                5. Which is …………… tallest tree ………….. all?
+                6. Economically, Germany is one …………….. the strongest countries ………. Europe.
+                7. This is …………. oldest castle in England.
+                8. Her pronunciation is better ………………. mine.
+                9. Maths is ……….. most difficult subject at school.
+               10. Jane is a better swimmer ………………. her brother.
+
+                                                                                                 Activity Book • UNIT 6 • Lesson 2 / 41
+
+
+
+
+10_0104_agglika.indd 41                                                                                                                   1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | mid-right: elephant photo beside sentence 8.]
+[IMAGE 2 | lower-right, small: hippo photo beside Activity E.]

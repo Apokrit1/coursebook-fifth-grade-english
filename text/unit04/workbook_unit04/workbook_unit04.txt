@@ -1,0 +1,331 @@
+==============================================================================
+SOURCE PDF : workbook_unit04.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit04\workbook_unit04.pdf
+GLOBAL PDF PAGES: 24-29
+PAGES IN THIS FILE: 6
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=17613, words~=1230
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS: green Unit header bar with white-ringed number circle; tiny pencil icon before each ACTIVITY heading; green footer bar; Christmas motifs (cartoon Santas, holly sprigs, baubles, parchment diary/letter boxes) recur through this unit.
+==============================================================================
+==============================================================================
+[PAGE 1/6 | GLOBAL PDF p.24 | SOURCE: workbook_unit04.pdf]
+==============================================================================
+                  4
+               CHRISTMAS EVERYWHERE
+                                                               LESSON 1
+               M ACTIVITY A.
+                It’s a winter day. Look at the notes and complete Mark’s diary:
+
+                                   USUALLY                                    TODAY
+                             c go to school		c stay at home
+                             c weather/good          c snow
+                             c do/homework/afternoon c make/snowman/with Ian
+                             c have/evening classes/ c play/snowball fight/street
+                             c six o’ clock				
+
+                  Dear Diary,
+                  It is December 16th today and I feel great. You know, I usually go ........................……...…
+                  ……....…….. but today I’m staying ……….………………………………………………………………..............…………..
+                  …………………………………………………………………………………………………………………………………………………………
+                  …………………………………………………………………………………………………………………………………………………………
+                  …………………………………………………………………………………………………………………………………………………………
+                  …………………………………………………………………………………………………………………………………………………………..
+                  I’m having a lot of fun. I hope tomorrow stays the same!
+                  Bye for now
+                  ……………………………………
+
+
+               M ACTIVITY B.
+               Read the children’s letters to Santa. Now help the younger sister of an English friend to write her own
+               letter to Santa. What is she going to ask Santa for?
+
+                  Dear Santa,                                        Dear Santa,
+                  I love Christmas and I love you. This year         I’m looking forward to your visit. I’ll have your
+                  I want you to bring me a new computer              favourite cookies and a glass of milk by the
+                  because the old one is broken and a pair of        fireplace ready for you. Please bring me a big
+                  pink sneakers, please.                             red truck. And a new bike for my friend Annie
+                                                                     who lives next door but her parents cannot
+                                                   Thanks            afford to get one for her.			
+                                                   Christina                                                     Love,
+                                                                                                                 Jack
+
+
+               24 / Activity Book • UNIT 4 • Lesson 1
+
+
+
+10_0104_agglika.indd 24                                                                                                  1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right corner: small cartoon Santa waving.]
+[IMAGE 2 | mid-right, small: holly sprig with red berries beside the USUALLY/TODAY notes.]
+
+==============================================================================
+
+[PAGE 2/6 | GLOBAL PDF p.25 | SOURCE: workbook_unit04.pdf]
+==============================================================================
+                                                                                                                                                                                                                                                         4
+                            Dear Santa, …………………………………………………………….......
+                            ………………………………………………………………………………………………
+                            ……………………………………………………………………………………………..…
+                            ……………………………………………………………………………..…………………
+
+                M ACTIVITY C.
+                Think of a family and make sentences using the words given:
+                They usually spend Christmas at home but this Christmas they are visiting their Greek relatives in
+                Sydney, Australia.
+                1. At this time every year Susan usually ……………...........…..........……., but now she
+                                                                                                                                                              Susan/decorate/tree
+                        …………………………… swim/sea
+                2. …………………………………………………………………………………………………
+                                                                                      3Mother/make/table                                                                                         sunbathe4
+                3. …………………………………………………………………………………………………
+                                                                                      3Father/carve/turkey                                                                                      fishing4
+                4. …………………………………………………………………………………………………
+                                                                                      3Felix/write/cards                                                                                         make/sand castle4
+
+                M ACTIVITY D.						                                                                                                                                                                       [Differentiated Activity (**) on p. 74]
+
+
+
+            Hi, Molly!
+                                                                                                                  d.
+                                                               postcard from Finlan
+            I’m sending you this
+                                                                                                                     ’s
+                                                               ristmas at my father
+            We usually spend Ch                                                                                                      HI! I’m on a holiday in Brazil.
+                                                                                                                          .....
+                                                                    ......................................................                                                                               The weather is
+             home town, ........................                                                                                    hot and the food is great.
+                                                                                                                  white
+                                                                great! Everything is                                                                                                                    ..............................................
+              ............................. Oh, it’s                                                                                ................................................................
+                                                                                                                        ions
+                                                                   are beautiful decorat                                                                                                            ..................................................
+               with snow and there                                                                                                 The people are very hospita
+                                                                 staying in a log cabin                                                                                                                 ble.
+               everywhere. We are                                                                                                  It’s amazing: they can dan
+                                                                      .....................................................                                                                          ce all day. At the
+                ......................................................                                                               moment, we are visiting Rio
+                                                                         and there is a lovely                                                                                                              de Janeiro.
+                 ....................................................-                                                            ................................................................
+                                                                    e garden.                                                                                                                     ..................................................
+                  Christmas tree in th                                                                                            You must visit this countr
+                                                                      Have a nice holiday                                                                                                           y one day!
+                                                                                                                                  Love
+                                                                    Sandy
+                                                                                                                                  Dimitris
+
+
+                Read the postcards and fill in the missing sentences:
+                a) I love feijoada (a stew of beans) and cabobs (grilled meat).
+                b) but this year we are in Finland enjoying Santa’s village.
+                c) I’m having a wonderful time.
+                d) it’s a house made of logs.
+
+                                                                                                                                                                                                                  Activity Book • UNIT 4 • Lesson 1 / 25
+
+
+
+
+10_0104_agglika.indd 25                                                                                                                                                                                                                                      1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: cartoon Santa carrying an orange sack.]
+[IMAGE 2 | mid-right: hanging red floral bauble ornament.]
+[IMAGE 3 | lower half: two overlapping illustrated postcards (Finland log-cabin letter from Sandy; Brazil letter from Dimitris, each with a stamp box) plus a small holly/snow card at bottom-right.]
+
+==============================================================================
+
+[PAGE 3/6 | GLOBAL PDF p.26 | SOURCE: workbook_unit04.pdf]
+==============================================================================
+                  4
+               M ACTIVITY E.
+               Look at the map of Santa’s village and write sentences on the dotted lines using the prompts given.
+               Today is Boxing Day and Santa is doing different things from what he does during the weeks leading
+               up to Christmas. The sentences in red describe what he does before Christmas and the sentences in
+               blue describe what he is doing today, Boxing Day.
+                              What does Santa do on the days          Today is Boxing Day. Santa is relaxing.
+                            leading up to Christmas? Look at the          What is Santa doing today?
+                              map and complete Santa’s routine.
+
+                                     Get/sledge/ready                              Sleep/until late
+                                                                               He is sleeping until late.
+                                                        Put on/robe
+                          Wake up/early
+
+                    He wakes up early
+                                                                                            Have/lunch/elves
+                                      Read /newspaper
+
+
+
+
+                                                                                              Help/elves/with
+                      Ride/favourite/                                                          Packing/toys
+                         reindeer
+                                                        Have/breakfast/                        Check/list
+                                                        With Mrs. Santa
+                             Feed/reindeer
+                                                                                               Watch/TV
+
+
+               26 / Activity Book • UNIT 4 • Lesson 1
+
+
+
+10_0104_agglika.indd 26                                                                                              1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | centre, large: cartoon map of Santa's village - snowy houses including one marked TOYS, striped pole, Christmas tree and small Santa - with green prompt labels and red/blue dotted arrows.]
+
+==============================================================================
+
+[PAGE 4/6 | GLOBAL PDF p.27 | SOURCE: workbook_unit04.pdf]
+==============================================================================
+                                                                                                                                     4
+                                                           LESSON 2
+               M ACTIVITY A.
+               What do you think they are thinking or saying?
+
+
+
+
+                                                   1. .....................................           2. .........................................
+
+
+
+
+                                                   3. ...................................             4. ...................................
+
+               M ACTIVITY B. 						                                                           [Differentiated Activity (*) on p. 74]
+
+               Read the clues and complete the puzzle:
+
+
+
+
+               1. Mm, icecreams. It looks ………………….
+               2. He looks really ……………… He’s got great marks at school.
+               3. Where’s Mum’s ……………. book? I want to make a cake.
+               4. These sweets smell …………………. What are they?
+               5. Yuk! What’s this? It ………………. awful.
+               6. I’ll mix the ………………. You bring the chocolate.
+               7 Roses are my favourite flowers. They …………. great.
+               8. My ………………. haven’t got a lot of syrup. I want some more!
+               9. Is there anything to eat? I’m …………………….
+
+                                                                                                Activity Book • UNIT 4 • Lesson 2 / 27
+
+
+
+
+10_0104_agglika.indd 27                                                                                                                              1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | centre, background: large red floral Christmas bauble behind the four photos.]
+[IMAGE 2 | upper-mid-left: girl drinking from a glass.]
+[IMAGE 3 | upper-right: girl hula-hooping outdoors.]
+[IMAGE 4 | lower-left: girl eating at a table.]
+[IMAGE 5 | lower-right: girl reading on a red sofa.]
+[IMAGE 6 | left-mid: yellow sparkler/star firework graphic.]
+[IMAGE 7 | bottom-right: cartoon Christmas tree with gifts and a teddy bear.]
+
+==============================================================================
+
+[PAGE 5/6 | GLOBAL PDF p.28 | SOURCE: workbook_unit04.pdf]
+==============================================================================
+                  4
+               M ACTIVITY C.
+               Roberto is a child who would like Santa to bring him and his family many presents! Complete the
+               letter by looking at the pictures:
+
+
+                   Dear           ………………………,
+                   I’m Roberto and I live in Italy. This Christmas I would like a red
+                   ………………………. because the old one is broken and a new                       …………………………..
+                   because the old one is very slow and I can’t play my games any more. Also, I
+                   want you to bring a baby doll for my sister and extra                      ……………………..
+                   for her other dolls as she can never have enough. My mum needs a new bag and
+                   a dish washer.
+                   For my Dad you can bring a new car but I don’t know if you can carry it on
+                   your sledge. I know it is big and heavy. Maybe you can send it through the
+                   post - is that possible?
+                   Oh, you mustn’t forget my                …………………….. I think she needs some new teeth
+                   because she cannot eat hard things and I feel sorry for her. My granddad
+                   would like a new rocking chair because the old one is creaking and a new pair
+                   of                  ……………….
+
+
+                   Please bring my                  ………………… Indefix some         ……………... He just loves
+                   them. And for my friend Penny a beautiful pink            ………………. She says she has
+                   nothing to wear on Christmas Day.
+                   I hope you have enough space on your sledge for all these
+                   ………………………………..
+                     Have a nice trip!
+                                                                                    Love,
+                                                                                    Roberto
+
+
+
+
+               28 / Activity Book • UNIT 4 • Lesson 2
+
+
+
+10_0104_agglika.indd 28                                                                                          1/7/14 3:14 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | throughout the letter: small inline picture-word icons replacing words - Santa, red bike, computer, doll clothes, grandmother's face, glasses, puppy, bows, pink dress and gift boxes.]
+
+==============================================================================
+
+[PAGE 6/6 | GLOBAL PDF p.29 | SOURCE: workbook_unit04.pdf]
+==============================================================================
+                                                                                                         4
+               M ACTIVITY D. (Mediation activity)
+               Mark’s mother has never made Vassilopitta and wants to learn how to make it.
+               Kostas is giving Mark’s mother in England the ingredients for Vassilopitta.
+               Write the quantities in the blanks.
+
+                                            Βασιλόπιτα
+
+               Υλικά						Ingredients                                       Quantities
+               250γρ. φρέσκο βούτυρο			     Flour
+               2 φλιτζάνια τσαγιού ζάχαρη		 Butter
+               6 αβγά					                  Cognac
+               1 φλιτζάνι τσαγιού γάλα			   Eggs
+               1/2 κιλό αλεύρι				          Sugar
+               1 ποτήρι κρασιού κονιάκ			   Milk
+               Ξύσμα ενός πορτοκαλιού			    Baking Powder
+               Κανέλα					                  other 1
+               Βανίλια					                 other 2
+               1 κουταλάκι γλυκού μπέικιν		 other 3
+               πάουντερ
+
+                                               Εκτέλεση
+               Χτυπάμε το βούτυρο με τη ζάχαρη μέχρι το μείγμα να γίνει λείο. Στη
+               συνέχεια προσθέτουμε ένα ένα τα υπόλοιπα υλικά και ανακατεύουμε
+               μέχρι το μείγμα να γίνει ομοιόμορφο. Βουτυρώνουμε ένα ταψί, ρίχνουμε
+               τη βασιλόπιτα, προσθέτουμε το νόμισμα και ψήνουμε σε μέτριο φούρνο
+               μία ώρα περίπου.
+
+
+
+
+                                                                            Activity Book • UNIT 4 • Lesson 2 / 29
+
+
+
+
+10_0104_agglika.indd 29                                                                                              2/2/15 10:48 AM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top: two yellow pinned notes with red pins - Greek YLIKA recipe list and English Ingredients/Quantities table - under the Vasilopita title.]
+[IMAGE 2 | bottom: photo of a decorated Vassilopitta cake with 2007 and VASILOPITA lettering, with a holly sprig overlapping its top-right corner.]

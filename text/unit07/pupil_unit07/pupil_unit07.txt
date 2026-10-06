@@ -1,0 +1,754 @@
+==============================================================================
+SOURCE PDF : pupil_unit07.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit07\pupil_unit07.pdf
+GLOBAL PDF PAGES: 85-96
+PAGES IN THIS FILE: 12
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: -layout -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=35318, words~=3038
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (only /Alternate ICC profiles); descriptions below generated from page renders.
+RECURRING ELEMENTS (unit 07): lilac unit header/footer bars; red tick bullets in the 'In this unit' box; small section icons — open-book (reading), striped pencil (writing), cassette (listening), speech bubble (speaking), theatre masks (role play), dice (game), group-faces (group work); beige 'GRAMMAR FOCUS' box with magnifier graphic; green 'Learning strategies' box with dartboard/target graphic; light-blue SELF-ASSESSMENT header with studying-boy cartoons left (framed) and right (unframed).
+==============================================================================
+==============================================================================
+[PAGE 1/12 | GLOBAL PDF p.85 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                                                                                      7
+
+
+                     In this unit:   0 We read about William Shakespeare
+                     		              0 We write about a famous person
+                     0 We listen to people talking about two famous theatres
+                     0 We speak about Alexander the Great
+
+
+
+                               Changes: from the past to the present.
+
+
+
+
+                                                   2. Daily Life
+
+
+
+                                              THE PAST
+                         1. Experiences
+                                                                   3. Historical Events
+
+                                          4. Changes
+
+
+
+
+085-096 up.indd 85                                                                        29/1/2015 2:32:36 µµ
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-left: Colour photo of actors in red robes and masks on stage, labelled '1. Experiences'.]
+[IMAGE 2 | top-center: Black-and-white photo of a horse pulling a cart with a driver, labelled '2. Daily Life'.]
+[IMAGE 3 | lower-right: Engraving-style illustration of a historical battle with soldiers and spears, labelled '3. Historical Events'.]
+[IMAGE 4 | bottom-center: Sepia photo of an old harbour street with boats, carts and a tram, under '4. Changes'.]
+[IMAGE 5 | bottom-left: Small colour vintage postcard of a neoclassical building (hotel, captioned 'XENODOCHEION...').]
+Background collage (not numbered): sepia images of an ancient theatre, an old-town aerial and warriors behind the 'THE PAST' diagram.
+Recurring small icons on this page: 4 red ticks in the unit box; lilac unit header.
+==============================================================================
+[PAGE 2/12 | GLOBAL PDF p.86 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                      Lesson 1              FAMOUS PEOPLE OF THE PAST
+
+                     A    LEAD-IN: FAMOUS THEATRES & PLAYWRIGHTS 8
+                     Nadine is doing some research on the theatre. She downloaded some photos but forgot who/what they
+                     were. Can you help her and match the names to the photos?
+
+               a. Aristophanes, b. Epidavros Ancient Theatre, c. The Globe Theatre, d. William Shakespeare
+
+
+
+                                          1.                               3.
+
+
+
+
+                                                                    2.                                                           4.
+
+
+                     B    READING: ALL ABOUT SHAKESPEARE
+               Nadine is studying about William Shakespeare. She has some information about him, but she isn’t sure.
+               She writes to Mark and asks for help.
+
+                      Mark,
+                      Help! I must present something about Shakespeare but I don’t know anything about him.
+                      Thanks, Nadine
+
+
+               Mark sends Nadine this information.
+                                                                                               Learning strategies
+                 We don’t know a lot about Shakespeare but we                      TO BE BETTER AT READING
+                  do know the following.                                            c I read with a clear aim in mind
+                                                                                    c I imagine what is coming next
+                 • He was born in 1564 in Stratford-upon-Avon,                     c I get a good understanding of the detail
+                    about 150 km north west of London. He died
+                    in 1616, aged 52.
+                 • He wrote 37 plays, one every 18 months. He
+                                                                          • Shakespeare wrote Comedies, Histories and
+                   wrote his first play when he was 25.
+                                                                             Tragedies. His most famous plays are: Hamlet,
+                 • He worked as an actor. Many times he acted in
+                                                                             Romeo and Juliet and The Merchant of Venice.
+                    his own plays.
+                                                                          • There are over 60 films based on his plays.
+                 •H  e had his own theatre, The Globe in London.
+
+
+
+               M Go to the Appendix, page 145, Activity A, for extra work and an explanation of “To be or not to be”.
+
+               86 / Pupil’s Book • UNIT 10
+                                        7-•- •Lesson
+                                               Lesson11
+
+
+
+
+085-096 up.indd 86                                                                                                               29/1/2015 2:33:09 µµ
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-left: Aerial photo of Epidavros Ancient Theatre (stone semicircular tiers), numbered '1.'.]
+[IMAGE 2 | center-left: Portrait engraving of William Shakespeare, numbered '2.'.]
+[IMAGE 3 | center-right: Interior photo of the Globe Theatre with audience and stage, numbered '3.'.]
+[IMAGE 4 | middle-right: Marble bust portrait of Aristophanes, numbered '4.'.]
+Recurring small icons on this page: dartboard 'Learning strategies' graphic at lower-middle-right (1).
+==============================================================================
+[PAGE 3/12 | GLOBAL PDF p.87 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+              Preparing her presentation
+                  Write some sentences for Nadine to help her with the presentation. Use the topics listed.
+
+
+                  Topics                                                  Statements
+                  Place of Birth                                          Shakespeare was born in Stratford-upon-Avon
+                  Date of Birth                                           He was born in 1564.
+                  Plays
+                  How long to write a play
+                  Theatre
+                  Famous plays
+
+
+                   C       TWO FAMOUS THEATRES
+                  Listen and fill in the missing information about the Globe Theatre.
+
+              The Globe Theatre we see in London today is a copy of Shakespeare’s theatre. Mark goes to the Globe
+              Theatre. He listens to a guide who gives more information about this theatre.
+
+                                                         				Epidaurus			The Globe Theatre
+                                                         Location			Epidaurus, Argolida		Southwark, London
+                                                         Date built			360 BC			1599
+                                                         Seats				14,000				
+                                                         Rows				55
+                                                         Open or closed 		 Open
+                                                         Shape			Semi-circular			Circular
+                                                         Made out of			Stone
+                                                         Acoustics			                                Excellent
+                                                         Women’s roles		 Played by men 		                                                          Played by young men
+                                                         				with masks
+                                                         		
+              Kostas finds out Mark and Nadine are talking about theatres. There are many beautiful ancient theatres
+              in Greece. He adds information in the same chart about the most famous ancient theatre in Greece, the
+              Theatre of Epidaurus.
+              Do you remember the comparatives you studied in Unit 6? Write 3 sentences comparing and contrasting the
+              2 theatres.
+
+              e.g. Epidaurus is much older than The Globe.
+              1. ......................................................................................................................................................
+              2. ......................................................................................................................................................
+              3. ......................................................................................................................................................
+
+
+                                                                                                                                   Pupil’s
+                                                                                                                                    Pupil’sBook
+                                                                                                                                            Book••UNIT  7 - • Lesson 1 / 87
+                                                                                                                                                   UNIT10
+
+
+
+
+10-0103.indb 87                                                                                                                                                               1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-left: Aerial photo of the Epidavros ancient theatre (same view as page 2), beside the comparison table.]
+[IMAGE 2 | lower-left: Exterior photo of the Globe Theatre (white timber-framed round building) with visitors outside.]
+Recurring small icons on this page: cassette icon at C heading (1).
+==============================================================================
+[PAGE 4/12 | GLOBAL PDF p.88 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                     7
+
+                                                     Simple Past Tense (Afﬁrmative)
+                     Study the following sentences to learn how we can talk
+                     about people of the past.
+
+                     El Greco (Doménikos Theotokopoulos)
+                                                ’
+
+                     El Greco was born in Hania, Crete in 1541. At that time Crete was
+                     part of the Republic of Venice.
+
+                     As a young man he studied Byzantine icon painting in Hania. He
+                     moved to Venice in 1567 where he continued to study painting. In
+                     1570 he went to Rome. He lived and worked in Rome until 1577.
+
+                     In 1577 he moved to Spain in Toledo, near Madrid where he lived
+                     and worked until the end of his life. He died in 1614 at the age of
+                     73.
+
+                     El Greco had a very individual style. His paintings show both
+                     Byzantine and Italian styles. They also show strong Catholic religious
+                     elements from Spain.
+
+                     He is one of the most famous painters of the 16th century. His paintings inﬂuenced many famous
+                     artists after him, for example Picasso and Cézanne.
+
+                     In honour of El Greco, Nikos Kazantzakis called his autobiography “A Tribute to Greco”.
+
+                                                                                  Present           Past
+                               Most regular verbs                                  work            worked
+                                                                                    call            called
+                                                                                   show            showed
+                               Verbs ending in “e”                                  live            lived
+                                                                                   move            moved
+                                                                                    die              died
+                               Verbs ending in consonant +-y                       study           studied
+
+
+                               Verbs ending in one stressed vowel                  shop           shopped
+                               + one consonant (except w and y).                    stop           stopped
+                                                                                    plan           planned
+                                                                                    refer          referred
+
+
+
+
+               88 / Pupil’s Book • UNIT 10
+                                        7-•- •Lesson
+                                               Lesson11
+
+
+
+
+085-096 up.indd 88                                                                                                    22/9/2022 3:41:56 µµ
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | middle-right: Portrait painting of El Greco (bearded man in black with white ruff holding palette and brushes).]
+Recurring small icons on this page: GRAMMAR FOCUS magnifier at top-right (1).
+==============================================================================
+[PAGE 5/12 | GLOBAL PDF p.89 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                  D    MORE FAMOUS PEOPLE FROM THE PAST
+                  Work in groups. One pupil, the game leader, chooses a famous person. The rest of the group make
+                  statements and must find out who the person is. For each correct statement the game leader
+                  says yes and for each wrong statement he/she says no.
+                  E.g. (for Onassis): “He was a famous shipowner”; “Yes”.
+                                                                                        r
+                                                                                compose           actress
+
+
+
+
+                                           shipowner
+                         actress
+                                                                   politician
+
+
+
+                  E    SPEAKING: PREPARE A PRESENTATION
+              • In small groups choose one of the following famous leaders and prepare a presentation about them:
+                  1. Charlemagne (747-814)                                                  Mohamed II
+                  2. Konstantinos Paleologos (1404-1453)
+                  3. Mohamed II (1432-1481)                                                 Paleologos
+
+              • Use the following guidelines.                             Charlemagne
+
+              – How did he become famous?
+              – What did he do during that period?          200        200      600     1000       1400     1800   B.C.=Before Christ
+              – What was life like in that period?          B.C.       A.D.     A.D.    A.D.       A.D.     A.D.   A.D.=After Christ
+
+
+              • From the Internet find and print out an image of the person.
+              • During the presentation other pupils should keep notes. Then ask each other questions and discuss.
+
+
+
+
+                                                                                        Pupil’s
+                                                                                         Pupil’sBook
+                                                                                                 Book••UNIT  7 - • Lesson 1 / 89
+                                                                                                        UNIT10
+
+
+
+
+10-0103.indb 89                                                                                                                         1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | upper-middle: Cluster of five overlapping black-and-white portraits — two actresses, shipowner (Onassis), politician and composer — with role labels underneath.]
+[IMAGE 2 | middle: Red horizontal timeline diagram from 200 B.C. to 1800 A.D. marking Charlemagne, Paleologos and Mohamed II.]
+[IMAGE 3 | middle-right: Small colour portrait of Mohamed II in turban and red robe, beside the timeline.]
+[IMAGE 4 | bottom, wide: Colour painting of a medieval battle with horsemen and soldiers before castle walls.]
+Recurring small icons on this page: speech-bubble icons at D and E headings (2).
+==============================================================================
+[PAGE 6/12 | GLOBAL PDF p.90 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                    Lesson 2               PAST EXPERIENCES
+
+                  A    LET’S PLAY A DETECTIVE GAME 8
+                  A picture is a thousand words. Look at the following picture and answer the questions below.
+
+
+
+              1. Where?
+              • Is this person in London or Athens?
+              • Is this person at the Post Office
+                or Police Station?
+
+              2. What?
+              • This man has done something wrong.
+                What? Do you have any ideas?
+
+              Find out more in the rest of this lesson!
+
+
+
+
+                  B     WHAT JACK SMITH SAYS
+
+                  You are watching a crime series on TV. The title of tonight’s episode is “The Alibi”. In this episode the
+                  scene takes place at the Police Station in Central London. It is Tuesday, 5th May.
+                  Yesterday there was a bank robbery at twenty past four in the afternoon. The policeman is
+                  interrogating Jack Smith about the robbery.
+                  Read the following sentences about what Jack Smith said he did between 3.30 and 5.00 pm. Jack
+                  Smith often changes his mind!!
+
+
+                                              1. He says he left the restaurant where he works at 3:30 pm.
+                                              2. First he says he got back to the restaurant at 4:00, then he agrees it maybe
+                                                  was 5:00.
+                                              3. First he says he stayed in his boss’s brother’s office for 45 minutes; then he
+                                                  agrees it maybe was only a couple of minutes.
+                                              4. First he says he had a chat with his girlfriend in his boss’s brother’s office,
+                                                  then he says he stayed with her for a long time out of the office, maybe for
+                                                  1 hour.
+
+                                               Then listen to the conversation between the policeman and Jack Smith.
+                                               Are all the above sentences correct?
+
+
+              90 / Pupil’s Book • UNIT 10
+                                       7-•- •Lesson
+                                              Lesson21
+
+
+
+
+10-0103.indb 90                                                                                                                     1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: Circular black detective silhouette (deerstalker man smoking a pipe).]
+[IMAGE 2 | middle-right: Cartoon of a man in blue shirt standing outside a yellow 'POLICE STATION' door under a street lamp.]
+[IMAGE 3 | bottom-left: Colour photo of a uniformed policeman checking documents with a young man.]
+Recurring small icons on this page: dice/game icon at A (1); cassette + book icons at B (2).
+==============================================================================
+[PAGE 7/12 | GLOBAL PDF p.91 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                  C     ROLE-PLAY
+                  In pairs, one of you is the policeman and the other Jack Smith. Match and act out the questions
+                  and answers.
+
+
+                  1.Where were you during the afternoon of May
+                                                                                  a. I left at 3.30.
+                    4th?
+
+                  2. What time did you leave the restaurant?                      b. We went to a café.
+
+                  3. Why did you go out?                                          c. I left some documents.
+
+                  4. What time did you get back to work?                          d. I went out to buy some doughnuts.
+
+                  5. What did you do in the office of the boss’s
+                                                                                  e. I was out of the restaurant.
+                      brother?
+
+                  6. Where did you and your girlfriend go?                        f. I got back at 5.
+
+
+
+                   D    LISTENING: SUE’S VERSION OF THE STORY
+                  The police are interrogating Jack’s girlfriend, Sue Adams. Listen to the conversation and put the
+                  events in the correct order, according to what she says.
+
+
+
+              (a) ....... Then he suggested going out for a cup of coffee.
+
+              (b).......	He didn’t say anything, he just told me he was tired.
+
+              (c)....... He was a bit silent while we were there.
+                   1 Jack turned up at my office at about half past
+              (d).......	
+                         three.
+
+              (e)....... I asked him what the matter was.
+
+              (f)....... He rushed out of the café.
+                    2 He looked concerned about something, so I was
+              (g).......	
+                          worried about him.
+
+              (h)....... We went to his favourite café opposite my office.
+
+              (i)....... It was a quarter to four!!!
+
+              (j)....... Suddenly, he said that he had to leave.
+
+
+
+                                                                                            Pupil’s
+                                                                                             Pupil’sBook
+                                                                                                     Book••UNIT               1 / 91
+                                                                                                                 7 - • Lesson 2
+                                                                                                            UNIT10
+
+
+
+
+10-0103.indb 91                                                                                                                        1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | lower-right: Full-length illustration of Sherlock Holmes in deerstalker and checked cape holding a magnifying glass, city silhouette behind.]
+Recurring small icons on this page: theatre-masks icon at C (1); cassette icon at D (1).
+==============================================================================
+[PAGE 8/12 | GLOBAL PDF p.92 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                     7
+                     E   WRITING: JACK AND HIS GIRLFRIEND’S VERSION
+
+                Compare and contrast the two versions and ﬁll in the chart below.
+
+
+                                       The same                                           Different
+
+
+
+
+                     F   GROUP WORK: GIVE YOUR OWN ENDING
+                What do you think really happened? Does what Sue Adams say support Jack’s alibi?
+                Is Jack innocent or guilty after all? Decide in groups and explain your arguments to
+                the other groups.
+
+
+
+
+                                 Simple Past – Negatives and Questions
+                     Read and study the following sentences and learn how we can ask and answer questions in the
+                     past.
+
+                     Can you guess who he is: El Greco or Theophanis the Greek?
+                     • Where was he born? He wasn’t born in Hania and he lived in Russia for 40 years.
+                     • Was he a playwright? No, he was a painter!
+                     • What did he paint? He painted religious images
+                       in churches and portable icons.
+                     • Did he live in Crete all his life? No, he lived in
+                       Novgorod, in Volotov and in Moscow.
+                     • Did he paint in a Byzantine style? Yes, his
+                       pictures are famous for the peaceful look on
+                       their faces and their heavenly characteristics.
+                       His pupil Andrei Roublev was also a great
+                       Byzantine painter.
+
+
+                                                          Mount Athos
+
+
+
+
+               92 / Pupil’s Book • UNIT 10
+                                        7-•- •Lesson
+                                               Lesson21
+
+
+
+
+085-096 up.indd 92                                                                                                 22/9/2022 3:42:53 µµ
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | bottom-right: Small colour photo of a Byzantine fresco (the Entombment, haloed figures around Christ's body with a cross above), captioned 'Mount Athos'.]
+Recurring small icons on this page: pencil icon at E (1); group-faces icon + GRAMMAR FOCUS magnifier at F (2).
+==============================================================================
+[PAGE 9/12 | GLOBAL PDF p.93 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                  G    SPEAKING & LISTENING: ANOTHER WITNESS
+                  Mrs White is being interrogated by the police about a bank robbery in London. Work in pairs and use
+                  the pictures. What do you think Mrs White said to the policeman?
+
+
+
+
+                                                           1.                                                           2.
+
+
+
+
+                                                           3.                                                           4.
+
+
+                  Now listen and see if you were right.
+
+
+
+                  H     MRS. WHITE’S STORY: DIFFERENT ENDINGS
+              The teacher will now provide you with information for different endings to the story.
+
+                  • Write a short passage describing what happened.
+                  • Then read your passage out to the class.
+                  • Discuss the different endings and decide which is the most likely to happen.
+
+
+
+
+                                                                Mrs White
+
+                                                                                      Pupil’s
+                                                                                       Pupil’sBook
+                                                                                               Book••UNIT               1 / 93
+                                                                                                           7 - • Lesson 2
+                                                                                                      UNIT10
+
+
+
+
+10-0103.indb 93                                                                                                                  1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | upper-left, panel 1: Cartoon of customers queuing inside a bank.]
+[IMAGE 2 | upper-right, panel 2: Cartoon of a masked robber with a gun at a bank window.]
+[IMAGE 3 | lower-left, panel 3: Cartoon of the robber pointing a gun at a red-haired cashier handing over money.]
+[IMAGE 4 | lower-right, panel 4: Cartoon of the robber with sack grabbing an elderly woman in yellow hat and coat (Mrs White).]
+[IMAGE 5 | bottom-center: Cartoon bust portrait of Mrs White (grey curls, yellow hat, orange spotted coat).]
+Recurring small icons on this page: speech-bubble + cassette icons at G (2); pencil icon at H (1).
+==============================================================================
+[PAGE 10/12 | GLOBAL PDF p.94 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                      Lesson 3                ALEXANDER THE GREAT
+
+                    A     WHY WAS HE “THE GREAT”?
+                  Mark asked Kostas why Alexander was such a great leader. Kostas found this text.
+                  Alexander was born in 356 BC in Pella, Macedonia to King Philip II. At 20, after his father’s murder, he became
+                  king. From the age of 22 until his death at 33 he conquered most of the known world, reaching as far as India.
+                  1. The Persians were his major enemy. They were very strong in sea power. Alexander did not have a strong
+                      navy. He was afraid of the Persian navy. In order to stop the Persian navy he did not attack the ships. Instead
+                      he destroyed their ports.
+                  2. In the battle of the river Issus, he did not feel strong. So he changed tactics. He himself led a focussed
+                      attack on Darius, the Persian king. Darius’s personal guard did not hold the attack. Darius withdrew and
+                      his troops followed.
+                  3. Alexander wanted to capture Tyre, a city on an island very near to the coast of today’s Lebanon. Tyre
+                      was very difficult to conquer. After several months of attack by sea Alexander changed tactics. He built a
+                      causeway. This way his troops marched up to the walls. They used land attack tactics Tyre was captured
+                      soon afterwards.
+                  4. Alexander wanted to control the lands he had conquered. In order to do so, he told his troops to live there.
+                      This way the ancient Greek culture and language spread to those lands.
+                  Choose one of the following statements which show Alexander was a great leader. Explain why.
+                  a. 
+                     Alexander did not have a navy.
+                     Nevertheless he stopped the
+                     Persian navy.
+                  b. At the battle of the River Issus he
+                      defeated the Persians, who had a
+                      bigger army.
+                  c. 
+                     Alexander captured the town of
+                     Tyre, which everyone thought
+                     impossible.
+                  d. He controlled the lands he
+                      conquered well.
+
+
+
+
+                                                  CROSS CURRICULAR PROJECT
+
+                  1. Do you remember a film about Alexander the Great? Was it a good representation of Alexander the Great
+                      and his life? Discuss with your teacher and classmates. How about Robin Hood or King Arthur? Do the
+                      films represent the historical truth?
+                  2. Choose a personality from your History book and say what makes them unique.
+                     a. Use other sources to find out more about them.
+                     b. Work in groups and present the information on a cardboard using pictures and short texts giving an
+                         outline of his/her life and deeds.
+                     c. You may use the above text for guidance.
+
+
+              94 / Pupil’s Book • UNIT 10
+                                       7-•- •Lesson
+                                              Lesson31
+
+
+
+
+10-0103.indb 94                                                                                                                         1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-right: Small mosaic portrait of Alexander the Great in armour.]
+[IMAGE 2 | middle, wide: Colour map of Alexander's empire from Macedonia to India/Pakistan with Greek place labels and a dashed campaign route.]
+Recurring small icons on this page: none beyond the standard header.
+==============================================================================
+[PAGE 11/12 | GLOBAL PDF p.95 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+                                        Name:..................................................... Class:..............................
+                                        Date:....................................................... Score:............./ 100
+
+
+              A. Do the quiz. Write complete sentences.                                                                    Henry VIII           Anne Boleyn
+
+
+                  1. What was the name of a famous Ancient Greek theatre?
+                  2. Where was Alexander the Great born?
+                  3. Who wrote the “Iliad” and “Odessey”?
+                  4. In which country did El Greco live most of his life?
+                  5. What was the name of Shakespeare’s theatre?
+                                                                                                                                          Points: ....... / 20
+
+              B. Create the dialogue by putting each section in the correct order.
+              (Introduction: Anne Boleyn was one of the wives of King Henry VIII, 1491-1547)
+
+
+                  .....   Because I’m a ghost. But don’t be afraid. I won’t harm you.
+                  .....   Why can’t I touch you?
+                                                                                                                                                          A
+                  .....   My name’s Anne Boleyn.
+                    1
+                  .....   Hello! Who are you?
+
+                  .....   Yes, I know. I’m very sad.
+                  .....   But do ghosts cry? I can see tears running on your face.
+                  .....   Because my husband killed me.
+                                                                                                                                                          B
+                  .....   But why?
+
+                  .....   Killed you? Who was your husband?
+                  .....   But why did he kill you?
+                                                                                                                                                          C
+                  .....   King Henry VIII. And I was his queen.
+                  .....   Because I gave him a daughter.
+
+                  .....   Killed you? That’s preposterous!
+                  .....   Well, I suppose it made a lot of difference to my husband.
+                                                                                                                                                          D
+                  .....   Well, he didn’t want a girl. He wanted a son.
+                  .....   I don’t understand. What’s the difference between a son and a daughter?
+
+                  ..... And he killed you himself?
+                  ..... Yes, I suppose he was. That’s why I wander in the Tower of London, thinking of the
+                        old days. And I can only cry.                                                                                                         E
+                  ..... Well, not exactly. He ordered his soldiers to cut off my head.
+                  ..... Oh, my God! I can’t believe it! He must have been a cruel person!
+
+
+                                                                                                                                          Points: ....... / 36
+
+                                                                                                       Pupil’s BookPupil’s
+                                                                                                                    • UNITBook
+                                                                                                                           7 - ••Self
+                                                                                                                                  UNIT- Assessment
+                                                                                                                                         10 - • Lesson 1 / 95
+                                                                                                                                                    Test
+
+
+
+
+10-0103.indb 95                                                                                                                                                   1/7/14 1:58 PM
+
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left (in header): Small framed cartoon of a blond boy studying at a desk.]
+[IMAGE 2 | top-right (in header): Small unframed cartoon of the same studying boy.]
+[IMAGE 3 | upper-right: Small portrait of Henry VIII in cap and fur robe, captioned 'Henry VIII'.]
+[IMAGE 4 | upper-right: Small portrait of Anne Boleyn, captioned 'Anne Boleyn'.]
+Recurring small icons on this page: header cartoons counted above as IMAGES 1–2.
+==============================================================================
+[PAGE 12/12 | GLOBAL PDF p.96 | SOURCE: pupil_unit07.pdf]
+==============================================================================
+              C. Look at the pictures and write what Nadine did last Sunday.
+
+
+
+
+              Last Sunday was a special day for Nadine. .............................................................................
+              ......................................................................................................................................................................................................................................
+              ......................................................................................................................................................................................................................................
+              ............................................................................................................................................................................................................................
+
+                                                                                                                                                                                                      Points: ....... / 28
+
+              D. A horrible weekend.
+
+              The Antoniou family went away for the weekend, but they had a terrible time. Match the sentences to find
+              out why.
+
+              1. The hotel room was very small                                                                                     a. so they had to wait in the sun for over half
+              2. Everything was expensive,                                                                                             an hour for the tyre to be replaced.
+              3. The food was so bad that                                                                                          b. so they didn’t buy any souvenirs.
+              4. They didn’t swim in the sea                                                                                       c. they decided to sit by the pool instead.
+              5. The beach was so dirty that                                                                                       d. so they had to walk there in the hot sun.
+              6. The hotel room was noisy                                                                                          e. because it looked dirty.
+              7. Their car had a flat tyre,                                                                                        f. they all got a stomach ache.
+              8. The nearest supermarket was                                                                                       g. and their beds were quite uncomfortable.
+                 half an hour away from the hotel                                                                                  h. as there was a disco nearby, so they couldn’t
+                                                                                                                                       sleep at night.
+                                                                                                                                                                                                       Points: ....... / 16
+
+
+
+                                                                                                       Tick what’s true for you:
+
+
+                                                             Now I can:                                                                                    Learning strategies in English
+                                                                                                                                              READING: Successful techniques
+                        c Talk about famous people of the past
+                        c Talk about past / historical actions                                                                                c I get a quick overview of the passage
+                        c Write about a series of past events                                                                                 c I get a good understanding
+                                                                                                                                                of the detail
+                        c Put past events in order
+                                                                                                                                              c I imagine what is coming next
+                                                                                                                                              c I read with a clear aim in mind
+
+
+
+              96 / Pupil’s Book • UNIT 10
+                                       7-•- •Self
+                                              Lesson
+                                                  - Assessment
+                                                       1       Test
+
+
+
+
+10-0103.indb 96                                                                                                                                                                                                                                        1/7/14 1:58 PM
+
+--- IMAGES ON THIS PAGE ---
+[IMAGE 1 | top-left: Cartoon panel — family of three in a car.]
+[IMAGE 2 | top-center-left: Cartoon panel — girl grooming a brown horse.]
+[IMAGE 3 | top-center: Cartoon panel — girl riding the horse.]
+[IMAGE 4 | top-center-right: Cartoon panel — girl feeding the horse.]
+[IMAGE 5 | top-right: Cartoon panel — girl driving a blue car.]
+Recurring small icons on this page: dartboard graphics on the two green self-assessment boxes (2).

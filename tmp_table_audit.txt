@@ -1,0 +1,246 @@
+workbook_front_matter p1: 1 table(s) [t1:1r x 7c]
+  ROWS p1t1:  |  |  |  |  |  | 
+workbook_front_matter p5: 2 table(s) [t1:2r x 2c; t2:2r x 2c]
+  ROWS p5t1: ΣΤΟΙΧΕΙΑ ΑΡΧΙ | ΚΗΣ ΕΚ∆ΟΣΗΣ ||  | 
+  ROWS p5t2: ΣΤΟΙΧΕΙΑ ΕΠ | ΑΝΕΚ∆ΟΣΗΣ ||  | 
+workbook_unit01 p1: 1 table(s) [t1:1r x 5c]
+  ROWS p1t1:  |  |  | 1 | 
+workbook_unit01 p2: 1 table(s) [t1:1r x 5c]
+  ROWS p2t1:  | 1 |  |  | 
+workbook_unit01 p2: blanks/dots markers x9
+workbook_unit01 p3: 1 table(s) [t1:2r x 10c]
+  ROWS p3t1:  |  |  |  |  |  |  | 110 |  |  ||  |  |  |  |  |  |  |  |  | 
+workbook_unit01 p4: 1 table(s) [t1:2r x 9c]
+  ROWS p4t1: 1 |  | 1 |  |  |  |  |  |  ||  |  |  |  |  |  |  |  | 
+workbook_unit01 p4: blanks/dots markers x12
+workbook_unit02 p1: 1 table(s) [t1:2r x 9c]
+  ROWS p1t1:  |  |  |  |  |  |  | 2 |  ||  |  |  |  |  |  |  |  | 
+workbook_unit02 p1: blanks/dots markers x12
+workbook_unit02 p2: 1 table(s) [t1:1r x 5c]
+  ROWS p2t1:  | 2 |  |  | 
+workbook_unit02 p2: blanks/dots markers x5
+workbook_unit02 p3: 1 table(s) [t1:1r x 5c]
+  ROWS p3t1:  |  |  | 2 | 
+workbook_unit02 p3: blanks/dots markers x15
+workbook_unit02 p4: 2 table(s) [t1:4r x 8c; t2:5r x 6c]
+  ROWS p4t1:  |  |  |  |  |  |  |  || 2 |  | 2 |  |  |  |  |  ||  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  | 
+  ROWS p4t2:  | Swim / underwater | Visit / museums | Play / on the sand | Play / football | Buy / souvenirs || Jane | 0 | 0 0 0 0 | 0 0 | ; | 0 0 0 || Peter | 0 0 0 | 0 | ; | 0 0 0 0 | 0 0 || Lin & Tim | 0 0 | ; | 0 0 0 | 0 | 0 0 0 || Bob & Fiona | ; | 0 0 0 | 0 0 | 0 | 0 0 0 0
+workbook_unit02 p5: 1 table(s) [t1:1r x 5c]
+  ROWS p5t1:  |  |  | 2 | 
+workbook_unit02 p5: blanks/dots markers x12
+workbook_unit02 p6: 3 table(s) [t1:1r x 5c; t2:3r x 4c; t3:2r x 126c]
+  ROWS p6t1:  | 2 |  |  | 
+  ROWS p6t2: Train Schedule from Athens |  |  |  || TO | TIME | PRICE | DURATION || Halkida / Livadia / Litohoro / Thessaloniki | 10:25, 11:30, 12:40, 14:00, 15:20, / 16:35, 17:35, 19:00 / 8:25, 13:20, 14:25, 15:50, 17:10 / 8:25, 14:25, 23:55 / 8:00, 8:25, 10:10, 13:05, 14:25, / 17:05, 23:15, 23:55 | 5,50 / € / 6,80 / € / 15,20 / € / 20,10 / € | 1:30 hrs / 2 hrs / 6 hrs / 7 hrs
+  ROWS p6t3:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+workbook_unit02 p6: blanks/dots markers x11
+workbook_unit02 p7: 2 table(s) [t1:1r x 2c; t2:4r x 91c]
+  ROWS p7t1:  | 2
+  ROWS p7t2:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+workbook_unit02 p8: 3 table(s) [t1:1r x 5c; t2:2r x 3c; t3:3r x 5c]
+  ROWS p8t1:  | 3 |  |  | 
+  ROWS p8t2: farmer | singer | sports centre || supermarket | doctor | vegetables
+  ROWS p8t3: NAME | NATIONALITY | HOME TOWN | OCCUPATION | PLACE OF WORK || Maria Karra | Greek | Samos | teacher | school || Jack Bean | British | Cambridge | actor | theatre
+workbook_unit02 p8: blanks/dots markers x11
+workbook_unit03 p1: 1 table(s) [t1:1r x 5c]
+  ROWS p1t1:  |  |  | 3 | 
+workbook_unit03 p1: blanks/dots markers x24
+workbook_unit03 p2: 1 table(s) [t1:1r x 5c]
+  ROWS p2t1:  | 3 |  |  | 
+workbook_unit03 p2: blanks/dots markers x5
+workbook_unit03 p3: 1 table(s) [t1:1r x 5c]
+  ROWS p3t1:  |  |  | 3 | 
+workbook_unit03 p3: blanks/dots markers x14
+workbook_unit03 p4: 1 table(s) [t1:1r x 5c]
+  ROWS p4t1:  | 3 |  |  | 
+workbook_unit03 p4: blanks/dots markers x24
+workbook_unit03 p5: 2 table(s) [t1:1r x 5c; t2:2r x 2c]
+  ROWS p5t1:  |  |  | 3 | 
+  ROWS p5t2:  |  ||  | 
+workbook_unit03 p5: blanks/dots markers x8
+workbook_unit04 p1: 1 table(s) [t1:1r x 5c]
+  ROWS p1t1:  | 4 |  |  | 
+workbook_unit04 p1: blanks/dots markers x4
+workbook_unit04 p2: 2 table(s) [t1:1r x 5c; t2:2r x 2c]
+  ROWS p2t1:  |  |  | 4 | 
+  ROWS p2t2: Hi, Molly! / I’m sending you this postcard from Finland. / We usually spend Christmas at my father’s / ................................................................................... HI! I’m on a holiday in Braz / home town, / ............................. Oh, it’s great! Everything is white hot and the food is great / with snow and there are beautiful decorations ................................................................ / everywhere. We are staying in a log cabin The people are very hospit / ...........................................................................................
+workbook_unit04 p2: blanks/dots markers x15
+workbook_unit04 p3: 1 table(s) [t1:1r x 5c]
+  ROWS p3t1:  | 4 |  |  | 
+workbook_unit04 p4: 2 table(s) [t1:1r x 5c; t2:9r x 14c]
+  ROWS p4t1:  |  |  | 4 | 
+  ROWS p4t2:  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  | 
+workbook_unit04 p4: blanks/dots markers x4
+workbook_unit04 p5: 1 table(s) [t1:1r x 5c]
+  ROWS p5t1:  | 4 |  |  | 
+workbook_unit04 p5: blanks/dots markers x1
+workbook_unit04 p6: 2 table(s) [t1:7r x 11c; t2:2r x 1c]
+  ROWS p6t1:  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  || 4 |  |  |  |  | 4 |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  ||  |  | Activity Book • UNIT 4 • Lesson 2 / 29 |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  | 15 10:48 AM |  |  | 
+  ROWS p6t2:  || 
+workbook_unit05 p1: 1 table(s) [t1:1r x 5c]
+  ROWS p1t1:  | 5 |  |  | 
+workbook_unit05 p1: blanks/dots markers x1
+workbook_unit05 p2: 1 table(s) [t1:2r x 9c]
+  ROWS p2t1:  |  |  |  |  |  | 150 |  |  ||  |  |  |  |  |  |  |  | 
+workbook_unit05 p2: blanks/dots markers x1
+workbook_unit05 p3: 5 table(s) [t1:1r x 5c; t2:4r x 1c; t3:4r x 1c; t4:4r x 1c; t5:4r x 1c]
+  ROWS p3t1:  | 5 |  |  | 
+  ROWS p3t2: PAPER BOX ||  ||  || 
+  ROWS p3t3: METAL BOX ||  ||  || 
+  ROWS p3t4: PLASTIC BOX ||  ||  || 
+  ROWS p3t5: GLASS BOX ||  ||  || 
+workbook_unit05 p4: 1 table(s) [t1:1r x 5c]
+  ROWS p4t1:  |  |  | 5 | 
+workbook_unit05 p5: 2 table(s) [t1:1r x 5c; t2:11r x 3c]
+  ROWS p5t1:  | 5 |  |  | 
+  ROWS p5t2: ELECTRIC APPLIANCES / ON STAND-BY MODE | KWH / YEAR | COST /YEAR / € || TV | 193 | 16,60 / € || Video | 263 |  || DVD | 131 |  || CD Player | 61 |  || PC Screen | 88 |  || Printer | 70 |  || Scanner | 53 |  || Microwave | 105 |  || Washing machine | 61 |  || TOTAL |  | 
+workbook_unit05 p6: 2 table(s) [t1:5r x 5c; t2:9r x 12c]
+  ROWS p6t1:  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  | 
+  ROWS p6t2:  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  | 
+workbook_unit06 p1: 1 table(s) [t1:1r x 5c]
+  ROWS p1t1:  | 6 |  |  | 
+workbook_unit06 p1: blanks/dots markers x8
+workbook_unit06 p2: 1 table(s) [t1:1r x 5c]
+  ROWS p2t1:  |  |  | 6 | 
+workbook_unit06 p2: blanks/dots markers x7
+workbook_unit06 p3: 2 table(s) [t1:1r x 5c; t2:2r x 2c]
+  ROWS p3t1:  | 6 |  |  | 
+  ROWS p3t2:  |  ||  | 
+workbook_unit06 p3: blanks/dots markers x9
+workbook_unit06 p4: 2 table(s) [t1:1r x 5c; t2:23r x 4c]
+  ROWS p4t1:  |  |  | 6 | 
+  ROWS p4t2:  | Positive | Comparative | Superlative || 1. | clean |  |  || 2. |  | nicer |  || 3. |  |  | the cheapest || 4. | fast |  |  || 5. |  | tidier |  || 6. |  | more terrible |  || 7. |  |  | the hottest || 8. | large |  |  || 9. |  | better |  || 10. | strong |  |  || 11. |  | cleverer |  || 12. |  |  | the oldest || 13. | friendly |  |  || 14. |  | more exciting |  || 15. |  |  | the biggest || 16. |  | nearer |  || 17. | interesting |  |  || 18. |  |  | the youngest || 19. | bad |  |  || 20. |  | more dangerous |  || 21. | short |  |  || 22. |  |  | the messiest
+workbook_unit06 p5: 1 table(s) [t1:1r x 5c]
+  ROWS p5t1:  | 6 |  |  | 
+workbook_unit06 p5: blanks/dots markers x7
+workbook_unit06 p6: 1 table(s) [t1:1r x 5c]
+  ROWS p6t1:  |  |  | 6 | 
+workbook_unit06 p6: blanks/dots markers x7
+workbook_unit07 p1: 2 table(s) [t1:1r x 5c; t2:21r x 2c]
+  ROWS p1t1:  | 7 |  |  | 
+  ROWS p1t2: PRESENT SIMPLE | PAST TENSE || start |  || am, are, is |  || go |  || cry |  ||  | studied || stop |  ||  | enjoyed || have |  || give |  || die |  ||  | lived || love |  ||  | painted || discover |  || write |  ||  | met || hate |  ||  | killed || become |  || know | 
+workbook_unit07 p2: 1 table(s) [t1:1r x 5c]
+  ROWS p2t1:  |  |  | 7 | 
+workbook_unit07 p2: blanks/dots markers x20
+workbook_unit07 p3: 2 table(s) [t1:1r x 5c; t2:2r x 5c]
+  ROWS p3t1:  | 7 |  |  | 
+  ROWS p3t2:  |  |  |  |  ||  |  |  |  | 
+workbook_unit07 p4: 1 table(s) [t1:1r x 5c]
+  ROWS p4t1:  |  |  | 7 | 
+workbook_unit07 p4: blanks/dots markers x1
+workbook_unit07 p5: 1 table(s) [t1:1r x 5c]
+  ROWS p5t1:  | 7 |  |  | 
+workbook_unit07 p6: 1 table(s) [t1:1r x 5c]
+  ROWS p6t1:  |  |  | 7 | 
+workbook_unit07 p6: blanks/dots markers x10
+workbook_unit08 p1: 2 table(s) [t1:1r x 5c; t2:4r x 5c]
+  ROWS p1t1:  | 8 |  |  | 
+  ROWS p1t2:  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  | 
+workbook_unit08 p1: blanks/dots markers x5
+workbook_unit08 p2: 1 table(s) [t1:1r x 5c]
+  ROWS p2t1:  |  |  | 8 | 
+workbook_unit08 p2: blanks/dots markers x7
+workbook_unit08 p3: 1 table(s) [t1:1r x 5c]
+  ROWS p3t1:  | 8 |  |  | 
+workbook_unit08 p3: blanks/dots markers x21
+workbook_unit08 p4: 1 table(s) [t1:1r x 5c]
+  ROWS p4t1:  |  |  | 8 | 
+workbook_unit08 p4: blanks/dots markers x16
+workbook_unit08 p5: 1 table(s) [t1:1r x 5c]
+  ROWS p5t1:  | 8 |  |  | 
+workbook_unit08 p5: blanks/dots markers x6
+workbook_unit08 p6: 1 table(s) [t1:1r x 5c]
+  ROWS p6t1:  |  |  | 8 | 
+workbook_unit08 p6: blanks/dots markers x14
+workbook_unit08 p7: 1 table(s) [t1:2r x 9c]
+  ROWS p7t1: 8 |  | 8 |  |  |  |  |  |  ||  |  |  |  |  |  |  |  | 
+workbook_unit08 p7: blanks/dots markers x20
+workbook_unit09 p1: 1 table(s) [t1:2r x 9c]
+  ROWS p1t1:  |  |  |  |  |  |  | 9 |  ||  |  |  |  |  |  |  |  | 
+workbook_unit09 p1: blanks/dots markers x5
+workbook_unit09 p2: 3 table(s) [t1:1r x 5c; t2:3r x 3c; t3:1r x 2c]
+  ROWS p2t1:  | 9 |  |  | 
+  ROWS p2t2:  |  |  ||  |  |  ||  |  | 
+  ROWS p2t3: 56 / Activity Book • UNIT 9 • Lesson 1 | 
+workbook_unit09 p2: blanks/dots markers x19
+workbook_unit09 p3: 1 table(s) [t1:1r x 5c]
+  ROWS p3t1:  |  |  | 9 | 
+workbook_unit09 p3: blanks/dots markers x17
+workbook_unit09 p4: 2 table(s) [t1:3r x 6c; t2:3r x 3c]
+  ROWS p4t1:  |  | 9 |  |  |  ||  |  |  |  |  |  ||  |  | Mountains / Germany / in |  |  | 
+  ROWS p4t2:  | The pyramids / Egypt / Nile |  || The Nile | Nile |  ||  |  | 
+workbook_unit09 p4: blanks/dots markers x22
+workbook_unit09 p5: 2 table(s) [t1:1r x 5c; t2:4r x 5c]
+  ROWS p5t1:  |  |  | 9 | 
+  ROWS p5t2:  | Be to Spain | Travel by plane | Sing karaoke | See a snake || Jack |  |  |  |  || Mary |  |  |  |  || The twins |  |  |  | 
+workbook_unit09 p5: blanks/dots markers x13
+workbook_unit10 p1: 2 table(s) [t1:1r x 5c; t2:6r x 9c]
+  ROWS p1t1:  | 10 |  |  | 
+  ROWS p1t2:  | Depart | Time |  | Arrive | Time | Flight | Stops | Aircraft || Athens | 15 Mar 08 | 08:15 | Frankfurt | 15 Mar 08 | 10:25 | OA165 | 0 | B 737 || Athens | 23 Mar 08 | 13:30 | London | 23 Mar 08 | 15:30 | OA269 | 0 | AB 300 ||  | Depart | Time |  | Arrive | Time | Flight | Stops | Aircraft || Frankfurt | 14 Mar 08 | 11:15 | Athens | 14 Mar 08 | 16:15 | OA166 | 0 | B 737 || London | 22 Mar 08 | 9:15 | Rome | 22 Mar 08 | 11:30 | BA548 | 0 | B757
+workbook_unit10 p1: blanks/dots markers x10
+workbook_unit10 p2: 2 table(s) [t1:1r x 5c; t2:2r x 3c]
+  ROWS p2t1:  |  |  | 10 | 
+  ROWS p2t2:  |  |  || Dear Peter, / Hello! My name is Kostas. I (1) saw / see / shall see your / letter asking for a pen pal in this month’s Soccer Club / magazine. / I (2) lived / live / will live in Athens with my parents and / my younger sister. I (3) was / am / will be 11 years old and I (4) go / went / will go to / primary school. I also (5) will play / played / play football with my friends. / I never (6) liked / like / will like football when I was at nursery school. I (7) changed / will / change / change my mind when my father (8) will take / takes / took me to a football / match. It (9) was / is 
+workbook_unit10 p2: blanks/dots markers x12
+workbook_unit10 p3: 1 table(s) [t1:1r x 5c]
+  ROWS p3t1:  | 10 |  |  | 
+workbook_unit10 p3: blanks/dots markers x4
+workbook_unit10 p4: 2 table(s) [t1:1r x 3c; t2:1r x 2c]
+  ROWS p4t1: y | our ch | Differentiated Activities / oice! / • Find the way you learn best. / • Share your ideas with others. / • Check your self-assessment tests. / • Spend sometime reading books, / listening to songs, writing e-mails / and talking to your friends. / • Don’t be afraid to use English. / • Don’t be afraid to make mistakes.
+  ROWS p4t2:  | 
+workbook_appendix_differentiated p2: 1 table(s) [t1:1r x 3c]
+  ROWS p2t1: WORKBOOK / DiffereItn’tsi aytoeud rA cchtioviitciees! | WORKBOOK / DiffereItn’tsi aytoeud rA cchtioviitciees! | 
+workbook_appendix_differentiated p4: 1 table(s) [t1:1r x 3c]
+  ROWS p4t1: It’s your choice! | It’s your choice! | 
+workbook_appendix_differentiated p6: 2 table(s) [t1:1r x 3c; t2:9r x 2c]
+  ROWS p6t1: It’s your choice! | It’s your choice! | 
+  ROWS p6t2: MONDAY | TUESDAY WEDNESDAY ||  |  ||  |  ||  |  ||  |  ||  |  ||  |  ||  |  ||  | 
+workbook_appendix_differentiated p7: 1 table(s) [t1:2r x 4c]
+  ROWS p7t1: TO | TIME | PRICE | DURATION ||  |  |  | 
+workbook_appendix_differentiated p7: blanks/dots markers x1
+workbook_appendix_differentiated p8: 2 table(s) [t1:1r x 3c; t2:12r x 17c]
+  ROWS p8t1: It’s your choice! | It’s your choice! | 
+  ROWS p8t2:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  
+workbook_appendix_differentiated p10: 2 table(s) [t1:1r x 3c; t2:1r x 2c]
+  ROWS p10t1: It’s your choice! | It’s your choice! | 
+  ROWS p10t2:  | 
+workbook_appendix_differentiated p10: blanks/dots markers x5
+workbook_appendix_differentiated p12: 2 table(s) [t1:1r x 3c; t2:13r x 15c]
+  ROWS p12t1: It’s your choice! | It’s your choice! | 
+  ROWS p12t2:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ||  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+workbook_appendix_differentiated p13: blanks/dots markers x6
+workbook_appendix_differentiated p14: 1 table(s) [t1:1r x 3c]
+  ROWS p14t1: It’s your choice! | It’s your choice! | 
+workbook_appendix_differentiated p15: blanks/dots markers x24
+workbook_appendix_differentiated p16: 2 table(s) [t1:1r x 3c; t2:13r x 5c]
+  ROWS p16t1: It’s your choice! | It’s your choice! | 
+  ROWS p16t2: GOOD |  | BAD | GOOD + BAD |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  |  ||  |  |  |  | 
+workbook_appendix_differentiated p18: 2 table(s) [t1:1r x 3c; t2:2r x 1c]
+  ROWS p18t1: It’s your choice! | It’s your choice! | 
+  ROWS p18t2:  || 
+workbook_appendix_differentiated p18: blanks/dots markers x12
+workbook_appendix_differentiated p20: 2 table(s) [t1:1r x 3c; t2:2r x 2c]
+  ROWS p20t1: It’s your choice! | It’s your choice! | 
+  ROWS p20t2: Dubai / Paris |  ||  | Paris
+workbook_appendix_differentiated p20: blanks/dots markers x8
+workbook_appendix_differentiated p21: blanks/dots markers x7
+workbook_appendix_differentiated p22: 1 table(s) [t1:1r x 3c]
+  ROWS p22t1: It’s your choice! | It’s your choice! | 
+workbook_appendix_differentiated p22: blanks/dots markers x5
+workbook_appendix_differentiated p23: blanks/dots markers x5
+workbook_appendix_differentiated p24: 1 table(s) [t1:1r x 3c]
+  ROWS p24t1: It’s your choice! | It’s your choice! | 
+workbook_appendix_differentiated p24: blanks/dots markers x7
+workbook_appendix_differentiated p25: 2 table(s) [t1:3r x 3c; t2:2r x 1c]
+  ROWS p25t1: ACTIVITY BOOK / It’s your choice! |  |  ||  |  |  ||  |  | 
+  ROWS p25t2:  || 
+workbook_appendix_differentiated p25: blanks/dots markers x12
+workbook_appendix_differentiated p26: 1 table(s) [t1:2r x 5c]
+  ROWS p26t1:  |  |  | It’s your choice! |  ||  |  |  |  | 
+workbook_appendix_differentiated p26: blanks/dots markers x7
+workbook_appendix_self_assessment_keys p2: 1 table(s) [t1:1r x 2c]
+  ROWS p2t1: Self Assessment Tests - Keys | 
+workbook_appendix_self_assessment_keys p2: blanks/dots markers x3
+workbook_appendix_self_assessment_keys p4: 1 table(s) [t1:1r x 3c]
+  ROWS p4t1: Self Assessment Tests - Keys | Self Assessment Tests - Keys | 
+workbook_back_matter p2: 1 table(s) [t1:1r x 7c]
+  ROWS p2t1:  |  |  |  |  |  | 

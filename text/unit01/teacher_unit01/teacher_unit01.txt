@@ -1,0 +1,1020 @@
+==============================================================================
+SOURCE PDF : teacher_unit01.pdf
+SOURCE PATH: C:\photodentro\antigravity\coursebook_fifth\split\unit01\teacher_unit01.pdf
+GLOBAL PDF PAGES: 17-24
+PAGES IN THIS FILE: 8
+EXTRACTION TOOL: pdftotext version 25.07.0 | mode: reading-order (no -layout; two-column TB) -enc UTF-8 (layout-preserving)
+EXTRACTION DATE: 2026-10-04T16:41:30+03:00
+STATS: characters=23270, words~=4156
+ENCODING: UTF-8 (Greek + English preserved)
+PAGE SEPARATOR: lines of '=' with per-page header: [PAGE i/N | GLOBAL PDF p.G | SOURCE: <file>]
+SIBLING FILES: pages/ contains one .txt per page; .bbox.xml has word coordinates (pdftohtml -xml)
+ALT TEXT: absent – verified zero /Alt entries in source PDF (1 /Alternate ICC profile only); descriptions below generated from page renders.
+==============================================================================
+==============================================================================
+[PAGE 1/8 | GLOBAL PDF p.17 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+UNIT 1 INTERNET FRIENDS AROUND EUROPE
+PUPIL’S BOOK
+pp. 13-24
+
+FUNCTIONS
+
+GRAMMAR
+
+VOCABULARY
+
+CROSSCURRICULAR
+ELEMENT
+
+Lesson 1
+Do you like
+computers?
+
+Learning
+to write
+an e-mail.
+
+Simple
+Present Tense
+in 3rd person
+
+Computer
+parts.
+
+Expressing
+Likes and
+Dislikes.
+
+Expressing
+Likes, Dislikes
+and
+Preferences.
+
+Introduce
+4 teaching
+computer
+periods
+hardware,
+e-mailing and 1) A. Lead – In;
+B. Speaking;
+the Internet
+C. Reading;
+2) D1. Writing;
+Geography:
+D2. Listening;
+Countries,
+E. Writing.
+Nationalities
+and Flags
+3) Grammar;
+F. Speaking
+Other
+& Writing;
+Languages:
+4) G. Writing.
+how to say
+“Good
+Morning!”
+
+Using
+Present
+Simple.
+Touching
+upon
+Present
+Simple with
+Gerund.
+
+Lesson 2
+Internet
+friends
+
+Asking
+questions
+to find out
+about other
+Nationalities.
+Describing a
+typical “Day in
+Your Life”.
+
+Singular
+form, also in
+Question and
+Negative.
+
+SUGGESTED
+LESSON
+SCHEDULE
+
+Schooling
+in Different
+Cultures
+
+Nationalities
+and Countries
+
+Geography:
+Which states
+comprise
+Great Britain.
+Main cities,
+population,
+flowers.
+
+4 teaching
+periods
+1) A. Lead-In;
+B.Listening
+& Reading;
+C. Speaking
+& Writing.
+
+Highlighting
+different
+endings in
+3rd person
+Singular.
+
+2) Grammar;
+D. Writing;
+3) E. Reading &
+Speaking;
+F. Writing;
+
+Lesson 3
+The
+United
+Kingdom
+
+Finding
+specific
+information
+about the
+British Isles
+from a text
+and filling in a
+chart
+
+The British
+Isles, its
+countries, its
+flowers.
+
+1) A. Lead-In;
+B. Reading;
+C. Vocabulary
+2) Project
+3) SelfAssessment
+Test
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 17
+
+4) G. Portfolio.
+3 teaching
+periods
+
+17
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 2/8 | GLOBAL PDF p.18 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+UNIT 1
+
+INTERNET FRIENDS AROUND
+EUROPE
+Cover p. 13
+• Ask pupils to look at the cover page. Ask
+them to look at the map in the background.
+Elicit where the children come from.
+• Ask the pupils about the Internet: what
+they know about it, what they don’t
+know about it and how people use it. Ask
+which pupils have computers at home and
+use the Internet. Check what they know
+about e-mail.
+TAPESCRIPT
+Nadine: I’m French and I have lots of Internet
+friends all over Europe. Do you?
+Mark: Do you play computer games?
+Kostas: Do you enjoy learning English? I do.
+
+LESSON 1
+
+DO YOU LIKE COMPUTERS?
+Aims of the Lesson
+a. To revise and present vocabulary related
+to computers and the educational uses of
+the Internet.
+b. To familiarize pupils with the format of
+an e-mail.
+c. To get pupils acquainted with the culture
+of the Internet.
+d. To present and practice structures that
+express likes/dislikes/preferences.
+A. LEAD-IN
+
+PB page: 14 / Time: 3-5 mins
+→ Cross-curricular link: COMPUTER
+STUDIES.
+• Talk about computers with the pupils.
+You may find that most of them will
+
+have a computer and many will be on the
+Internet.
+• Check what vocabulary pupils already know.
+Check they know what each item does.
+- screen: where you view words and images
+- mouse: it allows you to move around the
+computer screen
+- scanner: it is used to copy a picture or a
+18
+
+10-0105_AGGLIKA DASKALOU.indd 18
+
+document into the computer
+- printer: it is used to print documents
+- microphone: you use this to speak to other
+people on the Web
+- speaker: this sends out sound
+- keyboard: a piece of equipment with keys
+to type information into the computer
+-
+tower: where the computer processors,
+drives and memory are located
+• Then get them to do the exercise in pairs
+and check their work.
+KEY a. printer, b. tower, c. screen, d.
+speaker, e. scanner, f. microphone &
+headphones, g. keyboard, h. mouse
+ACTIVITY BOOK:
+UNIT 1 • LESSON 1 • ACTIVITY A • p. 7
+KEY sentences with a. dancing, b.
+painting, c reading, d. playing the violin,
+e. skating, f. fishing.
+DIFFERENTIATED ACTIVITY A • p. 64
+KEY
+1. keyboard, 2. screen, 3. mouse,
+4. microphone, 5. printer
+B. SPEAKING
+
+PB page: 15 / Time: 3-5 mins / TB
+Introduction p. 11
+→C
+ ross-curricular link: COMPUTER
+STUDIES.
+Give them information about the Internet
+and its uses.
+Internet services:
+1. Instant access to and transmission of data,
+information, images from anywhere,
+provided one has a computer and is
+linked to the World Wide Web.
+2. 
+Marketing purposes where companies
+(e.g. Amazon.com) as well as individuals
+(e.g. through e-Bay) display and sell
+products online.
+3. Access to discussion lists, net conferences
+and chatting.
+4. Voice telephony (e.g. through Skype).
+5. Involvement in Net games.
+For more information, you may want to
+read about this in the following website:
+en.wikipedia.org/wiki/Internet
+• Let them do Activity B in pairs and help
+them with unknown words. Check their
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 3/8 | GLOBAL PDF p.19 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+answers. Discuss any issues which may
+cause misunderstanding.
+KEY T, F, T, T, T, T
+C. READING
+
+PB page: 15 / Time: 15 mins / TB
+Introduction p. 9
+→ Cross-curricular link: COMPUTER
+STUDIES.
+
+Pre-Reading Stage
+Draw pupils’ attention to the format and
+use of an e-mail message. Explain things
+like the address, where it should be written,
+the subject and paragraphing. If you have
+access to a computer which has e-mail,
+show them a real e-mail. Compare with the
+writing process of a letter.
+
+While-Reading Stage
+Let them read the e-mail and complete the
+information below the text.
+KEY
+1. He answers his e-mails.
+2. He and his friends use the Internet to
+find information.
+3. He uses the Internet to talk
+4. They use the Internet to play computer
+games with his friend.
+
+Post-Reading Stage
+• Ask pupils to present their findings.
+• You can extend the discussion and talk about
+a vast and sparsely-populated country like
+Australia where children who live on farms
+in some cases do their schooling through
+Internet. They send in their assignments
+to tutors who live many hundreds of miles
+away using the Internet and they get their
+feedback the same way.
+D1. pre-WRITING
+
+PB page: 16 / Time: 8 mins / TB Introduction
+p. 10
+Ask pupils to do activity D1 in pairs. They
+have to read what’s in the chart and tick
+what’s true for their partner. Let them work
+for about 5 minutes on this.
+D2. LISTENING
+
+PB page: 16 / Time: 5-7 mins / TB
+Introduction p. 10
+
+Pre-Listening
+
+• To prepare pupils for the listening activity,
+remind them they should only keep notes
+and there is no need to understand
+everything which is said. The aim is to find
+out the information to fill in the chart.
+• Then, ask them to predict what kind of
+information they expect to see written
+here (names, free times activities etc).
+“Can you tell me what some typical
+names of English children are? Bob, Mary,
+Susan, Tim, etc. What do children like
+doing? Playing football, drawing, painting,
+playing with friends.”
+
+While-Listening
+• Play the cassette/ CD once. Pupils listen
+and fill in the missing information.
+• Play the cassette / CD again and let pupils
+check answers.
+TAPESCRIPT
+Susan: Hello! I’m Susan. Who are you?
+Tom: I’m Tom. How are you, Susan?
+Susan: Very well, thank you. And you?
+Tom: Fine, thanks. Listen! Are you ten, like me?
+Susan: No, I’m eleven. I’m a student in the
+fifth class of Primary school.
+Tom: Oh, I see. I go to the fourth class, I’m
+younger than you.
+Susan: Well, then. What do you like doing in
+your free time activities, Tom?
+Tom: I like playing football and I also like
+reading. But my favourite hobby is working
+on my computer. I’m pretty good at it, you
+know. I love surfing the Net, too. I find out so
+many things about so many faraway places....
+I also visit museums round the world and
+make friends through the Net.
+Susan: Oh, that’s nice. I like computer games
+myself, but I also like jogging.
+Tom: What about your favourite hobby,
+then? You must like something in particular,
+right?
+Susan: Yes, absolutely. I love painting and I
+want to be a painter when I grow up.
+Tom: Wow, that’s fantastic. You must show
+me some work of yours one day. Will you?
+Susan: Of course I will. I’d love to. Anyway,
+see you later.
+Tom: OK, see you tomorrow.
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 19
+
+19
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 4/8 | GLOBAL PDF p.20 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+Post-Listening
+Now, invite pupils to compare their free
+time interests with those of the two
+children in the listening passage. Ask them
+to report to the class what the similarities
+and differences are.
+Differentiated pedagogy (*): Appendix,
+Exercise A, p. 133.
+KEY
+Name Age Likes
+Favourite Pastime
+Susan 11 Computers painting
+		
+jogging
+Tom
+10 Football
+computers
+		reading
+E. WRITING
+
+PB page: 16 / Time: 8 mins / TB Introduction
+p. 10
+• In small groups, pupils take turns in asking
+each other what they enjoy doing. They
+should find common interests.
+• They should create and complete a chart
+like the one below by adding names and
+ticking the right box according to their
+classmates’ answers. This way they can
+see how many classmates enjoy what
+things.
+enjoy
+name… name… ………….
+Draw
+on the
+computer				
+Meet
+with
+friends				
+Watch
+sports
+on TV				
+etc.				
+•
+Don’t use the infinitive + gerund
+terminology yet.
+• One spokesperson from each group can
+report back to the class.
+ACTIVITY BOOK:
+UNIT 1 • LESSON 1 • ACTIVITY A • p. 8
+Pupils write sentences. Sample answers
+p. 125.
+20
+
+10-0105_AGGLIKA DASKALOU.indd 20
+
+GRAMMAR FOCUS
+
+PB page: 17 / Time: 10 mins / TB
+Introduction p. 12
+Aims
+a. 
+to review and consolidate likes and
+dislikes
+b. to teach preferences
+• Ask pupils to look at the structures in
+the Grammar Focus section.
+• Draw their attention to
+a) the structures we use to express likes
+b) the structures we use to express dislikes
+and...
+those structures we use to express
+c) 
+preferences
+Point out the use of the infinitive or
+•
+gerund with the expressions. Use the
+following table on the Blackboard
+like/ enjoy + …ing
+don’t like/ hate + ….ing
+prefer + noun/ gerund + noun
+prefer + gerund + noun
+Ask them to copy the tables in their
+•
+notebooks for future reference. Make
+sure they indicate which structure
+corresponds to each function.
+interests
+names
+1.
+2.
+3.
+F. SPEAKING & WRITING
+
+PB page: 17 / Time: 10-12 mins / TB
+Introduction p. 10-11
+Let pupils work in pairs and do the first part
+of Activity F.
+• Ask them to read the stages carefully and
+help them when needed.
+•
+Make the following drawing on the
+blackboard and elicit what the members
+of this club could include in their poster,
+e.g. activities, photos, drawings, magazine
+pictures, realia, etc.
+DRAMA CLUB
+In our club you can:
+- Take part in plays
+- Mime
+- Sing and dance
+- etc.
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 5/8 | GLOBAL PDF p.21 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+• If students lack time, you can choose to
+present their posters in the next lesson.
+G. WRITING
+
+PB page: 17 / Time: 15 mins / TB
+Introduction p. 10
+• Ask pupils to focus on the writing task.
+They can use ideas they discussed in the
+previous activities.
+
+LESSON 2
+
+However you must also make pupils aware
+of the dangers of chatting on the Internet.
+• They should be very careful about creating
+friendships with strangers.
+• They should never reveal personal details
+about themselves, such as names and
+addresses.
+There are many websites on this topic.
+One is: http://www.youngmedia.org.au/
+mediachildren/06_10_internet_benefits.htm
+A. LEAD-IN
+
+INTERNET FRIENDS
+Aims of the Lesson
+a. To introduce the characters of this book.
+b. 
+To familiarize pupils with the idea of
+“chatting” on the Internet with friends
+both national or international (Internet
+friends).
+c. To revise vocabulary related to countries
+and nationalities.
+d. To familiarize pupils with the use of the
+Simple Present tense and its use for
+referring to permanent actions.
+e. To make them write about “A Day in My
+Life”.
+f. 
+To introduce the idea of the English
+Language Portfolio.
+Background knowledge
+
+→ Cross-curricular link: COMPUTER
+STUDIES.
+Introduce the idea of having Net friends.
+Explain that through the Internet it is possible
+to use instant messaging. It is quicker than emailing friends. You type a short note and you
+send it to another person’s computer, where
+it pops up on the screen. So, you can “chat”
+with a friend if he/ she is online too, even if
+both of you are using the computer for other
+tasks. And, of course, you don’t have to check
+your e-mail inbox for new messages.
+Another thing is that in this instant
+message conversation more that two
+people can take part, so a group of people
+can be online exchanging responses at the
+same time. You can exchange photos and if
+you have microphones or speakers you can
+talk, too. Finally, using web cameras you
+can have a live conversation.
+
+PB page: 18 / Time: 2-3 mins
+• You present some websites that pupils can
+visit at school with you, their Computer
+Science teacher or even at home. Through
+these sites they can find other pupils
+around the world and they can establish
+a network of internet friends. Note: They
+would definitely need your help with the
+IKY website (www.iky.gr).
+• Brainstorm with pupils and see what they
+might be interested in finding out from
+say a friend in the United States or in
+Australia.
+B. LISTENING, READING AND WRITING
+
+PB page: 18 / Time: 15 mins / TB
+Introduction p. 9, 10
+
+Warm up
+Through the images and speech bubbles,
+introduce the characters of the book.
+
+Pre-Reading
+Take the pupils through the chart and
+what their task is. The listening must be
+done with books closed.
+
+While-Reading
+• Play the cassette/ CD once.
+• Before checking responses ask pupils to
+open their books and complete missing
+information after reading the dialogue.
+• Check answers. Tapescript is in PB.
+
+Post-Reading
+• Ask them to complete the last line of the
+box, i.e. the one about themselves.
+•
+Check answers and correct structures
+– remind them of Grammar Focus items in
+the previous lesson.
+•
+Finally check knowledge of vocabulary
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 21
+
+21
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 6/8 | GLOBAL PDF p.22 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+items included in the dialogue.
+VOCABULARY NOTE:
+“College” as used in France, Britain and the
+United States:
+In France, the secondary education
+•
+institutions are called Collèges. These are
+the equivalent of gymnasia in Greece.
+• In Britain a college can be one of the
+following:
+A place where students generally over
+1. 
+the age of 18 are trained in a particular
+subject, which does not always lead to a
+degree, e.g. The Royal College of Music.
+2. One of the parts of a particular university:
+e.g. Trinity College, Cambridge which is
+part of the University of Cambridge.
+3. A
+ private school e.g. Eton College.
+• In the United States it is a place where
+students can earn a first Bachelor’s
+degree. A university offers both bachelor’s
+degrees and advanced degrees.
+ACTIVITY BOOK:
+UNIT 1 • LESSON 2 • ACTIVITY A • p. 7
+KEY 1d, 2e, 3a, 4c, 5b
+UNIT 1 • LESSON 2 • ACTIVITY B • p. 8
+KEY Athens, Mark, London, Marseilles,
+France, 11, 5th, 12, West Wimbledon
+Primary School, 12, student, 2nd, studying,
+tests, homework, Kostas.
+C. COUNTRIES & NATIONALITIES
+
+PB page: 19 / Time: 10-15 mins / TB
+Introduction p. 12
+→ Cross-curricular link: GEOGRAPHY.
+• Activity c.a, (p. 19). Draw pupils’ attention
+to the characters of our book. Ask them
+to re-read what Mark said in the first two
+lines of the dialogue and what we can see
+in the three bubbles.
+• Then write the following sentences on the
+Blackboard.
+1. 
+Kostas is from ______ (pupils:
+Greece)
+so he’s _______ (pupils: Greek).
+2. 
+Mark is from ________ (pupils:
+England)
+so he’s ______ (pupils: English).
+3. 
+Nadine is from _________ (pupils:
+France) so she’s ________ (pupils:
+22
+
+10-0105_AGGLIKA DASKALOU.indd 22
+
+French).
+• Draw pupils’ attention to the ways that
+words to describe nationality are generally
+formed by using endings like –ish or –ian
+or –ese etc.
+•
+Point out there are many exceptions.
+Some common ones are: British, Scottish,
+Welsh, French, Spanish, Greek, Dutch,
+Swiss, Danish, and Turkish. For the people
+United States, the word generally used is
+American, but it is not used very often as
+it is not strictly correct as it refers to the
+continent and not the country.
+• Write the words they want on the blackboard
+so that all pupils can check spelling.
+• Let pupils work in pairs and do the Activity
+for 2-3 mins.
+KEY 1. Portuguese, 2. Russian, 3. Dutch, 4.
+Spanish, 5. German, 6. Swiss, 7. Albanian,
+8. Italian, 9. Greek
+• Activity c.b, (p. 19). Allow 3-5 mins for the
+activity. Pupils can use the map at the end
+of the book.
+PB, Appendix, p. 163. Bordering countries:
+Portugal & Spain, Holland & Germany,
+Switzerland & Germany, Greece & Albania,
+Italy & Switzerland.
+• Activity c.c. (p. 19).Offer your help when
+needed.
+Appendix p. 133 Act. C: An exercise to
+give a glimpse of other languages.
+KEY 1H, 2I, 3C, 4J, 5E, 6A, 7G, 8B, 9F,
+10D.
+ACTIVITY BOOK:
+UNIT 1 • LESSON 2 • ACTIVITY C • p. 8
+KEY 1. British, Russia • 2. Italy
+3. German • 4. Austria, Dutch • 5. Albania
+Bulgaria • 6. French • 7. Danish • 8. Welsh •
+9. England •10. American
+
+GRAMMAR FOCUS
+
+PB page: 20 / Time: 10-15 mins / TB
+Introduction p. 12
+Aim
+a. To revise Simple Present tense used for
+permanent actions.
+
+Warm up
+Invite pupils to look at the Grammar Focus
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 7/8 | GLOBAL PDF p.23 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+section in PB Appendix (p. 20) and identify
+the structure (i.e. Simple Present)
+
+Presentation
+• Ask pupils if the facts presented in Grammar
+Focus are temporary or permanent. Elicit
+from pupils that these are things that
+happen usually and are permanent.
+• Then elicit ways of forming:
+1. the 3rd person singular in the affirmative
+form (present spelling problems)
+2. the question form (focus attention to
+do/ does use)
+3. the negative form (don’t/ doesn’t use).
+•
+Write examples on the blackboard for
+pupils to see and check understanding.
+• Spelling of 3rd person singular forms:
+A. Most verbs: add –s to infinitive
+B. Verbs ending in consonant + y, change
+the y to i and add –es.
+C. Verbs ending in –s, -z, –ch, -sh, or –x,
+add –es to infinitive.
+D. WRITING
+
+PB page: 20 / Time: 10-15 mins / TB
+Introduction p. 10
+• Work on 1st person singular and ask pupils
+to fill in the 3 charts.
+•
+Ensure they talk about themselves and
+write in the first person singular.
+• Get them to also think of things which other
+pupils might do but that they don’t do. Girls
+might say “I don’t watch football on TV”.
+• Invite pupils to report to their classmates.
+ACTIVITY BOOK:
+UNIT 1 • LESSON 2 • ACTIVITY D • p. 9
+KEY
+1. do you come from; come from
+2. Does a crocodile climb trees
+3. does a doctor do, works, takes care
+4. do you see, visit
+5. People in Greece celebrate,
+I suppose, have, enjoying
+6. does a postman do, work, delivers
+E. READING & SPEAKING
+
+PB page: 21 / Time: 10-15 mins / TB
+Introduction p. 9, 11
+→ Cross-curricular link: GEOGRAPHY.
+Pre-Reading Stage
+• Ask pupils to guess what an article with
+
+the title “A Day in My Life” could include.
+“What does this mean? The passage talks
+about a boy’s day. What do you do each
+day? What time do you get up? What do
+you study at school? Do you study Maths,
+Greek, History? What do you do after
+school? Do you play in the playground?”
+
+While-Reading Stage
+Invite pupils to read the article of this Irish
+boy and, either highlight, or keep notes on
+the blackboard for the three topics: times/
+school subjects/ activities.
+Differentiated Pedagogy (*): For an easier
+version assign only one or two topics to
+pupils you feel that will not be able to cope
+with this task.
+
+Post-Reading Stage
+• Elicit responses. Encourage critical thinking
+by asking about similarities and differences
+with their own pupil life. Talk about the
+picture next to the reading.
+• Ask them to find differences in the situation
+depicted in the photo. “What time does
+Richard get up and what time do you get up?
+Do boys & girls in India have computers in their
+schools? Maybe not, but we don’t know. Do
+you?”
+F. WRITING
+
+PB page: 21 / Time: 10-15 mins / TB
+Introduction p. 10
+This is to get pupils to express themselves
+using the 3rd person singular question form.
+• Set the scene by eliciting what they know
+about India and how poor people are
+there. Point out India is one of the most
+advanced countries in terms of software
+production and despite the fact that
+people are poor many have access to
+computers.
+• Allow time for pupils to write questions.
+Check correct use of “does”.
+• Check a sample of work done by asking
+pupils to read out their questions.
+ACTIVITY BOOK:
+UNIT 1 • LESSON 2 • ACTIVITY E • p. 10
+KEY What’s your name, How old are you,
+Where do you come from, Where do you
+live, do you like travelling, What else, Do
+
+Teacher’s Book • Methodological Tips
+
+10-0105_AGGLIKA DASKALOU.indd 23
+
+23
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
+==============================================================================
+[PAGE 8/8 | GLOBAL PDF p.24 | SOURCE: teacher_unit01.pdf]
+==============================================================================
+you like sleeping, What else do you dislike
+doing, What else do you like doing.
+PORTFOLIO
+
+PB page: 21 / Time: 10-15 mins / TB
+Introduction p. 14
+• Explain what a Portfolio is and talk about
+its use. Use information presented in the
+Introduction of the Teacher’s Book.
+• Ask them to use ideas they have already
+worked on.
+• They should draw and colour in pictures.
+
+LESSON 3
+
+Aims of the Lesson
+a. To familiarize pupils with the British Isles
+and with some geographical and cultural
+facts related to the countries therein.
+b. 
+To encourage them search for specific
+information.
+c. To consolidate structures taught in this
+unit.
+d. To involve and encourage them to make
+their own project.
+e. To use sources in order to get infor- mation
+relevant to the successful completion of
+their selected project.
+A. LEAD-IN
+
+PB page: 22 / Time: 10 mins
+→ Cross-curricular link: GEOGRAPHY.
+
+Pre-Reading Stage
+
+• Encourage pupils to read the text quickly
+(skim & scan) and answer the pre-question
+“Where could one find a text like this?”
+• Probable answers: in a geography book, in
+an encyclopedia, in a guidebook, in the home
+page of a British tourist organisation etc.
+B. READING
+
+PB page: 22 / Time: 10-15 mins / TB
+Introduction p. 9
+
+While-Reading Stage
+
+• They are also asked to fill-in details of their
+own prefecture.
+• The Appendix p. 134 contains additional
+reading on the Symbols of Britain.
+C. VOCABULARY
+
+PB page: 22 / Time: 10-15 mins / TB
+Introduction p. 13
+•
+Still related to the reading, the pupils
+are asked to scan the text again and find
+words related to the 4 lexical areas.
+•
+You may like to say something about
+the national flowers and check whether
+Greece has its own national flower.
+PROJECT
+
+PB page: 22 / Time: 30 mins / TB
+Introduction p. 14
+• Invite pupils to work in groups. Make sure
+that pupils form groups of more than
+3-4 members and that they are pupils of
+mixed abilities.
+• Explain the process of work. They have two
+different types of projects which they can
+find in the Appendix, PROJECT, (p. 134). Each
+group should choose one topic to work on.
+The pupils should agree on each one’s
+•
+role in the project (e.g. who is going to
+be the “secretary” to keep notes, who
+is going to collect the necessary material
+or who is going to help with writing the
+texts). Finally they have to decide on who
+is going to present it to the class.
+• Explain to pupils there will be a deadline
+for the completion of the project so they
+might need to meet outside the school as
+well.
+• Offer suggestions for the correct use of
+sources available in the school (e.g. library
+facilities, internet connection). Investigate
+what sources could be found at home.
+• Finally, ask the groups to present their work.
+
+• Ensure it is clear to the pupils what they
+are looking for: the capitals and the
+population.
+
+24
+
+10-0105_AGGLIKA DASKALOU.indd 24
+
+Teacher’s Book • Methodological Tips
+
+2/4/14 2:02 PM
+
+--- IMAGES ON THIS PAGE ---
+[NO CONTENT IMAGES]
+
