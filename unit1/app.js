@@ -332,14 +332,56 @@ document.addEventListener('DOMContentLoaded', async () => {
   function chooseQuestion(pool) {
     if (!pool.length) return null;
     const target = pool[Math.floor(Math.random() * pool.length)];
-    const others = pool.filter(item => item.id !== target.id);
-    const count = Math.min(4, pool.length);
-    const distractors = [];
-    while (distractors.length < count - 1 && others.length) {
-      const candidate = others.splice(Math.floor(Math.random() * others.length), 1)[0];
-      if (!distractors.some(item => item.id === candidate.id)) distractors.push(candidate);
+    let distractors = [];
+
+    // Distractor Rules: 1. Pre-calibrated distractors (strict POS & semantic category)
+    if (Array.isArray(target.distractors_word) && target.distractors_word.length) {
+      target.distractors_word.forEach((dw, idx) => {
+        const found = pool.find(item => item.word.toLowerCase() === dw.toLowerCase());
+        if (found) {
+          distractors.push(found);
+        } else if (target.distractors_greek && target.distractors_greek[idx]) {
+          distractors.push({
+            id: `ext_${target.id}_${idx}`,
+            word: dw,
+            pos: target.pos,
+            meaning_gr: target.distractors_greek[idx],
+            definition_en: (target.distractors_def && target.distractors_def[idx]) || ''
+          });
+        }
+      });
     }
-    return { target, options: [target, ...distractors].sort(() => Math.random() - 0.5) };
+
+    // 2. Fallback: Strict POS matching & semantic category consistency
+    if (distractors.length < 3) {
+      const samePosCat = pool.filter(item => 
+        item.id !== target.id && 
+        item.pos === target.pos && 
+        item.category === target.category &&
+        !distractors.some(d => d.id === item.id)
+      );
+      const samePos = pool.filter(item => 
+        item.id !== target.id && 
+        item.pos === target.pos && 
+        !distractors.some(d => d.id === item.id)
+      );
+      const candidates = [...samePosCat, ...samePos];
+      while (distractors.length < 3 && candidates.length) {
+        const pick = candidates.splice(Math.floor(Math.random() * candidates.length), 1)[0];
+        if (!distractors.some(d => d.id === pick.id)) distractors.push(pick);
+      }
+    }
+
+    // 3. Absolute safety fallback
+    if (distractors.length < 3) {
+      const remaining = pool.filter(item => item.id !== target.id && !distractors.some(d => d.id === item.id));
+      while (distractors.length < 3 && remaining.length) {
+        distractors.push(remaining.splice(Math.floor(Math.random() * remaining.length), 1)[0]);
+      }
+    }
+
+    const options = [target, ...distractors.slice(0, 3)].sort(() => Math.random() - 0.5);
+    return { target, options };
   }
 
   function updateQuizHud() {

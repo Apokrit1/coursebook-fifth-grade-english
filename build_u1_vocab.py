@@ -760,6 +760,33 @@ items = [
     }
 ]
 
+# Enrich with calibrated pedagogical distractors (distractor-rules skill)
+try:
+    from apply_u1_distractors import DISTRACTOR_WORD_MAP, EXTERNAL_WORDS
+    word_map = {item['word'].lower(): item for item in items}
+    for item in items:
+        item_id = item['id']
+        dist_words = DISTRACTOR_WORD_MAP.get(item_id, [])
+        if dist_words:
+            item['distractors_word'] = dist_words
+            dist_greek = []
+            dist_defs = []
+            for dw in dist_words:
+                dw_lower = dw.lower()
+                if dw_lower in word_map:
+                    source = word_map[dw_lower]
+                    dist_greek.append(source['meaning_gr'])
+                    dist_defs.append(source['definition_en'])
+                elif dw_lower in EXTERNAL_WORDS:
+                    source = EXTERNAL_WORDS[dw_lower]
+                    dist_greek.append(source['meaning_gr'])
+                    dist_defs.append(source['definition_en'])
+            item['distractors_greek'] = dist_greek
+            item['distractors_def'] = dist_defs
+    print(f"Applied calibrated pedagogical distractors to {len(items)} vocabulary items.")
+except Exception as e:
+    print(f"Warning: Distractor enrichment skipped: {e}")
+
 # Write JSON
 with open('unit1/data/vocabulary_data.json', 'w', encoding='utf-8') as f:
     json.dump(items, f, indent=2, ensure_ascii=False)

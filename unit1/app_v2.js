@@ -620,8 +620,56 @@ document.addEventListener('DOMContentLoaded', async () => {
   function chooseVocabQuestion() {
     if (vocabList.length < 2) return null;
     const target = vocabList[Math.floor(Math.random() * vocabList.length)];
-    const distractors = vocabList.filter(item => item.id !== target.id).sort(() => Math.random() - 0.5).slice(0, Math.min(3, vocabList.length - 1));
-    return { target, options: [target, ...distractors].sort(() => Math.random() - 0.5) };
+    let distractors = [];
+
+    // Distractor Rules: 1. Pre-calibrated distractors (strict POS & semantic category)
+    if (Array.isArray(target.distractors_word) && target.distractors_word.length) {
+      target.distractors_word.forEach((dw, idx) => {
+        const found = vocabList.find(item => item.word.toLowerCase() === dw.toLowerCase());
+        if (found) {
+          distractors.push(found);
+        } else if (target.distractors_greek && target.distractors_greek[idx]) {
+          distractors.push({
+            id: `ext_${target.id}_${idx}`,
+            word: dw,
+            pos: target.pos,
+            meaning_gr: target.distractors_greek[idx],
+            definition_en: (target.distractors_def && target.distractors_def[idx]) || ''
+          });
+        }
+      });
+    }
+
+    // 2. Fallback: Strict POS matching & semantic category consistency
+    if (distractors.length < 3) {
+      const samePosCat = vocabList.filter(item => 
+        item.id !== target.id && 
+        item.pos === target.pos && 
+        item.category === target.category &&
+        !distractors.some(d => d.id === item.id)
+      );
+      const samePos = vocabList.filter(item => 
+        item.id !== target.id && 
+        item.pos === target.pos && 
+        !distractors.some(d => d.id === item.id)
+      );
+      const candidates = [...samePosCat, ...samePos];
+      while (distractors.length < 3 && candidates.length) {
+        const pick = candidates.splice(Math.floor(Math.random() * candidates.length), 1)[0];
+        if (!distractors.some(d => d.id === pick.id)) distractors.push(pick);
+      }
+    }
+
+    // 3. Absolute safety fallback
+    if (distractors.length < 3) {
+      const remaining = vocabList.filter(item => item.id !== target.id && !distractors.some(d => d.id === item.id));
+      while (distractors.length < 3 && remaining.length) {
+        distractors.push(remaining.splice(Math.floor(Math.random() * remaining.length), 1)[0]);
+      }
+    }
+
+    const options = [target, ...distractors.slice(0, 3)].sort(() => Math.random() - 0.5);
+    return { target, options };
   }
 
   function startChallenge() {
