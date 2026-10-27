@@ -198,7 +198,9 @@
       "a printed list of foods and drinks with their prices",
       "a chart that shows the times of classes each day",
       "a newspaper written by pupils with stories about their school"
-    ]
+    ],
+    "image": "assets/images/invitation_menu.jpg",
+    "image_alt": "school halloween invitation and canteen menu graphic novel illustration"
   },
   {
     "id": 8,
@@ -225,7 +227,9 @@
       "a card that asks someone to come to an event",
       "a chart that shows the times of classes each day",
       "a newspaper written by pupils with stories about their school"
-    ]
+    ],
+    "image": "assets/images/invitation_menu.jpg",
+    "image_alt": "school halloween invitation and canteen menu graphic novel illustration"
   },
   {
     "id": 9,
@@ -252,7 +256,9 @@
       "a quiet room with books that pupils can borrow",
       "a room in a school where pupils have lessons",
       "a room at school where pupils buy food and drinks"
-    ]
+    ],
+    "image": "assets/images/headmistress.jpg",
+    "image_alt": "school headmistress greeting students warmly graphic novel illustration"
   },
   {
     "id": 10,
@@ -279,7 +285,9 @@
       "a printed list of foods and drinks with their prices",
       "a card that asks someone to come to an event",
       "a newspaper written by pupils with stories about their school"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "weekly school timetable on study desk graphic novel illustration"
   },
   {
     "id": 11,
@@ -306,7 +314,9 @@
       "feeling unhappy or full of sorrow",
       "feeling strong displeasure or annoyance with someone",
       "feeling tired because something is not interesting"
-    ]
+    ],
+    "image": "assets/images/excited.jpg",
+    "image_alt": "happy smiling students graphic novel illustration"
   },
   {
     "id": 12,
@@ -333,7 +343,9 @@
       "worried and anxious about what might happen",
       "feeling fear or frightened by something dangerous",
       "needing sleep or rest after hard physical work"
-    ]
+    ],
+    "image": "assets/images/excited.jpg",
+    "image_alt": "excited pupils celebrating quiz victory graphic novel illustration"
   },
   {
     "id": 13,
@@ -360,7 +372,9 @@
       "feeling very happy and eager about something",
       "feeling pleased and showing good pleasure",
       "feeling pleased because of an achievement or good work"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 14,
@@ -387,7 +401,9 @@
       "feeling pleased and showing good pleasure",
       "feeling very happy and eager about something",
       "feeling pleased because of an achievement or good work"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 15,
@@ -414,7 +430,9 @@
       "feeling pleased and showing good pleasure",
       "feeling regret or sadness for doing something wrong",
       "feeling fear that something bad will happen"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 16,
@@ -441,7 +459,9 @@
       "needing sleep or rest after hard physical work",
       "worried and anxious about what might happen",
       "feeling unhappy or full of sorrow"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 17,
@@ -468,7 +488,9 @@
       "feeling very happy and eager about something",
       "feeling pleased and showing good pleasure",
       "feeling pleased because of an achievement or good work"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 18,
@@ -495,7 +517,9 @@
       "ready to face danger without showing fear",
       "feeling pleased and showing good pleasure",
       "feeling tired because something is not interesting"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 19,
@@ -522,7 +546,9 @@
       "ready to face danger without showing fear",
       "feeling very happy and eager about something",
       "feeling pleased and showing good pleasure"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 20,
@@ -549,7 +575,9 @@
       "feeling very happy and eager about something",
       "feeling pleased and showing good pleasure",
       "feeling tired because something is not interesting"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 21,
@@ -576,7 +604,9 @@
       "feeling regret or sadness for doing something wrong",
       "feeling unhappy or full of sorrow",
       "feeling strong displeasure or annoyance with someone"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 22,
@@ -603,7 +633,9 @@
       "feeling pleased because of an achievement or good work",
       "feeling pleased and showing good pleasure",
       "feeling very happy and eager about something"
-    ]
+    ],
+    "image": "assets/images/feelings.jpg",
+    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
   },
   {
     "id": 23,
@@ -630,7 +662,9 @@
       "a curved French pastry made with lots of butter",
       "a sweet round ring of fried cake dough",
       "a sweet baked pastry filled with hot apples"
-    ]
+    ],
+    "image": "assets/images/snacks.jpg",
+    "image_alt": "delicious doughnut and muffin at school canteen graphic novel illustration"
   },
   {
     "id": 24,
@@ -657,7 +691,9 @@
       "a small round sweet cake eaten warm or cold",
       "a curved French pastry made with lots of butter",
       "a sweet round ring of fried cake dough"
-    ]
+    ],
+    "image": "assets/images/snacks.jpg",
+    "image_alt": "delicious doughnut and muffin at school canteen graphic novel illustration"
   },
   {
     "id": 25,
@@ -684,7 +720,9 @@
       "a sweet round ring of fried cake dough",
       "a small round sweet cake eaten warm or cold",
       "bread slices made crisp and brown by heat"
-    ]
+    ],
+    "image": "assets/images/croissant.jpg",
+    "image_alt": "golden croissant on school canteen tray graphic novel illustration"
   },
   {
     "id": 26,
@@ -711,7 +749,9 @@
       "a curved French pastry made with lots of butter",
       "a small round sweet cake eaten warm or cold",
       "a sweet baked pastry filled with hot apples"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 27,
@@ -738,7 +778,9 @@
       "a sweet healthy drink made by squeezing fresh apples",
       "the clear natural liquid that people drink to live",
       "a white healthy liquid that comes from cows"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 28,
@@ -765,7 +807,9 @@
       "a sweet refreshing drink made by squeezing fresh oranges",
       "the clear natural liquid that people drink to live",
       "a hot drink made by brewing dried leaves in hot water"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 29,
@@ -792,7 +836,9 @@
       "a white healthy liquid that comes from cows",
       "a sweet refreshing drink made by squeezing fresh oranges",
       "a hot drink made by brewing dried leaves in hot water"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 30,
@@ -819,7 +865,9 @@
       "bread slices made crisp and brown by heat",
       "a small round sweet cake eaten warm or cold",
       "a curved French pastry made with lots of butter"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 31,
@@ -846,7 +894,9 @@
       "a grain food eaten in a bowl with cold milk",
       "a curved French pastry made with lots of butter",
       "a small round sweet cake eaten warm or cold"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 32,
@@ -873,7 +923,9 @@
       "bread slices made crisp and brown by heat",
       "a white healthy liquid that comes from cows",
       "a grain food eaten in a bowl with cold milk"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 33,
@@ -900,7 +952,9 @@
       "a dark hot drink made from roasted coffee beans",
       "the clear natural liquid that people drink to live",
       "a sweet refreshing drink made by squeezing fresh oranges"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 34,
@@ -927,7 +981,9 @@
       "the clear natural liquid that people drink to live",
       "a sweet refreshing drink made by squeezing fresh oranges",
       "a hot drink made by brewing dried leaves in hot water"
-    ]
+    ],
+    "image": "assets/images/lunch_tray.jpg",
+    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
   },
   {
     "id": 35,
@@ -954,7 +1010,9 @@
       "the school subject of numbers, calculations and shapes",
       "the school subject that studies past events and people",
       "the school subject that studies countries, maps and rivers"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 36,
@@ -981,7 +1039,9 @@
       "the school subject where pupils learn to speak and write English",
       "the school subject that studies past events and people",
       "the school subject that studies nature and experiments"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 37,
@@ -1008,7 +1068,9 @@
       "the school subject that studies past events and people",
       "the school subject of numbers, calculations and shapes",
       "the school subject that studies nature and experiments"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 38,
@@ -1035,7 +1097,9 @@
       "the school subject that studies countries, maps and rivers",
       "the school subject where pupils learn to speak and write English",
       "the school subject of numbers, calculations and shapes"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 39,
@@ -1062,7 +1126,9 @@
       "the school subject of numbers, calculations and shapes",
       "the school subject that studies countries, maps and rivers",
       "the school subject where pupils do sports and exercises"
-    ]
+    ],
+    "image": "assets/images/science.jpg",
+    "image_alt": "science experiment lab graphic novel illustration"
   },
   {
     "id": 40,
@@ -1089,7 +1155,9 @@
       "the school subject where pupils sing and play instruments",
       "the school subject that studies nature and experiments",
       "the school subject where pupils do sports and exercises"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 41,
@@ -1116,7 +1184,9 @@
       "the school subject where pupils draw, paint and make things",
       "the school subject where pupils learn to speak and write English",
       "the school subject that studies past events and people"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 42,
@@ -1143,7 +1213,9 @@
       "the school subject that studies nature and experiments",
       "the school subject where pupils draw, paint and make things",
       "the school subject of numbers, calculations and shapes"
-    ]
+    ],
+    "image": "assets/images/subjects.jpg",
+    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
   },
   {
     "id": 43,
@@ -1170,7 +1242,9 @@
       "the types of food a person eats every day",
       "helpful suggestions given to assist someone with a choice",
       "physical activities done to stay healthy and strong"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 44,
@@ -1197,7 +1271,9 @@
       "actions that are unhealthy or harmful if done regularly",
       "choosing nutritious foods like fruit and fresh vegetables",
       "to stay strong and healthy by doing daily exercise"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 45,
@@ -1224,7 +1300,9 @@
       "healthy actions you do regularly to care for yourself",
       "choosing nutritious foods like fruit and fresh vegetables",
       "the process of learning and exercising for a sport"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 46,
@@ -1251,7 +1329,9 @@
       "healthy actions you do regularly to care for yourself",
       "actions that are unhealthy or harmful if done regularly",
       "the types of food a person eats every day"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 47,
@@ -1278,7 +1358,9 @@
       "to repeat an activity often to improve your skill",
       "physical activities done to stay healthy and strong",
       "the process of learning and exercising for a sport"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 48,
@@ -1305,7 +1387,9 @@
       "physical activities done to stay healthy and strong",
       "to stay strong and healthy by doing daily exercise",
       "a person who trains a sports player or team"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 49,
@@ -1332,7 +1416,9 @@
       "a person who trains a sports player or team",
       "something you do often and almost without thinking",
       "the process of learning and exercising for a sport"
-    ]
+    ],
+    "image": "assets/images/basketball_player.jpg",
+    "image_alt": "star basketball player in dynamic graphic novel match action"
   },
   {
     "id": 50,
@@ -1359,7 +1445,9 @@
       "an athlete who plays the team game of basketball",
       "something you do often and almost without thinking",
       "helpful suggestions given to assist someone with a choice"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 51,
@@ -1386,7 +1474,9 @@
       "physical activities done to stay healthy and strong",
       "the types of food a person eats every day",
       "something you do often and almost without thinking"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 52,
@@ -1413,7 +1503,9 @@
       "the process of learning and exercising for a sport",
       "the types of food a person eats every day",
       "something you do often and almost without thinking"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 53,
@@ -1440,7 +1532,9 @@
       "something you do often and almost without thinking",
       "helpful suggestions given to assist someone with a choice",
       "the process of learning and exercising for a sport"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 54,
@@ -1467,7 +1561,9 @@
       "the types of food a person eats every day",
       "something you do often and almost without thinking",
       "the process of learning and exercising for a sport"
-    ]
+    ],
+    "image": "assets/images/training_coach.jpg",
+    "image_alt": "basketball coach and athletes training session graphic novel illustration"
   },
   {
     "id": 55,
@@ -1494,7 +1590,9 @@
       "in the way that most often happens normally",
       "many times or on many different occasions",
       "not at any time or not ever"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 56,
@@ -1521,7 +1619,9 @@
       "at all times and on every single occasion",
       "on some occasions but not on all times",
       "not at any time or not ever"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 57,
@@ -1548,7 +1648,9 @@
       "not happening very often and only very seldom",
       "at all times and on every single occasion",
       "not at any time or not ever"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 58,
@@ -1575,7 +1677,9 @@
       "at all times and on every single occasion",
       "in the way that most often happens normally",
       "not at any time or not ever"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 59,
@@ -1602,7 +1706,9 @@
       "many times or on many different occasions",
       "at all times and on every single occasion",
       "in the way that most often happens normally"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 60,
@@ -1629,7 +1735,9 @@
       "many times or on many different occasions",
       "in the way that most often happens normally",
       "at all times and on every single occasion"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 61,
@@ -1656,7 +1764,9 @@
       "at all times and on every single occasion",
       "in the way that most often happens normally",
       "many times or on many different occasions"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 62,
@@ -1683,7 +1793,9 @@
       "happening on Saturday and Sunday each week",
       "happening on school days from Monday to Friday",
       "a question phrase used to ask about routine frequency"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 63,
@@ -1710,7 +1822,9 @@
       "happening on each single day without missing one",
       "happening on school days from Monday to Friday",
       "happening on Saturday and Sunday each week"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   },
   {
     "id": 64,
@@ -1737,7 +1851,9 @@
       "polite ways of behaving towards other people in public",
       "the first healthy meal eaten in the morning",
       "a chart that shows the times of classes each day"
-    ]
+    ],
+    "image": "assets/images/customs.jpg",
+    "image_alt": "world customs and polite greetings graphic novel illustration"
   },
   {
     "id": 65,
@@ -1764,7 +1880,9 @@
       "a traditional way of behaving accepted by a society",
       "the first healthy meal eaten in the morning",
       "helpful suggestions given to assist someone with a choice"
-    ]
+    ],
+    "image": "assets/images/customs.jpg",
+    "image_alt": "world customs and polite greetings graphic novel illustration"
   },
   {
     "id": 66,
@@ -1791,7 +1909,9 @@
       "to bend your head or body forward in greeting",
       "to remove your footwear before entering a clean house",
       "to stay strong and healthy by doing daily exercise"
-    ]
+    ],
+    "image": "assets/images/customs.jpg",
+    "image_alt": "world customs and polite greetings graphic novel illustration"
   },
   {
     "id": 67,
@@ -1818,7 +1938,9 @@
       "to hold hands with someone when greeting them politely",
       "to remove your footwear before entering a clean house",
       "to repeat an activity often to improve your skill"
-    ]
+    ],
+    "image": "assets/images/customs.jpg",
+    "image_alt": "world customs and polite greetings graphic novel illustration"
   },
   {
     "id": 68,
@@ -1845,7 +1967,9 @@
       "a traditional way of behaving accepted by a society",
       "polite ways of behaving towards other people in public",
       "the first healthy meal eaten in the morning"
-    ]
+    ],
+    "image": "assets/images/breakfast.jpg",
+    "image_alt": "wooden chopsticks and bowl of rice breakfast graphic novel illustration"
   },
   {
     "id": 69,
@@ -1872,7 +1996,9 @@
       "to bend your head or body forward in greeting",
       "to hold hands with someone when greeting them politely",
       "to stay strong and healthy by doing daily exercise"
-    ]
+    ],
+    "image": "assets/images/customs.jpg",
+    "image_alt": "school entrance and cultural customs graphic novel illustration"
   },
   {
     "id": 70,
@@ -1899,7 +2025,9 @@
       "feeling pleased and showing good pleasure",
       "feeling pleased because of an achievement or good work",
       "feeling very happy and eager about something"
-    ]
+    ],
+    "image": "assets/images/breakfast.jpg",
+    "image_alt": "traditional breakfast custom graphic novel illustration"
   },
   {
     "id": 71,
@@ -1926,7 +2054,9 @@
       "a traditional way of behaving accepted by a society",
       "polite ways of behaving towards other people in public",
       "the types of food a person eats every day"
-    ]
+    ],
+    "image": "assets/images/breakfast.jpg",
+    "image_alt": "traditional international breakfast table graphic novel illustration"
   },
   {
     "id": 72,
@@ -1953,6 +2083,8 @@
       "happening on each single day without missing one",
       "a question phrase used to ask about routine frequency",
       "happening on Saturday and Sunday each week"
-    ]
+    ],
+    "image": "assets/images/frequency_routines.jpg",
+    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
   }
 ]

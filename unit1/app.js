@@ -565,6 +565,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       selectedVoice = event.target.value;
       stopAudio();
       renderTable();
+      updateFlashcard();
     });
     speedSelect.addEventListener('change', event => {
       playbackRate = Number(event.target.value) || 1;
