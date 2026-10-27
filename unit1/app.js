@@ -143,8 +143,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.querySelectorAll('.shell-print-title').forEach(el => { el.textContent = `${getUnitTitle()} — Vocabulary Study Guide`; });
     document.querySelectorAll('.shell-print-footer').forEach(el => { el.textContent = `${unitLabel} • Printable Vocabulary Reference`; });
     byId('cefrBadge').textContent = `CEFR ${unitData.cefr_level || 'A1-'}`;
-    byId('totalWordsCount').textContent = vocabList.length;
-    byId('audioCount').textContent = vocabList.length * 6;
+    if (byId('totalWordsCount')) byId('totalWordsCount').textContent = vocabList.length;
+    if (byId('audioCount')) byId('audioCount').textContent = vocabList.length * 6;
   }
 
   function getAudioPath(type, id) {
@@ -243,7 +243,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   function highlightExample(sentence, word) {
     const first = String(word || '').split(/\s+/)[0].replace(/[^a-zA-Z]/g, '');
     if (!sentence || !first) return escapeHtml(sentence);
-    const pattern = new RegExp(`\\b${first}[a-z]*\\b`, 'gi');
+    const pattern = new RegExp(`\\b(${first}[a-z]*)\\b`, 'gi');
     return escapeHtml(sentence).replace(pattern, '<span class="example-target-word">$1</span>');
   }
 
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
     cardCategory.textContent = item.category || 'General';
     if (item.image) {
-      cardVisual.innerHTML = `<img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.image_alt || item.word)}" style="max-width:220px;max-height:180px;border-radius:12px;object-fit:cover;display:block;margin:0 auto;box-shadow:0 4px 12px rgba(0,0,0,0.12);"><div style="font-size:0.72rem;color:#718096;margin-top:6px;text-align:center;font-weight:500;">📷 ${escapeHtml(item.image_credit || item.image_source || '')}</div>`;
+      cardVisual.innerHTML = `<img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.image_alt || item.word)}" style="width:200px;height:140px;border-radius:12px;object-fit:cover;display:block;margin:0 auto;box-shadow:0 4px 14px rgba(0,0,0,0.12);">`;
     } else {
       cardVisual.textContent = item.emoji || '•';
     }

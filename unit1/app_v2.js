@@ -32,6 +32,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const escapeRegExp = value => String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const titleCase = value => String(value || '').replace(/(^|\s|[-_])\S/g, char => char.toUpperCase());
   const uid = () => Math.random().toString(36).slice(2);
+  const cssEscape = value => (typeof CSS !== 'undefined' && CSS.escape) ? CSS.escape(value) : String(value ?? '').replace(/[!"#$%&'()*+,.\/:;<=>?@[\\\]^`{|}~]/g, '\\$&');
 
   function loadScript(src) {
     return new Promise(resolve => {
@@ -235,7 +236,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   function switchModule(moduleId, scroll) {
-    if (!document.querySelector(`[data-tab="${CSS.escape(moduleId)}"]`)) return;
+    if (!document.querySelector(`[data-tab="${cssEscape(moduleId)}"]`)) return;
     activeModule = moduleId;
     document.querySelectorAll('.v2-tab').forEach(tab => {
       const selected = tab.dataset.tab === moduleId;
@@ -477,7 +478,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   function setupGrammarModule() {
-    const container = byId('panel-grammar .module-body');
+    const container = document.querySelector('#panel-grammar .module-body');
     if (!container) return;
     const practice = array(v2Data.grammar_lab?.practice_items);
     container.addEventListener('click', event => {
@@ -695,9 +696,11 @@ document.addEventListener('DOMContentLoaded', async () => {
       challengeQuestion = { mode: 'fact', target, answered: false };
       byId('challengeInstruction').textContent = target.fact;
       byId('challengeOptions').innerHTML = `<button class="ch-option-btn fact-btn" type="button" data-fact-answer="true"><span class="ch-option-letter">A</span><div><strong>TRUE</strong></div></button><button class="ch-option-btn fact-btn" type="button" data-fact-answer="false"><span class="ch-option-letter">B</span><div><strong>FALSE</strong></div></button>`;
+      if (byId('challengePlay')) byId('challengePlay').style.display = 'none';
       byId('challengeFeedback').style.display = 'none';
       return;
     }
+    if (byId('challengePlay')) byId('challengePlay').style.display = 'inline-flex';
     const question = chooseVocabQuestion();
     if (!question) return;
     challengeQuestion = { mode: challengeMode, ...question, answered: false };
@@ -765,7 +768,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   function setupPractice() {
-    const container = byId('panel-practice .module-body');
+    const container = document.querySelector('#panel-practice .module-body');
     if (!container) return;
     container.addEventListener('click', event => {
       const mode = event.target.closest('[data-challenge-mode]');
@@ -948,11 +951,11 @@ document.addEventListener('DOMContentLoaded', async () => {
       container.querySelectorAll('.wb-card').forEach(card => { card.hidden = button.dataset.wbFilter !== 'all' && card.dataset.lesson !== button.dataset.wbFilter; });
     });
     workbookActivities.forEach(activity => {
-      const card = container.querySelector(`[data-activity-id="${CSS.escape(activity.id)}"]`);
+      const card = container.querySelector(`[data-activity-id="${cssEscape(activity.id)}"]`);
       if (!card) return;
       const controls = [...card.querySelectorAll('input,select,textarea')];
-      const status = card.querySelector(`[data-status-activity="${CSS.escape(activity.id)}"]`);
-      const retry = card.querySelector(`[data-retry-activity="${CSS.escape(activity.id)}"]`);
+      const status = card.querySelector(`[data-status-activity="${cssEscape(activity.id)}"]`);
+      const retry = card.querySelector(`[data-retry-activity="${cssEscape(activity.id)}"]`);
       const setStatus = (correct, total) => {
         status.innerHTML = `<span style="color:${correct === total ? '#276749' : '#c53030'}">${correct} / ${total} valid</span>`;
         retry.hidden = correct === total;
@@ -998,14 +1001,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         status.textContent = 'Models revealed';
         retry.hidden = true;
       };
-      card.querySelector(`[data-check-activity="${CSS.escape(activity.id)}"]`)?.addEventListener('click', check);
-      card.querySelector(`[data-retry-activity="${CSS.escape(activity.id)}"]`)?.addEventListener('click', () => {
+      card.querySelector(`[data-check-activity="${cssEscape(activity.id)}"]`)?.addEventListener('click', check);
+      card.querySelector(`[data-retry-activity="${cssEscape(activity.id)}"]`)?.addEventListener('click', () => {
         const wrong = controls.filter(control => control.classList.contains('is-retry'));
         wrong.forEach(control => { control.value = ''; control.classList.remove('is-retry'); });
         wrong[0]?.focus();
       });
-      card.querySelector(`[data-reveal-activity="${CSS.escape(activity.id)}"]`)?.addEventListener('click', reveal);
-      card.querySelector(`[data-print-activity="${CSS.escape(activity.id)}"]`)?.addEventListener('click', () => printWorkbookActivity(activity));
+      card.querySelector(`[data-reveal-activity="${cssEscape(activity.id)}"]`)?.addEventListener('click', reveal);
+      card.querySelector(`[data-print-activity="${cssEscape(activity.id)}"]`)?.addEventListener('click', () => printWorkbookActivity(activity));
       const openText = card.querySelector('[data-open-text]');
       if (openText) {
         openText.addEventListener('input', () => {
@@ -1023,14 +1026,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         openText.value = `${openText.value.trim()} ${button.dataset.starter}`.trim();
         openText.focus();
       }));
-      card.querySelector(`[data-hint-activity="${CSS.escape(activity.id)}"]`)?.addEventListener('click', () => {
+      card.querySelector(`[data-hint-activity="${cssEscape(activity.id)}"]`)?.addEventListener('click', () => {
         const hint = getHint(activity.id, openText?.value || '');
-        const box = card.querySelector(`[data-hint-box="${CSS.escape(activity.id)}"]`);
+        const box = card.querySelector(`[data-hint-box="${cssEscape(activity.id)}"]`);
         box.hidden = false;
         box.textContent = hint || 'Use the checklist, sentence starters, and word bank to check your ideas.';
       });
-      card.querySelector(`[data-model-activity="${CSS.escape(activity.id)}"]`)?.addEventListener('click', event => {
-        const box = card.querySelector(`[data-model-box="${CSS.escape(activity.id)}"]`);
+      card.querySelector(`[data-model-activity="${cssEscape(activity.id)}"]`)?.addEventListener('click', event => {
+        const box = card.querySelector(`[data-model-box="${cssEscape(activity.id)}"]`);
         box.hidden = !box.hidden;
         event.currentTarget.textContent = box.hidden ? 'Reveal Model Text' : 'Hide Model Text';
       });

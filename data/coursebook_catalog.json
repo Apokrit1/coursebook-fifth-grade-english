@@ -64,7 +64,7 @@
       "unit": 2,
       "unit_slug": "unit2",
       "slug": "unit2",
-      "status": "planned",
+      "status": "ready",
       "title": "School Life & The World Around Us",
       "tagline": "Daily school timetables, international breakfast customs, healthy living and emotional well-being",
       "theme": "School Life, Daily Routines, Nutrition, Global Cultures",
@@ -107,6 +107,7 @@
       },
       "v1_url": "unit2/index.html",
       "v2_url": "unit2/v2.html",
+      "photodentro_url": "photodentro_apps/Present_Simple_and_Present_Continuous_for_younger_children_v2.0 opencode/index.html",
       "accent_color": "#2c7a7b"
     },
     {

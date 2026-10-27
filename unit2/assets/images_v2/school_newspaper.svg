@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="paperBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fffaf0"/>
+      <stop offset="100%" stop-color="#feebc8"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c7a7b"/>
+      <stop offset="100%" stop-color="#319795"/>
+    </linearGradient>
+    <linearGradient id="canteenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd6b20"/>
+      <stop offset="100%" stop-color="#c05621"/>
+    </linearGradient>
+    <linearGradient id="partyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#553c9a"/>
+      <stop offset="100%" stop-color="#44337a"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Desk Background -->
+  <rect width="800" height="500" fill="#edf2f7"/>
+  <rect x="20" y="20" width="760" height="460" rx="12" fill="url(#paperBg)" filter="url(#cardShadow)"/>
+
+  <!-- Newspaper Masthead -->
+  <rect x="40" y="35" width="720" height="60" rx="6" fill="url(#headerGrad)"/>
+  <text x="400" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">WEST WIMBLEDON'S SCHOOL NEWSPAPER</text>
+  <text x="400" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600" fill="#e6fffa" text-anchor="middle">NEWS FROM OUR SMALL WORLD • PRIMARY 5 ISSUE • AUTUMN TERM</text>
+
+  <!-- Panel A: Nadine's Email from France (Left) -->
+  <rect x="50" y="115" width="350" height="230" rx="8" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" filter="url(#cardShadow)"/>
+  <rect x="50" y="115" width="350" height="32" rx="8" fill="#e2e8f0"/>
+  <circle cx="70" cy="131" r="5" fill="#e53e3e"/>
+  <circle cx="85" cy="131" r="5" fill="#ecc94b"/>
+  <circle cx="100" cy="131" r="5" fill="#48bb78"/>
+  <text x="120" y="136" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4a5568">✉️ Email: Trip to Eurodisney (Nadine, Marseilles)</text>
+
+  <!-- Email Body -->
+  <text x="65" y="165" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2d3748">Dear Mark,</text>
+  <text x="65" y="188" font-family="sans-serif" font-size="11" fill="#4a5568">I'm really excited about going to Eurodisney!</text>
+  <text x="65" y="206" font-family="sans-serif" font-size="11" fill="#4a5568">I'm going with my class by TGV straight from Marseilles.</text>
+  <text x="65" y="224" font-family="sans-serif" font-size="11" fill="#4a5568">We are staying at one of the theme hotels.</text>
+  <text x="65" y="242" font-family="sans-serif" font-size="11" fill="#e53e3e">I'm sad my best friend can't come; she's ill.</text>
+  <text x="65" y="260" font-family="sans-serif" font-size="11" fill="#4a5568">We don't want to be bored on the train, so I'll</text>
+  <text x="65" y="278" font-family="sans-serif" font-size="11" fill="#4a5568">bring my book. I will send you a postcard!</text>
+  <text x="65" y="302" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2c7a7b">Bye, Nadine 🇫🇷</text>
+  <rect x="290" y="270" width="90" height="60" rx="4" fill="#ebf8ff" stroke="#bee3f8"/>
+  <text x="335" y="305" font-size="28" text-anchor="middle">🚄</text>
+
+  <!-- Panel B: School Canteen Menu (Right Top) -->
+  <rect x="420" y="115" width="340" height="180" rx="8" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" filter="url(#cardShadow)"/>
+  <rect x="420" y="115" width="340" height="32" rx="8" fill="url(#canteenGrad)"/>
+  <text x="590" y="136" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">🍽️ THE SCHOOL CANTEEN MENU</text>
+
+  <!-- Canteen Items -->
+  <text x="435" y="168" font-family="sans-serif" font-size="11" font-weight="600" fill="#2d3748">🧁 Muffin .............................................. 70p</text>
+  <text x="435" y="188" font-family="sans-serif" font-size="11" font-weight="600" fill="#2d3748">🥧 Apple pie ........................................ 70p</text>
+  <text x="435" y="208" font-family="sans-serif" font-size="11" font-weight="600" fill="#2d3748">🥐 Croissant ........................................ 50p</text>
+  <text x="435" y="228" font-family="sans-serif" font-size="11" font-weight="600" fill="#2d3748">🍩 Doughnut ........................................ 50p</text>
+  <text x="435" y="248" font-family="sans-serif" font-size="11" font-weight="600" fill="#2d3748">🍊 Orange juice ................................... 60p</text>
+  <text x="435" y="268" font-family="sans-serif" font-size="11" font-weight="600" fill="#2d3748">💧 Bottled water ................................. 30p</text>
+
+  <!-- Panel C: Halloween Party Invitation (Bottom Full Width) -->
+  <rect x="50" y="360" width="710" height="105" rx="8" fill="url(#partyGrad)" filter="url(#cardShadow)"/>
+  <text x="405" y="388" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="bold" fill="#fbd38d" text-anchor="middle">🎃 SCHOOL HALLOWEEN PARTY INVITATION 🎃</text>
+  <text x="405" y="410" font-family="sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Mrs Clark, the school headmistress, invites all parents and children to this year's party!</text>
+  <text x="405" y="430" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle">Free light snacks &amp; soft drinks by PTA • Date: Tuesday, October 31st at 6:00 pm</text>
+  <text x="405" y="448" font-family="sans-serif" font-size="11" font-weight="bold" fill="#feebc8" text-anchor="middle">📍 Place: The School Playground &amp; Assembly Hall</text>
+  <circle cx="85" cy="412" r="22" fill="#dd6b20" opacity="0.8"/>
+  <text x="85" y="420" font-size="22" text-anchor="middle">🎃</text>
+  <circle cx="725" cy="412" r="22" fill="#dd6b20" opacity="0.8"/>
+  <text x="725" y="420" font-size="22" text-anchor="middle">👻</text>
+</svg>

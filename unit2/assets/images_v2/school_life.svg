@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#bee3f8"/>
+      <stop offset="100%" stop-color="#ebf8ff"/>
+    </linearGradient>
+    <linearGradient id="buildingGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#cbd5e0"/>
+    </linearGradient>
+    <linearGradient id="busGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ecc94b"/>
+      <stop offset="100%" stop-color="#d69e2e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="800" height="350" fill="url(#skyGrad)"/>
+  <!-- Playground Grass & Tarmac -->
+  <rect y="350" width="800" height="150" fill="#48bb78"/>
+  <rect y="400" width="800" height="100" fill="#718096"/>
+  <line x1="0" y1="450" x2="800" y2="450" stroke="#ffffff" stroke-width="4" stroke-dasharray="20,15"/>
+
+  <!-- School Building (Background) -->
+  <rect x="80" y="60" width="640" height="290" rx="8" fill="url(#buildingGrad)" stroke="#a0aec0" stroke-width="3"/>
+  <!-- Roof Triangle / Clock Tower -->
+  <polygon points="400,10 320,60 480,60" fill="#9b2c2c"/>
+  <circle cx="400" cy="40" r="14" fill="#ffffff" stroke="#742a2a" stroke-width="2"/>
+  <line x1="400" y1="40" x2="400" y2="32" stroke="#2d3748" stroke-width="2"/>
+  <line x1="400" y1="40" x2="408" y2="40" stroke="#2d3748" stroke-width="2"/>
+  <text x="400" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="bold" fill="#2d3748" text-anchor="middle">WEST WIMBLEDON PRIMARY SCHOOL</text>
+
+  <!-- School Windows (Classrooms & Library) -->
+  <!-- Row 1 Windows -->
+  <rect x="120" y="110" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>
+  <rect x="220" y="110" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>
+  <rect x="510" y="110" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>
+  <rect x="610" y="110" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>
+  <!-- Row 2 Windows -->
+  <rect x="120" y="180" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>
+  <rect x="220" y="180" width="70" height="50" rx="4" fill="#fefcbf" stroke="#d69e2e" stroke-width="2"/>
+  <text x="255" y="210" font-size="20" text-anchor="middle">📚</text>
+  <text x="255" y="225" font-size="8" font-family="sans-serif" font-weight="bold" fill="#744210" text-anchor="middle">LIBRARY</text>
+
+  <rect x="510" y="180" width="70" height="50" rx="4" fill="#e6fffa" stroke="#319795" stroke-width="2"/>
+  <text x="545" y="210" font-size="20" text-anchor="middle">💻</text>
+  <text x="545" y="225" font-size="8" font-family="sans-serif" font-weight="bold" fill="#234e52" text-anchor="middle">COMP LAB</text>
+
+  <rect x="610" y="180" width="70" height="50" rx="4" fill="#feebc8" stroke="#dd6b20" stroke-width="2"/>
+  <text x="645" y="210" font-size="20" text-anchor="middle">🍽️</text>
+  <text x="645" y="225" font-size="8" font-family="sans-serif" font-weight="bold" fill="#7b341e" text-anchor="middle">CANTEEN</text>
+
+  <!-- School Main Entrance -->
+  <rect x="350" y="240" width="100" height="110" rx="4" fill="#7b341e"/>
+  <rect x="360" y="250" width="35" height="100" fill="#9c4221"/>
+  <rect x="405" y="250" width="35" height="100" fill="#9c4221"/>
+
+  <!-- School Bus (Front-Left on tarmac) -->
+  <g transform="translate(60, 360)">
+    <rect x="0" y="0" width="220" height="85" rx="10" fill="url(#busGrad)" stroke="#b7791f" stroke-width="2"/>
+    <rect x="15" y="12" width="40" height="32" rx="4" fill="#ebf8ff" stroke="#718096"/>
+    <rect x="65" y="12" width="40" height="32" rx="4" fill="#ebf8ff" stroke="#718096"/>
+    <rect x="115" y="12" width="40" height="32" rx="4" fill="#ebf8ff" stroke="#718096"/>
+    <rect x="165" y="12" width="40" height="32" rx="4" fill="#ebf8ff" stroke="#718096"/>
+    <text x="110" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="bold" fill="#744210" text-anchor="middle">SCHOOL BUS</text>
+    <!-- Pupils faces inside bus windows -->
+    <text x="35" y="34" font-size="14" text-anchor="middle">😄</text>
+    <text x="85" y="34" font-size="14" text-anchor="middle">🥱</text>
+    <text x="135" y="34" font-size="14" text-anchor="middle">😃</text>
+    <text x="185" y="34" font-size="14" text-anchor="middle">😊</text>
+    <!-- Wheels -->
+    <circle cx="45" cy="85" r="16" fill="#2d3748"/>
+    <circle cx="45" cy="85" r="7" fill="#cbd5e0"/>
+    <circle cx="175" cy="85" r="16" fill="#2d3748"/>
+    <circle cx="175" cy="85" r="7" fill="#cbd5e0"/>
+  </g>
+
+  <!-- Pupils in Playground (Right) -->
+  <g transform="translate(480, 355)">
+    <circle cx="20" cy="20" r="12" fill="#fbd38d"/>
+    <rect x="12" y="32" width="16" height="30" rx="3" fill="#3182ce"/>
+    <text x="20" y="24" font-size="10" text-anchor="middle">😊</text>
+    <text x="20" y="80" font-size="10" font-family="sans-serif" font-weight="bold" fill="#2d3748" text-anchor="middle">happy</text>
+
+    <circle cx="80" cy="15" r="12" fill="#fbd38d"/>
+    <rect x="72" y="27" width="16" height="30" rx="3" fill="#e53e3e"/>
+    <text x="80" y="19" font-size="10" text-anchor="middle">🤩</text>
+    <text x="80" y="75" font-size="10" font-family="sans-serif" font-weight="bold" fill="#2d3748" text-anchor="middle">excited</text>
+
+    <circle cx="140" cy="25" r="12" fill="#fbd38d"/>
+    <rect x="132" y="37" width="16" height="30" rx="3" fill="#805ad5"/>
+    <text x="140" y="29" font-size="10" text-anchor="middle">🥱</text>
+    <text x="140" y="85" font-size="10" font-family="sans-serif" font-weight="bold" fill="#2d3748" text-anchor="middle">tired</text>
+
+    <circle cx="200" cy="18" r="12" fill="#fbd38d"/>
+    <rect x="192" y="30" width="16" height="30" rx="3" fill="#38a169"/>
+    <text x="200" y="22" font-size="10" text-anchor="middle">⚽</text>
+    <text x="200" y="78" font-size="10" font-family="sans-serif" font-weight="bold" fill="#2d3748" text-anchor="middle">playing</text>
+  </g>
+</svg>

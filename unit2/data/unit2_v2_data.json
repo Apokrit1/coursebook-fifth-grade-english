@@ -1,0 +1,735 @@
+{
+  "unit_id": 2,
+  "unit_title": "School Life & The World Around Us",
+  "cefr_level": "A1",
+  "curriculum_standards": [
+    "DEPPS-APS: Communicating everyday school routines, emotional states, healthy lifestyle habits, and global customs in English",
+    "CEFR A1: Can describe daily routines, understand school canteen menus and party invitations, express frequency with adverbs, and compare international breakfast traditions"
+  ],
+  "stories": [
+    {
+      "id": "school_newspaper",
+      "title": "West Wimbledon's School Newspaper",
+      "student": "Mark & Nadine",
+      "flag": "🇬🇧",
+      "summary": "Mark's school newspaper features Nadine's Eurodisney trip email, the canteen menu with prices, and the Halloween party invitation.",
+      "narrative": "Mark attends West Wimbledon Primary School in London. Today, pupils read the new edition of the school newspaper. In the first column, Nadine sends an excited email from Marseilles about her upcoming school trip to Eurodisney by high-speed TGV train. She is sad because her best friend is ill and cannot come. On the right, the school canteen publishes its autumn menu: muffins and apple pie for seventy pence, croissants and doughnuts for fifty pence, and cold bottled water for thirty pence. At the bottom, the headmistress Mrs Clark invites all parents and children to the annual Halloween party on Tuesday October 31st in the school playground.",
+      "image": "assets/images_v2/school_newspaper.svg",
+      "audio_file": "assets/audio_v2/stories/school_newspaper.mp3",
+      "book_check": "Pupil's Book pp. 26-27: West Wimbledon's school newspaper with email, canteen menu, and party invitation.",
+      "landmarks": [
+        {
+          "name": "School Newspaper",
+          "type": "Media",
+          "word_key": "school newspaper",
+          "word_id": 1,
+          "desc": "The primary school newspaper written by and for pupils."
+        },
+        {
+          "name": "School Canteen",
+          "type": "Facility",
+          "word_key": "school canteen",
+          "word_id": 2,
+          "desc": "The counter where pupils purchase fresh snacks and drinks."
+        },
+        {
+          "name": "Halloween Invitation",
+          "type": "Notice",
+          "word_key": "invitation",
+          "word_id": 7,
+          "desc": "The official invitation letter to the school Halloween celebration."
+        },
+        {
+          "name": "Canteen Menu",
+          "type": "Food",
+          "word_key": "menu",
+          "word_id": 8,
+          "desc": "The price list showing muffins, croissants, and juices in British pence."
+        },
+        {
+          "name": "School Playground",
+          "type": "Facility",
+          "word_key": "school playground",
+          "word_id": 3,
+          "desc": "The outdoor courtyard where the autumn party will take place."
+        }
+      ],
+      "vocabulary_ids": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        16,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "school_life",
+      "title": "Classroom & School Life at West Wimbledon",
+      "student": "Mark & Classmates",
+      "flag": "🇬🇧",
+      "summary": "Pupils travel on the school bus, borrow books in the library, study in the classroom, and talk about their feelings.",
+      "narrative": "School life at West Wimbledon is lively and full of activity every weekday. In the morning, pupils ride the yellow school bus to school. On the bus, children experience different feelings: some pupils are happy and excited to see their friends, while others feel tired after waking up early. At nine o'clock, morning classes begin in the classroom where teachers explain history and geography. At break time, pupils run to the library to borrow exciting books, or gather in the playground for games. Mark loves visiting the computer lab to work on his class project.",
+      "image": "assets/images_v2/school_life.svg",
+      "audio_file": "assets/audio_v2/stories/school_life.mp3",
+      "book_check": "Pupil's Book pp. 28-29: School facilities, daily timetable, and feelings vocabulary.",
+      "landmarks": [
+        {
+          "name": "Primary Classroom",
+          "type": "Facility",
+          "word_key": "classroom",
+          "word_id": 5,
+          "desc": "The main classroom where pupils learn English, maths, and history."
+        },
+        {
+          "name": "School Library",
+          "type": "Facility",
+          "word_key": "library",
+          "word_id": 4,
+          "desc": "A peaceful reading room filled with books and reference atlases."
+        },
+        {
+          "name": "School Bus",
+          "type": "Transport",
+          "word_key": "school bus",
+          "word_id": 6,
+          "desc": "The morning bus that transports neighborhood children to school."
+        },
+        {
+          "name": "Excited Pupils",
+          "type": "Feeling",
+          "word_key": "excited",
+          "word_id": 12,
+          "desc": "Children full of enthusiasm for morning art and gym lessons."
+        },
+        {
+          "name": "Tired Pupil",
+          "type": "Feeling",
+          "word_key": "tired",
+          "word_id": 20,
+          "desc": "A pupil who stayed up late and yawns before morning assembly."
+        }
+      ],
+      "vocabulary_ids": [
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "id": "sports_habits",
+      "title": "Interview with a Star Athlete — Habits & Health",
+      "student": "The Sports Reporter",
+      "flag": "🏆",
+      "summary": "A famous basketball player visits school to share his daily routines, training schedule, and good health habits.",
+      "narrative": "Today a famous professional basketball player visits the school gym for an exclusive interview with pupils. The teacher and class welcome their special guest. When asked how he became so successful, the athlete explains that he maintains strict good habits. He sleeps well for eight hours every night and eats a healthy balanced diet with fresh fruit, vegetables, and milk. He trains for six hours each day with his coach to keep fit and practise his shooting. He advises the pupils that regular exercise, drinking plenty of water, and avoiding junk food are essential for every young person.",
+      "image": "assets/images_v2/sports_habits.svg",
+      "audio_file": "assets/audio_v2/stories/sports_habits.mp3",
+      "book_check": "Pupil's Book pp. 30-32: Interview with a famous sports star and adverbs of frequency.",
+      "landmarks": [
+        {
+          "name": "Basketball Player",
+          "type": "Person",
+          "word_key": "basketball player",
+          "word_id": 49,
+          "desc": "The professional sports star sharing health advice with pupils."
+        },
+        {
+          "name": "Team Coach",
+          "type": "Person",
+          "word_key": "coach",
+          "word_id": 50,
+          "desc": "The athletic coach guiding exercises and basketball drills."
+        },
+        {
+          "name": "Keep Fit Drills",
+          "type": "Activity",
+          "word_key": "keep fit",
+          "word_id": 47,
+          "desc": "Physical fitness conditioning exercises on the basketball court."
+        },
+        {
+          "name": "Healthy Eating Basket",
+          "type": "Nutrition",
+          "word_key": "healthy eating",
+          "word_id": 46,
+          "desc": "Fresh fruit and nutritious snacks eaten to fuel intense training."
+        },
+        {
+          "name": "Daily Training",
+          "type": "Routine",
+          "word_key": "training",
+          "word_id": 51,
+          "desc": "Six hours of scheduled daily practice on the court."
+        }
+      ],
+      "vocabulary_ids": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62
+      ]
+    },
+    {
+      "id": "world_customs",
+      "title": "Customs & Breakfasts Around the World",
+      "student": "Kostas & Global Friends",
+      "flag": "🌍",
+      "summary": "Pupils discover how people around the world start their mornings, what they eat for breakfast, and polite manners.",
+      "narrative": "In Lesson 3, pupils explore cultural traditions and breakfast customs across different countries. In the United Kingdom, a traditional morning breakfast features fried eggs, bacon, hot buttered toast, and black tea with milk. In Japan, families eat a hot nutritious meal of steamed rice, fish, and miso soup using wooden chopsticks. Japanese pupils politely bow to greet their teachers and always take off shoes before stepping into a home. In Greece, children enjoy fresh bread with honey, cereal with cold milk, and orange juice. Understanding these customs teaches everyone good manners and intercultural respect.",
+      "image": "assets/images_v2/world_customs.svg",
+      "audio_file": "assets/audio_v2/stories/world_customs.mp3",
+      "book_check": "Pupil's Book pp. 34-35: Customs around the world and traditional morning meals.",
+      "landmarks": [
+        {
+          "name": "World Custom",
+          "type": "Culture",
+          "word_key": "custom",
+          "word_id": 64,
+          "desc": "Traditional cultural ways of living passed through generations."
+        },
+        {
+          "name": "Morning Breakfast",
+          "type": "Food",
+          "word_key": "breakfast",
+          "word_id": 71,
+          "desc": "Nutritious morning meals around the world that fuel pupils for learning."
+        },
+        {
+          "name": "Wooden Chopsticks",
+          "type": "Utensil",
+          "word_key": "chopsticks",
+          "word_id": 68,
+          "desc": "Traditional East Asian dining sticks used for eating steamed rice."
+        },
+        {
+          "name": "Respectful Bow",
+          "type": "Etiquette",
+          "word_key": "bow",
+          "word_id": 67,
+          "desc": "A polite physical greeting showing deep respect in Japan."
+        },
+        {
+          "name": "Shake Hands",
+          "type": "Etiquette",
+          "word_key": "shake hands",
+          "word_id": 66,
+          "desc": "A traditional European greeting upon meeting someone new."
+        }
+      ],
+      "vocabulary_ids": [
+        27,
+        30,
+        31,
+        32,
+        33,
+        34,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ]
+    }
+  ],
+  "grammar_lab": {
+    "title": "Grammar Lab: Adverbs of Frequency & Daily Routines",
+    "target_structures": [
+      "Adverbs of Frequency (always, usually, often, sometimes, rarely, never)",
+      "Word order: before main verbs, after verb 'to be'",
+      "Present Simple: affirmative, negative (don't/doesn't), questions (Do/Does)",
+      "Prepositions of Time: in, on, at"
+    ],
+    "frequency_spectrum": [
+      {
+        "adverb": "always",
+        "percentage": 100,
+        "color": "#38a169",
+        "example": "I always do my homework before dinner."
+      },
+      {
+        "adverb": "usually",
+        "percentage": 80,
+        "color": "#319795",
+        "example": "He usually walks to primary school on foot."
+      },
+      {
+        "adverb": "often",
+        "percentage": 60,
+        "color": "#d69e2e",
+        "example": "We often play basketball in the playground."
+      },
+      {
+        "adverb": "sometimes",
+        "percentage": 40,
+        "color": "#dd6b20",
+        "example": "I sometimes buy a muffin at the canteen."
+      },
+      {
+        "adverb": "rarely / seldom",
+        "percentage": 10,
+        "color": "#805ad5",
+        "example": "She rarely drinks sugary soft drinks."
+      },
+      {
+        "adverb": "never",
+        "percentage": 0,
+        "color": "#e53e3e",
+        "example": "They never arrive late for their lessons."
+      }
+    ],
+    "rules": [
+      {
+        "concept": "Position of Frequency Adverbs",
+        "usage": "Place adverbs of frequency BEFORE main verbs, but AFTER the verb 'to be'.",
+        "signal_words": [
+          "always",
+          "usually",
+          "often",
+          "sometimes",
+          "never"
+        ],
+        "examples": [
+          "Kostas usually arrives on time. (Before main verb: arrives)",
+          "Mark is always happy at school. (After verb 'to be': is)"
+        ]
+      },
+      {
+        "concept": "Present Simple 3rd Person Singular",
+        "usage": "In the Present Simple, add -s or -es to the verb with he, she, or it.",
+        "signal_words": [
+          "he",
+          "she",
+          "it",
+          "every day",
+          "in the morning"
+        ],
+        "examples": [
+          "He wakes up at seven in the morning.",
+          "She finishes classes at two o'clock."
+        ]
+      },
+      {
+        "concept": "Prepositions of Time (in / on / at)",
+        "usage": "Use 'in' for parts of the day and months; 'on' for days and dates; 'at' for precise times and night.",
+        "signal_words": [
+          "in the morning",
+          "on Mondays",
+          "at 8:00"
+        ],
+        "examples": [
+          "We study maths in the morning.",
+          "We have gym lessons on Tuesdays.",
+          "The Halloween party starts at 6:00 pm."
+        ]
+      }
+    ],
+    "practice_items": [
+      {
+        "sentence": "The star athlete _____ (always / sleep) eight hours every night.",
+        "options": [
+          "always sleeps",
+          "sleeps always",
+          "is always sleeping"
+        ],
+        "answer": "always sleeps",
+        "explanation": "Adverbs of frequency go BEFORE main verbs, with -s for 3rd person singular: always sleeps."
+      },
+      {
+        "sentence": "Mark is _____ (never / late) for his morning classes.",
+        "options": [
+          "never late",
+          "late never",
+          "not never late"
+        ],
+        "answer": "never late",
+        "explanation": "Adverbs of frequency go AFTER the verb 'to be' (is): is never late."
+      },
+      {
+        "sentence": "How _____ do you practise basketball each week?",
+        "options": [
+          "often",
+          "always",
+          "many"
+        ],
+        "answer": "often",
+        "explanation": "We use the question phrase 'How often...?' to ask about the frequency of a habit."
+      },
+      {
+        "sentence": "Nadine _____ (not / eat) doughnuts for breakfast.",
+        "options": [
+          "doesn't eat",
+          "don't eat",
+          "not eats"
+        ],
+        "answer": "doesn't eat",
+        "explanation": "For 3rd person singular (Nadine = she), the negative form is 'doesn't eat'."
+      },
+      {
+        "sentence": "The school Halloween party takes place _____ October 31st.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "answer": "on",
+        "explanation": "We use the preposition 'on' with specific dates: on October 31st."
+      },
+      {
+        "sentence": "Henry _____ (wake) up at seven in the boarding school dormitory.",
+        "options": [
+          "wakes",
+          "wake",
+          "waking"
+        ],
+        "answer": "wakes",
+        "explanation": "For he/she/it in the Present Simple, we add -s: Henry wakes up."
+      }
+    ],
+    "authentic_listening": {
+      "title": "Interview with a Famous Sports Star",
+      "audio_file": "assets/audio_v2/grammar/dialogue_unit2.mp3",
+      "dialogue_script": [
+        {
+          "speaker": "Teacher",
+          "text": "We are very happy to have such a famous basketball player here today!"
+        },
+        {
+          "speaker": "Guest",
+          "text": "Thank you! I am really happy to be here with your class."
+        },
+        {
+          "speaker": "Teacher",
+          "text": "How did you become so successful and famous in sports?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "I practise a lot. I sleep well, and I eat healthily every day. My family is always behind me."
+        },
+        {
+          "speaker": "Teacher",
+          "text": "How many hours do you practise each day?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "About six hours, plus I train to stay fit."
+        },
+        {
+          "speaker": "Teacher",
+          "text": "Is the food you eat important?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "Yes, it is very important for a basketball player to eat well, like any professional athlete."
+        }
+      ],
+      "true_false_quiz": [
+        {
+          "statement": "The guest athlete sleeps well and eats healthily every day.",
+          "answer": true,
+          "explanation": "True. The athlete says: 'I sleep well, and I eat healthily every day.'"
+        },
+        {
+          "statement": "The athlete only practises for one hour each week.",
+          "answer": false,
+          "explanation": "False. The athlete practises for about six hours each day to stay fit."
+        },
+        {
+          "statement": "Healthy nutrition is important for professional sports players.",
+          "answer": true,
+          "explanation": "True. The guest states eating well is very important for an athlete."
+        },
+        {
+          "statement": "The basketball star never trains with his family or coach.",
+          "answer": false,
+          "explanation": "False. The player says his family is always behind him and supports his training."
+        }
+      ]
+    }
+  },
+  "collocations": [
+    {
+      "verb": "wake up",
+      "partner": "early in the morning",
+      "example": "Pupils wake up early in the morning to catch the bus.",
+      "meaning_gr": "ξυπνάω νωρίς το πρωί"
+    },
+    {
+      "verb": "catch",
+      "partner": "the school bus",
+      "example": "We hurry to the bus stop to catch the school bus.",
+      "meaning_gr": "προλαβαίνω το σχολικό λεωφορείο"
+    },
+    {
+      "verb": "borrow",
+      "partner": "a library book",
+      "example": "You can borrow a library book for fifteen days.",
+      "meaning_gr": "δανείζομαι ένα βιβλίο από τη βιβλιοθήκη"
+    },
+    {
+      "verb": "eat",
+      "partner": "a healthy breakfast",
+      "example": "Always eat a healthy breakfast before going to class.",
+      "meaning_gr": "τρώω υγιεινό πρωινό"
+    },
+    {
+      "verb": "keep",
+      "partner": "fit and healthy",
+      "example": "Daily exercise helps children keep fit and healthy.",
+      "meaning_gr": "διατηρούμαι σε φόρμα και υγιής"
+    },
+    {
+      "verb": "practise",
+      "partner": "every single day",
+      "example": "Top athletes practise every single day with their coach.",
+      "meaning_gr": "προπονούμαι / εξασκούμαι κάθε μέρα"
+    },
+    {
+      "verb": "shake",
+      "partner": "hands in greeting",
+      "example": "In Britain people shake hands when they greet guests.",
+      "meaning_gr": "κάνω χειραψία κατά τον χαιρετισμό"
+    },
+    {
+      "verb": "arrive",
+      "partner": "at school on time",
+      "example": "Pupils should always arrive at school on time.",
+      "meaning_gr": "φτάνω στο σχολείο στην ώρα μου"
+    }
+  ],
+  "definition_challenge": {
+    "title": "Theme Terms: Guess the Word from its Definition",
+    "note": "Read the child-friendly clue and guess the target term from Unit 2.",
+    "group_a": [
+      {
+        "number": 1,
+        "word": "CANTEEN",
+        "clue": "A room at school where pupils buy food and drinks."
+      },
+      {
+        "number": 2,
+        "word": "TIMETABLE",
+        "clue": "A chart that shows the times of classes each day."
+      },
+      {
+        "number": 3,
+        "word": "HEADMISTRESS",
+        "clue": "A female teacher who is the leader of a school."
+      },
+      {
+        "number": 4,
+        "word": "PLAYGROUND",
+        "clue": "An outside area at school where children play games."
+      }
+    ],
+    "group_b": [
+      {
+        "number": 5,
+        "word": "CHOPSTICKS",
+        "clue": "A pair of thin wooden sticks used for eating."
+      },
+      {
+        "number": 6,
+        "word": "HABIT",
+        "clue": "Something you do often and almost without thinking."
+      },
+      {
+        "number": 7,
+        "word": "BREAKFAST",
+        "clue": "The first healthy meal eaten in the morning."
+      },
+      {
+        "number": 8,
+        "word": "COACH",
+        "clue": "A person who trains a sports player or team."
+      }
+    ]
+  },
+  "content_true_false": [
+    {
+      "fact": "A chocolate muffin costs seventy pence (70p) at West Wimbledon school canteen.",
+      "answer": true,
+      "explanation": "True. The canteen price list shows muffins for 70p."
+    },
+    {
+      "fact": "Nadine takes a high-speed TGV train from Marseilles to Eurodisney.",
+      "answer": true,
+      "explanation": "True. Nadine writes in her email that her class travels by TGV straight from Marseilles."
+    },
+    {
+      "fact": "In Japan, people traditionally eat rice with metal forks and knives.",
+      "answer": false,
+      "explanation": "False. People in Japan traditionally eat rice using wooden chopsticks."
+    },
+    {
+      "fact": "Professional athletes usually eat junk food and stay up late every night.",
+      "answer": false,
+      "explanation": "False. Athletes follow good habits: they sleep well, train hard, and eat nutritious meals."
+    },
+    {
+      "fact": "Adverbs of frequency like 'always' are placed after the verb 'to be'.",
+      "answer": true,
+      "explanation": "True. In English grammar, we place adverbs of frequency after the verb to be (e.g. He is always on time)."
+    }
+  ],
+  "writing_workshop": {
+    "title": "Portfolio Writing: My Daily School Routine & Favourite Habits",
+    "genre": "Personal Narrative & Routine Report",
+    "default_topic": "A Typical School Day & Healthy Habits",
+    "default_author": "A 5th Grade Pupil",
+    "project_label": "My Daily Routine",
+    "paragraphs": [
+      {
+        "number": 1,
+        "heading": "Morning Routine & Going to School",
+        "guiding_questions": "What time do you wake up? What do you eat for breakfast? How do you go to school?",
+        "connectors": [
+          "I usually wake up at",
+          "For breakfast I have",
+          "I go to school by"
+        ],
+        "sample_starter": "I usually wake up at seven o'clock in the morning. For breakfast, I have cereal with milk and a glass of orange juice. Then I catch the school bus."
+      },
+      {
+        "number": 2,
+        "heading": "Classes, Lessons & Favourite Subjects",
+        "guiding_questions": "When do lessons start? What subjects do you have? Which subject is your favourite?",
+        "connectors": [
+          "Lessons start at",
+          "We study",
+          "My favourite subject is"
+        ],
+        "sample_starter": "Lessons start at eight-fifteen in the classroom. We study English, maths, science, and history. My favourite subject is English because I love writing to pen-pals."
+      },
+      {
+        "number": 3,
+        "heading": "Break Time & School Canteen",
+        "guiding_questions": "What do you do during break? Where do you go? What snacks do you like?",
+        "connectors": [
+          "At break time",
+          "In the playground",
+          "I sometimes buy"
+        ],
+        "sample_starter": "At break time, I play with my classmates in the school playground. When I feel hungry, I go to the school canteen and buy an apple or a warm muffin."
+      },
+      {
+        "number": 4,
+        "heading": "After School, Training & Good Habits",
+        "guiding_questions": "When do classes finish? Do you do sports or homework? What good habits do you have?",
+        "connectors": [
+          "In the afternoon",
+          "I always do",
+          "To keep fit"
+        ],
+        "sample_starter": "In the afternoon, classes finish at two o'clock. I always do my homework first, and then I practise basketball with my team to keep fit and strong."
+      }
+    ]
+  },
+  "can_do": {
+    "title": "Can-Do Passport: Unit 2 Competencies",
+    "statements": [
+      {
+        "id": "feelings_school",
+        "title": "School Life & Feelings",
+        "statement": "I can identify school places (canteen, library, playground) and express 8 different feelings (happy, excited, bored, nervous, tired).",
+        "badge": "🏫"
+      },
+      {
+        "id": "adverbs_frequency",
+        "title": "Adverbs of Frequency",
+        "statement": "I can use adverbs of frequency (always, usually, often, sometimes, rarely, never) in the correct position in sentences.",
+        "badge": "⏳"
+      },
+      {
+        "id": "daily_habits",
+        "title": "Daily Habits & Routines",
+        "statement": "I can describe my daily routine in the Present Simple and talk about healthy vs. unhealthy lifestyle habits.",
+        "badge": "🏃"
+      },
+      {
+        "id": "world_customs",
+        "title": "Global Customs & Etiquette",
+        "statement": "I can talk about traditional breakfast foods in different countries and explain polite cultural manners (bowing, taking off shoes).",
+        "badge": "🌍"
+      }
+    ]
+  },
+  "teacher_notes": [
+    {
+      "id": "note_1",
+      "lesson": "Lesson 1 (PB p. 26)",
+      "title": "British Currency & Canteen Reading",
+      "note": "Help pupils understand British pence (e.g. 70p) and compare prices with Euro cents. Integrate reading strategies for scanning menus and invitations."
+    },
+    {
+      "id": "note_2",
+      "lesson": "Lesson 2 (PB p. 30)",
+      "title": "Frequency Speedometer & Inductive Drilling",
+      "note": "Use the frequency speedometer widget to contrast percentage probabilities. Reinforce that frequency adverbs go before action verbs but after 'to be'."
+    },
+    {
+      "id": "note_3",
+      "lesson": "Lesson 3 (PB p. 34)",
+      "title": "Intercultural Etiquette & Customs",
+      "note": "Foster cultural empathy by comparing table manners and morning greetings across Greece, Britain, and Japan."
+    }
+  ],
+  "book_checks": [
+    {
+      "title": "School Newspaper & Currency Context",
+      "note": "Pupil's Book p. 26 displays British pence ('70p', '50p') for canteen items at Mark's London school."
+    },
+    {
+      "title": "Frequency Adverbs vs. Habits",
+      "note": "Lesson 2 connects frequency adverbs with dynamic repeatable actions rather than stative facts."
+    }
+  ]
+}
