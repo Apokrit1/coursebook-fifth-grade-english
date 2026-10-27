@@ -44,6 +44,39 @@ async function synthesizeText(text, targetPath) {
   }
 }
 
+const { EdgeTTS } = require('c:/photodentro/antigravity/coursebook6th/unit1/node_modules/node-edge-tts');
+
+async function synthesizeNeural(text, targetPath, maxRetries = 4) {
+  const clean = (text || '').trim();
+  if (!clean) return;
+  ensureDir(targetPath);
+  const sidecar = targetPath.replace(/\.mp3$/i, '.txt');
+
+  // Skip if already synthesized with genuine neural voice (checked by sidecar marker or size)
+  const marker = targetPath + '.neural';
+  if (fs.existsSync(targetPath) && fs.existsSync(marker)) {
+    return;
+  }
+
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      process.stdout.write(`Synthesizing Neural (try ${attempt}): ${path.basename(targetPath)}...\r`);
+      const tts = new EdgeTTS({ voice: 'en-GB-SoniaNeural', lang: 'en-GB', outputFormat: 'audio-24khz-48kbitrate-mono-mp3', timeout: 12000 });
+      await tts.ttsPromise(clean, targetPath);
+      fs.writeFileSync(sidecar, clean, 'utf-8');
+      fs.writeFileSync(marker, 'sonia-neural-v2', 'utf-8');
+      await sleep(350);
+      return;
+    } catch (err) {
+      if (attempt === maxRetries) {
+        console.error(`\nNeural TTS failed for ${targetPath}:`, err.message);
+      } else {
+        await sleep(1200 * attempt);
+      }
+    }
+  }
+}
+
 async function main() {
   console.log('=== STARTING UNIT 2 AUDIO SYNTHESIS ===');
 
@@ -56,15 +89,15 @@ async function main() {
     const item = vocab[i];
     const idStr = String(item.id).padStart(2, '0');
 
-    // Standard audio
+    // Standard audio (Classic Google TTS)
     await synthesizeText(item.word, `unit2/assets/audio/words/${idStr}_word.mp3`);
     await synthesizeText(item.definition_en, `unit2/assets/audio/defs/${idStr}_definition.mp3`);
     await synthesizeText(item.example, `unit2/assets/audio/examples/${idStr}_example.mp3`);
 
-    // Neural path (mirroring to ensure offline air-gap has both options filled)
-    await synthesizeText(item.word, `unit2/assets/audio_neural/words/${idStr}_word.mp3`);
-    await synthesizeText(item.definition_en, `unit2/assets/audio_neural/defs/${idStr}_definition.mp3`);
-    await synthesizeText(item.example, `unit2/assets/audio_neural/examples/${idStr}_example.mp3`);
+    // Natural Neural AI Voice (en-GB-SoniaNeural)
+    await synthesizeNeural(item.word, `unit2/assets/audio_neural/words/${idStr}_word.mp3`);
+    await synthesizeNeural(item.definition_en, `unit2/assets/audio_neural/defs/${idStr}_definition.mp3`);
+    await synthesizeNeural(item.example, `unit2/assets/audio_neural/examples/${idStr}_example.mp3`);
   }
   console.log('\nVocabulary audio synthesis complete!');
 

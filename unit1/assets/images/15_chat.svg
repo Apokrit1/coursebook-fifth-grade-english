@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" width="320" height="220">
+  <defs>
+    <linearGradient id="bgGrad_chat" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#e9d8fd"/>
+    </linearGradient>
+    <pattern id="dots_chat" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#805ad5" opacity="0.12"/>
+    </pattern>
+    <filter id="comicShadow_chat" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#1a202c" flood-opacity="1"/>
+    </filter>
+  </defs>
+
+  <!-- Comic Panel Outer Frame -->
+  <rect x="4" y="4" width="312" height="212" rx="12" fill="url(#bgGrad_chat)" stroke="#1a202c" stroke-width="3.5"/>
+  <rect x="4" y="4" width="312" height="212" rx="12" fill="url(#dots_chat)"/>
+
+  <!-- Category Tag -->
+  <g transform="translate(14, 14)">
+    <rect width="200" height="22" rx="6" fill="#805ad5" stroke="#1a202c" stroke-width="2" filter="url(#comicShadow_chat)"/>
+    <text x="100" y="15" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">INTERNET & ONLINE LIFE</text>
+  </g>
+
+  <!-- Comic Sound Burst -->
+  
+  <g transform="translate(244, 22) rotate(12)">
+    <polygon points="0,10 12,0 24,8 36,0 34,14 46,18 36,26 44,38 30,34 22,44 18,32 6,36 10,24 0,18" fill="#d6bcfa" stroke="#1a202c" stroke-width="2"/>
+    <text x="22" y="26" font-family="'Outfit', sans-serif" font-size="9" font-weight="900" fill="#1a202c" text-anchor="middle">CHAT!</text>
+  </g>
+
+  <!-- Graphic Novel Artwork -->
+  <g transform="translate(160, 102)" filter="url(#comicShadow_chat)">
+    <path d="M -30,-22 L 14,-22 C 22,-22 22,6 2,6 L -8,18 L -12,6 L -30,6 Z" fill="#4299e1" stroke="#1a202c" stroke-width="3"/><path d="M 30,16 L -6,16 C -14,16 -14,-4 4,-4 L 14,-14 L 16,-4 L 30,-4 Z" fill="#48bb78" stroke="#1a202c" stroke-width="3"/>
+  </g>
+
+  <!-- Comic Word & Greek Info -->
+  <text x="160" y="180" font-family="'Outfit', sans-serif" font-size="20" font-weight="900" fill="#1a202c" text-anchor="middle" letter-spacing="0.5">chat</text>
+  <text x="160" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#4a5568" text-anchor="middle">[tʃæt] • συνομιλώ</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" width="320" height="220">
+  <defs>
+    <linearGradient id="bgGrad_cereal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fffaf0"/>
+      <stop offset="100%" stop-color="#feebc8"/>
+    </linearGradient>
+    <pattern id="dots_cereal" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#b7791f" opacity="0.12"/>
+    </pattern>
+    <filter id="comicShadow_cereal" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#1a202c" flood-opacity="1"/>
+    </filter>
+  </defs>
+
+  <!-- Comic Panel Outer Frame -->
+  <rect x="4" y="4" width="312" height="212" rx="12" fill="url(#bgGrad_cereal)" stroke="#1a202c" stroke-width="3.5"/>
+  <rect x="4" y="4" width="312" height="212" rx="12" fill="url(#dots_cereal)"/>
+
+  <!-- Category Tag -->
+  <g transform="translate(14, 14)">
+    <rect width="192" height="22" rx="6" fill="#b7791f" stroke="#1a202c" stroke-width="2" filter="url(#comicShadow_cereal)"/>
+    <text x="96" y="15" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">FOOD & CANTEEN SNACKS</text>
+  </g>
+
+  <!-- Comic Sound Burst -->
+  
+  <g transform="translate(244, 22) rotate(14)">
+    <polygon points="0,10 12,0 24,8 36,0 34,14 46,18 36,26 44,38 30,34 22,44 18,32 6,36 10,24 0,18" fill="#f6ad55" stroke="#1a202c" stroke-width="2"/>
+    <text x="22" y="26" font-family="'Outfit', sans-serif" font-size="9" font-weight="900" fill="#1a202c" text-anchor="middle">CRUNCH!</text>
+  </g>
+
+  <!-- Graphic Novel Artwork -->
+  <g transform="translate(160, 102)" filter="url(#comicShadow_cereal)">
+    
+      <!-- Breakfast Cereal Bowl -->
+      <ellipse cx="0" cy="18" rx="46" ry="16" fill="#cbd5e0" stroke="#1a202c" stroke-width="3.5"/>
+      <path d="M -46,0 C -46,32 46,32 46,0 Z" fill="#3182ce" stroke="#1a202c" stroke-width="3.5"/>
+      <!-- Milk & Flakes -->
+      <ellipse cx="0" cy="0" rx="44" ry="14" fill="#ffffff" stroke="#1a202c" stroke-width="2.5"/>
+      <ellipse cx="-20" cy="-2" rx="7" ry="5" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
+      <ellipse cx="-4" cy="2" rx="8" ry="5" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
+      <ellipse cx="16" cy="-1" rx="7" ry="5" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
+      <ellipse cx="28" cy="2" rx="6" ry="4" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
+      <ellipse cx="-12" cy="5" rx="6" ry="4" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
+      <!-- Spoon -->
+      <path d="M 28,-26 Q 38,-38 46,-42" stroke="#718096" stroke-width="4.5" stroke-linecap="round"/>
+      <ellipse cx="26" cy="-24" rx="8" ry="6" fill="#a0aec0" stroke="#1a202c" stroke-width="2"/>
+    
+  </g>
+
+  <!-- Comic Word & Greek Info -->
+  <text x="160" y="180" font-family="'Outfit', sans-serif" font-size="20" font-weight="900" fill="#1a202c" text-anchor="middle" letter-spacing="0.5">cereal</text>
+  <text x="160" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#4a5568" text-anchor="middle">[ˈsɪəriəl] • δημητριακά</text>
+</svg>

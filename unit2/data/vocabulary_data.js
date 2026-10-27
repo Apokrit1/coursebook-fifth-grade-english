@@ -286,8 +286,8 @@ window.VOCABULARY_DATA = [
       "a card that asks someone to come to an event",
       "a newspaper written by pupils with stories about their school"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "weekly school timetable on study desk graphic novel illustration"
+    "image": "assets/images/10_timetable.svg",
+    "image_alt": "Graphic novel illustration of timetable"
   },
   {
     "id": 11,
@@ -315,8 +315,8 @@ window.VOCABULARY_DATA = [
       "feeling strong displeasure or annoyance with someone",
       "feeling tired because something is not interesting"
     ],
-    "image": "assets/images/excited.jpg",
-    "image_alt": "happy smiling students graphic novel illustration"
+    "image": "assets/images/11_happy.svg",
+    "image_alt": "Graphic novel illustration of happy"
   },
   {
     "id": 12,
@@ -373,8 +373,8 @@ window.VOCABULARY_DATA = [
       "feeling pleased and showing good pleasure",
       "feeling pleased because of an achievement or good work"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/13_bored.svg",
+    "image_alt": "Graphic novel illustration of bored"
   },
   {
     "id": 14,
@@ -402,8 +402,8 @@ window.VOCABULARY_DATA = [
       "feeling very happy and eager about something",
       "feeling pleased because of an achievement or good work"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/14_sad.svg",
+    "image_alt": "Graphic novel illustration of sad"
   },
   {
     "id": 15,
@@ -431,8 +431,8 @@ window.VOCABULARY_DATA = [
       "feeling regret or sadness for doing something wrong",
       "feeling fear that something bad will happen"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/15_angry.svg",
+    "image_alt": "Graphic novel illustration of angry"
   },
   {
     "id": 16,
@@ -460,8 +460,8 @@ window.VOCABULARY_DATA = [
       "worried and anxious about what might happen",
       "feeling unhappy or full of sorrow"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/16_ill.svg",
+    "image_alt": "Graphic novel illustration of ill"
   },
   {
     "id": 17,
@@ -489,8 +489,8 @@ window.VOCABULARY_DATA = [
       "feeling pleased and showing good pleasure",
       "feeling pleased because of an achievement or good work"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/17_nervous.svg",
+    "image_alt": "Graphic novel illustration of nervous"
   },
   {
     "id": 18,
@@ -518,8 +518,8 @@ window.VOCABULARY_DATA = [
       "feeling pleased and showing good pleasure",
       "feeling tired because something is not interesting"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/18_scared.svg",
+    "image_alt": "Graphic novel illustration of scared"
   },
   {
     "id": 19,
@@ -547,8 +547,8 @@ window.VOCABULARY_DATA = [
       "feeling very happy and eager about something",
       "feeling pleased and showing good pleasure"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/19_afraid.svg",
+    "image_alt": "Graphic novel illustration of afraid"
   },
   {
     "id": 20,
@@ -576,8 +576,8 @@ window.VOCABULARY_DATA = [
       "feeling pleased and showing good pleasure",
       "feeling tired because something is not interesting"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/20_tired.svg",
+    "image_alt": "Graphic novel illustration of tired"
   },
   {
     "id": 21,
@@ -605,8 +605,8 @@ window.VOCABULARY_DATA = [
       "feeling unhappy or full of sorrow",
       "feeling strong displeasure or annoyance with someone"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/21_proud.svg",
+    "image_alt": "Graphic novel illustration of proud"
   },
   {
     "id": 22,
@@ -634,8 +634,8 @@ window.VOCABULARY_DATA = [
       "feeling pleased and showing good pleasure",
       "feeling very happy and eager about something"
     ],
-    "image": "assets/images/feelings.jpg",
-    "image_alt": "four feelings and emotions comic strip graphic novel illustration"
+    "image": "assets/images/22_sorry.svg",
+    "image_alt": "Graphic novel illustration of sorry"
   },
   {
     "id": 23,
@@ -750,8 +750,8 @@ window.VOCABULARY_DATA = [
       "a small round sweet cake eaten warm or cold",
       "a sweet baked pastry filled with hot apples"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/26_doughnut.svg",
+    "image_alt": "Graphic novel illustration of doughnut"
   },
   {
     "id": 27,
@@ -779,8 +779,8 @@ window.VOCABULARY_DATA = [
       "the clear natural liquid that people drink to live",
       "a white healthy liquid that comes from cows"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/27_orange_juice.svg",
+    "image_alt": "Graphic novel illustration of orange juice"
   },
   {
     "id": 28,
@@ -808,8 +808,8 @@ window.VOCABULARY_DATA = [
       "the clear natural liquid that people drink to live",
       "a hot drink made by brewing dried leaves in hot water"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/28_apple_juice.svg",
+    "image_alt": "Graphic novel illustration of apple juice"
   },
   {
     "id": 29,
@@ -837,8 +837,8 @@ window.VOCABULARY_DATA = [
       "a sweet refreshing drink made by squeezing fresh oranges",
       "a hot drink made by brewing dried leaves in hot water"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/29_water.svg",
+    "image_alt": "Graphic novel illustration of water"
   },
   {
     "id": 30,
@@ -866,8 +866,8 @@ window.VOCABULARY_DATA = [
       "a small round sweet cake eaten warm or cold",
       "a curved French pastry made with lots of butter"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/30_cereal.svg",
+    "image_alt": "Graphic novel illustration of cereal"
   },
   {
     "id": 31,
@@ -895,8 +895,8 @@ window.VOCABULARY_DATA = [
       "a curved French pastry made with lots of butter",
       "a small round sweet cake eaten warm or cold"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/31_toast.svg",
+    "image_alt": "Graphic novel illustration of toast"
   },
   {
     "id": 32,
@@ -924,8 +924,8 @@ window.VOCABULARY_DATA = [
       "a white healthy liquid that comes from cows",
       "a grain food eaten in a bowl with cold milk"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/32_butter.svg",
+    "image_alt": "Graphic novel illustration of butter"
   },
   {
     "id": 33,
@@ -953,8 +953,8 @@ window.VOCABULARY_DATA = [
       "the clear natural liquid that people drink to live",
       "a sweet refreshing drink made by squeezing fresh oranges"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/33_tea.svg",
+    "image_alt": "Graphic novel illustration of tea"
   },
   {
     "id": 34,
@@ -982,8 +982,8 @@ window.VOCABULARY_DATA = [
       "a sweet refreshing drink made by squeezing fresh oranges",
       "a hot drink made by brewing dried leaves in hot water"
     ],
-    "image": "assets/images/lunch_tray.jpg",
-    "image_alt": "healthy school canteen lunch spread graphic novel illustration"
+    "image": "assets/images/34_milk.svg",
+    "image_alt": "Graphic novel illustration of milk"
   },
   {
     "id": 35,
@@ -1011,8 +1011,8 @@ window.VOCABULARY_DATA = [
       "the school subject that studies past events and people",
       "the school subject that studies countries, maps and rivers"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/35_english.svg",
+    "image_alt": "Graphic novel illustration of English"
   },
   {
     "id": 36,
@@ -1040,8 +1040,8 @@ window.VOCABULARY_DATA = [
       "the school subject that studies past events and people",
       "the school subject that studies nature and experiments"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/36_maths.svg",
+    "image_alt": "Graphic novel illustration of maths"
   },
   {
     "id": 37,
@@ -1069,8 +1069,8 @@ window.VOCABULARY_DATA = [
       "the school subject of numbers, calculations and shapes",
       "the school subject that studies nature and experiments"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/37_geography.svg",
+    "image_alt": "Graphic novel illustration of geography"
   },
   {
     "id": 38,
@@ -1098,8 +1098,8 @@ window.VOCABULARY_DATA = [
       "the school subject where pupils learn to speak and write English",
       "the school subject of numbers, calculations and shapes"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/38_history.svg",
+    "image_alt": "Graphic novel illustration of history"
   },
   {
     "id": 39,
@@ -1156,8 +1156,8 @@ window.VOCABULARY_DATA = [
       "the school subject that studies nature and experiments",
       "the school subject where pupils do sports and exercises"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/40_art.svg",
+    "image_alt": "Graphic novel illustration of art"
   },
   {
     "id": 41,
@@ -1185,8 +1185,8 @@ window.VOCABULARY_DATA = [
       "the school subject where pupils learn to speak and write English",
       "the school subject that studies past events and people"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/41_music.svg",
+    "image_alt": "Graphic novel illustration of music"
   },
   {
     "id": 42,
@@ -1214,8 +1214,8 @@ window.VOCABULARY_DATA = [
       "the school subject where pupils draw, paint and make things",
       "the school subject of numbers, calculations and shapes"
     ],
-    "image": "assets/images/subjects.jpg",
-    "image_alt": "school subjects desk and weekly timetable graphic novel illustration"
+    "image": "assets/images/42_gym.svg",
+    "image_alt": "Graphic novel illustration of gym"
   },
   {
     "id": 43,
@@ -1243,8 +1243,8 @@ window.VOCABULARY_DATA = [
       "helpful suggestions given to assist someone with a choice",
       "physical activities done to stay healthy and strong"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/43_habit.svg",
+    "image_alt": "Graphic novel illustration of habit"
   },
   {
     "id": 44,
@@ -1272,8 +1272,8 @@ window.VOCABULARY_DATA = [
       "choosing nutritious foods like fruit and fresh vegetables",
       "to stay strong and healthy by doing daily exercise"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/44_good_habits.svg",
+    "image_alt": "Graphic novel illustration of good habits"
   },
   {
     "id": 45,
@@ -1301,8 +1301,8 @@ window.VOCABULARY_DATA = [
       "choosing nutritious foods like fruit and fresh vegetables",
       "the process of learning and exercising for a sport"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/45_bad_habits.svg",
+    "image_alt": "Graphic novel illustration of bad habits"
   },
   {
     "id": 46,
@@ -1330,8 +1330,8 @@ window.VOCABULARY_DATA = [
       "actions that are unhealthy or harmful if done regularly",
       "the types of food a person eats every day"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/46_healthy_eating.svg",
+    "image_alt": "Graphic novel illustration of healthy eating"
   },
   {
     "id": 47,
@@ -1359,8 +1359,8 @@ window.VOCABULARY_DATA = [
       "physical activities done to stay healthy and strong",
       "the process of learning and exercising for a sport"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/47_keep_fit.svg",
+    "image_alt": "Graphic novel illustration of keep fit"
   },
   {
     "id": 48,
@@ -1388,8 +1388,8 @@ window.VOCABULARY_DATA = [
       "to stay strong and healthy by doing daily exercise",
       "a person who trains a sports player or team"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/48_practise.svg",
+    "image_alt": "Graphic novel illustration of practise"
   },
   {
     "id": 49,
@@ -1504,8 +1504,8 @@ window.VOCABULARY_DATA = [
       "the types of food a person eats every day",
       "something you do often and almost without thinking"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/52_exercise.svg",
+    "image_alt": "Graphic novel illustration of exercise"
   },
   {
     "id": 53,
@@ -1533,8 +1533,8 @@ window.VOCABULARY_DATA = [
       "helpful suggestions given to assist someone with a choice",
       "the process of learning and exercising for a sport"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/53_diet.svg",
+    "image_alt": "Graphic novel illustration of diet"
   },
   {
     "id": 54,
@@ -1562,8 +1562,8 @@ window.VOCABULARY_DATA = [
       "something you do often and almost without thinking",
       "the process of learning and exercising for a sport"
     ],
-    "image": "assets/images/training_coach.jpg",
-    "image_alt": "basketball coach and athletes training session graphic novel illustration"
+    "image": "assets/images/54_advice.svg",
+    "image_alt": "Graphic novel illustration of advice"
   },
   {
     "id": 55,
@@ -1591,8 +1591,8 @@ window.VOCABULARY_DATA = [
       "many times or on many different occasions",
       "not at any time or not ever"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/55_always.svg",
+    "image_alt": "Graphic novel illustration of always"
   },
   {
     "id": 56,
@@ -1620,8 +1620,8 @@ window.VOCABULARY_DATA = [
       "on some occasions but not on all times",
       "not at any time or not ever"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/56_usually.svg",
+    "image_alt": "Graphic novel illustration of usually"
   },
   {
     "id": 57,
@@ -1649,8 +1649,8 @@ window.VOCABULARY_DATA = [
       "at all times and on every single occasion",
       "not at any time or not ever"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/57_often.svg",
+    "image_alt": "Graphic novel illustration of often"
   },
   {
     "id": 58,
@@ -1678,8 +1678,8 @@ window.VOCABULARY_DATA = [
       "in the way that most often happens normally",
       "not at any time or not ever"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/58_sometimes.svg",
+    "image_alt": "Graphic novel illustration of sometimes"
   },
   {
     "id": 59,
@@ -1707,8 +1707,8 @@ window.VOCABULARY_DATA = [
       "at all times and on every single occasion",
       "in the way that most often happens normally"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/59_rarely.svg",
+    "image_alt": "Graphic novel illustration of rarely"
   },
   {
     "id": 60,
@@ -1736,8 +1736,8 @@ window.VOCABULARY_DATA = [
       "in the way that most often happens normally",
       "at all times and on every single occasion"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/60_seldom.svg",
+    "image_alt": "Graphic novel illustration of seldom"
   },
   {
     "id": 61,
@@ -1765,8 +1765,8 @@ window.VOCABULARY_DATA = [
       "in the way that most often happens normally",
       "many times or on many different occasions"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/61_never.svg",
+    "image_alt": "Graphic novel illustration of never"
   },
   {
     "id": 62,
@@ -1794,8 +1794,8 @@ window.VOCABULARY_DATA = [
       "happening on school days from Monday to Friday",
       "a question phrase used to ask about routine frequency"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/62_every_day.svg",
+    "image_alt": "Graphic novel illustration of every day"
   },
   {
     "id": 63,
@@ -1823,8 +1823,8 @@ window.VOCABULARY_DATA = [
       "happening on school days from Monday to Friday",
       "happening on Saturday and Sunday each week"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/63_how_often.svg",
+    "image_alt": "Graphic novel illustration of how often"
   },
   {
     "id": 64,
@@ -1881,8 +1881,8 @@ window.VOCABULARY_DATA = [
       "the first healthy meal eaten in the morning",
       "helpful suggestions given to assist someone with a choice"
     ],
-    "image": "assets/images/customs.jpg",
-    "image_alt": "world customs and polite greetings graphic novel illustration"
+    "image": "assets/images/65_manners.svg",
+    "image_alt": "Graphic novel illustration of manners"
   },
   {
     "id": 66,
@@ -1997,8 +1997,8 @@ window.VOCABULARY_DATA = [
       "to hold hands with someone when greeting them politely",
       "to stay strong and healthy by doing daily exercise"
     ],
-    "image": "assets/images/customs.jpg",
-    "image_alt": "school entrance and cultural customs graphic novel illustration"
+    "image": "assets/images/69_take_off_shoes.svg",
+    "image_alt": "Graphic novel illustration of take off shoes"
   },
   {
     "id": 70,
@@ -2026,8 +2026,8 @@ window.VOCABULARY_DATA = [
       "feeling pleased because of an achievement or good work",
       "feeling very happy and eager about something"
     ],
-    "image": "assets/images/breakfast.jpg",
-    "image_alt": "traditional breakfast custom graphic novel illustration"
+    "image": "assets/images/70_traditional.svg",
+    "image_alt": "Graphic novel illustration of traditional"
   },
   {
     "id": 71,
@@ -2084,7 +2084,7 @@ window.VOCABULARY_DATA = [
       "a question phrase used to ask about routine frequency",
       "happening on Saturday and Sunday each week"
     ],
-    "image": "assets/images/frequency_routines.jpg",
-    "image_alt": "daily routine clock and frequency adverbs chart graphic novel illustration"
+    "image": "assets/images/72_on_time.svg",
+    "image_alt": "Graphic novel illustration of on time"
   }
 ];

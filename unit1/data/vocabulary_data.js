@@ -24,7 +24,9 @@ window.VOCABULARY_DATA = [
       "the glass part of a computer that shows pictures and words",
       "a board with letters and numbers used to write on a computer",
       "a machine that prints words and pictures on paper"
-    ]
+    ],
+    "image": "assets/images/01_computer.svg",
+    "image_alt": "Graphic novel illustration of computer"
   },
   {
     "id": 2,
@@ -51,7 +53,9 @@ window.VOCABULARY_DATA = [
       "a board with letters and numbers used to write on a computer",
       "a small device you move with your hand to click on a computer",
       "a device that plays sounds from a computer"
-    ]
+    ],
+    "image": "assets/images/02_screen.svg",
+    "image_alt": "Graphic novel illustration of screen"
   },
   {
     "id": 3,
@@ -78,7 +82,9 @@ window.VOCABULARY_DATA = [
       "the glass part of a computer that shows pictures and words",
       "a board with letters and numbers used to write on a computer",
       "a machine that copies pictures into a computer"
-    ]
+    ],
+    "image": "assets/images/03_mouse.svg",
+    "image_alt": "Graphic novel illustration of mouse"
   },
   {
     "id": 4,
@@ -105,7 +111,9 @@ window.VOCABULARY_DATA = [
       "the glass part of a computer that shows pictures and words",
       "a small device you move with your hand to click on a computer",
       "a machine that prints words and pictures on paper"
-    ]
+    ],
+    "image": "assets/images/04_keyboard.svg",
+    "image_alt": "Graphic novel illustration of keyboard"
   },
   {
     "id": 5,
@@ -132,7 +140,9 @@ window.VOCABULARY_DATA = [
       "a machine that copies pictures into a computer",
       "the glass part of a computer that shows pictures and words",
       "a device that plays sounds from a computer"
-    ]
+    ],
+    "image": "assets/images/05_printer.svg",
+    "image_alt": "Graphic novel illustration of printer"
   },
   {
     "id": 6,
@@ -159,7 +169,9 @@ window.VOCABULARY_DATA = [
       "a machine that prints words and pictures on paper",
       "the tall box of a desktop computer with the main parts",
       "a board with letters and numbers used to write on a computer"
-    ]
+    ],
+    "image": "assets/images/06_scanner.svg",
+    "image_alt": "Graphic novel illustration of scanner"
   },
   {
     "id": 7,
@@ -186,7 +198,9 @@ window.VOCABULARY_DATA = [
       "the glass part of a computer that shows pictures and words",
       "a board with letters and numbers used to write on a computer",
       "a device that plays sounds from a computer"
-    ]
+    ],
+    "image": "assets/images/07_tower.svg",
+    "image_alt": "Graphic novel illustration of tower"
   },
   {
     "id": 8,
@@ -213,7 +227,9 @@ window.VOCABULARY_DATA = [
       "a pair of small speakers you wear over your ears",
       "a device that plays sounds from a computer",
       "a small device you move with your hand to click on a computer"
-    ]
+    ],
+    "image": "assets/images/08_microphone.svg",
+    "image_alt": "Graphic novel illustration of microphone"
   },
   {
     "id": 9,
@@ -240,7 +256,9 @@ window.VOCABULARY_DATA = [
       "a small tool you speak into to record your voice",
       "a device that plays sounds from a computer",
       "the glass part of a computer that shows pictures and words"
-    ]
+    ],
+    "image": "assets/images/09_headphones.svg",
+    "image_alt": "Graphic novel illustration of headphones"
   },
   {
     "id": 10,
@@ -267,7 +285,9 @@ window.VOCABULARY_DATA = [
       "a pair of small speakers you wear over your ears",
       "a small tool you speak into to record your voice",
       "a machine that prints words and pictures on paper"
-    ]
+    ],
+    "image": "assets/images/10_speaker.svg",
+    "image_alt": "Graphic novel illustration of speaker"
   },
   {
     "id": 11,
@@ -294,7 +314,9 @@ window.VOCABULARY_DATA = [
       "a place on the internet with pictures and information",
       "a message sent through the internet from one computer to another",
       "facts or details about a person, place, or thing"
-    ]
+    ],
+    "image": "assets/images/11_internet.svg",
+    "image_alt": "Graphic novel illustration of internet"
   },
   {
     "id": 12,
@@ -321,7 +343,9 @@ window.VOCABULARY_DATA = [
       "a place on the internet with pictures and information",
       "a world network that connects computers together",
       "facts or details about a person, place, or thing"
-    ]
+    ],
+    "image": "assets/images/12_email.svg",
+    "image_alt": "Graphic novel illustration of email"
   },
   {
     "id": 13,
@@ -348,7 +372,9 @@ window.VOCABULARY_DATA = [
       "a message sent through the internet from one computer to another",
       "a world network that connects computers together",
       "facts or details about a person, place, or thing"
-    ]
+    ],
+    "image": "assets/images/13_website.svg",
+    "image_alt": "Graphic novel illustration of website"
   },
   {
     "id": 14,
@@ -375,7 +401,9 @@ window.VOCABULARY_DATA = [
       "using computer technology and the internet",
       "not connected to the internet",
       "joined to a computer network or the internet"
-    ]
+    ],
+    "image": "assets/images/14_online.svg",
+    "image_alt": "Graphic novel illustration of online"
   },
   {
     "id": 15,
@@ -402,7 +430,9 @@ window.VOCABULARY_DATA = [
       "to make a message or letter go to someone else",
       "to get something that someone sends to you",
       "to learn about a subject at school or at home"
-    ]
+    ],
+    "image": "assets/images/15_chat.svg",
+    "image_alt": "Graphic novel illustration of chat"
   },
   {
     "id": 16,
@@ -429,7 +459,9 @@ window.VOCABULARY_DATA = [
       "to send a digital message to another computer",
       "to play fun interactive games on a screen",
       "to talk with friends using internet messaging"
-    ]
+    ],
+    "image": "assets/images/16_surf_the_net.svg",
+    "image_alt": "Graphic novel illustration of surf the net"
   },
   {
     "id": 17,
@@ -456,7 +488,9 @@ window.VOCABULARY_DATA = [
       "a place on the internet with pictures and information",
       "a message sent through the internet from one computer to another",
       "a world network that connects computers together"
-    ]
+    ],
+    "image": "assets/images/17_information.svg",
+    "image_alt": "Graphic novel illustration of information"
   },
   {
     "id": 18,
@@ -483,7 +517,9 @@ window.VOCABULARY_DATA = [
       "to get something that someone sends to you",
       "to talk in a friendly way with someone online or in person",
       "to learn about a subject at school or at home"
-    ]
+    ],
+    "image": "assets/images/18_send.svg",
+    "image_alt": "Graphic novel illustration of send"
   },
   {
     "id": 19,
@@ -510,7 +546,9 @@ window.VOCABULARY_DATA = [
       "to make a message or letter go to someone else",
       "to talk in a friendly way with someone online or in person",
       "to like one thing more than another thing"
-    ]
+    ],
+    "image": "assets/images/19_receive.svg",
+    "image_alt": "Graphic novel illustration of receive"
   },
   {
     "id": 20,
@@ -537,7 +575,9 @@ window.VOCABULARY_DATA = [
       "an activity you enjoy doing in your free time",
       "a physical game like football or tennis that you play",
       "cleaning and cooking that people do at home"
-    ]
+    ],
+    "image": "assets/images/20_free_time.svg",
+    "image_alt": "Graphic novel illustration of free time"
   },
   {
     "id": 21,
@@ -564,7 +604,9 @@ window.VOCABULARY_DATA = [
       "a physical game like football or tennis that you play",
       "time when you do not have to work or study",
       "a game or problem that tests your clever thinking"
-    ]
+    ],
+    "image": "assets/images/21_hobby.svg",
+    "image_alt": "Graphic novel illustration of hobby"
   },
   {
     "id": 22,
@@ -591,7 +633,9 @@ window.VOCABULARY_DATA = [
       "to feel happy when you do an activity",
       "to dislike something very much",
       "to learn about a subject at school or at home"
-    ]
+    ],
+    "image": "assets/images/22_prefer.svg",
+    "image_alt": "Graphic novel illustration of prefer"
   },
   {
     "id": 23,
@@ -618,7 +662,9 @@ window.VOCABULARY_DATA = [
       "to like one thing more than another thing",
       "to dislike something very much",
       "to make a picture using liquid colors and a brush"
-    ]
+    ],
+    "image": "assets/images/23_enjoy.svg",
+    "image_alt": "Graphic novel illustration of enjoy"
   },
   {
     "id": 24,
@@ -645,7 +691,9 @@ window.VOCABULARY_DATA = [
       "to feel happy when you do an activity",
       "to like one thing more than another thing",
       "to run slowly for exercise and good health"
-    ]
+    ],
+    "image": "assets/images/24_hate.svg",
+    "image_alt": "Graphic novel illustration of hate"
   },
   {
     "id": 25,
@@ -672,7 +720,9 @@ window.VOCABULARY_DATA = [
       "to make a picture using liquid colors and a brush",
       "to run slowly for exercise and good health",
       "to feel happy when you do an activity"
-    ]
+    ],
+    "image": "assets/images/25_draw.svg",
+    "image_alt": "Graphic novel illustration of draw"
   },
   {
     "id": 26,
@@ -699,7 +749,9 @@ window.VOCABULARY_DATA = [
       "a physical game like football or tennis that you play",
       "an activity you enjoy doing in your free time",
       "cleaning and cooking that people do at home"
-    ]
+    ],
+    "image": "assets/images/26_puzzle.svg",
+    "image_alt": "Graphic novel illustration of puzzle"
   },
   {
     "id": 27,
@@ -726,7 +778,9 @@ window.VOCABULARY_DATA = [
       "an activity you enjoy doing in your free time",
       "a game or problem that tests your clever thinking",
       "time when you do not have to work or study"
-    ]
+    ],
+    "image": "assets/images/27_sport.svg",
+    "image_alt": "Graphic novel illustration of sport"
   },
   {
     "id": 28,
@@ -753,7 +807,9 @@ window.VOCABULARY_DATA = [
       "school work that pupils do at home after class",
       "an activity you enjoy doing in your free time",
       "time when you do not have to work or study"
-    ]
+    ],
+    "image": "assets/images/28_housework.svg",
+    "image_alt": "Graphic novel illustration of housework"
   },
   {
     "id": 29,
@@ -780,7 +836,9 @@ window.VOCABULARY_DATA = [
       "to make pictures with a pen or pencil",
       "to make a picture using liquid colors and a brush",
       "to feel happy when you do an activity"
-    ]
+    ],
+    "image": "assets/images/29_jog.svg",
+    "image_alt": "Graphic novel illustration of jog"
   },
   {
     "id": 30,
@@ -807,7 +865,9 @@ window.VOCABULARY_DATA = [
       "to make pictures with a pen or pencil",
       "to run slowly for exercise and good health",
       "to like one thing more than another thing"
-    ]
+    ],
+    "image": "assets/images/30_paint.svg",
+    "image_alt": "Graphic novel illustration of paint"
   },
   {
     "id": 31,
@@ -834,7 +894,9 @@ window.VOCABULARY_DATA = [
       "to like one thing more than another thing",
       "to feel happy when you do an activity",
       "to make pictures with a pen or pencil"
-    ]
+    ],
+    "image": "assets/images/31_study.svg",
+    "image_alt": "Graphic novel illustration of study"
   },
   {
     "id": 32,
@@ -861,7 +923,9 @@ window.VOCABULARY_DATA = [
       "a set of questions to see how much you know",
       "cleaning and cooking that people do at home",
       "a school for children aged between 5 and 11"
-    ]
+    ],
+    "image": "assets/images/32_homework.svg",
+    "image_alt": "Graphic novel illustration of homework"
   },
   {
     "id": 33,
@@ -888,7 +952,9 @@ window.VOCABULARY_DATA = [
       "school work that pupils do at home after class",
       "a game or problem that tests your clever thinking",
       "a school for children aged between 5 and 11"
-    ]
+    ],
+    "image": "assets/images/33_test.svg",
+    "image_alt": "Graphic novel illustration of test"
   },
   {
     "id": 34,
@@ -915,7 +981,9 @@ window.VOCABULARY_DATA = [
       "a person who studies at a school or college",
       "school work that pupils do at home after class",
       "a school for children aged between 5 and 11"
-    ]
+    ],
+    "image": "assets/images/34_pupil.svg",
+    "image_alt": "Graphic novel illustration of pupil"
   },
   {
     "id": 35,
@@ -942,7 +1010,9 @@ window.VOCABULARY_DATA = [
       "a child who is learning at a primary school",
       "school work that pupils do at home after class",
       "a school for children aged between 5 and 11"
-    ]
+    ],
+    "image": "assets/images/35_student.svg",
+    "image_alt": "Graphic novel illustration of student"
   },
   {
     "id": 36,
@@ -969,7 +1039,9 @@ window.VOCABULARY_DATA = [
       "school work that pupils do at home after class",
       "a set of questions to see how much you know",
       "a child who is learning at a primary school"
-    ]
+    ],
+    "image": "assets/images/36_primary_school.svg",
+    "image_alt": "Graphic novel illustration of primary school"
   },
   {
     "id": 37,
@@ -996,7 +1068,9 @@ window.VOCABULARY_DATA = [
       "the main city where the government of a country works",
       "the country that a person belongs to by law",
       "a piece of land with water all around it"
-    ]
+    ],
+    "image": "assets/images/37_country.svg",
+    "image_alt": "Graphic novel illustration of country"
   },
   {
     "id": 38,
@@ -1023,7 +1097,9 @@ window.VOCABULARY_DATA = [
       "an area of land with its own people and government",
       "the total number of people living in a place",
       "the main city where the government of a country works"
-    ]
+    ],
+    "image": "assets/images/38_nationality.svg",
+    "image_alt": "Graphic novel illustration of nationality"
   },
   {
     "id": 39,
@@ -1050,7 +1126,9 @@ window.VOCABULARY_DATA = [
       "an area of land with its own people and government",
       "a piece of land with water all around it",
       "the total number of people living in a place"
-    ]
+    ],
+    "image": "assets/images/39_capital.svg",
+    "image_alt": "Graphic novel illustration of capital"
   },
   {
     "id": 40,
@@ -1077,7 +1155,9 @@ window.VOCABULARY_DATA = [
       "a sign or object that represents an idea or country",
       "the main city where the government of a country works",
       "an area of land with its own people and government"
-    ]
+    ],
+    "image": "assets/images/40_flag.svg",
+    "image_alt": "Graphic novel illustration of flag"
   },
   {
     "id": 41,
@@ -1104,7 +1184,9 @@ window.VOCABULARY_DATA = [
       "the main city where the government of a country works",
       "an area of land with its own people and government",
       "the total number of people living in a place"
-    ]
+    ],
+    "image": "assets/images/41_island.svg",
+    "image_alt": "Graphic novel illustration of island"
   },
   {
     "id": 42,
@@ -1131,7 +1213,9 @@ window.VOCABULARY_DATA = [
       "the country that a person belongs to by law",
       "an area of land with its own people and government",
       "the main city where the government of a country works"
-    ]
+    ],
+    "image": "assets/images/42_population.svg",
+    "image_alt": "Graphic novel illustration of population"
   },
   {
     "id": 43,
@@ -1158,7 +1242,9 @@ window.VOCABULARY_DATA = [
       "to join two places or things together",
       "to go from one place or country to another",
       "to go to see a person or a famous place"
-    ]
+    ],
+    "image": "assets/images/43_border.svg",
+    "image_alt": "Graphic novel illustration of border"
   },
   {
     "id": 44,
@@ -1185,7 +1271,9 @@ window.VOCABULARY_DATA = [
       "the country of England, Scotland, Wales, and Northern Ireland",
       "a historic country in southern Europe where Kostas lives",
       "a large country in western Europe where Nadine lives"
-    ]
+    ],
+    "image": "assets/images/44_great_britain.svg",
+    "image_alt": "Graphic novel illustration of Great Britain"
   },
   {
     "id": 45,
@@ -1212,7 +1300,9 @@ window.VOCABULARY_DATA = [
       "the large island with England, Scotland, and Wales",
       "a large country in western Europe where Nadine lives",
       "a warm country in southwestern Europe next to Portugal"
-    ]
+    ],
+    "image": "assets/images/45_united_kingdom.svg",
+    "image_alt": "Graphic novel illustration of United Kingdom"
   },
   {
     "id": 46,
@@ -1239,7 +1329,9 @@ window.VOCABULARY_DATA = [
       "a large country in western Europe where Nadine lives",
       "a warm country in southwestern Europe next to Portugal",
       "the large island with England, Scotland, and Wales"
-    ]
+    ],
+    "image": "assets/images/46_greece.svg",
+    "image_alt": "Graphic novel illustration of Greece"
   },
   {
     "id": 47,
@@ -1266,7 +1358,9 @@ window.VOCABULARY_DATA = [
       "a warm country in southwestern Europe next to Portugal",
       "a historic country in southern Europe where Kostas lives",
       "the country of England, Scotland, Wales, and Northern Ireland"
-    ]
+    ],
+    "image": "assets/images/47_france.svg",
+    "image_alt": "Graphic novel illustration of France"
   },
   {
     "id": 48,
@@ -1293,7 +1387,9 @@ window.VOCABULARY_DATA = [
       "a large country in western Europe where Nadine lives",
       "a historic country in southern Europe where Kostas lives",
       "the large island with England, Scotland, and Wales"
-    ]
+    ],
+    "image": "assets/images/48_spain.svg",
+    "image_alt": "Graphic novel illustration of Spain"
   },
   {
     "id": 49,
@@ -1320,7 +1416,9 @@ window.VOCABULARY_DATA = [
       "relating to France, its people, or its language",
       "relating to Spain, its people, or its language",
       "relating to Germany, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/49_british.svg",
+    "image_alt": "Graphic novel illustration of British"
   },
   {
     "id": 50,
@@ -1347,7 +1445,9 @@ window.VOCABULARY_DATA = [
       "relating to Italy, its people, or its language",
       "relating to Spain, its people, or its language",
       "relating to France, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/50_greek.svg",
+    "image_alt": "Graphic novel illustration of Greek"
   },
   {
     "id": 51,
@@ -1374,7 +1474,9 @@ window.VOCABULARY_DATA = [
       "relating to Spain, its people, or its language",
       "relating to Germany, its people, or its language",
       "relating to Italy, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/51_french.svg",
+    "image_alt": "Graphic novel illustration of French"
   },
   {
     "id": 52,
@@ -1401,7 +1503,9 @@ window.VOCABULARY_DATA = [
       "relating to France, its people, or its language",
       "relating to Italy, its people, or its language",
       "relating to Greece, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/52_spanish.svg",
+    "image_alt": "Graphic novel illustration of Spanish"
   },
   {
     "id": 53,
@@ -1428,7 +1532,9 @@ window.VOCABULARY_DATA = [
       "relating to Greece, its people, or its language",
       "relating to Spain, its people, or its language",
       "relating to France, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/53_italian.svg",
+    "image_alt": "Graphic novel illustration of Italian"
   },
   {
     "id": 54,
@@ -1455,7 +1561,9 @@ window.VOCABULARY_DATA = [
       "relating to Holland, its people, or its language",
       "relating to Great Britain and its people",
       "relating to Russia, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/54_german.svg",
+    "image_alt": "Graphic novel illustration of German"
   },
   {
     "id": 55,
@@ -1482,7 +1590,9 @@ window.VOCABULARY_DATA = [
       "relating to Germany, its people, or its language",
       "relating to Great Britain and its people",
       "relating to France, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/55_dutch.svg",
+    "image_alt": "Graphic novel illustration of Dutch"
   },
   {
     "id": 56,
@@ -1509,7 +1619,9 @@ window.VOCABULARY_DATA = [
       "relating to Germany, its people, or its language",
       "relating to Great Britain and its people",
       "relating to Greece, its people, or its language"
-    ]
+    ],
+    "image": "assets/images/56_russian.svg",
+    "image_alt": "Graphic novel illustration of Russian"
   },
   {
     "id": 57,
@@ -1536,7 +1648,9 @@ window.VOCABULARY_DATA = [
       "a piece of cloth with special colors that represents a country",
       "a sweet-smelling flower that is the symbol of England",
       "an area of land with its own people and government"
-    ]
+    ],
+    "image": "assets/images/57_symbol.svg",
+    "image_alt": "Graphic novel illustration of symbol"
   },
   {
     "id": 58,
@@ -1563,7 +1677,9 @@ window.VOCABULARY_DATA = [
       "a sign or object that represents an idea or country",
       "a piece of cloth with special colors that represents a country",
       "the main city where the government of a country works"
-    ]
+    ],
+    "image": "assets/images/58_national_flower.svg",
+    "image_alt": "Graphic novel illustration of national flower"
   },
   {
     "id": 59,
@@ -1590,7 +1706,9 @@ window.VOCABULARY_DATA = [
       "a yellow spring flower that is the symbol of Wales",
       "a prickly purple plant that is the symbol of Scotland",
       "a small plant with three green leaves that represents Ireland"
-    ]
+    ],
+    "image": "assets/images/59_rose.svg",
+    "image_alt": "Graphic novel illustration of rose"
   },
   {
     "id": 60,
@@ -1617,7 +1735,9 @@ window.VOCABULARY_DATA = [
       "a sweet-smelling flower that is the symbol of England",
       "a prickly purple plant that is the symbol of Scotland",
       "a small plant with three green leaves that represents Ireland"
-    ]
+    ],
+    "image": "assets/images/60_daffodil.svg",
+    "image_alt": "Graphic novel illustration of daffodil"
   },
   {
     "id": 61,
@@ -1644,7 +1764,9 @@ window.VOCABULARY_DATA = [
       "a sweet-smelling flower that is the symbol of England",
       "a yellow spring flower that is the symbol of Wales",
       "a small plant with three green leaves that represents Ireland"
-    ]
+    ],
+    "image": "assets/images/61_thistle.svg",
+    "image_alt": "Graphic novel illustration of thistle"
   },
   {
     "id": 62,
@@ -1671,6 +1793,8 @@ window.VOCABULARY_DATA = [
       "a sweet-smelling flower that is the symbol of England",
       "a yellow spring flower that is the symbol of Wales",
       "a prickly purple plant that is the symbol of Scotland"
-    ]
+    ],
+    "image": "assets/images/62_shamrock.svg",
+    "image_alt": "Graphic novel illustration of shamrock"
   }
 ];
