@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.querySelectorAll('.shell-print-kicker').forEach(el => { el.textContent = `English 5th Grade • ${unitLabel}`; });
     document.querySelectorAll('.shell-print-title').forEach(el => { el.textContent = `${getUnitTitle()} — Vocabulary Study Guide`; });
     document.querySelectorAll('.shell-print-footer').forEach(el => { el.textContent = `${unitLabel} • Printable Vocabulary Reference`; });
-    byId('cefrBadge').textContent = `CEFR ${unitData.cefr_level || 'A1-'}`;
+    if (byId('cefrBadge')) byId('cefrBadge').textContent = `CEFR ${unitData.cefr_level || 'A1-'}`;
     if (byId('totalWordsCount')) byId('totalWordsCount').textContent = vocabList.length;
     if (byId('audioCount')) byId('audioCount').textContent = vocabList.length * 6;
   }

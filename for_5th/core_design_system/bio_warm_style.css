@@ -44,7 +44,7 @@
 
 /* ============== RESET ============== */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; max-width: 100%; }
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: var(--cream);
@@ -1681,6 +1681,34 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
 }
 
 @media (max-width: 768px) {
+  .topbar { padding: 14px 16px; }
+  .topbar-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
+  .topbar-actions { flex-wrap: wrap !important; width: 100%; justify-content: flex-start; gap: 8px !important; }
+  .edition-switch-btn.classic, .topbar-cta { padding: 8px 14px !important; font-size: 0.8rem !important; }
+  .brand-sub { display: none; }
+  .hero { padding: 28px 16px 48px; }
+  .hero-text, .hero-art, .vs-card, .thing-card, .unit-split, .unit-side, .teacher-pillar { min-width: 0; max-width: 100%; }
+  .kicker { max-width: 100%; flex-wrap: wrap; font-size: 0.7rem; padding: 6px 12px; }
+  .kicker-mark { flex-shrink: 0; }
+  .cta { white-space: normal; padding: 12px 18px; font-size: 0.9rem; max-width: 100%; }
+  .section-inner { padding: 0 16px; }
+  .hero-title { font-size: clamp(2.2rem, 10vw, 3.6rem); }
+  .unit-split { grid-template-columns: 1fr; }
+  .unit-side { padding: 20px 16px; }
+  .v1-cover, .unit1-real-strip { margin-left: 0; margin-right: 0; }
+  .unit-fold { width: 100%; height: 4px; }
+  .teacher-card { padding: 28px 16px; }
+  .filter-row { width: 100%; overflow-x: auto; flex-wrap: nowrap; }
+  .chip { white-space: nowrap; }
+  .art-book { inset: 4%; }
+  .book-page { padding: 18px 12px; }
+  .page-title, .page-title-companion { font-size: 1.3rem; }
+  .vocab-row { font-size: 0.88rem; padding: 7px 0; }
+  .vocab-row .el { font-size: 0.9rem; }
+  .thing-card { padding: 22px 16px; }
+  .vs-card { padding: 20px 16px; }
+  .comic-caption-bar { flex-wrap: wrap; }
+  .vs-country-grid { grid-template-columns: 1fr; }
   .comic-dual-strip { grid-template-columns: 1fr; }
   .comic-dual-pill.v1-pill { border-right: 0; border-bottom: 2px solid var(--ink); }
   .real-strip-thumbs { grid-template-columns: repeat(2, 1fr); }

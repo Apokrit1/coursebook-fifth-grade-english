@@ -53,6 +53,11 @@
   padding: 0;
 }
 
+html {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
 body {
   font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background-color: var(--bg-page);
@@ -208,6 +213,7 @@ body {
 .nav-breadcrumbs {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 8px;
   font-size: 0.88rem;
 }
@@ -250,6 +256,7 @@ body {
 .nav-actions {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
 }
 
@@ -315,7 +322,9 @@ body {
 
 .audio-settings-bar {
   display: flex;
+  flex-wrap: wrap;
   gap: 12px;
+  max-width: 100%;
 }
 
 .setting-item {
@@ -2100,6 +2109,41 @@ body {
   }
   .ch-options-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-container,
+  .content-container,
+  .footer-container {
+    padding: 0 16px;
+  }
+  .main-title {
+    font-size: 1.65rem;
+  }
+  .v2-nav-tabs {
+    flex-wrap: wrap;
+    gap: 6px;
+    padding-bottom: 10px;
+    overflow-x: visible;
+  }
+  .v2-tab {
+    padding: 8px 12px;
+    font-size: 0.84rem;
+    white-space: normal;
+  }
+  .setting-item {
+    max-width: 100%;
+  }
+  .v2-select {
+    max-width: 100%;
+  }
+  .panel-header-box,
+  .wb-card {
+    padding: 18px 16px;
+  }
+  .wb-header-left {
+    min-width: 0;
   }
 }
 

@@ -16,7 +16,7 @@
 
   <!-- Sky -->
   <rect width="800" height="350" fill="url(#skyGrad)"/>
-  <!-- Playground Grass & Tarmac -->
+  <!-- Playground Grass &amp; Tarmac -->
   <rect y="350" width="800" height="150" fill="#48bb78"/>
   <rect y="400" width="800" height="100" fill="#718096"/>
   <line x1="0" y1="450" x2="800" y2="450" stroke="#ffffff" stroke-width="4" stroke-dasharray="20,15"/>
@@ -30,7 +30,7 @@
   <line x1="400" y1="40" x2="408" y2="40" stroke="#2d3748" stroke-width="2"/>
   <text x="400" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="bold" fill="#2d3748" text-anchor="middle">WEST WIMBLEDON PRIMARY SCHOOL</text>
 
-  <!-- School Windows (Classrooms & Library) -->
+  <!-- School Windows (Classrooms &amp; Library) -->
   <!-- Row 1 Windows -->
   <rect x="120" y="110" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>
   <rect x="220" y="110" width="70" height="50" rx="4" fill="#90cdf4" stroke="#4299e1" stroke-width="2"/>

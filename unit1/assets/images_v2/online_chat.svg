@@ -23,7 +23,7 @@
     <rect width="220" height="280" rx="12" fill="#2c5282" stroke="#4299e1" stroke-width="3" filter="url(#shadow2)"/>
     <rect x="0" y="235" width="220" height="45" rx="10" fill="#1a365d"/>
     <circle cx="110" cy="110" r="55" fill="#fbd38d"/>
-    <!-- Kostas Hair & Face -->
+    <!-- Kostas Hair &amp; Face -->
     <path d="M65 95 Q110 50 155 95 Q130 65 110 65 Q90 65 65 95 Z" fill="#744210"/>
     <circle cx="95" cy="110" r="5" fill="#2d3748"/>
     <circle cx="125" cy="110" r="5" fill="#2d3748"/>
@@ -55,7 +55,7 @@
     <rect width="220" height="280" rx="12" fill="#234e52" stroke="#319795" stroke-width="3" filter="url(#shadow2)"/>
     <rect x="0" y="235" width="220" height="45" rx="10" fill="#1d4044"/>
     <circle cx="110" cy="110" r="55" fill="#fbd38d"/>
-    <!-- Mark Orange Hair & Headphones -->
+    <!-- Mark Orange Hair &amp; Headphones -->
     <path d="M60 95 Q110 50 160 95 Q135 60 110 60 Q85 60 60 95 Z" fill="#dd6b20"/>
     <circle cx="95" cy="110" r="5" fill="#2d3748"/>
     <circle cx="125" cy="110" r="5" fill="#2d3748"/>

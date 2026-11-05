@@ -73,7 +73,7 @@
   <!-- Key rows -->
   <path d="M270 365 H490 M270 375 H490 M270 385 H490" stroke="#718096" stroke-width="3" stroke-dasharray="8 3"/>
 
-  <!-- Optical Mouse & Mousepad -->
+  <!-- Optical Mouse &amp; Mousepad -->
   <rect x="515" y="360" width="55" height="40" rx="6" fill="#4299e1"/>
   <ellipse cx="542" cy="380" rx="12" ry="16" fill="#edf2f7" stroke="#cbd5e0" stroke-width="2"/>
   <line x1="542" y1="364" x2="542" y2="376" stroke="#a0aec0" stroke-width="2"/>

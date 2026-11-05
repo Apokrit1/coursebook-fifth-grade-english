@@ -17,7 +17,7 @@
     </filter>
   </defs>
 
-  <!-- Gym Wall & Floor -->
+  <!-- Gym Wall &amp; Floor -->
   <rect width="800" height="280" fill="url(#wallGrad)"/>
   <rect y="280" width="800" height="220" fill="url(#gymFloor)"/>
 

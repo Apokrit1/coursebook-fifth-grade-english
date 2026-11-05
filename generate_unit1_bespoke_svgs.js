@@ -150,7 +150,8 @@ const UNIT1_ARTWORK = {
 
 console.log('=== GENERATING UNIT 1 BESPOKE GRAPHIC NOVEL SVGS ===');
 let u1Count = 0;
-for (const item of vocab) {
+const vocabItems = Array.isArray(vocab) ? vocab : (vocab.vocabulary || []);
+for (const item of vocabItems) {
   const custom = UNIT1_ARTWORK[item.id];
   if (custom) {
     const padId = String(item.id).padStart(2, '0');

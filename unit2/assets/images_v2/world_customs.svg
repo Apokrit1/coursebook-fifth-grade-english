@@ -43,7 +43,7 @@
   <rect x="290" y="105" width="220" height="230" rx="8" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" filter="url(#tileShadow)"/>
   <rect x="290" y="105" width="220" height="32" rx="8" fill="#e53e3e"/>
   <text x="400" y="126" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">🇯🇵 JAPAN</text>
-  <!-- Illustration Bowl & Chopsticks -->
+  <!-- Illustration Bowl &amp; Chopsticks -->
   <ellipse cx="400" cy="190" rx="38" ry="20" fill="#4a5568"/>
   <ellipse cx="400" cy="185" rx="35" ry="16" fill="#ffffff"/>
   <text x="400" y="190" font-size="20" text-anchor="middle">🍚</text>
@@ -56,7 +56,7 @@
   <text x="400" y="283" font-family="sans-serif" font-size="10" fill="#4a5568" text-anchor="middle">Eat using chopsticks</text>
   <text x="400" y="310" font-family="sans-serif" font-size="10" font-weight="bold" fill="#c53030" text-anchor="middle">Custom: Bow politely 🙇</text>
 
-  <!-- Card 3: Greece & Mediterranean -->
+  <!-- Card 3: Greece &amp; Mediterranean -->
   <rect x="530" y="105" width="220" height="230" rx="8" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" filter="url(#tileShadow)"/>
   <rect x="530" y="105" width="220" height="32" rx="8" fill="#2c7a7b"/>
   <text x="640" y="126" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">🇬🇷 GREECE</text>
@@ -72,7 +72,7 @@
   <text x="640" y="283" font-family="sans-serif" font-size="10" fill="#4a5568" text-anchor="middle">Fresh orange juice &amp; yogurt</text>
   <text x="640" y="310" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2c7a7b" text-anchor="middle">Custom: Friendly greeting 👋</text>
 
-  <!-- Bottom Banner: Etiquette & Manners Summary -->
+  <!-- Bottom Banner: Etiquette &amp; Manners Summary -->
   <rect x="50" y="355" width="700" height="110" rx="8" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" filter="url(#tileShadow)"/>
   <text x="400" y="385" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="bold" fill="#2d3748" text-anchor="middle">💡 ETIQUETTE &amp; GOOD MANNERS AROUND THE WORLD</text>
   <text x="180" y="415" font-family="sans-serif" font-size="11" fill="#4a5568">👞 <strong>Take off shoes:</strong> Inside homes in Japan</text>

@@ -1,5 +1,14 @@
 const fs = require('fs');
 
+function escapeXml(str) {
+  return String(str ?? '')
+    .replace(/&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
 function createComicBadgeSvg({
   category,
   word,
@@ -33,14 +42,14 @@ function createComicBadgeSvg({
   <!-- Category Tag -->
   <g transform="translate(14, 14)">
     <rect width="${category.length * 8 + 24}" height="22" rx="6" fill="${tagColor}" stroke="#1a202c" stroke-width="2" filter="url(#comicShadow_${word.replace(/[^a-z0-9]/gi, '_')})"/>
-    <text x="${(category.length * 8 + 24) / 2}" y="15" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">${category.toUpperCase()}</text>
+    <text x="${(category.length * 8 + 24) / 2}" y="15" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">${escapeXml(category.toUpperCase())}</text>
   </g>
 
   <!-- Comic Sound Burst -->
   ${burstText ? `
   <g transform="translate(244, 22) rotate(${burstAngle})">
     <polygon points="0,10 12,0 24,8 36,0 34,14 46,18 36,26 44,38 30,34 22,44 18,32 6,36 10,24 0,18" fill="${burstColor}" stroke="#1a202c" stroke-width="2"/>
-    <text x="22" y="26" font-family="'Outfit', sans-serif" font-size="9" font-weight="900" fill="#1a202c" text-anchor="middle">${burstText}</text>
+    <text x="22" y="26" font-family="'Outfit', sans-serif" font-size="9" font-weight="900" fill="#1a202c" text-anchor="middle">${escapeXml(burstText)}</text>
   </g>` : ''}
 
   <!-- Graphic Novel Artwork -->
@@ -48,10 +57,10 @@ function createComicBadgeSvg({
     ${innerSvg}
   </g>
 
-  <!-- Comic Word & Greek Info -->
-  <text x="160" y="180" font-family="'Outfit', sans-serif" font-size="20" font-weight="900" fill="#1a202c" text-anchor="middle" letter-spacing="0.5">${word}</text>
-  <text x="160" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#4a5568" text-anchor="middle">${ipa ? ipa + ' • ' : ''}${meaningGr}</text>
+  <!-- Comic Word and Greek Info -->
+  <text x="160" y="180" font-family="'Outfit', sans-serif" font-size="20" font-weight="900" fill="#1a202c" text-anchor="middle" letter-spacing="0.5">${escapeXml(word)}</text>
+  <text x="160" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#4a5568" text-anchor="middle">${escapeXml((ipa ? ipa + ' • ' : '') + meaningGr)}</text>
 </svg>`;
 }
 
-module.exports = { createComicBadgeSvg };
+module.exports = { createComicBadgeSvg, escapeXml };

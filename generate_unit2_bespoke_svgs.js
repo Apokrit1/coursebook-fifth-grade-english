@@ -107,7 +107,7 @@ const SVG_ARTWORK = {
       <!-- Breakfast Cereal Bowl -->
       <ellipse cx="0" cy="18" rx="46" ry="16" fill="#cbd5e0" stroke="#1a202c" stroke-width="3.5"/>
       <path d="M -46,0 C -46,32 46,32 46,0 Z" fill="#3182ce" stroke="#1a202c" stroke-width="3.5"/>
-      <!-- Milk & Flakes -->
+      <!-- Milk &amp; Flakes -->
       <ellipse cx="0" cy="0" rx="44" ry="14" fill="#ffffff" stroke="#1a202c" stroke-width="2.5"/>
       <ellipse cx="-20" cy="-2" rx="7" ry="5" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
       <ellipse cx="-4" cy="2" rx="8" ry="5" fill="#d69e2e" stroke="#1a202c" stroke-width="1.5"/>
@@ -257,7 +257,7 @@ const SVG_ARTWORK = {
     burstColor: '#ecc94b',
     burstAngle: -10,
     innerSvg: `
-      <!-- Calculator & Geometry Set Square -->
+      <!-- Calculator &amp; Geometry Set Square -->
       <!-- Triangle ruler -->
       <polygon points="-44,28 10,28 -44,-26" fill="#ecc94b" stroke="#1a202c" stroke-width="3.5"/>
       <polygon points="-36,20 -4,20 -36,-12" fill="#ebf8ff" stroke="#1a202c" stroke-width="2"/>
@@ -303,7 +303,7 @@ const SVG_ARTWORK = {
     burstColor: '#d69e2e',
     burstAngle: -8,
     innerSvg: `
-      <!-- Greek Column & Ancient Scroll -->
+      <!-- Greek Column &amp; Ancient Scroll -->
       <g transform="translate(-24, 0)">
         <!-- Capital -->
         <rect x="-14" y="-30" width="28" height="8" rx="2" fill="#edf2f7" stroke="#1a202c" stroke-width="3"/>
@@ -330,7 +330,7 @@ const SVG_ARTWORK = {
     burstColor: '#f687b3',
     burstAngle: 14,
     innerSvg: `
-      <!-- Painter's Palette & Brush -->
+      <!-- Painter's Palette &amp; Brush -->
       <path d="M -34,16 C -48,0 -38,-28 0,-28 C 38,-28 48,-4 36,20 C 26,36 -4,36 -20,24 C -26,18 -28,24 -34,16 Z" fill="#f6ad55" stroke="#1a202c" stroke-width="3.5"/>
       <!-- Thumb hole -->
       <ellipse cx="-16" cy="14" rx="6" ry="8" fill="#fff5f7" stroke="#1a202c" stroke-width="2.5"/>
@@ -354,7 +354,7 @@ const SVG_ARTWORK = {
     burstColor: '#d6bcfa',
     burstAngle: -10,
     innerSvg: `
-      <!-- Treble Clef, Stave & Notes -->
+      <!-- Treble Clef, Stave &amp; Notes -->
       <g transform="translate(-14, 0)">
         <!-- Headphone Band -->
         <path d="M -32,10 A 32,32 0 0,1 32,10" stroke="#1a202c" stroke-width="5" fill="none"/>
@@ -376,7 +376,7 @@ const SVG_ARTWORK = {
     burstColor: '#f6ad55',
     burstAngle: 12,
     innerSvg: `
-      <!-- Basketball, Whistle & Sneakers -->
+      <!-- Basketball, Whistle &amp; Sneakers -->
       <circle cx="-18" cy="2" r="26" fill="#ed8936" stroke="#1a202c" stroke-width="3.5"/>
       <path d="M -44,2 A 26,26 0 0,0 8,2" stroke="#1a202c" stroke-width="2.5" fill="none"/>
       <line x1="-18" y1="-24" x2="-18" y2="28" stroke="#1a202c" stroke-width="2.5"/>
@@ -583,7 +583,7 @@ const SVG_ARTWORK = {
       <path d="M -18,-10 Q -12,-16 -6,-10" stroke="#1a202c" stroke-width="3.5" fill="none"/>
       <path d="M 6,-10 Q 12,-16 18,-10" stroke="#1a202c" stroke-width="3.5" fill="none"/>
       <path d="M -14,6 Q 0,22 14,6 Z" fill="#ffffff" stroke="#1a202c" stroke-width="3"/>
-      <!-- Gold Medal Ribbon & Star -->
+      <!-- Gold Medal Ribbon &amp; Star -->
       <polygon points="-8,24 -16,46 0,38 16,46 8,24" fill="#e53e3e" stroke="#1a202c" stroke-width="2"/>
       <circle cx="0" cy="24" r="14" fill="#ecc94b" stroke="#1a202c" stroke-width="2.5"/>
       <text x="0" y="28" font-size="12" text-anchor="middle">★</text>
@@ -596,7 +596,7 @@ const SVG_ARTWORK = {
     burstColor: '#e2e8f0',
     burstAngle: 8,
     innerSvg: `
-      <!-- Apologetic bowed face & folded hands -->
+      <!-- Apologetic bowed face &amp; folded hands -->
       <circle cx="0" cy="-8" r="32" fill="#edf2f7" stroke="#1a202c" stroke-width="3.5"/>
       <path d="M -14,-14 Q -8,-10 -2,-14" stroke="#1a202c" stroke-width="3.5" fill="none"/>
       <path d="M 2,-14 Q 8,-10 14,-14" stroke="#1a202c" stroke-width="3.5" fill="none"/>
@@ -821,7 +821,7 @@ const SVG_ARTWORK = {
     burstColor: '#f6ad55',
     burstAngle: 10,
     innerSvg: `
-      <!-- Skipping Rope & Dumbbell -->
+      <!-- Skipping Rope &amp; Dumbbell -->
       <path d="M -34,18 C -34,-24 34,-24 34,18" stroke="#e53e3e" stroke-width="4" fill="none"/>
       <!-- Dumbbell -->
       <rect x="-24" y="-3" width="48" height="6" fill="#a0aec0" stroke="#1a202c" stroke-width="2"/>
@@ -836,7 +836,7 @@ const SVG_ARTWORK = {
     burstColor: '#63b3ed',
     burstAngle: -10,
     innerSvg: `
-      <!-- Target & Arrow in Bullseye -->
+      <!-- Target &amp; Arrow in Bullseye -->
       <circle cx="0" cy="0" r="34" fill="#ffffff" stroke="#1a202c" stroke-width="3.5"/>
       <circle cx="0" cy="0" r="24" fill="#e53e3e" stroke="#1a202c" stroke-width="2.5"/>
       <circle cx="0" cy="0" r="14" fill="#ffffff" stroke="#1a202c" stroke-width="2.5"/>
@@ -902,7 +902,7 @@ const SVG_ARTWORK = {
     burstColor: '#63b3ed',
     burstAngle: 10,
     innerSvg: `
-      <!-- Two polite speech bubbles: PLEASE & THANK YOU -->
+      <!-- Two polite speech bubbles: PLEASE &amp; THANK YOU -->
       <g transform="translate(-16, -10)">
         <rect x="-24" y="-18" width="48" height="26" rx="6" fill="#ffffff" stroke="#1a202c" stroke-width="3"/>
         <text x="0" y="-1" font-family="'Outfit', sans-serif" font-size="8" font-weight="900" fill="#2b6cb0" text-anchor="middle">PLEASE</text>
@@ -920,8 +920,8 @@ const SVG_ARTWORK = {
     burstColor: '#feb2b2',
     burstAngle: -10,
     innerSvg: `
-      <!-- Japanese Wooden Step & Pair of Shoes Taken Off -->
-      <!-- Wooden Floor & Step -->
+      <!-- Japanese Wooden Step &amp; Pair of Shoes Taken Off -->
+      <!-- Wooden Floor &amp; Step -->
       <rect x="-46" y="-28" width="92" height="26" fill="#d69e2e" stroke="#1a202c" stroke-width="3"/>
       <rect x="-46" y="-2" width="92" height="34" fill="#a0aec0" stroke="#1a202c" stroke-width="3"/>
       <!-- Pair of Shoes on Lower Step -->
@@ -952,7 +952,8 @@ const SVG_ARTWORK = {
 console.log('=== GENERATING UNIT 2 BESPOKE GRAPHIC NOVEL SVGS ===');
 
 let updatedCount = 0;
-for (const item of vocab) {
+const vocabItems = Array.isArray(vocab) ? vocab : (vocab.vocabulary || []);
+for (const item of vocabItems) {
   const custom = SVG_ARTWORK[item.id];
   if (custom) {
     const padId = String(item.id).padStart(2, '0');
