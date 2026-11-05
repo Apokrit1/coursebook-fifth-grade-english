@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Coursebook · English 5th Grade · Graphic Novel &amp; Real-World Edition</title>
+  <meta name="description" content="Digital companion and interactive coursebook for English 5th Grade (Ε΄ Δημοτικού), featuring structured classroom units, authentic country photographic dossiers, and bilingual vocabulary reference.">
+  <link rel="stylesheet" href="fonts/fonts.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- SVG defs (reused hand-drawn marks) -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="arrow-squiggle" viewBox="0 0 64 24">
+        <path d="M2 12 Q 12 2, 22 12 T 42 12 T 56 12" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+        <path d="M50 6 L58 12 L50 18" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="asterisk" viewBox="0 0 32 32">
+        <path d="M16 2 L16 30 M4 8 L28 24 M4 24 L28 8" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+      </symbol>
+      <symbol id="sparkle" viewBox="0 0 24 24">
+        <path d="M12 1 L13.5 9 L21 10.5 L13.5 12 L12 23 L10.5 12 L3 10.5 L10.5 9 Z" fill="currentColor"/>
+      </symbol>
+      <symbol id="underline-squiggle" viewBox="0 0 200 12" preserveAspectRatio="none">
+        <path d="M2 6 Q 18 0, 34 6 T 66 6 T 98 6 T 130 6 T 162 6 T 194 6" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round"/>
+      </symbol>
+      <symbol id="check" viewBox="0 0 24 24">
+        <path d="M3 12 L10 19 L21 5" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="book-open" viewBox="0 0 64 64">
+        <path d="M4 12 Q 4 8, 8 8 L 30 8 Q 32 8, 32 10 L 32 56 Q 32 58, 30 58 L 8 58 Q 4 58, 4 54 Z" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>
+        <path d="M60 12 Q 60 8, 56 8 L 34 8 Q 32 8, 32 10 L 32 56 Q 32 58, 34 58 L 56 58 Q 60 58, 60 54 Z" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>
+        <line x1="32" y1="10" x2="32" y2="56" stroke="currentColor" stroke-width="1.5" stroke-dasharray="2 3"/>
+      </symbol>
+      <symbol id="translate" viewBox="0 0 24 24">
+        <path d="M3 5 H15 M9 3 V5 M11 5 Q 8 12, 4 14 M12 9 Q 9 13, 5 14 M11 13 L9 16" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M14 14 H21 M17 12 V20 M14 17 Q 18 17, 21 20 M19 14 Q 17 18, 14 20" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <!-- Floating background glyphs -->
+  <div class="bg-glyphs" aria-hidden="true">
+    <svg class="glyph g1"><use href="#asterisk"/></svg>
+    <svg class="glyph g2"><use href="#sparkle"/></svg>
+    <svg class="glyph g3"><use href="#asterisk"/></svg>
+    <svg class="glyph g4"><use href="#sparkle"/></svg>
+    <svg class="glyph g5"><use href="#asterisk"/></svg>
+    <svg class="glyph g6"><use href="#sparkle"/></svg>
+    <svg class="loop l1" viewBox="0 0 200 200">
+      <circle cx="100" cy="100" r="80" stroke="currentColor" stroke-width="2.5" stroke-dasharray="2 8" fill="none"/>
+    </svg>
+    <svg class="loop l2" viewBox="0 0 200 200">
+      <circle cx="100" cy="100" r="70" stroke="currentColor" stroke-width="2" stroke-dasharray="2 8" fill="none"/>
+    </svg>
+  </div>
+
+  <!-- ============================ TOP BAR ============================ -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="../portal.html">
+        <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true">
+          <path d="M8 22 Q 8 8, 20 8 Q 32 8, 32 22 L 32 32 Q 32 36, 28 36 L 12 36 Q 8 36, 8 32 Z"/>
+          <circle cx="14" cy="20" r="2.5"/>
+          <circle cx="26" cy="20" r="2.5"/>
+          <path d="M14 26 Q 20 30, 26 26" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/>
+        </svg>
+        <span class="brand-text">
+          <span class="brand-name">Photodentro<em>·</em>English</span>
+          <span class="brand-meta">Ε΄ Δημοτικού · 5th Grade</span>
+        </span>
+      </a>
+
+      <div class="brand-sub">
+        <span class="brand-sub-prefix">The</span>
+        <span class="brand-sub-name">Coursebook</span>
+        <span class="brand-sub-mod">· Bio-Warm &amp; Graphic Novel Edition</span>
+      </div>
+
+      <nav class="topnav">
+        <a href="#explainer">Curriculum</a>
+        <a href="#visual-system">Visual System</a>
+        <a href="#units">10 Units</a>
+        <a href="unit2/index.html"><strong>Unit 2 Spotlight</strong></a>
+      </nav>
+
+      <div class="topbar-actions" style="display: flex; align-items: center; gap: 10px;">
+        <a class="edition-switch-btn classic" href="../portal.html" title="Switch to Conventional / Classic Portal" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 18px; border: 2.5px solid var(--ink); border-radius: var(--radius-full); font-family: 'JetBrains Mono', monospace; font-size: 0.82rem; font-weight: 700; background: var(--snow); color: var(--ink); box-shadow: 0 4px 0 0 var(--ink); text-decoration: none;">
+          <span>🏛️</span> Classic Portal
+        </a>
+        <a class="topbar-cta" href="unit2/index.html">
+          Launch Unit 2
+          <svg class="arrow"><use href="#arrow-squiggle"/></svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================ HERO ============================ -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <div class="kicker">
+          <svg class="kicker-mark"><use href="#book-open"/></svg>
+          <span>English 5th Grade (Ε΄ Δημοτικού) · Graphic Novel &amp; Bio-Warm Realia</span>
+        </div>
+
+        <h1 class="hero-title">
+          <span class="line">The coursebook.</span>
+          <span class="line">
+            <span class="hl">Modernized.</span>
+            <svg class="hl-underline" viewBox="0 0 600 14" preserveAspectRatio="none">
+              <path d="M4 8 Q 40 2, 80 8 T 160 8 T 240 8 T 320 8 T 400 8 T 480 8 T 580 8" />
+            </svg>
+          </span>
+        </h1>
+
+        <p class="hero-lede">
+          Structured digital coursebook companion for the official 5th Grade curriculum — featuring
+          <strong>rich graphic novel scenarios</strong> for classroom life, sports stars, and school newspapers,
+          alongside <strong>bilingual vocabulary references</strong> with dual-voice neural audio.
+        </p>
+
+        <div class="hero-ctas">
+          <a class="cta primary" href="unit2/index.html">
+            <span>Launch Unit 2 Coursebook</span>
+            <svg class="arrow"><use href="#arrow-squiggle"/></svg>
+          </a>
+          <a class="cta ghost" href="unit2/companion.html">
+            <span>Open Unit 2 Companion</span>
+          </a>
+          <a class="cta ghost" href="#units">
+            <span>Browse all 10 units</span>
+          </a>
+        </div>
+
+        <div class="hero-meta">
+          <span class="meta-pill sage"><strong>10</strong> Complete Units</span>
+          <span class="meta-pill clay"><strong>Unit 2</strong> Live &amp; Modernized</span>
+          <span class="meta-pill mustard"><strong>Dual-Engine</strong> Neural Audio</span>
+          <span class="meta-pill blush"><strong>CEFR A1</strong> Calibrated</span>
+        </div>
+      </div>
+
+      <div class="hero-art">
+        <div class="comic-hero-panel">
+          <div class="comic-caption-bar">
+            <span class="comic-badge">FEATURED UNIT 2 · WEST WIMBLEDON</span>
+            <span class="comic-style-tag">INK &amp; BIO-WARM</span>
+          </div>
+          <div class="comic-hero-img-wrap" style="background:#FFF4C2; display:flex; align-items:center; justify-content:center; padding: 20px;">
+            <img src="../unit2/assets/images_v2/school_newspaper.svg"
+                 alt="Graphic novel style illustration of West Wimbledon primary school newspaper with students Mark and Nadine"
+                 style="max-height: 280px; width: auto;"
+                 loading="eager">
+          </div>
+          <div class="comic-dual-strip">
+            <a href="unit2/index.html" class="comic-dual-pill v1-pill">
+              <span class="pill-tag">COURSEBOOK MODULE</span>
+              <strong>Unit 2: School Life</strong>
+              <span class="pill-sub">4 Dossiers · Grammar Lab · Collocations · Writing · Workbook</span>
+            </a>
+            <a href="unit2/companion.html" class="comic-dual-pill v2-pill">
+              <span class="pill-tag">VOCABULARY COMPANION</span>
+              <strong>Unit 2 Bilingual Companion</strong>
+              <span class="pill-sub">72 Lexical Items · 6 Study Modes · Audio &amp; Quizzes</span>
+            </a>
+          </div>
+        </div>
+        <svg class="art-sparkle s1"><use href="#sparkle"/></svg>
+        <svg class="art-sparkle s2"><use href="#sparkle"/></svg>
+        <svg class="art-asterisk a1"><use href="#asterisk"/></svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ TWO-TRACK VISUAL SYSTEM ============================ -->
+  <section class="visual-system-section" id="visual-system">
+    <div class="section-inner">
+      <div class="visual-system-banner">
+        <div class="vs-card graphic-track">
+          <div class="vs-track-header">
+            <span class="thing-tag">TRACK A · GRAPHIC NOVEL SCENES</span>
+            <span class="vs-age-badge">Target: 5th Grade (Ages 10–11)</span>
+          </div>
+          <h3>Expressive Inked Line Art for Classroom &amp; Sports</h3>
+          <p>
+            School dialogues, newspaper publishing, basketball star interviews, and world morning breakfasts use a dynamic middle-grade graphic novel aesthetic with cel-shaded Bio-Warm 2026 colors.
+          </p>
+          <div class="vs-sample-row">
+            <figure class="vs-mini-fig">
+              <img src="../unit2/assets/images_v2/school_life.svg" alt="Students in classroom and library" loading="lazy">
+              <figcaption>School Life at West Wimbledon</figcaption>
+            </figure>
+            <figure class="vs-mini-fig">
+              <img src="../unit2/assets/images_v2/sports_habits.svg" alt="Basketball player and sports coach" loading="lazy">
+              <figcaption>Star Athlete Interview</figcaption>
+            </figure>
+          </div>
+        </div>
+
+        <div class="vs-card realia-track">
+          <div class="vs-track-header">
+            <span class="thing-tag clay">TRACK B · WORLD CUSTOMS &amp; REALIA</span>
+            <span class="vs-age-badge">Intercultural Respect &amp; Habits</span>
+          </div>
+          <h3>Morning Breakfasts &amp; International Traditions</h3>
+          <p>
+            Explore diverse international morning customs, traditional breakfasts in England, Japan, and Greece, and everyday polite manners with culturally grounded visual assets.
+          </p>
+          <div class="vs-country-grid">
+            <figure class="vs-country-card">
+              <img src="../unit2/assets/images_v2/world_customs.svg" alt="Breakfast and customs around the world" loading="lazy">
+              <figcaption>
+                <strong>🌍 World Customs</strong>
+                <span>Breakfasts, chopsticks &amp; greetings</span>
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ CURRICULUM STRUCTURE ============================ -->
+  <section class="explainer" id="explainer">
+    <div class="section-inner narrow">
+      <header class="section-head centered">
+        <div class="kicker centered">
+          <svg class="kicker-mark"><use href="#book-open"/></svg>
+          <span>Curriculum Structure</span>
+        </div>
+        <h2 class="section-title">
+          Integrated Coursebook. <em>Bilingual Lexical Companion.</em><br>
+          Clear separation of immersive practice and vocabulary reference.
+        </h2>
+      </header>
+
+      <div class="two-things">
+        <article class="thing-card coursebook">
+          <div class="thing-tag">Interactive Coursebook</div>
+          <h3 class="thing-title">The Coursebook</h3>
+          <p class="thing-desc">
+            The full English 5th Grade syllabus — every lesson, every reading dossier,
+            inductive grammar lab, collocations puzzle, writing workshop, and the full workbook. Taught in English.
+          </p>
+          <ul class="thing-list">
+            <li><svg class="bullet"><use href="#check"/></svg> Every lesson from the official 5th Grade pupil book</li>
+            <li><svg class="bullet"><use href="#check"/></svg> Middle-grade graphic novel scenes &amp; authentic dialogues</li>
+            <li><svg class="bullet"><use href="#check"/></svg> Printable A4 worksheet packs &amp; self-check keys</li>
+            <li><svg class="bullet"><use href="#check"/></svg> Offline neural audio &amp; interactive scripts</li>
+            <li><svg class="bullet"><use href="#check"/></svg> 100% in English — for full classroom immersion</li>
+          </ul>
+          <a href="unit2/index.html" class="thing-cta paper">
+            <span>Explore Unit 2 Coursebook</span>
+            <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+          </a>
+        </article>
+
+        <div class="thing-plus" aria-hidden="true">
+          <svg viewBox="0 0 40 40">
+            <circle cx="20" cy="20" r="18" fill="var(--cream)" stroke="var(--ink)" stroke-width="2" stroke-dasharray="2 4"/>
+            <text x="20" y="27" text-anchor="middle" font-family="Outfit" font-size="22" font-weight="800" fill="var(--coral)">+</text>
+          </svg>
+        </div>
+
+        <article class="thing-card companion">
+          <div class="thing-tag clay">Vocabulary Companion</div>
+          <h3 class="thing-title">The Companion</h3>
+          <p class="thing-desc">
+            A targeted lexical support module paired with each unit. Provides interactive flashcards, audio pronunciation, and vocabulary
+            reinforcement activities — creating a direct bilingual bridge between target English terminology and Greek lexical equivalents.
+          </p>
+          <ul class="thing-list">
+            <li><svg class="bullet clay"><use href="#check"/></svg> Vocabulary flashcards &amp; lexical drills</li>
+            <li><svg class="bullet clay"><use href="#check"/></svg> Greek translations, example sentences &amp; audio</li>
+            <li><svg class="bullet clay"><use href="#check"/></svg> 4-option multiple choice listening &amp; definition quizzes</li>
+            <li><svg class="bullet clay"><use href="#check"/></svg> Structured bilingual lexical reference</li>
+          </ul>
+          <a href="unit2/companion.html" class="thing-cta clay">
+            <span>Explore Unit 2 Companion</span>
+            <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+          </a>
+        </article>
+      </div>
+
+      <p class="two-things-foot">
+        Complementary tools. One syllabus. <em>English immersion in the coursebook; structured bilingual reference in the Companion.</em>
+      </p>
+    </div>
+  </section>
+
+  <!-- ============================ FILTER + UNITS ============================ -->
+  <section class="units-section" id="units">
+    <div class="section-inner">
+      <header class="section-head">
+        <div class="kicker">
+          <svg class="kicker-mark"><use href="#asterisk"/></svg>
+          <span>10 units · 5th Grade Curriculum</span>
+        </div>
+        <h2 class="section-title">
+          Every unit. <em>Every lesson.</em><br>
+          With its Companion.
+        </h2>
+        <p class="section-lede">
+          Each unit card pairs the <strong>Coursebook lesson</strong> on the left with its corresponding
+          <strong>Vocabulary Companion</strong> on the right. Filter by term or jump straight into Unit 2.
+        </p>
+      </header>
+
+      <div class="filter-row" role="tablist" aria-label="Filter units">
+        <button class="chip active" data-filter="all">All <span class="chip-count">10</span></button>
+        <button class="chip" data-filter="term-1">Term 1 · Autumn <span class="chip-count">4</span></button>
+        <button class="chip" data-filter="term-2">Term 2 · Winter <span class="chip-count">3</span></button>
+        <button class="chip" data-filter="term-3">Term 3 · Spring <span class="chip-count">3</span></button>
+        <span class="chip-sep"></span>
+        <button class="chip sage" data-filter="live">Unit 2 Live</button>
+      </div>
+
+      <div class="units-grid" id="unitsGrid">
+
+        <!-- ============================ UNIT 2 — FEATURED & LIVE ============================ -->
+        <article class="unit-split featured visible"
+                 data-terms="term-1"
+                 data-flags="live featured">
+          <!-- Coursebook side -->
+          <div class="unit-side v1-side">
+            <div class="side-label">
+              <span class="side-tag v1">Coursebook</span>
+              <span class="side-name">Unit 02 · Modern Graphic Novel Edition</span>
+            </div>
+            <div class="v1-cover" style="background:#FFF4C2; padding:16px; border-radius:12px; margin-bottom:14px; text-align:center;">
+              <img src="../unit2/assets/images_v2/school_newspaper.svg" alt="Unit 2 School Life" style="max-height:160px; margin:0 auto;">
+            </div>
+            <div class="side-body">
+              <div class="unit-meta-strip">
+                <span class="meta-tag term">Term 1</span>
+                <span class="meta-tag pages">PB pp. 25–38 · AB pp. 15–20</span>
+                <span class="meta-tag cefr">CEFR A1</span>
+                <span class="meta-tag" style="background:var(--lime); color:var(--ink); font-weight:800;">LIVE NOW</span>
+              </div>
+              <h3 class="unit-title">School Life &amp; The World Around Us</h3>
+              <p class="unit-summary">
+                West Wimbledon's school newspaper, classroom life, star basketball player health interview, and global breakfast customs. Adverbs of frequency, daily routines, and prepositions of time.
+              </p>
+              <div class="lesson-chips">
+                <span class="lesson-chip">Lesson 1: School Newspaper</span>
+                <span class="lesson-chip">Lesson 2: Star Athlete</span>
+                <span class="lesson-chip">Lesson 3: World Breakfasts</span>
+              </div>
+              <div class="side-actions">
+                <a class="action-btn v1-btn" href="unit2/index.html">
+                  <span>Open Coursebook</span>
+                  <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+                </a>
+                <a class="action-btn alt-btn" href="../unit2/v2.html" title="Open classic edition">
+                  <span>Classic Edition</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Companion side -->
+          <div class="unit-side v2-side">
+            <div class="side-label">
+              <span class="side-tag v2">Vocabulary Companion</span>
+              <span class="side-name">Bilingual Lexical Layer</span>
+            </div>
+            <div class="side-body">
+              <div class="v2-stat-row">
+                <span class="v2-stat-pill"><strong>72</strong> Target Words</span>
+                <span class="v2-stat-pill"><strong>6</strong> Learning Modes</span>
+                <span class="v2-stat-pill"><strong>2</strong> Neural Voices</span>
+              </div>
+              <h4 class="v2-deck-title">Greek Lexical Bridge</h4>
+              <p class="v2-deck-desc">
+                Interactive word table, flashcards, 4-option listening quizzes, definition challenges, and printable worksheets for school facilities, feelings, health, and customs.
+              </p>
+              <div class="v2-sample-words">
+                <span class="word-pair">canteen ↔ καντίνα</span>
+                <span class="word-pair">invitation ↔ πρόσκληση</span>
+                <span class="word-pair">tired ↔ κουρασμένος</span>
+                <span class="word-pair">custom ↔ έθιμο</span>
+              </div>
+              <div class="side-actions">
+                <a class="action-btn v2-btn" href="unit2/companion.html">
+                  <span>Open Companion</span>
+                  <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+                </a>
+                <a class="action-btn alt-btn" href="../unit2/index.html" title="Open classic vocabulary app">
+                  <span>Classic App</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 1 ============================ -->
+        <article class="unit-split visible"
+                 data-terms="term-1"
+                 data-flags="classic-available">
+          <div class="unit-side v1-side">
+            <div class="side-label">
+              <span class="side-tag v1">Coursebook</span>
+              <span class="side-name">Unit 01 · Standard Companion</span>
+            </div>
+            <div class="side-body">
+              <div class="unit-meta-strip">
+                <span class="meta-tag term">Term 1</span>
+                <span class="meta-tag pages">PB pp. 13–24 · AB pp. 9–14</span>
+                <span class="meta-tag cefr">CEFR A1-</span>
+              </div>
+              <h3 class="unit-title">Internet Friends Around Europe</h3>
+              <p class="unit-summary">
+                Kostas in Athens connects with pen-pal Connor in Dublin. Computer parts (screen, mouse, keyboard), hobbies, and Present Simple routines.
+              </p>
+              <div class="side-actions">
+                <a class="action-btn v1-btn" href="../unit1/v2.html">
+                  <span>Open Classic Coursebook</span>
+                  <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label">
+              <span class="side-tag v2">Vocabulary Companion</span>
+              <span class="side-name">Unit 01 Lexicon</span>
+            </div>
+            <div class="side-body">
+              <div class="v2-stat-row">
+                <span class="v2-stat-pill"><strong>56</strong> Target Words</span>
+                <span class="v2-stat-pill"><strong>Audio</strong> Ready</span>
+              </div>
+              <h4 class="v2-deck-title">Greek Lexical Bridge</h4>
+              <p class="v2-deck-desc">Computer hardware, hobbies, and leisure activities.</p>
+              <div class="side-actions">
+                <a class="action-btn v2-btn" href="../unit1/index.html">
+                  <span>Open Classic Companion</span>
+                  <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 3 ============================ -->
+        <article class="unit-split visible" data-terms="term-1" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 03</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 1</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Places &amp; Directions</h3>
+              <p class="unit-summary">City navigation, asking for directions, road safety, and prepositions of place.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 03</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Shops, buildings, pedestrian signs, and directional markers.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 4 ============================ -->
+        <article class="unit-split visible" data-terms="term-1" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 04</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 1</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Christmas Everywhere</h3>
+              <p class="unit-summary">Holiday customs across Europe, festive recipes, songs, and greetings.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 04</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Festive ornaments, winter celebrations, and gift exchange.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 5 ============================ -->
+        <article class="unit-split visible" data-terms="term-2" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 05</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 2</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Ready for Action</h3>
+              <p class="unit-summary">Environmental projects, recycling campaigns, and eco-friendly school clubs.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 05</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Recycling bins, nature habitats, and community action.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 6 ============================ -->
+        <article class="unit-split visible" data-terms="term-2" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 06</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 2</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Good, Better, Best!</h3>
+              <p class="unit-summary">Comparative and superlative adjectives, world records, and animal kingdom facts.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 06</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Physical attributes, size measurements, and comparisons.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 7 ============================ -->
+        <article class="unit-split visible" data-terms="term-2" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 07</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 2</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Going Back in Time</h3>
+              <p class="unit-summary">Ancient civilizations, museums, archaeological findings, and Past Simple regular verbs.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 07</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Historical eras, artefacts, museum exhibitions, and tools.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 8 ============================ -->
+        <article class="unit-split visible" data-terms="term-3" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 08</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 3</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">All About Stories</h3>
+              <p class="unit-summary">Fairy tales, storytelling devices, character types, and Past Simple irregular verbs.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 08</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Characters, plot settings, folklore, and fantasy creatures.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 9 ============================ -->
+        <article class="unit-split visible" data-terms="term-3" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 09</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 3</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Amazing People &amp; Places</h3>
+              <p class="unit-summary">Biographies of courageous figures, mountain gorillas, and world architecture.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 09</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Wildlife protection, architectural landmarks, and travel adventures.</p></div>
+          </div>
+        </article>
+
+        <!-- ============================ UNIT 10 ============================ -->
+        <article class="unit-split visible" data-terms="term-3" data-flags="curriculum">
+          <div class="unit-side v1-side">
+            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Unit 10</span></div>
+            <div class="side-body">
+              <div class="unit-meta-strip"><span class="meta-tag term">Term 3</span><span class="meta-tag cefr">CEFR A1</span></div>
+              <h3 class="unit-title">Summer is Here!</h3>
+              <p class="unit-summary">Airports, international arrivals, Athens tour, myths of Daedalus &amp; Icarus, and holidays.</p>
+            </div>
+          </div>
+          <div class="unit-side v2-side">
+            <div class="side-label"><span class="side-tag v2">Vocabulary Companion</span><span class="side-name">Unit 10</span></div>
+            <div class="side-body"><p class="v2-deck-desc">Airport terminals, vacation plans, and Greek mythological heroes.</p></div>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ FOOTER ============================ -->
+  <footer class="app-footer" style="background:var(--snow); border-top:3px solid var(--ink); padding:40px 20px; margin-top:60px;">
+    <div style="max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:20px;">
+      <div>
+        <strong style="font-family:'Outfit', sans-serif; font-size:1.1rem; color:var(--ink);">Photodentro · English 5th Grade (Ε΄ Δημοτικού)</strong>
+        <p style="font-size:0.88rem; color:var(--ink-soft); margin-top:4px;">Bio-Warm 2026 &amp; Middle-Grade Graphic Novel Edition • Air-Gapped &amp; 100% Offline-First</p>
+      </div>
+      <div style="display:flex; gap:16px;">
+        <a href="../portal.html" style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; font-weight:700; color:var(--coral); text-decoration:none;">Classic Portal ➔</a>
+        <a href="unit2/index.html" style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; font-weight:700; color:var(--lime-deep); text-decoration:none;">Unit 2 Coursebook ➔</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="modern_hub_script.js"></script>
+</body>
+</html>
+
