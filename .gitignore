@@ -8,6 +8,10 @@ Desktop.ini
 .vscode/
 .idea/
 
+# Verification screenshots
+screenshots/
+warm_comic_modern/screenshot_hub_test.png
+
 # Python cache & artifacts
 __pycache__/
 *.py[cod]

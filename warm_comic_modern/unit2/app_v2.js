@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   function resolveAsset(p) {
     if (!p) return p;
     if (typeof p === 'string' && p.startsWith('assets/')) {
-      return '../../unit2/' + p;
+      return `../../unit${unitNum || '2'}/` + p;
     }
     return p;
   }
@@ -59,11 +59,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   async function loadData() {
     if (!/^\d+$/.test(unitNum)) return;
-    if (!window[v2DataKey]) await loadScript(`../../unit2/data/unit${unitNum}_v2_data.js`);
+    if (!window[v2DataKey]) await loadScript(`../../unit${unitNum}/data/unit${unitNum}_v2_data.js`);
     if (window[v2DataKey]) v2Data = window[v2DataKey];
     if (!v2Data) {
       try {
-        const response = await fetch(`../../unit2/data/unit${unitNum}_v2_data.json`);
+        const response = await fetch(`../../unit${unitNum}/data/unit${unitNum}_v2_data.json`);
         if (response.ok) v2Data = await response.json();
       } catch (error) {
         v2Data = {};
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
     const workbookSrc = body.dataset.workbook || '';
     if (workbookSrc) {
-      const src = workbookSrc.includes('/') ? workbookSrc : `../../unit2/data/${workbookSrc}`;
+      const src = workbookSrc.includes('/') ? workbookSrc : `../../unit${unitNum}/data/${workbookSrc}`;
       if (!window[workbookDataKey]) await loadScript(src);
       if (window[workbookDataKey]) workbookData = window[workbookDataKey];
     }
@@ -141,8 +141,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     audioTimer = null;
     audioQueue = [];
     if (currentAudio) {
+      currentAudio.onended = null;
+      currentAudio.onerror = null;
       currentAudio.pause();
-      currentAudio.src = '';
+      currentAudio.removeAttribute('src');
+      currentAudio.load();
       currentAudio = null;
     }
     if (activePlayButton) activePlayButton.classList.remove('playing');

@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   function resolveAsset(p) {
     if (!p) return p;
     if (typeof p === 'string' && p.startsWith('assets/')) {
-      return '../../unit2/' + p;
+      return `../../unit${unitNum || '2'}/` + p;
     }
     return p;
   }
@@ -122,10 +122,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (!/^\d+$/.test(unitNum)) return {};
     const key = `UNIT${unitNum}_V2_DATA`;
     if (window[key]) return window[key];
-    const loaded = await loadScript(`../../unit2/data/unit${unitNum}_v2_data.js`);
+    const loaded = await loadScript(`../../unit${unitNum}/data/unit${unitNum}_v2_data.js`);
     if (loaded && window[key]) return window[key];
     try {
-      const response = await fetch(`../../unit2/data/unit${unitNum}_v2_data.json`);
+      const response = await fetch(`../../unit${unitNum}/data/unit${unitNum}_v2_data.json`);
       if (response.ok) return await response.json();
     } catch (error) {
       return {};
@@ -176,8 +176,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     audioTimer = null;
     audioQueue = [];
     if (currentAudio) {
+      currentAudio.onended = null;
+      currentAudio.onerror = null;
       currentAudio.pause();
-      currentAudio.src = '';
+      currentAudio.removeAttribute('src');
+      currentAudio.load();
       currentAudio = null;
     }
     clearAudioVisuals();

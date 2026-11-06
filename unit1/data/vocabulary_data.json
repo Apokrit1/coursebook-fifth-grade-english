@@ -25,7 +25,7 @@
       "a board with letters and numbers used to write on a computer",
       "a machine that prints words and pictures on paper"
     ],
-    "image": "assets/images/01_computer.svg",
+    "image": "assets/images/01_computer.webp",
     "image_alt": "Graphic novel illustration of computer"
   },
   {
@@ -54,7 +54,7 @@
       "a small device you move with your hand to click on a computer",
       "a device that plays sounds from a computer"
     ],
-    "image": "assets/images/02_screen.svg",
+    "image": "assets/images/02_screen.webp",
     "image_alt": "Graphic novel illustration of screen"
   },
   {
@@ -83,7 +83,7 @@
       "a board with letters and numbers used to write on a computer",
       "a machine that copies pictures into a computer"
     ],
-    "image": "assets/images/03_mouse.svg",
+    "image": "assets/images/03_mouse.webp",
     "image_alt": "Graphic novel illustration of mouse"
   },
   {
@@ -112,7 +112,7 @@
       "a small device you move with your hand to click on a computer",
       "a machine that prints words and pictures on paper"
     ],
-    "image": "assets/images/04_keyboard.svg",
+    "image": "assets/images/04_keyboard.webp",
     "image_alt": "Graphic novel illustration of keyboard"
   },
   {
@@ -141,7 +141,7 @@
       "the glass part of a computer that shows pictures and words",
       "a device that plays sounds from a computer"
     ],
-    "image": "assets/images/05_printer.svg",
+    "image": "assets/images/05_printer.webp",
     "image_alt": "Graphic novel illustration of printer"
   },
   {
@@ -170,7 +170,7 @@
       "the tall box of a desktop computer with the main parts",
       "a board with letters and numbers used to write on a computer"
     ],
-    "image": "assets/images/06_scanner.svg",
+    "image": "assets/images/06_scanner.webp",
     "image_alt": "Graphic novel illustration of scanner"
   },
   {
@@ -199,7 +199,7 @@
       "a board with letters and numbers used to write on a computer",
       "a device that plays sounds from a computer"
     ],
-    "image": "assets/images/07_tower.svg",
+    "image": "assets/images/07_tower.webp",
     "image_alt": "Graphic novel illustration of tower"
   },
   {
@@ -228,7 +228,7 @@
       "a device that plays sounds from a computer",
       "a small device you move with your hand to click on a computer"
     ],
-    "image": "assets/images/08_microphone.svg",
+    "image": "assets/images/08_microphone.webp",
     "image_alt": "Graphic novel illustration of microphone"
   },
   {
@@ -257,7 +257,7 @@
       "a device that plays sounds from a computer",
       "the glass part of a computer that shows pictures and words"
     ],
-    "image": "assets/images/09_headphones.svg",
+    "image": "assets/images/09_headphones.webp",
     "image_alt": "Graphic novel illustration of headphones"
   },
   {
@@ -286,7 +286,7 @@
       "a small tool you speak into to record your voice",
       "a machine that prints words and pictures on paper"
     ],
-    "image": "assets/images/10_speaker.svg",
+    "image": "assets/images/10_speaker.webp",
     "image_alt": "Graphic novel illustration of speaker"
   },
   {
@@ -315,7 +315,7 @@
       "a message sent through the internet from one computer to another",
       "facts or details about a person, place, or thing"
     ],
-    "image": "assets/images/11_internet.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of internet"
   },
   {
@@ -344,7 +344,7 @@
       "a world network that connects computers together",
       "facts or details about a person, place, or thing"
     ],
-    "image": "assets/images/12_email.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of email"
   },
   {
@@ -373,7 +373,7 @@
       "a world network that connects computers together",
       "facts or details about a person, place, or thing"
     ],
-    "image": "assets/images/13_website.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of website"
   },
   {
@@ -402,7 +402,7 @@
       "not connected to the internet",
       "joined to a computer network or the internet"
     ],
-    "image": "assets/images/14_online.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of online"
   },
   {
@@ -431,7 +431,7 @@
       "to get something that someone sends to you",
       "to learn about a subject at school or at home"
     ],
-    "image": "assets/images/15_chat.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of chat"
   },
   {
@@ -460,7 +460,7 @@
       "to play fun interactive games on a screen",
       "to talk with friends using internet messaging"
     ],
-    "image": "assets/images/16_surf_the_net.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of surf the net"
   },
   {
@@ -489,7 +489,7 @@
       "a message sent through the internet from one computer to another",
       "a world network that connects computers together"
     ],
-    "image": "assets/images/17_information.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of information"
   },
   {
@@ -518,7 +518,7 @@
       "to talk in a friendly way with someone online or in person",
       "to learn about a subject at school or at home"
     ],
-    "image": "assets/images/18_send.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of send"
   },
   {
@@ -547,7 +547,7 @@
       "to talk in a friendly way with someone online or in person",
       "to like one thing more than another thing"
     ],
-    "image": "assets/images/19_receive.svg",
+    "image": "assets/images/11_online_comm.webp",
     "image_alt": "Graphic novel illustration of receive"
   },
   {
@@ -576,7 +576,7 @@
       "a physical game like football or tennis that you play",
       "cleaning and cooking that people do at home"
     ],
-    "image": "assets/images/20_free_time.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of free time"
   },
   {
@@ -605,7 +605,7 @@
       "time when you do not have to work or study",
       "a game or problem that tests your clever thinking"
     ],
-    "image": "assets/images/21_hobby.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of hobby"
   },
   {
@@ -634,7 +634,7 @@
       "to dislike something very much",
       "to learn about a subject at school or at home"
     ],
-    "image": "assets/images/22_prefer.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of prefer"
   },
   {
@@ -663,7 +663,7 @@
       "to dislike something very much",
       "to make a picture using liquid colors and a brush"
     ],
-    "image": "assets/images/23_enjoy.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of enjoy"
   },
   {
@@ -692,7 +692,7 @@
       "to like one thing more than another thing",
       "to run slowly for exercise and good health"
     ],
-    "image": "assets/images/24_hate.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of hate"
   },
   {
@@ -721,7 +721,7 @@
       "to run slowly for exercise and good health",
       "to feel happy when you do an activity"
     ],
-    "image": "assets/images/25_draw.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of draw"
   },
   {
@@ -750,7 +750,7 @@
       "an activity you enjoy doing in your free time",
       "cleaning and cooking that people do at home"
     ],
-    "image": "assets/images/26_puzzle.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of puzzle"
   },
   {
@@ -779,7 +779,7 @@
       "a game or problem that tests your clever thinking",
       "time when you do not have to work or study"
     ],
-    "image": "assets/images/27_sport.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of sport"
   },
   {
@@ -808,7 +808,7 @@
       "an activity you enjoy doing in your free time",
       "time when you do not have to work or study"
     ],
-    "image": "assets/images/28_housework.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of housework"
   },
   {
@@ -837,7 +837,7 @@
       "to make a picture using liquid colors and a brush",
       "to feel happy when you do an activity"
     ],
-    "image": "assets/images/29_jog.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of jog"
   },
   {
@@ -866,7 +866,7 @@
       "to run slowly for exercise and good health",
       "to like one thing more than another thing"
     ],
-    "image": "assets/images/30_paint.svg",
+    "image": "assets/images/20_free_time.webp",
     "image_alt": "Graphic novel illustration of paint"
   },
   {
@@ -895,7 +895,7 @@
       "to feel happy when you do an activity",
       "to make pictures with a pen or pencil"
     ],
-    "image": "assets/images/31_study.svg",
+    "image": "assets/images/31_school_study.webp",
     "image_alt": "Graphic novel illustration of study"
   },
   {
@@ -924,7 +924,7 @@
       "cleaning and cooking that people do at home",
       "a school for children aged between 5 and 11"
     ],
-    "image": "assets/images/32_homework.svg",
+    "image": "assets/images/31_school_study.webp",
     "image_alt": "Graphic novel illustration of homework"
   },
   {
@@ -953,7 +953,7 @@
       "a game or problem that tests your clever thinking",
       "a school for children aged between 5 and 11"
     ],
-    "image": "assets/images/33_test.svg",
+    "image": "assets/images/31_school_study.webp",
     "image_alt": "Graphic novel illustration of test"
   },
   {
@@ -982,7 +982,7 @@
       "school work that pupils do at home after class",
       "a school for children aged between 5 and 11"
     ],
-    "image": "assets/images/34_pupil.svg",
+    "image": "assets/images/31_school_study.webp",
     "image_alt": "Graphic novel illustration of pupil"
   },
   {
@@ -1011,7 +1011,7 @@
       "school work that pupils do at home after class",
       "a school for children aged between 5 and 11"
     ],
-    "image": "assets/images/35_student.svg",
+    "image": "assets/images/31_school_study.webp",
     "image_alt": "Graphic novel illustration of student"
   },
   {
@@ -1040,7 +1040,7 @@
       "a set of questions to see how much you know",
       "a child who is learning at a primary school"
     ],
-    "image": "assets/images/36_primary_school.svg",
+    "image": "assets/images/31_school_study.webp",
     "image_alt": "Graphic novel illustration of primary school"
   },
   {
@@ -1069,7 +1069,7 @@
       "the country that a person belongs to by law",
       "a piece of land with water all around it"
     ],
-    "image": "assets/images/37_country.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of country"
   },
   {
@@ -1098,7 +1098,7 @@
       "the total number of people living in a place",
       "the main city where the government of a country works"
     ],
-    "image": "assets/images/38_nationality.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of nationality"
   },
   {
@@ -1127,7 +1127,7 @@
       "a piece of land with water all around it",
       "the total number of people living in a place"
     ],
-    "image": "assets/images/39_capital.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of capital"
   },
   {
@@ -1156,7 +1156,7 @@
       "the main city where the government of a country works",
       "an area of land with its own people and government"
     ],
-    "image": "assets/images/40_flag.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of flag"
   },
   {
@@ -1185,7 +1185,7 @@
       "an area of land with its own people and government",
       "the total number of people living in a place"
     ],
-    "image": "assets/images/41_island.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of island"
   },
   {
@@ -1214,7 +1214,7 @@
       "an area of land with its own people and government",
       "the main city where the government of a country works"
     ],
-    "image": "assets/images/42_population.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of population"
   },
   {
@@ -1243,7 +1243,7 @@
       "to go from one place or country to another",
       "to go to see a person or a famous place"
     ],
-    "image": "assets/images/43_border.svg",
+    "image": "assets/images/37_geography_friends.webp",
     "image_alt": "Graphic novel illustration of border"
   },
   {
@@ -1272,7 +1272,7 @@
       "a historic country in southern Europe where Kostas lives",
       "a large country in western Europe where Nadine lives"
     ],
-    "image": "assets/images/44_great_britain.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Great Britain"
   },
   {
@@ -1301,7 +1301,7 @@
       "a large country in western Europe where Nadine lives",
       "a warm country in southwestern Europe next to Portugal"
     ],
-    "image": "assets/images/45_united_kingdom.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of United Kingdom"
   },
   {
@@ -1330,7 +1330,7 @@
       "a warm country in southwestern Europe next to Portugal",
       "the large island with England, Scotland, and Wales"
     ],
-    "image": "assets/images/46_greece.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Greece"
   },
   {
@@ -1359,7 +1359,7 @@
       "a historic country in southern Europe where Kostas lives",
       "the country of England, Scotland, Wales, and Northern Ireland"
     ],
-    "image": "assets/images/47_france.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of France"
   },
   {
@@ -1388,7 +1388,7 @@
       "a historic country in southern Europe where Kostas lives",
       "the large island with England, Scotland, and Wales"
     ],
-    "image": "assets/images/48_spain.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Spain"
   },
   {
@@ -1417,7 +1417,7 @@
       "relating to Spain, its people, or its language",
       "relating to Germany, its people, or its language"
     ],
-    "image": "assets/images/49_british.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of British"
   },
   {
@@ -1446,7 +1446,7 @@
       "relating to Spain, its people, or its language",
       "relating to France, its people, or its language"
     ],
-    "image": "assets/images/50_greek.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Greek"
   },
   {
@@ -1475,7 +1475,7 @@
       "relating to Germany, its people, or its language",
       "relating to Italy, its people, or its language"
     ],
-    "image": "assets/images/51_french.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of French"
   },
   {
@@ -1504,7 +1504,7 @@
       "relating to Italy, its people, or its language",
       "relating to Greece, its people, or its language"
     ],
-    "image": "assets/images/52_spanish.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Spanish"
   },
   {
@@ -1533,7 +1533,7 @@
       "relating to Spain, its people, or its language",
       "relating to France, its people, or its language"
     ],
-    "image": "assets/images/53_italian.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Italian"
   },
   {
@@ -1562,7 +1562,7 @@
       "relating to Great Britain and its people",
       "relating to Russia, its people, or its language"
     ],
-    "image": "assets/images/54_german.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of German"
   },
   {
@@ -1591,7 +1591,7 @@
       "relating to Great Britain and its people",
       "relating to France, its people, or its language"
     ],
-    "image": "assets/images/55_dutch.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Dutch"
   },
   {
@@ -1620,7 +1620,7 @@
       "relating to Great Britain and its people",
       "relating to Greece, its people, or its language"
     ],
-    "image": "assets/images/56_russian.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of Russian"
   },
   {
@@ -1649,7 +1649,7 @@
       "a sweet-smelling flower that is the symbol of England",
       "an area of land with its own people and government"
     ],
-    "image": "assets/images/57_symbol.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of symbol"
   },
   {
@@ -1678,7 +1678,7 @@
       "a piece of cloth with special colors that represents a country",
       "the main city where the government of a country works"
     ],
-    "image": "assets/images/58_national_flower.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of national flower"
   },
   {
@@ -1707,7 +1707,7 @@
       "a prickly purple plant that is the symbol of Scotland",
       "a small plant with three green leaves that represents Ireland"
     ],
-    "image": "assets/images/59_rose.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of rose"
   },
   {
@@ -1736,7 +1736,7 @@
       "a prickly purple plant that is the symbol of Scotland",
       "a small plant with three green leaves that represents Ireland"
     ],
-    "image": "assets/images/60_daffodil.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of daffodil"
   },
   {
@@ -1765,7 +1765,7 @@
       "a yellow spring flower that is the symbol of Wales",
       "a small plant with three green leaves that represents Ireland"
     ],
-    "image": "assets/images/61_thistle.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of thistle"
   },
   {
@@ -1794,7 +1794,7 @@
       "a yellow spring flower that is the symbol of Wales",
       "a prickly purple plant that is the symbol of Scotland"
     ],
-    "image": "assets/images/62_shamrock.svg",
+    "image": "assets/images/44_british_isles.webp",
     "image_alt": "Graphic novel illustration of shamrock"
   }
 ]

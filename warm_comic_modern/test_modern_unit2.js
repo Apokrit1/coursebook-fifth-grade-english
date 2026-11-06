@@ -35,6 +35,7 @@ const requiredFiles = [
   { p: path.join(MODERN_ROOT, 'modern_hub_script.js'), desc: 'Modern Hub script' },
   { p: path.join(MODERN_ROOT, 'fonts', 'fonts.css'), desc: 'Offline fonts.css' },
   { p: path.join(MODERN_U2, 'index.html'), desc: 'Unit 2 Comic Coursebook index.html' },
+  { p: path.join(MODERN_U2, 'coursebook.html'), desc: 'Unit 2 Comic Coursebook coursebook.html' },
   { p: path.join(MODERN_U2, 'companion.html'), desc: 'Unit 2 Vocabulary Companion companion.html' },
   { p: path.join(MODERN_U2, 'unit2_comic.css'), desc: 'Unit 2 Retro-Comic theme stylesheet' },
   { p: path.join(MODERN_U2, 'app_v2.js'), desc: 'Unit 2 Coursebook logic app_v2.js' },
@@ -124,6 +125,13 @@ vocabData.slice(0, 5).forEach(item => {
   assert(fs.existsSync(defMp3), `Neural def audio exists for item #${item.id}`);
   assert(fs.existsSync(exMp3), `Neural example audio exists for item #${item.id}`);
 });
+
+// 6. Bidirectional switchers in classic files
+console.log('\n--- 6. Bidirectional Switchers in Classic Files ---');
+const classicV2 = fs.readFileSync(path.join(CLASSIC_U2, 'v2.html'), 'utf8');
+const classicIdx = fs.readFileSync(path.join(CLASSIC_U2, 'index.html'), 'utf8');
+assert(classicV2.includes('unit2/index.html'), 'Classic v2.html links to Comic Coursebook');
+assert(classicIdx.includes('unit2/companion.html'), 'Classic index.html links to Comic Companion');
 
 console.log('\n====================================================');
 console.log(`TEST SUMMARY: ${passed} PASSED, ${failed} FAILED`);

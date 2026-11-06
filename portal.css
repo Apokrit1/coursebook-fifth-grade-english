@@ -481,6 +481,19 @@ body {
   background: #bee3f8;
 }
 
+.comic-btn {
+  background: #FF6B47;
+  color: #ffffff !important;
+  border: 1.5px solid #0F172A;
+  box-shadow: 0 3px 0 0 #0F172A;
+}
+
+.comic-btn:hover {
+  transform: translateY(-2px);
+  background: #E85532;
+  box-shadow: 0 5px 0 0 #0F172A;
+}
+
 .action-btn.disabled {
   background: #edf2f7;
   color: #a0aec0;

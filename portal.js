@@ -46,15 +46,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
         <div class="unit-card-actions">
           ${isReady ? `
+            <a href="warm_comic_modern/unit${u.unit}/index.html" class="action-btn comic-btn" id="btn-launch-comic-u${u.unit}">
+              <span>🎨</span> Comic Coursebook
+            </a>
+            <a href="warm_comic_modern/unit${u.unit}/companion.html" class="action-btn comic-btn" style="background:#0F172A;" id="btn-launch-comic-comp-u${u.unit}">
+              <span>📖</span> Comic Companion
+            </a>
             <a href="${u.v2_url}" class="action-btn v2-btn" id="btn-launch-v2-u${u.unit}">
-              <span>📚</span> Student's Book &amp; Workbook
+              <span>📚</span> Classic Book
             </a>
             <a href="${u.v1_url}" class="action-btn v1-btn" id="btn-launch-v1-u${u.unit}">
-              <span>📖</span> Vocabulary Companion
+              <span>📝</span> Classic Vocab
             </a>
             ${u.photodentro_url ? `
               <a href="${u.photodentro_url}" target="_blank" class="action-btn oer-btn" id="btn-launch-oer-u${u.unit}">
-                <span>🏛️</span> Photodentro OER Lab
+                <span>🏛️</span> Photodentro OER
               </a>
             ` : ''}
           ` : `
