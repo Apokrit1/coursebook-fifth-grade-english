@@ -1,0 +1,138 @@
+/**
+ * AUTOMATED VERIFICATION TEST SUITE: RETRO COMIC UNIT 3 (BIO-WARM 2026)
+ * Validates DOM references, asset resolution, offline font delivery, and bidirectional navigation.
+ */
+const fs = require('fs');
+const path = require('path');
+
+const ROOT = path.resolve(__dirname, '..');
+const MODERN_ROOT = path.join(ROOT, 'warm_comic_modern');
+const MODERN_U3 = path.join(MODERN_ROOT, 'unit3');
+const CLASSIC_U3 = path.join(ROOT, 'unit3');
+
+console.log('====================================================');
+console.log('RUNNING BIO-WARM 2026 RETRO-COMIC UNIT 3 TEST SUITE');
+console.log('====================================================\n');
+
+let passed = 0;
+let failed = 0;
+
+function assert(condition, message) {
+  if (condition) {
+    console.log(`[PASS] ${message}`);
+    passed++;
+  } else {
+    console.error(`[FAIL] ${message}`);
+    failed++;
+  }
+}
+
+// 1. Files exist and non-empty
+console.log('--- 1. Structural File Integrity ---');
+const requiredFiles = [
+  { p: path.join(MODERN_ROOT, 'index.html'), desc: 'Modern Graphic Novel Hub index.html' },
+  { p: path.join(MODERN_ROOT, 'style.css'), desc: 'Bio-Warm 2026 Root style.css' },
+  { p: path.join(MODERN_ROOT, 'modern_hub_script.js'), desc: 'Modern Hub script' },
+  { p: path.join(MODERN_ROOT, 'fonts', 'fonts.css'), desc: 'Offline fonts.css' },
+  { p: path.join(MODERN_U3, 'index.html'), desc: 'Unit 3 Comic Coursebook index.html' },
+  { p: path.join(MODERN_U3, 'coursebook.html'), desc: 'Unit 3 Comic Coursebook coursebook.html' },
+  { p: path.join(MODERN_U3, 'companion.html'), desc: 'Unit 3 Vocabulary Companion companion.html' },
+  { p: path.join(MODERN_U3, 'unit3_comic.css'), desc: 'Unit 3 Retro-Comic theme stylesheet' },
+  { p: path.join(MODERN_U3, 'app_v2.js'), desc: 'Unit 3 Coursebook logic app_v2.js' },
+  { p: path.join(MODERN_U3, 'app_companion.js'), desc: 'Unit 3 Companion logic app_companion.js' }
+];
+
+requiredFiles.forEach(f => {
+  const exists = fs.existsSync(f.p);
+  const size = exists ? fs.statSync(f.p).size : 0;
+  assert(exists && size > 50, `${f.desc} exists and non-empty (${size} bytes)`);
+});
+
+// 2. Hub index.html checks
+console.log('\n--- 2. Modern Hub Integrity ---');
+const hubHtml = fs.readFileSync(path.join(MODERN_ROOT, 'index.html'), 'utf8');
+assert(hubHtml.includes('href="unit3/index.html"'), 'Hub links to unit3/index.html (Coursebook)');
+assert(hubHtml.includes('href="unit3/companion.html"'), 'Hub links to unit3/companion.html (Companion)');
+assert(hubHtml.includes('href="../portal.html"'), 'Hub links back to Classic Portal (../portal.html)');
+assert(hubHtml.includes('Places: The Place We Live In') || hubHtml.includes('Places'), 'Hub features Unit 3: Places');
+assert(hubHtml.includes('data-filter="term-1"'), 'Hub has Term 1 filter chip');
+
+// 3. Modern Unit 3 Coursebook (index.html) integrity
+console.log('\n--- 3. Coursebook (index.html) Integrity ---');
+const cbHtml = fs.readFileSync(path.join(MODERN_U3, 'index.html'), 'utf8');
+assert(cbHtml.includes('unit3_comic.css'), 'Coursebook links to unit3_comic.css');
+assert(cbHtml.includes('href="../style.css"'), 'Coursebook links to root style.css');
+assert(cbHtml.includes('href="../fonts/fonts.css"'), 'Coursebook links to fonts.css');
+assert(cbHtml.includes('href="../../unit3/v2.html"'), 'Coursebook preserves switch link to Classic Edition');
+assert(cbHtml.includes('href="companion.html"'), 'Coursebook links to modern companion.html');
+assert(cbHtml.includes('href="../index.html"'), 'Coursebook links back to modern Graphic Novel Hub');
+assert(cbHtml.includes('../../unit3/data/vocabulary_data.js'), 'Coursebook links to classic vocabulary_data.js');
+assert(cbHtml.includes('../../unit3/data/unit3_v2_data.js'), 'Coursebook links to classic unit3_v2_data.js');
+assert(cbHtml.includes('../../unit3/data/unit3_workbook_data.js'), 'Coursebook links to classic unit3_workbook_data.js');
+assert(cbHtml.includes('id="moduleTabs"'), 'Coursebook has moduleTabs navigation bar');
+assert(cbHtml.includes('id="v2Panels"'), 'Coursebook has v2Panels container');
+
+// 4. Modern Unit 3 Companion (companion.html) integrity
+console.log('\n--- 4. Vocabulary Companion (companion.html) Integrity ---');
+const compHtml = fs.readFileSync(path.join(MODERN_U3, 'companion.html'), 'utf8');
+assert(compHtml.includes('unit3_comic.css'), 'Companion links to unit3_comic.css');
+assert(compHtml.includes('href="../style.css"'), 'Companion links to root style.css');
+assert(compHtml.includes('href="../fonts/fonts.css"'), 'Companion links to fonts.css');
+assert(compHtml.includes('href="../../unit3/index.html"'), 'Companion preserves switch link to Classic Companion');
+assert(compHtml.includes('href="index.html"'), 'Companion links to modern Coursebook');
+assert(compHtml.includes('href="../index.html"'), 'Companion links back to Graphic Novel Hub');
+assert(compHtml.includes('id="viewTable"'), 'Companion has Table View panel');
+assert(compHtml.includes('id="viewCards"'), 'Companion has Flashcards panel');
+assert(compHtml.includes('id="viewQuiz"'), 'Companion has Listening Challenge panel');
+assert(compHtml.includes('id="viewDefQuiz"'), 'Companion has Definition Challenge panel');
+assert(compHtml.includes('id="viewPrintable"'), 'Companion has Printable Study Sheet panel');
+assert(compHtml.includes('id="viewTTS"'), 'Companion has TTS Export panel');
+
+// 5. Asset resolution checks (no 404s)
+console.log('\n--- 5. Physical Asset Resolution Check ---');
+const u3Data = JSON.parse(fs.readFileSync(path.join(CLASSIC_U3, 'data', 'unit3_v2_data.json'), 'utf8'));
+
+u3Data.stories.forEach(story => {
+  const imgRel = story.image;
+  const audioRel = story.audio_file;
+  
+  if (imgRel) {
+    const imgPhys = path.resolve(CLASSIC_U3, imgRel);
+    assert(fs.existsSync(imgPhys), `Story image exists: ${story.id} -> ${imgRel}`);
+  }
+  if (audioRel) {
+    const audioPhys = path.resolve(CLASSIC_U3, audioRel);
+    assert(fs.existsSync(audioPhys), `Story audio exists: ${story.id} -> ${audioRel}`);
+  }
+});
+
+// Check dialogue audio
+if (u3Data.grammar_lab && u3Data.grammar_lab.dialogue) {
+  const dialogueAudio = path.resolve(CLASSIC_U3, u3Data.grammar_lab.dialogue.audio_file);
+  assert(fs.existsSync(dialogueAudio), `Dialogue audio exists -> ${u3Data.grammar_lab.dialogue.audio_file}`);
+}
+
+// Check sample vocabulary audio (first 5 words)
+const vocabData = JSON.parse(fs.readFileSync(path.join(CLASSIC_U3, 'data', 'vocabulary_data.json'), 'utf8'));
+vocabData.slice(0, 5).forEach(item => {
+  const pad = String(item.id).padStart(2, '0');
+  const wordMp3 = path.resolve(CLASSIC_U3, 'assets', 'audio_neural', 'words', `${pad}_word.mp3`);
+  const defMp3 = path.resolve(CLASSIC_U3, 'assets', 'audio_neural', 'defs', `${pad}_definition.mp3`);
+  const exMp3 = path.resolve(CLASSIC_U3, 'assets', 'audio_neural', 'examples', `${pad}_example.mp3`);
+  assert(fs.existsSync(wordMp3), `Neural word audio exists for item #${item.id} (${item.word})`);
+  assert(fs.existsSync(defMp3), `Neural def audio exists for item #${item.id}`);
+  assert(fs.existsSync(exMp3), `Neural example audio exists for item #${item.id}`);
+});
+
+// 6. Bidirectional switchers in classic files
+console.log('\n--- 6. Bidirectional Switchers in Classic Files ---');
+const classicV2 = fs.readFileSync(path.join(CLASSIC_U3, 'v2.html'), 'utf8');
+const classicIdx = fs.readFileSync(path.join(CLASSIC_U3, 'index.html'), 'utf8');
+assert(classicV2.includes('unit3/index.html'), 'Classic v2.html links to Comic Coursebook');
+assert(classicIdx.includes('unit3/companion.html'), 'Classic index.html links to Comic Companion');
+
+console.log('\n====================================================');
+console.log(`TEST SUMMARY: ${passed} PASSED, ${failed} FAILED`);
+console.log('====================================================');
+
+process.exit(failed > 0 ? 1 : 0);

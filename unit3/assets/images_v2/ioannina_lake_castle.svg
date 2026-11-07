@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="lakeWater" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="mountainSnow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2E8F0"/>
+      <stop offset="100%" stop-color="#94A3B8"/>
+    </linearGradient>
+    <filter id="comicDrop4" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#0F172A" flood-opacity="1"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="500" fill="#F1F5F9"/>
+  <rect x="20" y="20" width="760" height="460" rx="14" fill="#F0FDFA" stroke="#0F172A" stroke-width="3.5" filter="url(#comicDrop4)"/>
+
+  <!-- Masthead -->
+  <rect x="40" y="36" width="720" height="56" rx="8" fill="#0D9488" stroke="#0F172A" stroke-width="3"/>
+  <text x="400" y="70" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">IOANNINA: LAKE PAMVOTIDA, SNOWY MOUNTAINS &amp; MEDIEVAL CASTLE</text>
+  <text x="400" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#CCFBF1" text-anchor="middle">NORTH-WEST GREECE • 15 CENTURIES OF HISTORY • INHABITED LAKE ISLAND</text>
+
+  <!-- Mountain Range with Snow Caps -->
+  <polygon points="60,240 180,120 300,240" fill="url(#mountainSnow)" stroke="#0F172A" stroke-width="3"/>
+  <polygon points="180,120 150,150 170,160 180,150 195,160 210,150" fill="#FFFFFF" stroke="#0F172A" stroke-width="2"/>
+
+  <polygon points="240,240 380,100 520,240" fill="url(#mountainSnow)" stroke="#0F172A" stroke-width="3"/>
+  <polygon points="380,100 345,135 365,145 380,135 400,150 415,135" fill="#FFFFFF" stroke="#0F172A" stroke-width="2"/>
+
+  <polygon points="460,240 600,130 740,240" fill="url(#mountainSnow)" stroke="#0F172A" stroke-width="3"/>
+  <polygon points="600,130 570,160 590,170 600,160 615,170 630,160" fill="#FFFFFF" stroke="#0F172A" stroke-width="2"/>
+
+  <!-- Lake Pamvotida -->
+  <rect x="50" y="240" width="700" height="210" rx="10" fill="url(#lakeWater)" stroke="#0F172A" stroke-width="3.5"/>
+
+  <!-- Inhabited Island in the Lake -->
+  <g transform="translate(180, 290)">
+    <ellipse cx="60" cy="30" rx="55" ry="24" fill="#15803D" stroke="#0F172A" stroke-width="3"/>
+    <!-- Small Monastery & Village Houses -->
+    <rect x="35" y="10" width="22" height="18" fill="#FEF08A" stroke="#0F172A" stroke-width="2"/>
+    <polygon points="32,10 46,0 60,10" fill="#DC2626" stroke="#0F172A" stroke-width="2"/>
+    <rect x="65" y="14" width="20" height="15" fill="#FFFFFF" stroke="#0F172A" stroke-width="2"/>
+    <polygon points="62,14 75,5 88,14" fill="#DC2626" stroke="#0F172A" stroke-width="2"/>
+    <text x="60" y="46" font-family="'Outfit', sans-serif" font-size="10" font-weight="900" fill="#FFFFFF" text-anchor="middle">ISLAND</text>
+  </g>
+
+  <!-- Medieval Castle Overlooking Lake -->
+  <g transform="translate(460, 230)">
+    <!-- Fortress Walls & Battlements -->
+    <rect x="0" y="20" width="240" height="100" fill="#78716C" stroke="#0F172A" stroke-width="3.5"/>
+    <!-- Battlements -->
+    <rect x="0" y="5" width="25" height="20" fill="#78716C" stroke="#0F172A" stroke-width="2"/>
+    <rect x="40" y="5" width="25" height="20" fill="#78716C" stroke="#0F172A" stroke-width="2"/>
+    <rect x="80" y="5" width="25" height="20" fill="#78716C" stroke="#0F172A" stroke-width="2"/>
+    <rect x="120" y="5" width="25" height="20" fill="#78716C" stroke="#0F172A" stroke-width="2"/>
+    <rect x="160" y="5" width="25" height="20" fill="#78716C" stroke="#0F172A" stroke-width="2"/>
+    <rect x="200" y="5" width="25" height="20" fill="#78716C" stroke="#0F172A" stroke-width="2"/>
+    <!-- Tower Top -->
+    <rect x="85" y="-30" width="55" height="50" fill="#57534E" stroke="#0F172A" stroke-width="3"/>
+    <polygon points="80,-30 112,-55 145,-30" fill="#DC2626" stroke="#0F172A" stroke-width="2.5"/>
+    <text x="112" y="70" font-family="'Outfit', sans-serif" font-size="14" font-weight="900" fill="#FFFFFF" text-anchor="middle">IOANNINA CASTLE</text>
+    <text x="112" y="90" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#FEF08A" text-anchor="middle">15 Centuries of History</text>
+  </g>
+
+  <!-- Traditional Wooden Boat on Lake -->
+  <g transform="translate(340, 360)">
+    <path d="M 0,15 L 60,15 L 48,32 L 12,32 Z" fill="#92400E" stroke="#0F172A" stroke-width="2.5"/>
+    <line x1="28" y1="15" x2="28" y2="-8" stroke="#0F172A" stroke-width="2.5"/>
+    <polygon points="28,-8 52,4 28,12" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.5"/>
+  </g>
+</svg>

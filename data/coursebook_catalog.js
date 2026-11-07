@@ -115,32 +115,34 @@ window.COURSEBOOK_CATALOG = {
       "unit": 3,
       "unit_slug": "unit3",
       "slug": "unit3",
-      "status": "planned",
+      "status": "ready",
       "title": "Places & Communities",
-      "tagline": "Town amenities, city maps, asking for directions, Nafplio heritage, and street safety",
-      "theme": "Community, Architecture, Transport, Road Safety",
-      "cefr_level": "A1",
-      "grammar": "Prepositions of place & movement; Imperatives; Suggestions (Why don't you...?)",
+      "tagline": "The place we live in, town amenities, asking for and giving directions, and Greek city tours",
+      "theme": "Community, Town Amenities, Directions, Greek Geography & Heritage",
+      "cefr_level": "A1-A2",
+      "grammar": "Prepositions of place & movement; Imperatives for directions; Giving suggestions (Why don't you...? / You can...)",
       "protagonists": [
-        "Kostas (Greece)",
-        "Mark (UK)"
+        "Kostas (Athens)",
+        "Mark (London)",
+        "Nikos (Nea Ionia)",
+        "Pierre (Paris)"
       ],
       "cross_curricular": [
         "Urban Geography",
-        "History",
-        "Road Safety"
+        "Greek History & Heritage",
+        "Civic Studies & Community Safety"
       ],
-      "vocabulary_count": 65,
+      "vocabulary_count": 72,
       "lessons": [
         {
           "lesson_id": 1,
           "title": "The place we live in",
-          "pupil_book_pages": "pp. 38–41"
+          "pupil_book_pages": "pp. 37–40"
         },
         {
           "lesson_id": 2,
           "title": "How can I get to...?",
-          "pupil_book_pages": "pp. 42–44"
+          "pupil_book_pages": "pp. 41–44"
         },
         {
           "lesson_id": 3,

@@ -319,7 +319,7 @@
         </h2>
         <p class="section-lede">
           Each unit card pairs the <strong>Coursebook lesson</strong> on the left with its corresponding
-          <strong>Vocabulary Companion</strong> on the right. Filter by term or jump straight into Unit 1 or Unit 2.
+          <strong>Vocabulary Companion</strong> on the right. Filter by term or jump straight into Units 1, 2, or 3.
         </p>
       </header>
 
@@ -329,7 +329,7 @@
         <button class="chip" data-filter="term-2">Term 2 · Winter <span class="chip-count">3</span></button>
         <button class="chip" data-filter="term-3">Term 3 · Spring <span class="chip-count">3</span></button>
         <span class="chip-sep"></span>
-        <button class="chip sage" data-filter="ready">Units 1 &amp; 2 Ready</button>
+        <button class="chip sage" data-filter="ready">Units 1, 2 &amp; 3 Ready</button>
         <button class="chip mustard" data-filter="featured">Flagship Units</button>
       </div>
 
@@ -521,29 +521,93 @@
           </div>
         </article>
 
-        <!-- ============================ UNIT 3 ============================ -->
-        <article class="unit-split visible" data-terms="term-1" data-flags="planned">
+        <!-- ============================ UNIT 3 — FEATURED & READY ============================ -->
+        <article class="unit-split featured visible"
+                 data-terms="term-1"
+                 data-flags="ready featured">
+          <!-- Coursebook side -->
           <div class="unit-side v1-side">
-            <div class="side-label"><span class="side-tag v1">Coursebook</span><span class="side-name">Term 1 · Autumn</span></div>
-            <div class="v1-mini">
-              <span class="v1-num">UNIT 03 · 🏛️</span>
-              <h4 class="v1-mini-title">Places &amp; Communities</h4>
-              <span class="v1-pages">Prepositions of Place &amp; Movement · Imperatives · Road Safety · Nafplio</span>
+            <div class="side-label">
+              <span class="side-tag v1">Coursebook</span>
+              <span class="side-name">Unit 03 · Graphic Novel Edition</span>
             </div>
-            <span class="v1-link mini" style="opacity: 0.8; cursor: default;">
-              In Preparation for Term 1 (Kolovou &amp; Kraniotou)
-            </span>
+            <div class="v1-cover">
+              <img src="imgs/unit3_featured.svg"
+                   alt="Middle-grade graphic novel illustration of London bookstore, Athens Acropolis, and Marseilles public transit."
+                   loading="eager">
+            </div>
+            <div class="unit1-real-strip" aria-label="Reading dossiers in Unit 3">
+              <div class="real-strip-label">READING DOSSIERS &amp; REALIA</div>
+              <div class="real-strip-thumbs">
+                <span class="real-thumb" title="The Place We Live In: London, Athens &amp; Marseilles">
+                  <img src="imgs/the_place_we_live_in.svg" alt="3 European Cities" loading="lazy">
+                  <small>🌍 3 Cities</small>
+                </span>
+                <span class="real-thumb" title="How Can I Get to the Youth Centre? (Nea Ionia)">
+                  <img src="imgs/giving_directions_nea_ionia.svg" alt="Nea Ionia Route Map" loading="lazy">
+                  <small>🧭 Nea Ionia</small>
+                </span>
+                <span class="real-thumb" title="A Tour of Ancient Athens with Pierre">
+                  <img src="imgs/athens_tour_with_pierre.svg" alt="Acropolis walking tour" loading="lazy">
+                  <small>🏛️ Acropolis</small>
+                </span>
+                <span class="real-thumb" title="Ioannina: The Town on the Lake">
+                  <img src="imgs/ioannina_lake_castle.svg" alt="Lake Pamvotida and Castle" loading="lazy">
+                  <small>🏰 Ioannina</small>
+                </span>
+              </div>
+            </div>
+            <div class="v1-meta">
+              <div class="v1-title">Places: The Place We Live In</div>
+              <div class="v1-theme">Pupil's Book pp. 37–48 · Activity Book pp. 19–23 · Directions, Expressing Opinions, Town Geography</div>
+              <div class="v1-btn-row">
+                <a class="v1-link" href="unit3/index.html">
+                  Open Comic Coursebook
+                  <svg class="arrow-sm"><use href="#arrow-squiggle"/></svg>
+                </a>
+                <a class="v1-link secondary" href="../unit3/v2.html" title="Switch to Classic Conventional Edition">
+                  Classic Edition 🏛️
+                </a>
+              </div>
+            </div>
           </div>
-          <div class="unit-fold" aria-hidden="true"><span class="fold-mark"></span></div>
+
+          <!-- Divider with fold -->
+          <div class="unit-fold" aria-hidden="true">
+            <span class="fold-mark"></span>
+          </div>
+
+          <!-- Companion side -->
           <div class="unit-side v2-side">
-            <div class="side-label"><span class="side-tag v2">Companion</span><span class="side-name">The Companion <span class="el-tag">λεξιλόγιο</span></span></div>
-            <div class="vocab-table compact">
-              <div class="vocab-row"><span class="en">town hall</span><span class="arrow-mark">↔</span><span class="el">δημαρχείο</span></div>
-              <div class="vocab-row"><span class="en">crossroads</span><span class="arrow-mark">↔</span><span class="el">σταυροδρόμι</span></div>
-              <div class="vocab-row"><span class="en">pedestrian</span><span class="arrow-mark">↔</span><span class="el">πεζός</span></div>
-              <div class="vocab-row"><span class="en">straight ahead</span><span class="arrow-mark">↔</span><span class="el">ευθεία μπροστά</span></div>
+            <div class="side-label">
+              <span class="side-tag v2">Companion</span>
+              <span class="side-name">Vocabulary Layer <span class="el-tag">λεξιλόγιο</span></span>
             </div>
-            <span class="v2-mini-link" style="opacity: 0.8; cursor: default;">65 Lexical Items · Planned</span>
+            <div class="v2-number-badge">
+              <span class="big-num">03</span>
+              <span class="term-pill">Term 1 · Ready Now</span>
+            </div>
+            <h3 class="v2-title">Vocabulary you'll meet.</h3>
+            <p class="v2-tagline">
+              72 target vocabulary items with natural British studio audio, Greek translations, IPA pronunciation, and 6 study modes.
+            </p>
+
+            <div class="vocab-table">
+              <div class="vocab-row"><span class="en">bookstore</span><span class="arrow-mark">↔</span><span class="el">βιβλιοπωλείο</span></div>
+              <div class="vocab-row"><span class="en">youth centre</span><span class="arrow-mark">↔</span><span class="el">κέντρο νεότητας</span></div>
+              <div class="vocab-row"><span class="en">turn left</span><span class="arrow-mark">↔</span><span class="el">στρίβω αριστερά</span></div>
+              <div class="vocab-row"><span class="en">go straight ahead</span><span class="arrow-mark">↔</span><span class="el">ευθεία μπροστά</span></div>
+              <div class="vocab-row"><span class="en">opposite</span><span class="arrow-mark">↔</span><span class="el">απέναντι από</span></div>
+              <div class="vocab-row"><span class="en">castle</span><span class="arrow-mark">↔</span><span class="el">κάστρο</span></div>
+            </div>
+
+            <div class="v2-actions">
+              <a href="unit3/companion.html" class="cta primary small">
+                <span>Open Vocabulary Companion</span>
+                <svg class="arrow"><use href="#arrow-squiggle"/></svg>
+              </a>
+              <a href="../unit3/index.html" class="cta ghost small" title="Switch to Classic Companion">Classic Companion 🏛️</a>
+            </div>
           </div>
         </article>
 
@@ -798,6 +862,7 @@
         <a href="../portal.html" style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; font-weight:700; color:var(--coral); text-decoration:none;">Classic Portal ➔</a>
         <a href="unit1/index.html" style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; font-weight:700; color:var(--coral-deep); text-decoration:none;">Unit 1 Coursebook ➔</a>
         <a href="unit2/index.html" style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; font-weight:700; color:var(--lime-deep); text-decoration:none;">Unit 2 Coursebook ➔</a>
+        <a href="unit3/index.html" style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; font-weight:700; color:var(--gold-deep); text-decoration:none;">Unit 3 Coursebook ➔</a>
       </div>
     </div>
   </footer>
